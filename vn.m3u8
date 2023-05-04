@@ -1,1 +1,22 @@
-more tests
+#EXTM3U 10
+#DATE 2023-05-04 01:45
+#EXTINF:-1,B4TV (Kênh tổng hợp)_beptv-230504-001.done
+http://103.75.186.169/b4tv/b4tv/5.m3u8
+#EXTINF:-1,B4TV1 (Kênh bóng đá & thể thao)_beptv-230504-002.done
+http://103.75.186.169/b4tv/b4tv/1.m3u8
+#EXTINF:-1,B4TV2 (Kênh phim điện ảnh & series)_beptv-230504-003.done
+http://103.75.186.169/b4tv/b4tv/2.m3u8
+#EXTINF:-1,B4TV3 (Kênh sự kiện)_beptv-230504-004.done
+http://103.75.186.169/b4tv/b4tv/3.m3u8
+#EXTINF:-1,B4TV4 (Kênh âm nhạc & cuộc sống)_beptv-230504-005.done
+http://103.75.186.169/b4tv/b4tv/4.m3u8
+#EXTINF:-1,VTV2 FPT_beptv-230504-010.fail3
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTV5 FPT_beptv-230504-009.fail3
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTV5 TV360_beptv-230504-008.fail3
+http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
+#EXTINF:-1,VTV Cần Thơ FPT_beptv-230504-006.fail3
+https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTV Cần Thơ TV360_beptv-230504-007.done
+http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
