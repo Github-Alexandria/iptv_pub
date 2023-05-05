@@ -1,2 +1,0 @@
-# iptv_pub
-IPTV
