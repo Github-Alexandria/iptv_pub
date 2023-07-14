@@ -1,5 +1,5 @@
-#EXTM3U 6681
-#DATE 2023-07-13 12:58
+#EXTM3U 6737
+#DATE 2023-07-14 01:13
 #EXTINF:0 group-title="Fake-Czech",( +18 ) FAKE TAXI HD-rnb22.udp1.xyz:80@D-230706.done
 http://rnb22.udp1.xyz:80/RtfdGyt18/180423.kdtr19/49234
 #EXTINF:0 group-title="Fake-Czech",*X X X: CZECH STREETS FHD 1080p-iptv-gmeuro.dyndns.tv:25461@D-230620.done
@@ -78,12 +78,6 @@ http://tv.pro-ott.com:25443/live/4354355265/6545879898/273739.ts
 http://tv.pro-ott.com:25443/live/4354355265/6545879898/273889.ts
 #EXTINF:0 group-title="Fake-Czech",AL-XXX CZECH STREETS-bis2023.selfip.co:8000@D-230621.done
 http://bis2023.selfip.co:8000/live/Romascasso/hJ9CAmkkvY/201592.ts
-#EXTINF:0 group-title="Fake-Czech",BOX FAKE HOSPITAL-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/297123
-#EXTINF:0 group-title="Fake-Czech",BOX FAKE HOSTEL-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/297825
-#EXTINF:0 group-title="Fake-Czech",BOX  FAKE HOSTEL-fuzzyunicorns.net:80@D-230712.done
-http://fuzzyunicorns.net:80/live/austin/austin/765192.ts
 #EXTINF:0 group-title="Fake-Czech",CZ:FASHIONTV CZECH&SLOVAK-germanydnsx14.com:8080@D-230619.done
 http://germanydnsx14.com:8080/dvtsntrk/Dvtsntrk8654/97079
 #EXTINF:0 group-title="Fake-Czech",CZ: Sport 1 Czechia-31.42.184.159:2082@D-230630.done
@@ -994,6 +988,8 @@ http://37.49.230.42:8080/1eae94e3/GpDddDC8ddMxhY2n/297123
 http://37.49.230.42:8080/mitrovic/tCTz8ZhyevV2qQYW/297123
 #EXTINF:0 group-title="Fake-Czech",FAKE HOSPITAL-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/Jhgsdf/3f140eff/297123
+#EXTINF:0 group-title="Fake-Czech",FAKE HOSPITAL-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/297123
 #EXTINF:0 group-title="Fake-Czech",FAKE HOSPITAL-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22017
 #EXTINF:0 group-title="Fake-Czech",FAKE HOSPITAL-aca3b.tk:8080@D-230630.done
@@ -1130,6 +1126,8 @@ http://37.49.230.42:8080/mitrovic/tCTz8ZhyevV2qQYW/297825
 http://37.49.230.42:8080/Jhgsdf/3f140eff/297825
 #EXTINF:0 group-title="Fake-Czech",FAKE HOSTEL-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/1eae94e3/GpDddDC8ddMxhY2n/297825
+#EXTINF:0 group-title="Fake-Czech",FAKE HOSTEL-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/297825
 #EXTINF:0 group-title="Fake-Czech",FAKE HOSTEL-a.alcapone1.com:8080@D-230709.done
 http://a.alcapone1.com:8080/Tommy/123456/26332
 #EXTINF:0 group-title="Fake-Czech",FAKE HOSTEL-aca3b.tk:8080@D-230630.done
@@ -1192,6 +1190,8 @@ http://arrepiado.xyz:8080/Pintas6/Pintas6/69911
 http://arrepiado.xyz:8080/v6iZxPxUTD/1sejrGhMtt/69911
 #EXTINF:0 group-title="Fake-Czech",FAKE HOSTEL-fuzzyunicorns.net:80@D-230611.done
 http://fuzzyunicorns.net:80/live/laquitaevans3@gmail.com/laquitaevans3/765192.ts
+#EXTINF:0 group-title="Fake-Czech",FAKE HOSTEL-fuzzyunicorns.net:80@D-230712.done
+http://fuzzyunicorns.net:80/live/austin/austin/765192.ts
 #EXTINF:0 group-title="Fake-Czech",FAKE HOSTEL-gameplay.p2sweb.me:80@D-230712.done
 http://gameplay.p2sweb.me:80/monteiro123/monteiro321/270798
 #EXTINF:0 group-title="Fake-Czech",FAKE HOSTEL-gameplay.p2sweb.me:80@D-230712.done
@@ -1972,6 +1972,12 @@ http://185.182.193.203:25461/teefre78/7886394/69069
 http://185.182.193.203:25461/anaanta/644247/69069
 #EXTINF:0 group-title="Fav3-A",A girl Knows-2678ydr.xyz:80@D-230629.done
 http://2678ydr.xyz:80/live/jestvip12c/jest536d4a/227768.ts
+#EXTINF:0 group-title="Fav3-A",A girl Knows-2678ydr.xyz:80@D-230712.done
+http://2678ydr.xyz:80/live/orhan.avci/15.12.2022/227768.ts
+#EXTINF:0 group-title="Fav3-A",A girl Knows-2678ydr.xyz:80@D-230712.done
+http://2678ydr.xyz:80/live/oyabora/H18xy6FX22/227768.ts
+#EXTINF:0 group-title="Fav3-A",A girl Knows-2678ydr.xyz:80@D-230712.done
+http://2678ydr.xyz:80/live/namik41/24.12..2022/227768.ts
 #EXTINF:0 group-title="Fav3-A",A girl Knows-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/mitrovic/tCTz8ZhyevV2qQYW/297795
 #EXTINF:0 group-title="Fav3-A",A girl Knows-37.49.230.42:8080@D-230610.done
@@ -1982,6 +1988,8 @@ http://37.49.230.42:8080/Jhgsdf/3f140eff/297795
 http://37.49.230.42:8080/atlantis/FTZ7w6KRM2fHZ94s/297795
 #EXTINF:0 group-title="Fav3-A",A girl Knows-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297795
+#EXTINF:0 group-title="Fav3-A",A girl Knows-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/297795
 #EXTINF:0 group-title="Fav3-A",A girl Knows-909.geraldohipo34.com:80@D-230623.done
 http://909.geraldohipo34.com:80/dinch02/15082022bak/164738
 #EXTINF:0 group-title="Fav3-A",A GIRL KNOWS-a.alcapone1.com:8080@D-230709.done
@@ -2064,6 +2072,8 @@ http://sevi.2022spn.net:8080/antoniodream/ew0y7W8SUa/26306
 http://sevi.2022spn.net:8080/AgustinHinojosAlex/pwhSv5eHSjAh/26306
 #EXTINF:0 group-title="Fav3-A",A GIRL KNOWS-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/185083
+#EXTINF:0 group-title="Fav3-A",A girl Knows-test.kocdn.buzz:80@D-230712.done
+http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/164738
 #EXTINF:0 group-title="Fav3-A",A GIRL KNOWS-tr.bosstv.live:8080@D-230709.done
 http://tr.bosstv.live:8080/Benata/35353535/389233
 #EXTINF:0 group-title="Fav3-A",A GIRL KNOWS-tvpanel.one:80@D-230625.done
@@ -2200,7 +2210,7 @@ http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/6171/index.m3u8
 https://nl01.spr24.net/29007/mpegts?token=6NKtDLCbKfZKiQ
 #EXTINF:0 group-title="Fav3-A",Babes HD-omdtxvgd.otttv.pw@D-230703.done
 http://omdtxvgd.otttv.pw/iptv/WTRMLWF6MHW5NG/6171/index.m3u8
-#EXTINF:0 group-title="Fav3-A",Babes HD-ru02.spr24.net@D-230712.fail3
+#EXTINF:0 group-title="Fav3-A",Babes HD-ru02.spr24.net@D-230712.done
 http://ru02.spr24.net/29007/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0 group-title="Fav3-A",Babes HD-tr.bosstv.live:8080@D-230709.done
 http://tr.bosstv.live:8080/Benata/35353535/389007
@@ -2332,6 +2342,8 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/6172/index.m3u8
 http://065c3bf1.edemist.com/iptv/8KPMSZ294HKTBW/6172/index.m3u8
 #EXTINF:0 group-title="Fav3-A",Babes TV HD-0f3f161d.cbilant.com@D-230511.done
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6172/index.m3u8
+#EXTINF:0 group-title="Fav3-A",Babes TV HD-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74853
 #EXTINF:0 group-title="Fav3-A",Babes Tv HD-185.156.74.135:80@D-230607.done.NC
 http://185.156.74.135:80/boris1234/1234boris/1915157.ts
 #EXTINF:0 group-title="Fav3-A",Babes TV HD-185.156.74.135:80@D-230607.done.NC
@@ -2558,26 +2570,14 @@ http://185.246.66.5:8000/channel/n505dd9b5/index.ts?q=dd21b7b5a71f22ac7fa79db1e2
 http://fuska.in:8880/Abeltele/bqdOtPoetgm5kPh/12717
 #EXTINF:0 group-title="Fav3-A",Babes TV HD XXX-lumaca.talumagishop.de:8000@D-230706.done
 http://lumaca.talumagishop.de:8000/grQwL5UtFdQf/mbA3ty82dBxW/72166
+#EXTINF:0 group-title="Fav3-A",Babes TV HD XXX-lumaca.talumagishop.de:8000@D-230714.done
+http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/72166
 #EXTINF:0 group-title="Fav3-A",BABES TV HD XXX FHD-263750967376519046.ot0711.xyz:80@D-230712.done
 http://263750967376519046.ot0711.xyz:80/play/vd08206/2960766689/519046.ts
 #EXTINF:0 group-title="Fav3-A",BABES TV HD XXX FHD-95533130470519046.ot0711.xyz:80@D-230712.done
 http://95533130470519046.ot0711.xyz:80/play/Mm131/68653753/519046.ts
 #EXTINF:0 group-title="Fav3-A",BLACKBOX Tushy-watch-now.xyz:8080@D-230623.done
 http://watch-now.xyz:8080/Radikarls/gazzagazza/251974
-#EXTINF:0 group-title="Fav3-A",box A girl Knows-2678ydr.xyz:80@D-230712.done
-http://2678ydr.xyz:80/live/orhan.avci/15.12.2022/227768.ts
-#EXTINF:0 group-title="Fav3-A",box A girl Knows-2678ydr.xyz:80@D-230712.done
-http://2678ydr.xyz:80/live/oyabora/H18xy6FX22/227768.ts
-#EXTINF:0 group-title="Fav3-A",box A girl Knows-2678ydr.xyz:80@D-230712.done
-http://2678ydr.xyz:80/live/namik41/24.12..2022/227768.ts
-#EXTINF:0 group-title="Fav3-A",box A girl Knows-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/297795
-#EXTINF:0 group-title="Fav3-A",box A girl Knows-test.kocdn.buzz:80@D-230712.done
-http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/164738
-#EXTINF:0 group-title="Fav3-A",BOX DORCEL CLUB-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/298253
-#EXTINF:0 group-title="Fav3-A",BOX SUGAR BABES TV-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/298306
 #EXTINF:0 group-title="Fav3-A",Dorcel Club-024b95ba.edemist.com@D-230604.done
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/6197/index.m3u8
 #EXTINF:0 group-title="Fav3-A",Dorcel Club-065c3bf1.edemist.com@D-230626.done
@@ -2624,6 +2624,8 @@ http://37.49.230.42:8080/atlantis/FTZ7w6KRM2fHZ94s/298253
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298253
 #EXTINF:0 group-title="Fav3-A",DORCEL CLUB-37.49.230.42:8080@D-230709.done
 http://37.49.230.42:8080/atlantis/FTZ7w6KRM2fHZ94s/299147
+#EXTINF:0 group-title="Fav3-A",DORCEL CLUB-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/298253
 #EXTINF:0 group-title="Fav3-A",DORCEL CLUB-37.49.230.42:8080@D-230712.done
 http://37.49.230.42:8080/96e1e190/abb9f8142a/299147
 #EXTINF:0 group-title="Fav3-A",Dorcel Club-92a50216.megogo.xyz@D-230630.done
@@ -2866,7 +2868,7 @@ http://pandar.cc:25461/MgNqv7fp/cxxHRJkbXmkthJt/285842
 http://pandar.plus:25461/BLmdX9hqfqBn5U8/EbkO2zoYqvwf3sE/285842
 #EXTINF:0 group-title="Fav3-A",DORCEL CLUB-pandar.plus:25461@D-230703.done
 http://pandar.plus:25461/RNKLUU9ZFEGGDK5/S8Z4KMXCTBEKVD0/285842
-#EXTINF:0 group-title="Fav3-A",Dorcel Club-ru02.spr24.net@D-230712.fail3
+#EXTINF:0 group-title="Fav3-A",Dorcel Club-ru02.spr24.net@D-230712.done
 http://ru02.spr24.net/29038/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0 group-title="Fav3-A",  Dorcel Club-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/6197/index.m3u8
@@ -3070,6 +3072,8 @@ http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/245/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/5E4YVB88D4FFE4/245/index.m3u8
 #EXTINF:0 group-title="Fav3-A",Dorcel TV HD-hyqzethr.megatv.fun@D-230527.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/245/index.m3u8
+#EXTINF:0 group-title="Fav3-A",Dorcel TV HD-ip.sltv.be:8080@D-230714.done
+http://ip.sltv.be:8080/ZT6sd7wLDT/Px2QGgwVKi/242669
 #EXTINF:0 group-title="Fav3-A",Dorcel TV HD-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/245/index.m3u8
 #EXTINF:0 group-title="Fav3-A",Dorcel TV HD-kv3z7bac.russtv.net@D-230712.done
@@ -3686,6 +3690,8 @@ http://niaip.com:80/6hwcduwc7147duwgc/py6k5ZWsyE/324975
 http://tr.bosstv.live:8080/ustaism/FqcnsBpfKg/388939
 #EXTINF:0 group-title="Fav3-A",Pure Babes HD-tr.bosstv.live:8080@D-230709.done
 http://tr.bosstv.live:8080/Benata/35353535/388939
+#EXTINF:0 group-title="Fav3-A",Pure Babes TV-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74899
 #EXTINF:0 group-title="Fav3-A",Pure Babes TV-34mix.com:8080@D-230610.done
 http://34mix.com:8080/Ahmetcan/MwFgiQUbaO/46587
 #EXTINF:0 group-title="Fav3-A",Pure Babes TV-4k.boxip.org:8080@D-230525.done
@@ -3704,6 +3710,8 @@ http://ss123.pro:80/11223344/11223344/774022
 http://my.amazing-tv.com:8080/umar798342/QEjvXzlqSN/104829
 #EXTINF:0 group-title="Fav3-A",PURE BABES XXX-lumaca.talumagishop.de:8000@D-230706.done
 http://lumaca.talumagishop.de:8000/grQwL5UtFdQf/mbA3ty82dBxW/72244
+#EXTINF:0 group-title="Fav3-A",PURE BABES XXX-lumaca.talumagishop.de:8000@D-230714.done
+http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/72244
 #EXTINF:0 group-title="Fav3-A",RO: Vixen HD-freefly.dyndns.org:26650@D-230623.done
 http://freefly.dyndns.org:26650/pa0408/nkBtzqcg3kN7/84091
 #EXTINF:0 group-title="Fav3-A",RO: Vixen HD-teamzz.net:8080@D-230611.done
@@ -3778,6 +3786,8 @@ http://37.49.230.42:8080/Jhgsdf/3f140eff/298306
 http://37.49.230.42:8080/atlantis/FTZ7w6KRM2fHZ94s/298306
 #EXTINF:0 group-title="Fav3-A",SUGAR BABES TV-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298306
+#EXTINF:0 group-title="Fav3-A",SUGAR BABES TV-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/298306
 #EXTINF:0 group-title="Fav3-A",SUGAR BABES TV-aflaxtv.xyz:8080@D-230516.done
 http://aflaxtv.xyz:8080/multi9159/d1a478bd/298306
 #EXTINF:0 group-title="Fav3-A",SUGAR BABES TV-aflaxtv.xyz:8080@D-230615.done
@@ -4112,6 +4122,8 @@ http://tr.bosstv.live:8080/ustaism/FqcnsBpfKg/321390
 http://tr.bosstv.live:8080/Benata/35353535/321390
 #EXTINF:0 group-title="Fav3-A",Tushy 2 TV FHD-fast.bounceme.net:8080@D-230703.done
 http://fast.bounceme.net:8080/live/nsCDexFcpy/rr7FEd7f9d/6590.ts
+#EXTINF:0 group-title="Fav3-A",Tushy 2 TV FHD-ip.sltv.be:8080@D-230714.done
+http://ip.sltv.be:8080/ZT6sd7wLDT/Px2QGgwVKi/372675
 #EXTINF:0 group-title="Fav3-A",TUSHY 2 TV FHD -line.rs6ott.com:80@D-230705.done
 http://line.rs6ott.com:80/Andreas/Andreas/777725
 #EXTINF:0 group-title="Fav3-A",Tushy 2 TV FHD-srv4.tecnolab.top:8080@D-230619.done
@@ -4234,7 +4246,7 @@ http://nl01.spr24.net/29109/index.m3u8?token=dbXEpQc3KHun3K
 https://nl01.spr24.net/29109/mpegts?token=6NKtDLCbKfZKiQ
 #EXTINF:0 group-title="Fav3-A",Tushy HD-omdtxvgd.otttv.pw@D-230703.done
 http://omdtxvgd.otttv.pw/iptv/WTRMLWF6MHW5NG/6261/index.m3u8
-#EXTINF:0 group-title="Fav3-A",Tushy HD-ru02.spr24.net@D-230712.fail3
+#EXTINF:0 group-title="Fav3-A",Tushy HD-ru02.spr24.net@D-230712.done
 http://ru02.spr24.net/29109/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0 group-title="Fav3-A",  Tushy HD-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/6261/index.m3u8
@@ -4400,7 +4412,7 @@ http://pandar.cc:25461/MgNqv7fp/cxxHRJkbXmkthJt/285921
 http://pandar.plus:25461/BLmdX9hqfqBn5U8/EbkO2zoYqvwf3sE/285921
 #EXTINF:0 group-title="Fav3-A",TUSHYRAW-pandar.plus:25461@D-230703.done
 http://pandar.plus:25461/RNKLUU9ZFEGGDK5/S8Z4KMXCTBEKVD0/285921
-#EXTINF:0 group-title="Fav3-A",TushyRAW-ru02.spr24.net@D-230712.fail3
+#EXTINF:0 group-title="Fav3-A",TushyRAW-ru02.spr24.net@D-230712.done
 http://ru02.spr24.net/29110/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0 group-title="Fav3-A",  TushyRAW-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/6262/index.m3u8
@@ -4716,6 +4728,8 @@ http://aflaxtv.xyz:8080/googleiptvex/8XsdD8qVstQhcjuy/146434
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/146434
 #EXTINF:0 group-title="Fav3-A",VIVID TV-bis2023.selfip.co:8000@D-230621.done
 http://bis2023.selfip.co:8000/live/Romascasso/hJ9CAmkkvY/201583.ts
+#EXTINF:0 group-title="Fav3-A",Vivid TV -force20.myddns.me:25461@D-230714.done
+http://force20.myddns.me:25461/leandrodifino/RccWTxEg2fHn/41691
 #EXTINF:0 group-title="Fav3-A",Vivid TV-friiptv.com:8080@D-230629.done
 http://friiptv.com:8080/49172913712Whatsap/8NKwHnw2dq/21004
 #EXTINF:0 group-title="Fav3-A",VIVID TV-iptv-gmeuro.dyndns.tv:25461@D-230620.done
@@ -4868,6 +4882,8 @@ http://tv.satsolution.tvip.xyz:80/DCerccione/32855D837/16580
 http://tv.satsolution.tvip.xyz:80/bertajazi/3KLdFm9574/16580
 #EXTINF:0 group-title="Fav3-A",Vivid TV Europe (18+) US-tv.satsolution.tvip.xyz:80@D-230624.done
 http://tv.satsolution.tvip.xyz:80/SaGjWqJ8xRT4897/YzMeiN2217/16580
+#EXTINF:0 group-title="Fav3-A",Vivid TV Europe-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74857
 #EXTINF:0 group-title="Fav3-A",Vivid TV Europe-23a3af71.ottolok.net@D-230711.done
 http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/6264/index.m3u8
 #EXTINF:0 group-title="Fav3-A",Vivid TV Europe-2hoqrvgn.akciatv.ru@D-230712.done
@@ -5106,6 +5122,8 @@ http://line.rs6ott.com:80/Andreas/Andreas/773976
 http://ss123.pro:80/shoshana/shoshana/773976
 #EXTINF:0 group-title="Fav3-A",VIVID TV EUROPE CZ-ss123.pro:80@D-230710.done
 http://ss123.pro:80/11223344/11223344/773976
+#EXTINF:0 group-title="Fav3-A",Vivid TV Europe XXX-lumaca.talumagishop.de:8000@D-230714.done
+http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/72174
 #EXTINF:0 group-title="Fav3-A",VIVID TV EUROPE XXX SD-263750967376519082.ot0711.xyz:80@D-230712.done
 http://263750967376519082.ot0711.xyz:80/play/vd08206/2960766689/519082.ts
 #EXTINF:0 group-title="Fav3-A",VIVID TV EUROPE XXX SD-95533130470519082.ot0711.xyz:80@D-230712.done
@@ -5116,6 +5134,8 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/6265/index.m3u8
 http://065c3bf1.edemist.com/iptv/8KPMSZ294HKTBW/6265/index.m3u8
 #EXTINF:0 group-title="Fav3-A",Vixen HD-0f3f161d.cbilant.com@D-230511.done
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6265/index.m3u8
+#EXTINF:0 group-title="Fav3-A",Vixen HD-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74847
 #EXTINF:0 group-title="Fav3-A",Vixen HD-176.9.16.190:8080@D-230705.done
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1421223
 #EXTINF:0 group-title="Fav3-A",Vixen HD-185.182.193.203:25461@D-230425.done.NC
@@ -5348,7 +5368,7 @@ https://nl01.spr24.net/29113/mpegts?token=6NKtDLCbKfZKiQ
 http://omdtxvgd.otttv.pw/iptv/WTRMLWF6MHW5NG/6265/index.m3u8
 #EXTINF:0 group-title="Fav3-A",Vixen HD-onlytvserver.com:8080@D-230625.done
 http://onlytvserver.com:8080/live/ozantuna2/3WPPeYlkjV/74847.ts
-#EXTINF:0 group-title="Fav3-A",Vixen HD-ru02.spr24.net@D-230712.fail3
+#EXTINF:0 group-title="Fav3-A",Vixen HD-ru02.spr24.net@D-230712.done
 http://ru02.spr24.net/29113/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0 group-title="Fav3-A",  Vixen HD-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/6265/index.m3u8
@@ -5438,6 +5458,8 @@ http://germanydnsx14.com:8080/mustafa123/123mustafa/96965
 http://germanydnsx14.com:8080/dvtsntrk/Dvtsntrk8654/96965
 #EXTINF:0 group-title="Fav3-A",VIXEN HD XXX-lumaca.talumagishop.de:8000@D-230706.done
 http://lumaca.talumagishop.de:8000/grQwL5UtFdQf/mbA3ty82dBxW/72245
+#EXTINF:0 group-title="Fav3-A",VIXEN HD XXX-lumaca.talumagishop.de:8000@D-230714.done
+http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/72245
 #EXTINF:0 group-title="Fav3-A",XX Adult Vivid TV Europa-login.lionboxtv.xyz:80@D-230630.done
 http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/21227
 #EXTINF:0 group-title="Fav3-A",XX Adult Vivid TV Europa-login.lionboxtv.xyz:80@D-230630.done
@@ -5494,6 +5516,18 @@ http://panel.atlaspremium5.com:8080/Sinan7559/posof7559/7015
 http://panel.atlaspremium5.com:8080/Sinan7559/posof7559/7001
 #EXTINF:0 group-title="Fav3-B",: HUSTLER HD-oscobar.xyz:8080@D-230627.done
 http://oscobar.xyz:8080/babacankat/27htxCkjZPHn/131707
+#EXTINF:0 group-title="Fav3-B",[+18] PLAYBOY FHD-bror.in:80@D-230714.done
+http://bror.in:80/93552378/58787713/105353
+#EXTINF:0 group-title="Fav3-B",[+18] PLAYBOY FHD²-bror.in:80@D-230714.done
+http://bror.in:80/93552378/58787713/105352
+#EXTINF:0 group-title="Fav3-B",[+18] PLAYBOY HD-bror.in:80@D-230714.done
+http://bror.in:80/93552378/58787713/105306
+#EXTINF:0 group-title="Fav3-B",[+18] PLAYBOY SD-bror.in:80@D-230714.done
+http://bror.in:80/93552378/58787713/105350
+#EXTINF:0 group-title="Fav3-B",[+18] PLAYBOY SD²-bror.in:80@D-230714.done
+http://bror.in:80/93552378/58787713/105349
+#EXTINF:0 group-title="Fav3-B",[+18] PRIVATE HD-bror.in:80@D-230714.done
+http://bror.in:80/93552378/58787713/105324
 #EXTINF:0 group-title="Fav3-B",[XXX] Hustler HD-176.9.16.190:8080@D-230705.done
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1421153
 #EXTINF:0 group-title="Fav3-B",[XXX] HUSTLER HD-live.oldtvline.com:23000@D-230627.done
@@ -5788,6 +5822,8 @@ http://31.42.185.216:8000/GregorioS/Santos52/156769
 http://allstar.is-by.us:25461/Antoniogarri9/hjCJ2PLtNB/427
 #EXTINF:0 group-title="Fav3-B",Blue Hustler HD-bestsave.ltd:80@D-230709.done
 http://bestsave.ltd:80/live/5544332211/1122334455/200127.ts
+#EXTINF:0 group-title="Fav3-B",Blue Hustler HD-ip.sltv.be:8080@D-230714.done
+http://ip.sltv.be:8080/ZT6sd7wLDT/Px2QGgwVKi/178768
 #EXTINF:0 group-title="Fav3-B",BLUE HUSTLER HD-line.rs6ott.com:80@D-230705.done
 http://line.rs6ott.com:80/Andreas/Andreas/774010
 #EXTINF:0 group-title="Fav3-B",Blue Hustler HD-srv4.tecnolab.top:8080@D-230619.done
@@ -5834,16 +5870,12 @@ http://23.227.132.58:25461/Jamie/Holets/47683
 http://23.227.132.58:25461/walterufen/nascar2022/47683
 #EXTINF:0 group-title="Fav3-B",Blue Hustler HD XXX-lumaca.talumagishop.de:8000@D-230706.done
 http://lumaca.talumagishop.de:8000/grQwL5UtFdQf/mbA3ty82dBxW/72201
+#EXTINF:0 group-title="Fav3-B",Blue Hustler HD XXX-lumaca.talumagishop.de:8000@D-230714.done
+http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/72201
 #EXTINF:0 group-title="Fav3-B",BLUE HUSTLER HD XXX SD-263750967376538704.ot0711.xyz:80@D-230712.done
 http://263750967376538704.ot0711.xyz:80/play/vd08206/2960766689/538704.ts
 #EXTINF:0 group-title="Fav3-B",BLUE HUSTLER HD XXX SD-95533130470538704.ot0711.xyz:80@D-230712.done
 http://95533130470538704.ot0711.xyz:80/play/Mm131/68653753/538704.ts
-#EXTINF:0 group-title="Fav3-B",BOX EXXXTRA SMALL-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/297119
-#EXTINF:0 group-title="Fav3-B",BOX PRIVATE-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/297794
-#EXTINF:0 group-title="Fav3-B",BOX PRIVATE SOCIETY-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/299157
 #EXTINF:0 group-title="Fav3-B",BR  Playboy FHD-85.114.138.88:2052@D-230706.done
 http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/195879
 #EXTINF:0 group-title="Fav3-B",BR  Playboy FHD-live.iptv.tube:22461@D-230620.done
@@ -6002,6 +6034,8 @@ http://37.49.230.42:8080/mitrovic/tCTz8ZhyevV2qQYW/297119
 http://37.49.230.42:8080/Jhgsdf/3f140eff/297119
 #EXTINF:0 group-title="Fav3-B",EXXXTRA SMALL-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/1eae94e3/GpDddDC8ddMxhY2n/297119
+#EXTINF:0 group-title="Fav3-B",EXXXTRA SMALL-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/297119
 #EXTINF:0 group-title="Fav3-B",EXXXTRA SMALL-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/Jaycode/EXjyXx56pG/22012
 #EXTINF:0 group-title="Fav3-B",EXXXTRA SMALL-aca3b.tk:8080@D-230630.done
@@ -6298,6 +6332,8 @@ http://watch-myjokertv.xyz:8080/9634813270/4825633907/385220
 http://watch-myjokertv.xyz:8080/MaricelyMendez/G4zSkBwNqH/385220
 #EXTINF:0 group-title="Fav3-B",Hustler HD (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/9602348416/9024783325/385220
+#EXTINF:0 group-title="Fav3-B",Hustler HD-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74841
 #EXTINF:0 group-title="Fav3-B",Hustler HD-176.9.16.190:8080@D-230705.done
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1421203
 #EXTINF:0 group-title="Fav3-B",HUSTLER HD-185.156.74.135:80@D-230607.done.NC
@@ -6398,12 +6434,16 @@ http://chtv.life:8080/Avni/LXcHfK7C72/388931
 http://fanatik77.xyz:80/idriss/vMK3BVNTAP/164694
 #EXTINF:0 group-title="Fav3-B",HUSTLER HD-firsttv.xyz:8080@D-230607.done
 http://firsttv.xyz:8080/cem069/EZRpR2eRYdFp/148962
+#EXTINF:0 group-title="Fav3-B",HUSTLER HD-force20.myddns.me:25461@D-230714.done
+http://force20.myddns.me:25461/leandrodifino/RccWTxEg2fHn/41700
 #EXTINF:0 group-title="Fav3-B",HUSTLER HD-gamsgo.cyou:8080@D-230613.done
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/6028
 #EXTINF:0 group-title="Fav3-B",HUSTLER HD-gamsgo.cyou:8080@D-230709.done
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/6028
 #EXTINF:0 group-title="Fav3-B",HUSTLER HD-icetv.uk:25461@D-230601.done
 http://icetv.uk:25461/live/tomshaw/cdswa12345/150747.ts
+#EXTINF:0 group-title="Fav3-B",Hustler HD-ip.sltv.be:8080@D-230714.done
+http://ip.sltv.be:8080/ZT6sd7wLDT/Px2QGgwVKi/94554
 #EXTINF:0 group-title="Fav3-B",HUSTLER HD-iptv-gmeuro.dyndns.tv:25461@D-230620.done
 http://iptv-gmeuro.dyndns.tv:25461/mc_Cgerla/GCiropass/754
 #EXTINF:0 group-title="Fav3-B",HUSTLER HD-iptv-gmeuro.dyndns.tv:25461@D-230620.done
@@ -6456,6 +6496,8 @@ http://live.maxcimo.com:8000/david27/1569782223586/499
 http://live.tvsmartgo.com:8000/58rRW6Ja7M/H8YefyNDD7/61653.ts
 #EXTINF:0 group-title="Fav3-B",HUSTLER HD-lumaca.talumagishop.de:8000@D-230706.done
 http://lumaca.talumagishop.de:8000/grQwL5UtFdQf/mbA3ty82dBxW/72117
+#EXTINF:0 group-title="Fav3-B",HUSTLER HD-lumaca.talumagishop.de:8000@D-230714.done
+http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/72117
 #EXTINF:0 group-title="Fav3-B",HUSTLER HD-mermerlerkgan.live:8080@D-230605.done
 http://mermerlerkgan.live:8080/live/9qmExekDNH/xM7gTBzZjC/82742.ts
 #EXTINF:0 group-title="Fav3-B",HUSTLER HD-mermerlerkgan.live:8080@D-230707.done
@@ -6950,6 +6992,8 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/527/index.m3u8
 http://065c3bf1.edemist.com/iptv/8KPMSZ294HKTBW/527/index.m3u8
 #EXTINF:0 group-title="Fav3-B",Playboy-0f3f161d.cbilant.com@D-230511.done
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/527/index.m3u8
+#EXTINF:0 group-title="Fav3-B",Playboy-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74885
 #EXTINF:0 group-title="Fav3-B",Playboy-181.189.243.254:8000@D-230527.done
 http://181.189.243.254:8000/play/a0ow/index.m3u8
 #EXTINF:0 group-title="Fav3-B",Playboy-23.227.132.58:25461@D-230621.done
@@ -7474,6 +7518,8 @@ http://tv.kis2.xyz:43201/834LatinD/48uzHQAzyb/67378
 http://tv.kis2.xyz:43201/fleitasnatalia1/3NLB5XUFMI/67378
 #EXTINF:0 group-title="Fav3-B",Playboy Europe (M)(1080)-tv.kis2.xyz:43201@D-230627.done
 http://tv.kis2.xyz:43201/henrypgcia4/TzEKcPjvay/67378
+#EXTINF:0 group-title="Fav3-B",Playboy Europe-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74886
 #EXTINF:0 group-title="Fav3-B",PLAYBOY EUROPE-31.42.185.216:8000@D-230505.done
 http://31.42.185.216:8000/GregorioS/Santos52/4262
 #EXTINF:0 group-title="Fav3-B",Playboy Europe-34mix.com:8080@D-230610.done
@@ -7496,6 +7542,8 @@ http://iptvzeus.com:25461/AXYS3TMCCGRTB2Q/E29M11LLFG9UTZX/94575
 http://line.rs6ott.com:80/Andreas/Andreas/774009
 #EXTINF:0 group-title="Fav3-B",PLAYBOY EUROPE-lumaca.talumagishop.de:8000@D-230706.done
 http://lumaca.talumagishop.de:8000/grQwL5UtFdQf/mbA3ty82dBxW/72118
+#EXTINF:0 group-title="Fav3-B",PLAYBOY EUROPE-lumaca.talumagishop.de:8000@D-230714.done
+http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/72118
 #EXTINF:0 group-title="Fav3-B",PLAYBOY EUROPE-mains.services@D-230623.done.NC
 http://mains.services/live/wR34qMzGj3/6530858/23decbae-d8a1-4ca2-b0a1-7fdba3e39366.m3u
 #EXTINF:0 group-title="Fav3-B",Playboy Europe-onlytvserver.com:8080@D-230625.done
@@ -7540,6 +7588,8 @@ http://line.rs6ott.com:80/Andreas/Andreas/774008
 http://ss123.pro:80/shoshana/shoshana/774008
 #EXTINF:0 group-title="Fav3-B",PLAYBOY EUROPE HD-ss123.pro:80@D-230710.done
 http://ss123.pro:80/11223344/11223344/774008
+#EXTINF:0 group-title="Fav3-B",Playboy Europe UA-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74887
 #EXTINF:0 group-title="Fav3-B",Playboy Europe UA-onlytvserver.com:8080@D-230625.done
 http://onlytvserver.com:8080/live/ozantuna2/3WPPeYlkjV/74887.ts
 #EXTINF:0 group-title="Fav3-B",PLAYBOY FHD*-tntmais.com:80@D-230712.done
@@ -7826,6 +7876,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/147354
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/147354
 #EXTINF:0 group-title="Fav3-B",Playboy FHD-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/645
+#EXTINF:0 group-title="Fav3-B",Playboy FHD-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/645
+#EXTINF:0 group-title="Fav3-B",Playboy FHD-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/645
 #EXTINF:0 group-title="Fav3-B",PLAYBOY FHD-tntmais.com:80@D-230712.done
 http://tntmais.com:80/brunosachetti/8967851/16738
 #EXTINF:0 group-title="Fav3-B",PLAYBOY FHD-tntmais.com:80@D-230712.done
@@ -7858,6 +7912,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/147749
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/147749
 #EXTINF:0 group-title="Fav3-B",Playboy FHD [Alt]-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/81859
+#EXTINF:0 group-title="Fav3-B",Playboy FHD [Alt]-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/81859
+#EXTINF:0 group-title="Fav3-B",Playboy FHD [Alt]-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/81859
 #EXTINF:0 group-title="Fav3-B",PlayBoy FHD H264¹-s.pdsrv.io:80@D-230708.done
 http://s.pdsrv.io:80/Filipegalvao/Lipe453/93302
 #EXTINF:0 group-title="Fav3-B",PlayBoy FHD H264¹-s.pdsrv.io:80@D-230708.done
@@ -8480,6 +8538,10 @@ http://s.pdsrv.io:80/2dyejui4/f7zevv5l/97676
 http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/83286
 #EXTINF:0 group-title="Fav3-B",Playboy HD-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/643
+#EXTINF:0 group-title="Fav3-B",Playboy HD-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/643
+#EXTINF:0 group-title="Fav3-B",Playboy HD-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/643
 #EXTINF:0 group-title="Fav3-B",PLAYBOY HD³-suadns.xyz:80@D-230712.done
 http://suadns.xyz:80/4899854826/5198418569/192394
 #EXTINF:0 group-title="Fav3-B",PLAYBOY HD²-suadns.xyz:80@D-230712.done
@@ -8574,6 +8636,10 @@ http://s.apkwuv.xyz:80/professorj32/pro2387@/147750
 http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/147750
 #EXTINF:0 group-title="Fav3-B",Playboy HD [Alt]-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/81862
+#EXTINF:0 group-title="Fav3-B",Playboy HD [Alt]-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/81862
+#EXTINF:0 group-title="Fav3-B",Playboy HD [Alt]-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/81862
 #EXTINF:0 group-title="Fav3-B",Playboy LA-024b95ba.edemist.com@D-230604.done
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/6280/index.m3u8
 #EXTINF:0 group-title="Fav3-B",Playboy LA-23a3af71.ottolok.net@D-230711.done
@@ -8804,7 +8870,7 @@ http://185.182.193.203:25461/peterrdavis/ZroTkBnJY5/66787
 http://185.182.193.203:25461/teefre78/7886394/66787
 #EXTINF:0 group-title="Fav3-B",PlayboyPlus-185.182.193.203:25461@D-230619.done.NC
 http://185.182.193.203:25461/anaanta/644247/66787
-#EXTINF:0 group-title="Fav3-B",Playboy  Plus-ru02.spr24.net@D-230712.fail3
+#EXTINF:0 group-title="Fav3-B",Playboy  Plus-ru02.spr24.net@D-230712.done
 http://ru02.spr24.net/22414/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0 group-title="Fav3-B",PLAYBOY SD*-tntmais.com:80@D-230712.done
 http://tntmais.com:80/brunosachetti/8967851/10054477
@@ -9206,6 +9272,8 @@ http://37.49.230.42:8080/Jhgsdf/3f140eff/297794
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297794
 #EXTINF:0 group-title="Fav3-B",Private-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/atlantis/FTZ7w6KRM2fHZ94s/297794
+#EXTINF:0 group-title="Fav3-B",PRIVATE-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/297794
 #EXTINF:0 group-title="Fav3-B",PRIVATE-51.222.43.170:8001@D-230611.done
 http://51.222.43.170:8001/Portugal0766/ann4rpMpT66q/309389
 #EXTINF:0 group-title="Fav3-B",PRIVATE-51.222.43.170:8001@D-230621.done
@@ -9366,6 +9434,8 @@ http://kuchini.site:8080/multi6741/ab72059e/297794
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/77310
 #EXTINF:0 group-title="Fav3-B",PRIVATE-lumaca.talumagishop.de:8000@D-230706.done
 http://lumaca.talumagishop.de:8000/grQwL5UtFdQf/mbA3ty82dBxW/72126
+#EXTINF:0 group-title="Fav3-B",PRIVATE-lumaca.talumagishop.de:8000@D-230714.done
+http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/72126
 #EXTINF:0 group-title="Fav3-B", Private-niaip.com:80@D-230315.done
 http://niaip.com:80/6hwcduwc7147duwgc/py6k5ZWsyE/439091
 #EXTINF:0 group-title="Fav3-B",PRIVATE-nocable.cc:8080@D-230511.done
@@ -9676,6 +9746,8 @@ http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/6245/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/6245/index.m3u8
 #EXTINF:0 group-title="Fav3-B",Private HD-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6245/index.m3u8
+#EXTINF:0 group-title="Fav3-B",PRIVATE HD-ip.sltv.be:8080@D-230714.done
+http://ip.sltv.be:8080/ZT6sd7wLDT/Px2QGgwVKi/195794
 #EXTINF:0 group-title="Fav3-B",Private HD-iphighland.co.uk:8080@D-230501.done
 http://iphighland.co.uk:8080/live/will.garnett@hotmail.co.uk/2uMR6yBrVSgL/288455.ts
 #EXTINF:0 group-title="Fav3-B",PRIVATE HD-ipmentv.site:8080@D-230603.done
@@ -9862,6 +9934,8 @@ http://185.182.193.203:25461/peterrdavis/ZroTkBnJY5/69155
 http://185.182.193.203:25461/anaanta/644247/69155
 #EXTINF:0 group-title="Fav3-B",PRIVATE SOCIETY-37.49.230.42:8080@D-230709.done
 http://37.49.230.42:8080/atlantis/FTZ7w6KRM2fHZ94s/299157
+#EXTINF:0 group-title="Fav3-B",PRIVATE SOCIETY-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/299157
 #EXTINF:0 group-title="Fav3-B",PRIVATE SOCIETY-aflaxtv.xyz:8080@D-230704.done
 http://aflaxtv.xyz:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299157
 #EXTINF:0 group-title="Fav3-B",PRIVATE SOCIETY-aflaxtv.xyz:8080@D-230709.done
@@ -9892,6 +9966,8 @@ http://kuchini.site:8080/multi6741/ab72059e/299157
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/172884
 #EXTINF:0 group-title="Fav3-B",PRIVATE SOCIETY-xplatinmedia.com:8080@D-230709.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/163375
+#EXTINF:0 group-title="Fav3-B",Private Spice-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74909
 #EXTINF:0 group-title="Fav3-B",Private Spice-37.49.230.42:8080@D-230712.done
 http://37.49.230.42:8080/96e1e190/abb9f8142a/299148
 #EXTINF:0 group-title="Fav3-B",Private Spice-aflaxtv.xyz:8080@D-230709.done
@@ -10372,6 +10448,8 @@ http://31.42.185.216:8000/GregorioS/Santos52/4263
 http://allstar.is-by.us:25461/Antoniogarri9/hjCJ2PLtNB/423
 #EXTINF:0 group-title="Fav3-B",Private TV HD-ch01.spr24.net@D-230712.done
 https://ch01.spr24.net/19184/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0 group-title="Fav3-B",Private TV HD-force20.myddns.me:25461@D-230714.done
+http://force20.myddns.me:25461/leandrodifino/RccWTxEg2fHn/41694
 #EXTINF:0 group-title="Fav3-B",PRIVATE TV HD-icetv.uk:25461@D-230601.done
 http://icetv.uk:25461/live/tomshaw/cdswa12345/150746.ts
 #EXTINF:0 group-title="Fav3-B",Private TV HD-iptv-gmeuro.dyndns.tv:25461@D-230620.done
@@ -10396,7 +10474,7 @@ http://obshd.tv:25461/stevegombo/jpXtTT88qk/7065
 http://pandar.cc:25461/MgNqv7fp/cxxHRJkbXmkthJt/94534
 #EXTINF:0 group-title="Fav3-B",Private TV HD-ronaldo.tvfor.pro@D-230602.done
 http://ronaldo.tvfor.pro/aCquaRidaT/4zT3EPA0xBxgHik8BFWtydOU
-#EXTINF:0 group-title="Fav3-B",Private TV HD-ru02.spr24.net@D-230712.fail3
+#EXTINF:0 group-title="Fav3-B",Private TV HD-ru02.spr24.net@D-230712.done
 http://ru02.spr24.net/19184/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0 group-title="Fav3-B",Private TV HD-s.only4.tv@D-230712.done
 http://s.only4.tv/5556/video.m3u8?token=9VXj6kWz6R
@@ -10454,6 +10532,8 @@ http://vipchanoen.top:8080/live/VIP0167168517643003/61685176430/24718.ts
 http://vipgature.top:8080/live/VIP0180168537735303/31685377353/24718.ts
 #EXTINF:0 group-title="Fav3-B",Prıvate TV-bestsave.ltd:80@D-230709.done
 http://bestsave.ltd:80/live/5544332211/1122334455/200073.ts
+#EXTINF:0 group-title="Fav3-B",Prıvate TV HD-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74843
 #EXTINF:0 group-title="Fav3-B",Prıvate TV HD-34mix.com:8080@D-230610.done
 http://34mix.com:8080/Ahmetcan/MwFgiQUbaO/46531
 #EXTINF:0 group-title="Fav3-B",Prıvate TV HD-4k.boxip.org:8080@D-230525.done
@@ -10524,6 +10604,8 @@ http://line.rs6ott.com:80/Andreas/Andreas/128829
 http://ss123.pro:80/shoshana/shoshana/128829
 #EXTINF:0 group-title="Fav3-B",SUPER ONE (H)-ss123.pro:80@D-230710.done
 http://ss123.pro:80/11223344/11223344/128829
+#EXTINF:0 group-title="Fav3-B",SuperOne-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74940
 #EXTINF:0 group-title="Fav3-B",SuperOne-37.49.230.42:8080@D-230709.done
 http://37.49.230.42:8080/atlantis/FTZ7w6KRM2fHZ94s/3286
 #EXTINF:0 group-title="Fav3-B",SuperOne-37.49.230.42:8080@D-230712.done
@@ -10544,6 +10626,8 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3286
 http://fuzzyunicorns.net:80/live/austin/austin/765290.ts
 #EXTINF:0 group-title="Fav3-B",SuperOne-gamsgo.cyou:8080@D-230709.done
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3286
+#EXTINF:0 group-title="Fav3-B",SuperOne-ip.sltv.be:8080@D-230714.done
+http://ip.sltv.be:8080/ZT6sd7wLDT/Px2QGgwVKi/224307
 #EXTINF:0 group-title="Fav3-B",SuperOne-iptvtree.net:8080@D-230709.done
 http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3286
 #EXTINF:0 group-title="Fav3-B",SuperOne-iptvtree.net:8080@D-230711.done
@@ -10608,6 +10692,8 @@ http://line.rs6ott.com:80/Andreas/Andreas/207934
 http://ss123.pro:80/shoshana/shoshana/207934
 #EXTINF:0 group-title="Fav3-B",SUPER ONE HD (H)-ss123.pro:80@D-230710.done
 http://ss123.pro:80/11223344/11223344/207934
+#EXTINF:0 group-title="Fav3-B",Super One HD-104.244.73.237:8080@D-230714.done
+http://104.244.73.237:8080/ahmetsubasi/6266977291/74852
 #EXTINF:0 group-title="Fav3-B",SuperOne HD-23a3af71.ottolok.net@D-230711.done
 http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/6298/index.m3u8
 #EXTINF:0 group-title="Fav3-B",Super one HD-23a3af71.ottolok.net@D-230711.done
@@ -10774,7 +10860,7 @@ http://line.rs6ott.com:80/Andreas/Andreas/773970
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/2974
 #EXTINF:0 group-title="Fav3-B",SuperONE HD-nl01.spr24.net@D-230712.done
 https://nl01.spr24.net/22387/mpegts?token=6NKtDLCbKfZKiQ
-#EXTINF:0 group-title="Fav3-B",SuperONE HD-ru02.spr24.net@D-230712.fail3
+#EXTINF:0 group-title="Fav3-B",SuperONE HD-ru02.spr24.net@D-230712.done
 http://ru02.spr24.net/22387/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0 group-title="Fav3-B",  Super one HD-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/12121/index.m3u8
@@ -10826,12 +10912,16 @@ http://d09c8a6a.akadatel.com/iptv/4NW5K63H2NAL6S/7001/index.m3u8
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/7001/index.m3u8
 #EXTINF:0 group-title="Fav3-B",Super One HD XXX-lumaca.talumagishop.de:8000@D-230706.done
 http://lumaca.talumagishop.de:8000/grQwL5UtFdQf/mbA3ty82dBxW/72163
+#EXTINF:0 group-title="Fav3-B",Super One HD XXX-lumaca.talumagishop.de:8000@D-230714.done
+http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/72163
 #EXTINF:0 group-title="Fav3-B",SUPER ONE HD XXX FHD-263750967376519436.ot0711.xyz:80@D-230712.done
 http://263750967376519436.ot0711.xyz:80/play/vd08206/2960766689/519436.ts
 #EXTINF:0 group-title="Fav3-B",SUPER ONE HD XXX FHD-95533130470519436.ot0711.xyz:80@D-230712.done
 http://95533130470519436.ot0711.xyz:80/play/Mm131/68653753/519436.ts
 #EXTINF:0 group-title="Fav3-B",SUPER ONE XXX-lumaca.talumagishop.de:8000@D-230706.done
 http://lumaca.talumagishop.de:8000/grQwL5UtFdQf/mbA3ty82dBxW/72157
+#EXTINF:0 group-title="Fav3-B",SUPER ONE XXX-lumaca.talumagishop.de:8000@D-230714.done
+http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/72157
 #EXTINF:0 group-title="Fav3-B",SUPER ONE XXX FHD-263750967376519437.ot0711.xyz:80@D-230712.done
 http://263750967376519437.ot0711.xyz:80/play/vd08206/2960766689/519437.ts
 #EXTINF:0 group-title="Fav3-B",SUPER ONE XXX FHD-95533130470519437.ot0711.xyz:80@D-230712.done
@@ -11206,6 +11296,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/151528
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/151528
 #EXTINF:0 group-title="Fav3-C",4K  Holed 01-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/748
+#EXTINF:0 group-title="Fav3-C",4K  Holed 01-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/748
+#EXTINF:0 group-title="Fav3-C",4K  Holed 01-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/748
 #EXTINF:0 group-title="Fav3-C",4K  Holed 02-op.cdloop.eu:80@D-230530.done
 http://op.cdloop.eu:80/17996537555eder2/nf3931a2e35c/749
 #EXTINF:0 group-title="Fav3-C",4K  Holed 02-op.cdloop.eu:80@D-230624.done
@@ -11222,6 +11316,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/151675
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/151675
 #EXTINF:0 group-title="Fav3-C",4K  Holed 02-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/749
+#EXTINF:0 group-title="Fav3-C",4K  Holed 02-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/749
+#EXTINF:0 group-title="Fav3-C",4K  Holed 02-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/749
 #EXTINF:0 group-title="Fav3-C",4K  Holed 03-op.cdloop.eu:80@D-230530.done
 http://op.cdloop.eu:80/17996537555eder2/nf3931a2e35c/750
 #EXTINF:0 group-title="Fav3-C",4K  Holed 03-op.cdloop.eu:80@D-230624.done
@@ -11238,6 +11336,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/151676
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/151676
 #EXTINF:0 group-title="Fav3-C",4K  Holed 03-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/750
+#EXTINF:0 group-title="Fav3-C",4K  Holed 03-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/750
+#EXTINF:0 group-title="Fav3-C",4K  Holed 03-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/750
 #EXTINF:0 group-title="Fav3-C",4K  Holed 04-op.cdloop.eu:80@D-230530.done
 http://op.cdloop.eu:80/17996537555eder2/nf3931a2e35c/751
 #EXTINF:0 group-title="Fav3-C",4K  Holed 04-op.cdloop.eu:80@D-230624.done
@@ -11254,6 +11356,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/151677
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/151677
 #EXTINF:0 group-title="Fav3-C",4K  Holed 04-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/751
+#EXTINF:0 group-title="Fav3-C",4K  Holed 04-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/751
+#EXTINF:0 group-title="Fav3-C",4K  Holed 04-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/751
 #EXTINF:0 group-title="Fav3-C",4K  Holed 05-op.cdloop.eu:80@D-230530.done
 http://op.cdloop.eu:80/17996537555eder2/nf3931a2e35c/752
 #EXTINF:0 group-title="Fav3-C",4K  Holed 05-op.cdloop.eu:80@D-230624.done
@@ -11270,6 +11376,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/151678
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/151678
 #EXTINF:0 group-title="Fav3-C",4K  Holed 05-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/752
+#EXTINF:0 group-title="Fav3-C",4K  Holed 05-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/752
+#EXTINF:0 group-title="Fav3-C",4K  Holed 05-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/752
 #EXTINF:0 group-title="Fav3-C",4K  Holed 06-op.cdloop.eu:80@D-230530.done
 http://op.cdloop.eu:80/17996537555eder2/nf3931a2e35c/753
 #EXTINF:0 group-title="Fav3-C",4K  Holed 06-op.cdloop.eu:80@D-230624.done
@@ -11286,6 +11396,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/151873
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/151873
 #EXTINF:0 group-title="Fav3-C",4K  Holed 06-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/753
+#EXTINF:0 group-title="Fav3-C",4K  Holed 06-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/753
+#EXTINF:0 group-title="Fav3-C",4K  Holed 06-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/753
 #EXTINF:0 group-title="Fav3-C",4K  Holed 07-op.cdloop.eu:80@D-230530.done
 http://op.cdloop.eu:80/17996537555eder2/nf3931a2e35c/754
 #EXTINF:0 group-title="Fav3-C",4K  Holed 07-op.cdloop.eu:80@D-230624.done
@@ -11302,6 +11416,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/151874
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/151874
 #EXTINF:0 group-title="Fav3-C",4K  Holed 07-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/754
+#EXTINF:0 group-title="Fav3-C",4K  Holed 07-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/754
+#EXTINF:0 group-title="Fav3-C",4K  Holed 07-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/754
 #EXTINF:0 group-title="Fav3-C",4K  Holed 08-op.cdloop.eu:80@D-230530.done
 http://op.cdloop.eu:80/17996537555eder2/nf3931a2e35c/755
 #EXTINF:0 group-title="Fav3-C",4K  Holed 08-op.cdloop.eu:80@D-230624.done
@@ -11318,6 +11436,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/151875
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/151875
 #EXTINF:0 group-title="Fav3-C",4K  Holed 08-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/755
+#EXTINF:0 group-title="Fav3-C",4K  Holed 08-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/755
+#EXTINF:0 group-title="Fav3-C",4K  Holed 08-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/755
 #EXTINF:0 group-title="Fav3-C",4K  Holed 09-op.cdloop.eu:80@D-230530.done
 http://op.cdloop.eu:80/17996537555eder2/nf3931a2e35c/757
 #EXTINF:0 group-title="Fav3-C",4K  Holed 09-op.cdloop.eu:80@D-230624.done
@@ -11334,6 +11456,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/151876
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/151876
 #EXTINF:0 group-title="Fav3-C",4K  Holed 09-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/757
+#EXTINF:0 group-title="Fav3-C",4K  Holed 09-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/757
+#EXTINF:0 group-title="Fav3-C",4K  Holed 09-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/757
 #EXTINF:0 group-title="Fav3-C",4K  Holed 10-op.cdloop.eu:80@D-230530.done
 http://op.cdloop.eu:80/17996537555eder2/nf3931a2e35c/756
 #EXTINF:0 group-title="Fav3-C",4K  Holed 10-op.cdloop.eu:80@D-230624.done
@@ -11350,6 +11476,10 @@ http://srv.cldplay.in:80/soniaxeleleu/xeleleusonia/152062
 http://srv.polkafood.pl:80/zqbdlwjujb/m0xiq27dic/152062
 #EXTINF:0 group-title="Fav3-C",4K  Holed 10-srv.vitrizamper.com:80@D-230512.done
 http://srv.vitrizamper.com:80/13249605369784/80336585199532/756
+#EXTINF:0 group-title="Fav3-C",4K  Holed 10-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/04630925285717/67419296649889/756
+#EXTINF:0 group-title="Fav3-C",4K  Holed 10-srv.vitrizamper.com:80@D-230714.done
+http://srv.vitrizamper.com:80/01665529727029/81913211002139/756
 #EXTINF:0 group-title="Fav3-C",: Teen Mom: Young + Pregnant-66.70.177.156:25461@D-230712.done
 http://66.70.177.156:25461/nikkimom/091922/197781
 #EXTINF:0 group-title="Fav3-C",[XXX] Deeper 1 4K-clientbox.tv:80@D-230607.done.NC
@@ -11474,32 +11604,18 @@ http://tv.pro-ott.com:25443/live/4354355265/6545879898/273751.ts
 http://tv.pro-ott.com:25443/live/4354355265/6545879898/273791.ts
 #EXTINF:0 group-title="Fav3-C",AD Pornbox Public Agent-tv.pro-ott.com:25443@D-230628.done
 http://tv.pro-ott.com:25443/live/4354355265/6545879898/273797.ts
-#EXTINF:0 group-title="Fav3-C",box Bums Bus-2678ydr.xyz:80@D-230712.done
+#EXTINF:0 group-title="Fav3-C",Bums Bus-2678ydr.xyz:80@D-230712.done
 http://2678ydr.xyz:80/live/orhan.avci/15.12.2022/227783.ts
-#EXTINF:0 group-title="Fav3-C",box Bums Bus-2678ydr.xyz:80@D-230712.done
+#EXTINF:0 group-title="Fav3-C",Bums Bus-2678ydr.xyz:80@D-230712.done
 http://2678ydr.xyz:80/live/oyabora/H18xy6FX22/227783.ts
-#EXTINF:0 group-title="Fav3-C",box Bums Bus-2678ydr.xyz:80@D-230712.done
+#EXTINF:0 group-title="Fav3-C",Bums Bus-2678ydr.xyz:80@D-230712.done
 http://2678ydr.xyz:80/live/namik41/24.12..2022/227783.ts
-#EXTINF:0 group-title="Fav3-C",box Bums Bus-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/297806
-#EXTINF:0 group-title="Fav3-C",BOX  BUMS BUS-fuzzyunicorns.net:80@D-230712.done
-http://fuzzyunicorns.net:80/live/austin/austin/788054.ts
-#EXTINF:0 group-title="Fav3-C",box Bums Bus-test.kocdn.buzz:80@D-230712.done
-http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/164753
-#EXTINF:0 group-title="Fav3-C",BOX HOLED-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/298267
-#EXTINF:0 group-title="Fav3-C",BOX  HOLED-fuzzyunicorns.net:80@D-230712.done
-http://fuzzyunicorns.net:80/live/austin/austin/788065.ts
-#EXTINF:0 group-title="Fav3-C",BOX PORNHOCHIC-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/298297
-#EXTINF:0 group-title="Fav3-C",BOX  PORNHOCHIC-fuzzyunicorns.net:80@D-230712.done
-http://fuzzyunicorns.net:80/live/austin/austin/788082.ts
-#EXTINF:0 group-title="Fav3-C",BOX PUBLIC AGENT-37.49.230.42:8080@D-230712.done
-http://37.49.230.42:8080/96e1e190/abb9f8142a/297810
 #EXTINF:0 group-title="Fav3-C",Bums Bus-37.49.230.42:8080@D-230709.done
 http://37.49.230.42:8080/atlantis/FTZ7w6KRM2fHZ94s/297806
 #EXTINF:0 group-title="Fav3-C",BumsBus-37.49.230.42:8080@D-230709.done
 http://37.49.230.42:8080/atlantis/FTZ7w6KRM2fHZ94s/299143
+#EXTINF:0 group-title="Fav3-C",Bums Bus-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/297806
 #EXTINF:0 group-title="Fav3-C",BumsBus-37.49.230.42:8080@D-230712.done
 http://37.49.230.42:8080/96e1e190/abb9f8142a/299143
 #EXTINF:0 group-title="Fav3-C",BUMS BUS-a.alcapone1.com:8080@D-230709.done
@@ -11524,6 +11640,8 @@ http://aflaxtv.xyz:8080/adastream/J2DVrYWnpTu3Sk4W/299143
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297806
 #EXTINF:0 group-title="Fav3-C",BumsBus-aflaxtv.xyz:8080@D-230710.done
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/299143
+#EXTINF:0 group-title="Fav3-C",BUMS BUS-fuzzyunicorns.net:80@D-230712.done
+http://fuzzyunicorns.net:80/live/austin/austin/788054.ts
 #EXTINF:0 group-title="Fav3-C",BUMSBUS-fuzzyunicorns.net:80@D-230712.done
 http://fuzzyunicorns.net:80/live/austin/austin/765314.ts
 #EXTINF:0 group-title="Fav3-C",BUMS BUS-gameplay.p2sweb.me:80@D-230712.done
@@ -11570,6 +11688,8 @@ http://sansat.net:25461/FCLCR2PHMS/ZUMRGIXZVE/285834
 http://sansat.net:25461/QIFB0WLJU1/DVBzaSJMv6sUDvp/285834
 #EXTINF:0 group-title="Fav3-C",BUMS BUS-sansat.org:25461@D-230711.done
 http://sansat.org:25461/QIFB0WLJU1/DVBzaSJMv6sUDvp/285834
+#EXTINF:0 group-title="Fav3-C",Bums Bus-test.kocdn.buzz:80@D-230712.done
+http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/164753
 #EXTINF:0 group-title="Fav3-C",BUMS BUS-tr.bosstv.live:8080@D-230709.done
 http://tr.bosstv.live:8080/Benata/35353535/389247
 #EXTINF:0 group-title="Fav3-C",BUMS BUS-xplatinmedia.com:8080@D-230709.done
@@ -11796,6 +11916,8 @@ http://czrb8vng.ottclub.xyz/iptv/5E4YVB88D4FFE4/5015/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/5015/index.m3u8
 #EXTINF:0 group-title="Fav3-C",Eroxxx HD-hyqzethr.megatv.fun@D-230527.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/N6N2ZVY3ZABEVZ/5015/index.m3u8
+#EXTINF:0 group-title="Fav3-C",EroXXX HD-ip.sltv.be:8080@D-230714.done
+http://ip.sltv.be:8080/ZT6sd7wLDT/Px2QGgwVKi/128365
 #EXTINF:0 group-title="Fav3-C",Eroxxx HD-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/5015/index.m3u8
 #EXTINF:0 group-title="Fav3-C",Eroxxx HD-kv3z7bac.russtv.net@D-230712.done
@@ -11944,6 +12066,8 @@ http://kuchini.site:8080/7abb81c7/e9c0e4445d/298297
 http://kuchini.site:8080/silversatcom/J662bwtY7Tev877u/298297
 #EXTINF:0 group-title="Fav3-C",HOCHIC-kuchini.site:8080@D-230710.done
 http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298297
+#EXTINF:0 group-title="Fav3-C",HOCHIC-kuchini.site:8080@D-230712.done
+http://kuchini.site:8080/multi6741/ab72059e/298297
 #EXTINF:0 group-title="Fav3-C",HOCHIC-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/77307
 #EXTINF:0 group-title="Fav3-C",HOCHIC-live.iptv.tube:22461@D-230620.done
@@ -12022,6 +12146,8 @@ http://37.49.230.42:8080/atlantis/FTZ7w6KRM2fHZ94s/298267
 http://37.49.230.42:8080/mitrovic/tCTz8ZhyevV2qQYW/298267
 #EXTINF:0 group-title="Fav3-C",HOLED-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298267
+#EXTINF:0 group-title="Fav3-C",HOLED-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/298267
 #EXTINF:0 group-title="Fav3-C",Holed-38e16566.rossteleccom.net@D-230511.done
 http://38e16566.rossteleccom.net/iptv/8WVZ6QGFZUWVR4/6221/index.m3u8
 #EXTINF:0 group-title="Fav3-C",Holed-3kaki9qu.russtv.net@D-230531.done
@@ -12138,6 +12264,8 @@ http://foymmpeq.klaipedalt.org/iptv/VK3AX8MG8ZGVY9/6221/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/6221/index.m3u8
 #EXTINF:0 group-title="Fav3-C",Holed-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/2KTEACSPFEP692/6221/index.m3u8
+#EXTINF:0 group-title="Fav3-C",HOLED-fuzzyunicorns.net:80@D-230712.done
+http://fuzzyunicorns.net:80/live/austin/austin/788065.ts
 #EXTINF:0 group-title="Fav3-C",HOLED-gameplay.p2sweb.me:80@D-230712.done
 http://gameplay.p2sweb.me:80/monteiro123/monteiro321/270990
 #EXTINF:0 group-title="Fav3-C",HOLED-gameplay.p2sweb.me:80@D-230712.done
@@ -12220,7 +12348,7 @@ http://pandar.cc:25461/MgNqv7fp/cxxHRJkbXmkthJt/285853
 http://pandar.plus:25461/BLmdX9hqfqBn5U8/EbkO2zoYqvwf3sE/285853
 #EXTINF:0 group-title="Fav3-C",HOLED-pandar.plus:25461@D-230703.done
 http://pandar.plus:25461/RNKLUU9ZFEGGDK5/S8Z4KMXCTBEKVD0/285853
-#EXTINF:0 group-title="Fav3-C",Holed-ru02.spr24.net@D-230712.fail3
+#EXTINF:0 group-title="Fav3-C",Holed-ru02.spr24.net@D-230712.done
 http://ru02.spr24.net/29065/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0 group-title="Fav3-C",  Holed-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/6221/index.m3u8
@@ -12304,6 +12432,8 @@ http://ultratv.one:2095/yK0kuGKs/g9q2hxk/107277
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/107277
 #EXTINF:0 group-title="Fav3-C",Holed FHD (18+)-ultratv.one:2095@D-230501.done.NC
 http://ultratv.one:2095/eBszdU8m/p8uQSGGE/107277
+#EXTINF:0 group-title="Fav3-C",Holed FHD-ip.sltv.be:8080@D-230714.done
+http://ip.sltv.be:8080/ZT6sd7wLDT/Px2QGgwVKi/224321
 #EXTINF:0 group-title="Fav3-C",HOLED FHD-iptvzeus.com:25461@D-230626.done
 http://iptvzeus.com:25461/AXYS3TMCCGRTB2Q/E29M11LLFG9UTZX/285941
 #EXTINF:0 group-title="Fav3-C",HOLED FHD -line.rs6ott.com:80@D-230705.done
@@ -12380,8 +12510,10 @@ http://kalitelitv.xyz:8080/almnihat/GgN4CUDGxN/234086
 http://kalitelitv.xyz:8080/almnihat/GgN4CUDGxN/234091
 #EXTINF:0 group-title="Fav3-C",PHubPremium GERMAN: BUMSBUS-tr.bosstv.live:8080@D-230709.done
 http://tr.bosstv.live:8080/Benata/35353535/389432
-#EXTINF:0 group-title="Fav3-C",PORNHOCHIC-kuchini.site:8080@D-230712.done
-http://kuchini.site:8080/multi6741/ab72059e/298297
+#EXTINF:0 group-title="Fav3-C",PORNHOCHIC-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/298297
+#EXTINF:0 group-title="Fav3-C",PORNHOCHIC-fuzzyunicorns.net:80@D-230712.done
+http://fuzzyunicorns.net:80/live/austin/austin/788082.ts
 #EXTINF:0 group-title="Fav3-C",PREMIUM XXX : PUBLIC AGENT-tv.dominiotv.xyz:25461@D-230621.done
 http://tv.dominiotv.xyz:25461/live/cuenta4111/xjZvva8QeqVj/103249.ts
 #EXTINF:0 group-title="Fav3-C",PREMIUM XXX : PUBLIC AGENT-tv.dominiotv.xyz:25461@D-230625.done
@@ -12526,6 +12658,8 @@ http://37.49.230.42:8080/Jhgsdf/3f140eff/297810
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297810
 #EXTINF:0 group-title="Fav3-C",PUBLIC AGENT-37.49.230.42:8080@D-230709.done
 http://37.49.230.42:8080/atlantis/FTZ7w6KRM2fHZ94s/192285
+#EXTINF:0 group-title="Fav3-C",PUBLIC AGENT-37.49.230.42:8080@D-230712.done
+http://37.49.230.42:8080/96e1e190/abb9f8142a/297810
 #EXTINF:0 group-title="Fav3-C",PUBLIC AGENT-37.49.230.42:8080@D-230712.done
 http://37.49.230.42:8080/96e1e190/abb9f8142a/192285
 #EXTINF:0 group-title="Fav3-C",Public Agent-38e16566.rossteleccom.net@D-230511.done
@@ -12872,7 +13006,7 @@ http://pandar.cc:25461/MgNqv7fp/cxxHRJkbXmkthJt/285893
 http://pandar.plus:25461/BLmdX9hqfqBn5U8/EbkO2zoYqvwf3sE/285893
 #EXTINF:0 group-title="Fav3-C",PUBLIC AGENT-pandar.plus:25461@D-230703.done
 http://pandar.plus:25461/RNKLUU9ZFEGGDK5/S8Z4KMXCTBEKVD0/285893
-#EXTINF:0 group-title="Fav3-C",Public Agent-ru02.spr24.net@D-230712.fail3
+#EXTINF:0 group-title="Fav3-C",Public Agent-ru02.spr24.net@D-230712.done
 http://ru02.spr24.net/29093/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0 group-title="Fav3-C",  Public Agent-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/6246/index.m3u8
