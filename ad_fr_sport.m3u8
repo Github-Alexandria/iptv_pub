@@ -1,5 +1,5 @@
-#EXTM3U 7303
-#DATE 2023-07-17 14:57
+#EXTM3U 7254
+#DATE 2023-07-17 17:39
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -110,6 +110,8 @@ http://xtra.fireottplus.com:2052/202215375470/768843385675/96733
 http://xtra.fireottplus.com:2052/642302570145/247679674992/96733
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 1-xtra.fireottplus.com:2052@D-230714.done
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96733
+#EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 1-xtra.fireottplus.com:2052@D-230717.done
+http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96733
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 2-cloud.cdn-proxy.win:2052@D-230716.done
 http://cloud.cdn-proxy.win:2052/908067579441/483760576465/96736
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 2-es.xipi3.xyz:2052@D-230716.done
@@ -130,6 +132,8 @@ http://xtra.fireottplus.com:2052/202215375470/768843385675/96736
 http://xtra.fireottplus.com:2052/642302570145/247679674992/96736
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 2-xtra.fireottplus.com:2052@D-230714.done
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96736
+#EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 2-xtra.fireottplus.com:2052@D-230717.done
+http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96736
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 3-cloud.cdn-proxy.win:2052@D-230716.done
 http://cloud.cdn-proxy.win:2052/908067579441/483760576465/96738
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 3-es.xipi3.xyz:2052@D-230716.done
@@ -150,6 +154,8 @@ http://xtra.fireottplus.com:2052/202215375470/768843385675/96738
 http://xtra.fireottplus.com:2052/642302570145/247679674992/96738
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 3-xtra.fireottplus.com:2052@D-230714.done
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96738
+#EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 3-xtra.fireottplus.com:2052@D-230717.done
+http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96738
 #EXTINF:0 group-title="FR-Bein",FR-Bein max 4-freefly.dyndns.org:26650@D-230623.done
 http://freefly.dyndns.org:26650/pa0408/nkBtzqcg3kN7/84323
 #EXTINF:0 group-title="FR-Bein",FR-BEIN MAX 4 FHD-simone167.ddns.net:25461@D-230604.done
@@ -860,6 +866,8 @@ http://myserveriptv.com:2082/MekdadAlnafar/zeRpHxa2bW/20831
 http://myserveriptv.com:2082/mhdmabrouk12/mhdmabrouk21/20831
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/8298.ts
+#EXTINF:0 group-title="FR-Bein",FR-BeIN SPORTS 1-pro.netmos.ovh:7355@D-230717.done
+http://pro.netmos.ovh:7355/ayoub16112022/123456780/399
 #EXTINF:0 group-title="FR-Bein",FR-beIN Sports 1-raceipt.ddns.net:8000@D-230706.done
 http://raceipt.ddns.net:8000/daSIMO/04072023A/422120
 #EXTINF:0 group-title="FR-Bein",FR-beIN Sports 1-raceipt.ddns.net:8000@D-230706.done
@@ -1578,6 +1586,8 @@ http://myserveriptv.com:2082/MekdadAlnafar/zeRpHxa2bW/20832
 http://myserveriptv.com:2082/mhdmabrouk12/mhdmabrouk21/20832
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/8299.ts
+#EXTINF:0 group-title="FR-Bein",FR-BeIN SPORTS 2-pro.netmos.ovh:7355@D-230717.done
+http://pro.netmos.ovh:7355/ayoub16112022/123456780/396
 #EXTINF:0 group-title="FR-Bein",FR-beIN Sports 2-raceipt.ddns.net:8000@D-230706.done
 http://raceipt.ddns.net:8000/daSIMO/04072023A/422119
 #EXTINF:0 group-title="FR-Bein",FR-beIN Sports 2-raceipt.ddns.net:8000@D-230706.done
@@ -2294,6 +2304,8 @@ http://myserveriptv.com:2082/MekdadAlnafar/zeRpHxa2bW/20833
 http://myserveriptv.com:2082/mhdmabrouk12/mhdmabrouk21/20833
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/8300.ts
+#EXTINF:0 group-title="FR-Bein",FR-BeIN SPORTS 3-pro.netmos.ovh:7355@D-230717.done
+http://pro.netmos.ovh:7355/ayoub16112022/123456780/393
 #EXTINF:0 group-title="FR-Bein",FR-beIN Sports 3-raceipt.ddns.net:8000@D-230706.done
 http://raceipt.ddns.net:8000/daSIMO/04072023A/422118
 #EXTINF:0 group-title="FR-Bein",FR-beIN Sports 3-raceipt.ddns.net:8000@D-230706.done
@@ -2828,6 +2840,8 @@ http://xtra.fireottplus.com:2052/202215375470/768843385675/96731
 http://xtra.fireottplus.com:2052/642302570145/247679674992/96731
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 1-xtra.fireottplus.com:2052@D-230714.done
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96731
+#EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 1-xtra.fireottplus.com:2052@D-230717.done
+http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96731
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 2 -cloud.cdn-proxy.win:2052@D-230716.done
 http://cloud.cdn-proxy.win:2052/908067579441/483760576465/96734
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 2 -es.xipi3.xyz:2052@D-230716.done
@@ -2848,6 +2862,8 @@ http://xtra.fireottplus.com:2052/202215375470/768843385675/96734
 http://xtra.fireottplus.com:2052/642302570145/247679674992/96734
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 2 -xtra.fireottplus.com:2052@D-230714.done
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96734
+#EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 2 -xtra.fireottplus.com:2052@D-230717.done
+http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96734
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 3 -cloud.cdn-proxy.win:2052@D-230716.done
 http://cloud.cdn-proxy.win:2052/908067579441/483760576465/96737
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 3 -es.xipi3.xyz:2052@D-230716.done
@@ -2868,6 +2884,8 @@ http://xtra.fireottplus.com:2052/202215375470/768843385675/96737
 http://xtra.fireottplus.com:2052/642302570145/247679674992/96737
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 3 -xtra.fireottplus.com:2052@D-230714.done
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96737
+#EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 3 -xtra.fireottplus.com:2052@D-230717.done
+http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96737
 #EXTINF:0 group-title="FR-Bein",FR-Sport: BeIN Sports 1 HD-portal.alliptvapp.com:8080@D-230714.done
 http://portal.alliptvapp.com:8080/979385255854/060982824944/42217
 #EXTINF:0 group-title="FR-Bein",FR-Sport: BeIN Sports 1 HD-s.showplustv.pro:80@D-230716.done
@@ -5364,6 +5382,8 @@ http://xtra.fireottplus.com:2052/202215375470/768843385675/96690
 http://xtra.fireottplus.com:2052/642302570145/247679674992/96690
 #EXTINF:0 group-title="FR-Canal+",FR-4K CANAL+ SPORTS-xtra.fireottplus.com:2052@D-230714.done
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96690
+#EXTINF:0 group-title="FR-Canal+",FR-4K CANAL+ SPORTS-xtra.fireottplus.com:2052@D-230717.done
+http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96690
 #EXTINF:0 group-title="FR-Canal+",FR-[-5H] CANAL+ SPORTS-airo-server.net:25461@D-230611.done
 http://airo-server.net:25461/19740arc1501/jHfQMDg/79021
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1-37.49.230.42:8080@D-230610.done
@@ -5400,6 +5420,8 @@ http://pfsv.io:80/sa12h9/rh15e3/130938.ts
 http://pfsv.io:80/sadan03sb/busssb003/130938.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1-pfsv.io:80@D-230711.done
 http://pfsv.io:80/valmir6082/60822020/130938.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 -pro.netmos.ovh:7355@D-230717.done
+http://pro.netmos.ovh:7355/ayoub16112022/123456780/33357
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1-raceipt.ddns.net:8000@D-230706.done
 http://raceipt.ddns.net:8000/daSIMO/04072023A/427879
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 4K-m3u.ottc.pro:80@D-230716.done
@@ -6270,6 +6292,8 @@ http://pfsv.io:80/sa12h9/rh15e3/130939.ts
 http://pfsv.io:80/sadan03sb/busssb003/130939.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport-pfsv.io:80@D-230711.done
 http://pfsv.io:80/valmir6082/60822020/130939.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-pro.netmos.ovh:7355@D-230717.done
+http://pro.netmos.ovh:7355/ayoub16112022/123456780/168
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport-raceipt.ddns.net:8000@D-230706.done
 http://raceipt.ddns.net:8000/daSIMO/04072023A/427875
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-s1.pubnow.info:8080@D-230415.done
@@ -7628,6 +7652,8 @@ http://xtra.fireottplus.com:2052/202215375470/768843385675/96689
 http://xtra.fireottplus.com:2052/642302570145/247679674992/96689
 #EXTINF:0 group-title="FR-Canal+",FR-HD CANAL+ SPORTS-xtra.fireottplus.com:2052@D-230714.done
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96689
+#EXTINF:0 group-title="FR-Canal+",FR-HD CANAL+ SPORTS-xtra.fireottplus.com:2052@D-230717.done
+http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96689
 #EXTINF:0 group-title="FR-Canal+",FR-SAT CANAL+ SPORT HEVC-4k.boxip.org:8080@D-230525.done
 http://4k.boxip.org:8080/697303143383473/2052727552/55791.ts
 #EXTINF:0 group-title="FR-Canal+",FR-SAT CANAL+ SPORT HEVC-4k.boxip.org:8080@D-230627.done
@@ -7776,6 +7802,8 @@ http://mxu03.wanicelife.com:8880/3mms270015/44242642/33519
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/104333
 #EXTINF:0 group-title="FR-Canal+",SK: Canal+ Sport 7 FHD-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/104336
+#EXTINF:0 group-title="FR-Canal+",SP: FR: Canal+ Sport-tv.titanicos.net:2095@D-230717.done
+http://tv.titanicos.net:2095/Jgonz/Restream/61132.ts
 #EXTINF:0 group-title="FR-Canal+",SP  CANAL+ PREMIER LEAGUE-xdplay.tv:8080@D-230621.done
 http://xdplay.tv:8080/play/uRkJ0umqTW-6GaKmDwLe90rFSyammlUkWidSdvXwQIHqNUvzgyYE62B2hJiNu99p/ts
 #EXTINF:0 group-title="FR-Canal+",SP  CANAL+ SPORT-xdplay.tv:8080@D-230621.done
@@ -11022,6 +11050,8 @@ http://pandar.plus:25461/BLmdX9hqfqBn5U8/EbkO2zoYqvwf3sE/126919
 http://pandar.plus:25461/Kader33310/RCPGYHGOUD/126919
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-pro.ipcover.tv:8080@D-230417.done
 http://pro.ipcover.tv:8080/USERN81154/PASSW88990/389
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-pro.netmos.ovh:7355@D-230717.done
+http://pro.netmos.ovh:7355/ayoub16112022/123456780/48143
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-s1.pubnow.info:8080@D-230703.done
 http://s1.pubnow.info:8080/Guijac62/Jacques62!/93
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-s1.pubnow.info:8080@D-230714.done
