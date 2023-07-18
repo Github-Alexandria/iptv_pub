@@ -1,5 +1,5 @@
-#EXTM3U 7287
-#DATE 2023-07-17 20:07
+#EXTM3U 7496
+#DATE 2023-07-17 23:55
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230623.done
 http://tv.pro-ott.com:25443/live/boko/0PV4GYNUGS/116752.ts
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230624.done
@@ -1692,6 +1692,18 @@ http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/159473
 http://185.156.74.135:80/boris1234/1234boris/182230.ts
 #EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI HD-5.44.253.151:80@D-230607.done.NC
 http://5.44.253.151:80/dean12345/12345dean/182230.ts
+#EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72496
+#EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72496
+#EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72496
+#EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72496
+#EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72496
+#EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72496
 #EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI HD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72496
 #EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI HD-cdn.erost.us:8080@D-230715.done
@@ -1870,6 +1882,8 @@ http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/61185
 http://2hubs.ddns.net:25461/Sanders/Sanders/61185
 #EXTINF:0 group-title="QC-Info",CA - FR:LCN-2hubs.ddns.net:25461@D-230716.done
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61185
+#EXTINF:0 group-title="QC-Info",CA - FR:LCN-2hubs.ddns.net:25461@D-230717.done
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61185
 #EXTINF:0 group-title="QC-Info",CA-FR: LCN-fuzzyunicorns.net:80@D-230716.done
 http://fuzzyunicorns.net:80/live/closincali/u4F1vfyuh2/443242.ts
 #EXTINF:0 group-title="QC-Info",CA-FR  ICI RDI-ua-iptv.com:8080@D-230515.done
@@ -2206,6 +2220,30 @@ http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308859
 http://7go.xyz:8080/Catiane76t/7687439/308859
 #EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308858
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308858
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308859
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308858
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308859
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308858
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308859
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308858
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308859
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308858
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308859
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308858
+#EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308859
 #EXTINF:0 group-title="QC-Info",CA: ICI  RDI-dontuse.offshorerev.cc:80@D-230714.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/156012
 #EXTINF:0 group-title="QC-Info",CA: Ici RDI-ipro.tv:80@D-230714.done
@@ -2406,6 +2444,18 @@ http://7go.xyz:8080/F19565619/1AS6D851/308863
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308863
 #EXTINF:0 group-title="QC-Info",CA: Lcn HD-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308863
+#EXTINF:0 group-title="QC-Info",CA: Lcn HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308863
+#EXTINF:0 group-title="QC-Info",CA: Lcn HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308863
+#EXTINF:0 group-title="QC-Info",CA: Lcn HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308863
+#EXTINF:0 group-title="QC-Info",CA: Lcn HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308863
+#EXTINF:0 group-title="QC-Info",CA: Lcn HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308863
+#EXTINF:0 group-title="QC-Info",CA: Lcn HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308863
 #EXTINF:0 group-title="QC-Info",CA : LCN HD-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/94066fa1-d8d2-4629-b3d6-56666ad10644.m3u
 #EXTINF:0 group-title="QC-Info",CA: LCN HD-mrcool.nomorecable.me:8000@D-230706.done
@@ -2570,6 +2620,18 @@ http://lucidhosting.xyz:82/wendym/wendy@123/35225
 http://185.156.74.135:80/boris1234/1234boris/181987.ts
 #EXTINF:0 group-title="QC-Info",CA ICI RDI-5.44.253.151:80@D-230607.done.NC
 http://5.44.253.151:80/dean12345/12345dean/181987.ts
+#EXTINF:0 group-title="QC-Info",CA ICI RDI-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72300
+#EXTINF:0 group-title="QC-Info",CA ICI RDI-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72300
+#EXTINF:0 group-title="QC-Info",CA ICI RDI-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72300
+#EXTINF:0 group-title="QC-Info",CA ICI RDI-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72300
+#EXTINF:0 group-title="QC-Info",CA ICI RDI-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72300
+#EXTINF:0 group-title="QC-Info",CA ICI RDI-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72300
 #EXTINF:0 group-title="QC-Info",CA ICI RDI-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72300
 #EXTINF:0 group-title="QC-Info",CA ICI RDI-cdn.erost.us:8080@D-230715.done
@@ -2592,6 +2654,18 @@ http://live2.unwiredtvnow.com:80/saeed123/saeed123/181987.ts
 http://live2.unwiredtvnow.com:80/Willie01/Willie01/181987.ts
 #EXTINF:0 group-title="QC-Info",CA ICI RDI-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/181987.ts
+#EXTINF:0 group-title="QC-Info",CA LCN (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72537
+#EXTINF:0 group-title="QC-Info",CA LCN (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72537
+#EXTINF:0 group-title="QC-Info",CA LCN (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72537
+#EXTINF:0 group-title="QC-Info",CA LCN (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72537
+#EXTINF:0 group-title="QC-Info",CA LCN (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72537
+#EXTINF:0 group-title="QC-Info",CA LCN (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72537
 #EXTINF:0 group-title="QC-Info",CA LCN (FR)-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72537
 #EXTINF:0 group-title="QC-Info",CA LCN (FR)-cdn.erost.us:8080@D-230715.done
@@ -3140,6 +3214,18 @@ http://suadns.xyz:80/Leonardopt/otttnvbpkr/159497
 http://tv70.icu:8080/BYS2dE/808078/57488
 #EXTINF:0 group-title="QC-Other",CA (FR) Prise  (P)-tvmate.icu:8080@D-230716.done
 http://tvmate.icu:8080/lilly1/lilly1/57488
+#EXTINF:0 group-title="QC-Other",CA (FR) Prise 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72514
+#EXTINF:0 group-title="QC-Other",CA (FR) Prise 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72514
+#EXTINF:0 group-title="QC-Other",CA (FR) Prise 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72514
+#EXTINF:0 group-title="QC-Other",CA (FR) Prise 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72514
+#EXTINF:0 group-title="QC-Other",CA (FR) Prise 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72514
+#EXTINF:0 group-title="QC-Other",CA (FR) Prise 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72514
 #EXTINF:0 group-title="QC-Other",CA (FR) Prise 2 (B)-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72514
 #EXTINF:0 group-title="QC-Other",CA (FR) Prise 2 (B)-cdn.erost.us:8080@D-230715.done
@@ -4632,6 +4718,18 @@ http://tv70.icu:8080/BYS2dE/808078/57325
 http://tvmate.icu:8080/lilly1/lilly1/57325
 #EXTINF:0 group-title="QC-Sport",CA (FR) RDS-abc123.digital:8080@D-230708.done
 http://abc123.digital:8080/VeroPeru1/bwJMmDvcZp/418579
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72515
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72515
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72515
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72515
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72515
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72515
 #EXTINF:0 group-title="QC-Sport",CA (FR) RDS-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72515
 #EXTINF:0 group-title="QC-Sport",CA (FR) RDS-cdn.erost.us:8080@D-230715.done
@@ -4832,6 +4930,18 @@ http://tvpanel.one:80/live/austin/austin/747143.ts
 http://ua-iptv.com:8080/MikeRoberts/Mike111/223109
 #EXTINF:0 group-title="QC-Sport",CA (FR) RDS 1 HDvipgature.top:8080@D-230627.done
 http://vipgature.top:8080/live/VIP0180168537735303/31685377353/5486.ts
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72516
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72516
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72516
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72516
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72516
+#EXTINF:0 group-title="QC-Sport",CA (FR) RDS 2 (B)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72516
 #EXTINF:0 group-title="QC-Sport",CA (FR) RDS 2 (B)-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72516
 #EXTINF:0 group-title="QC-Sport",CA (FR) RDS 2 (B)-cdn.erost.us:8080@D-230715.done
@@ -5114,6 +5224,18 @@ http://abc123.digital:8080/martin7derrick@gmail.com/R8zQpBrdFz/418585
 http://abc123.digital:8080/bajbest@gmail.com/q2ugE63asZ/418585
 #EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS-abc123.digital:8080@D-230708.done
 http://abc123.digital:8080/VeroPeru1/bwJMmDvcZp/418585
+#EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72527
+#EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72527
+#EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72527
+#EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72527
+#EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72527
+#EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72527
 #EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72527
 #EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS-cdn.erost.us:8080@D-230715.done
@@ -5334,6 +5456,18 @@ http://104.243.32.68:25461/unrealKD/p73rmm3dn4/713
 http://fuzzyunicorns.net:80/live/closincali/u4F1vfyuh2/564784.ts
 #EXTINF:0 group-title="QC-Sport",CA-FR: TVA SPORTS 2-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/564784.ts
+#EXTINF:0 group-title="QC-Sport",CA-FR RDS 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72557
+#EXTINF:0 group-title="QC-Sport",CA-FR RDS 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72557
+#EXTINF:0 group-title="QC-Sport",CA-FR RDS 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72557
+#EXTINF:0 group-title="QC-Sport",CA-FR RDS 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72557
+#EXTINF:0 group-title="QC-Sport",CA-FR RDS 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72557
+#EXTINF:0 group-title="QC-Sport",CA-FR RDS 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72557
 #EXTINF:0 group-title="QC-Sport",CA-FR RDS 2-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72557
 #EXTINF:0 group-title="QC-Sport",CA-FR RDS 2-cdn.erost.us:8080@D-230715.done
@@ -6210,6 +6344,18 @@ http://7go.xyz:8080/F19565619/1AS6D851/308891
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308891
 #EXTINF:0 group-title="QC-Sport",CA: Rds-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308891
+#EXTINF:0 group-title="QC-Sport",CA: Rds-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308891
+#EXTINF:0 group-title="QC-Sport",CA: Rds-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308891
+#EXTINF:0 group-title="QC-Sport",CA: Rds-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308891
+#EXTINF:0 group-title="QC-Sport",CA: Rds-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308891
+#EXTINF:0 group-title="QC-Sport",CA: Rds-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308891
+#EXTINF:0 group-title="QC-Sport",CA: Rds-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308891
 #EXTINF:0 group-title="QC-Sport",CA: RDS-aflaxtv.xyz:8080@D-230709.done
 http://aflaxtv.xyz:8080/googleiptvex/8XsdD8qVstQhcjuy/280913
 #EXTINF:0 group-title="QC-Sport",CA: RDS-aflaxtv.xyz:8080@D-230709.done
@@ -6302,6 +6448,18 @@ http://7go.xyz:8080/F19565619/1AS6D851/308890
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308890
 #EXTINF:0 group-title="QC-Sport",CA: Rds 2-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308890
+#EXTINF:0 group-title="QC-Sport",CA: Rds 2-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308890
+#EXTINF:0 group-title="QC-Sport",CA: Rds 2-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308890
+#EXTINF:0 group-title="QC-Sport",CA: Rds 2-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308890
+#EXTINF:0 group-title="QC-Sport",CA: Rds 2-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308890
+#EXTINF:0 group-title="QC-Sport",CA: Rds 2-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308890
+#EXTINF:0 group-title="QC-Sport",CA: Rds 2-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308890
 #EXTINF:0 group-title="QC-Sport",CA: RDS 2-aflaxtv.xyz:8080@D-230709.done
 http://aflaxtv.xyz:8080/adastream/J2DVrYWnpTu3Sk4W/495
 #EXTINF:0 group-title="QC-Sport",CA: RDS 2-aflaxtv.xyz:8080@D-230709.done
@@ -6752,6 +6910,18 @@ http://7go.xyz:8080/F19565619/1AS6D851/308928
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308928
 #EXTINF:0 group-title="QC-Sport",CA: Tsn 1 HD-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308928
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308928
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308928
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308928
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308928
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308928
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308928
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1 HD-a36m.net:8080@D-230612.done
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72942
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1 HD-a36m.net:8080@D-230714.done
@@ -7136,6 +7306,18 @@ http://7go.xyz:8080/F19565619/1AS6D851/308929
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308929
 #EXTINF:0 group-title="QC-Sport",CA: Tsn 2 HD-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308929
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308929
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308929
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308929
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308929
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308929
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308929
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2 HD-a36m.net:8080@D-230612.done
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72944
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2 HD-a36m.net:8080@D-230704.done
@@ -7542,6 +7724,18 @@ http://7go.xyz:8080/F19565619/1AS6D851/308930
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308930
 #EXTINF:0 group-title="QC-Sport",CA: Tsn 3 HD-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308930
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 3 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308930
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 3 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308930
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 3 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308930
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 3 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308930
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 3 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308930
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 3 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308930
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3 HD-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/7900
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3 HD-a36m.net:8080@D-230612.done
@@ -7932,6 +8126,30 @@ http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308932
 http://7go.xyz:8080/Catiane76t/7687439/308931
 #EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308932
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308931
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308932
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308931
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308932
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308931
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308932
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308931
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308932
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308931
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308932
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308931
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308932
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-dontuse.offshorerev.cc:80@D-230709.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/156084
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-ipro.tv:80@D-230714.done
@@ -8366,6 +8584,18 @@ http://7go.xyz:8080/F19565619/1AS6D851/308933
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308933
 #EXTINF:0 group-title="QC-Sport",CA: Tsn 5 HD-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308933
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 5 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308933
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 5 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308933
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 5 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308933
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 5 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308933
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 5 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308933
+#EXTINF:0 group-title="QC-Sport",CA: Tsn 5 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308933
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5 HD-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/7898
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5 HD-a36m.net:8080@D-230612.done
@@ -8544,6 +8774,18 @@ http://7go.xyz:8080/F19565619/1AS6D851/308939
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308939
 #EXTINF:0 group-title="QC-Sport",CA: TVa Sports-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308939
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308939
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308939
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308939
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308939
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308939
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308939
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports-aflaxtv.xyz:8080@D-230615.done
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/500
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports-aflaxtv.xyz:8080@D-230615.done
@@ -8726,6 +8968,18 @@ http://7go.xyz:8080/F19565619/1AS6D851/308937
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308937
 #EXTINF:0 group-title="QC-Sport",CA: TVa Sports 1 HD-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308937
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308937
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308937
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308937
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308937
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308937
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 1 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308937
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports 1 HD-bntvs.com:2052@D-230531.done
 http://bntvs.com:2052/MarinaLukovic/841368546/10782
 #EXTINF:0 group-title="QC-Sport",CA: Tva Sports 1 HD-dar-4all.com:8080@D-230714.done
@@ -8870,6 +9124,18 @@ http://7go.xyz:8080/F19565619/1AS6D851/308938
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308938
 #EXTINF:0 group-title="QC-Sport",CA: TVa Sports 2 HD-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308938
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308938
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308938
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308938
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308938
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308938
+#EXTINF:0 group-title="QC-Sport",CA: TVa Sports 2 HD-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308938
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports 2 HD-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/7910
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports 2 HD-ipro.tv:80@D-230714.done
@@ -8922,6 +9188,18 @@ http://7go.xyz:8080/F19565619/1AS6D851/308948
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308948
 #EXTINF:0 group-title="QC-Sport",CA:TVa Sports Fr-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/Catiane76t/7687439/308948
+#EXTINF:0 group-title="QC-Sport",CA:TVa Sports Fr-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/JulianaToronto/ju34an3836/308948
+#EXTINF:0 group-title="QC-Sport",CA:TVa Sports Fr-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/qsa1077/336y78G/308948
+#EXTINF:0 group-title="QC-Sport",CA:TVa Sports Fr-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/norberto/998329432/308948
+#EXTINF:0 group-title="QC-Sport",CA:TVa Sports Fr-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308948
+#EXTINF:0 group-title="QC-Sport",CA:TVa Sports Fr-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/Jessica22/96801cl/308948
+#EXTINF:0 group-title="QC-Sport",CA:TVa Sports Fr-7go.xyz:8080@D-230717.done
+http://7go.xyz:8080/brunachianelli/bch825536/308948
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS HD (FR)-66.70.177.156:25461@D-230712.done
 http://66.70.177.156:25461/nikkimom/091922/209610
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS HD (FR)-66.70.177.156:25461@D-230717.done
@@ -9030,6 +9308,18 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/215343
 http://playhispano.org:8080/userlw/led5120/215343
 #EXTINF:0 group-title="QC-Sport",CA  OHL  Flint Firebirds-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/82252
+#EXTINF:0 group-title="QC-Sport",CA RDS (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72541
+#EXTINF:0 group-title="QC-Sport",CA RDS (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72541
+#EXTINF:0 group-title="QC-Sport",CA RDS (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72541
+#EXTINF:0 group-title="QC-Sport",CA RDS (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72541
+#EXTINF:0 group-title="QC-Sport",CA RDS (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72541
+#EXTINF:0 group-title="QC-Sport",CA RDS (FR)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72541
 #EXTINF:0 group-title="QC-Sport",CA RDS (FR)-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72541
 #EXTINF:0 group-title="QC-Sport",CA RDS (FR)-cdn.erost.us:8080@D-230715.done
@@ -9052,6 +9342,18 @@ http://hardcoremedia.xyz:80/UGHTEbs7sH/1941014161/10801
 http://hardcoremedia.xyz:80/uxY2s46qa/Z7xv5N1bcq/10801
 #EXTINF:0 group-title="QC-Sport",CA RDS (FR)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/182052.ts
+#EXTINF:0 group-title="QC-Sport",CA RDS (HD)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72349
+#EXTINF:0 group-title="QC-Sport",CA RDS (HD)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72349
+#EXTINF:0 group-title="QC-Sport",CA RDS (HD)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72349
+#EXTINF:0 group-title="QC-Sport",CA RDS (HD)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72349
+#EXTINF:0 group-title="QC-Sport",CA RDS (HD)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72349
+#EXTINF:0 group-title="QC-Sport",CA RDS (HD)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72349
 #EXTINF:0 group-title="QC-Sport",CA RDS (HD)-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72349
 #EXTINF:0 group-title="QC-Sport",CA RDS (HD)-cdn.erost.us:8080@D-230715.done
@@ -9062,6 +9364,18 @@ http://cdn.erost.us:8080/Khyara./6478634439/72349
 http://cdn.erost.us:8080/loginquarto/70283372/72349
 #EXTINF:0 group-title="QC-Sport",CA RDS (HD)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/182053.ts
+#EXTINF:0 group-title="QC-Sport",CA RDS (HQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72350
+#EXTINF:0 group-title="QC-Sport",CA RDS (HQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72350
+#EXTINF:0 group-title="QC-Sport",CA RDS (HQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72350
+#EXTINF:0 group-title="QC-Sport",CA RDS (HQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72350
+#EXTINF:0 group-title="QC-Sport",CA RDS (HQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72350
+#EXTINF:0 group-title="QC-Sport",CA RDS (HQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72350
 #EXTINF:0 group-title="QC-Sport",CA RDS (HQ)-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72350
 #EXTINF:0 group-title="QC-Sport",CA RDS (HQ)-cdn.erost.us:8080@D-230715.done
@@ -9070,6 +9384,18 @@ http://cdn.erost.us:8080/33814476/08084398/72350
 http://cdn.erost.us:8080/Khyara./6478634439/72350
 #EXTINF:0 group-title="QC-Sport",CA RDS (HQ)-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/loginquarto/70283372/72350
+#EXTINF:0 group-title="QC-Sport",CA RDS (LQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72351
+#EXTINF:0 group-title="QC-Sport",CA RDS (LQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72351
+#EXTINF:0 group-title="QC-Sport",CA RDS (LQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72351
+#EXTINF:0 group-title="QC-Sport",CA RDS (LQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72351
+#EXTINF:0 group-title="QC-Sport",CA RDS (LQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72351
+#EXTINF:0 group-title="QC-Sport",CA RDS (LQ)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72351
 #EXTINF:0 group-title="QC-Sport",CA RDS (LQ)-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72351
 #EXTINF:0 group-title="QC-Sport",CA RDS (LQ)-cdn.erost.us:8080@D-230715.done
@@ -9188,6 +9514,18 @@ http://ok4.club:25461/JJ020915/4073006144/372
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1133
 #EXTINF:0 group-title="QC-Sport",CA TSN 1 HD-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/228697.ts
+#EXTINF:0 group-title="QC-Sport",CA TSN 1 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72483
+#EXTINF:0 group-title="QC-Sport",CA TSN 1 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72483
+#EXTINF:0 group-title="QC-Sport",CA TSN 1 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72483
+#EXTINF:0 group-title="QC-Sport",CA TSN 1 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72483
+#EXTINF:0 group-title="QC-Sport",CA TSN 1 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72483
+#EXTINF:0 group-title="QC-Sport",CA TSN 1 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72483
 #EXTINF:0 group-title="QC-Sport",CA TSN 1 UHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72483
 #EXTINF:0 group-title="QC-Sport",CA TSN 1 UHD-cdn.erost.us:8080@D-230715.done
@@ -9282,6 +9620,18 @@ http://ok4.club:25461/JJ020915/4073006144/449
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1134
 #EXTINF:0 group-title="QC-Sport",CA TSN 2 HD-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/1620259.ts
+#EXTINF:0 group-title="QC-Sport",CA TSN 2 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72484
+#EXTINF:0 group-title="QC-Sport",CA TSN 2 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72484
+#EXTINF:0 group-title="QC-Sport",CA TSN 2 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72484
+#EXTINF:0 group-title="QC-Sport",CA TSN 2 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72484
+#EXTINF:0 group-title="QC-Sport",CA TSN 2 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72484
+#EXTINF:0 group-title="QC-Sport",CA TSN 2 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72484
 #EXTINF:0 group-title="QC-Sport",CA TSN 2 UHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72484
 #EXTINF:0 group-title="QC-Sport",CA TSN 2 UHD-cdn.erost.us:8080@D-230715.done
@@ -9372,6 +9722,18 @@ http://tvmate.icu:8080/lilly1/lilly1/47444
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1135
 #EXTINF:0 group-title="QC-Sport",CA TSN 3 HD-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/182185.ts
+#EXTINF:0 group-title="QC-Sport",CA TSN 3 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72485
+#EXTINF:0 group-title="QC-Sport",CA TSN 3 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72485
+#EXTINF:0 group-title="QC-Sport",CA TSN 3 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72485
+#EXTINF:0 group-title="QC-Sport",CA TSN 3 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72485
+#EXTINF:0 group-title="QC-Sport",CA TSN 3 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72485
+#EXTINF:0 group-title="QC-Sport",CA TSN 3 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72485
 #EXTINF:0 group-title="QC-Sport",CA TSN 3 UHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72485
 #EXTINF:0 group-title="QC-Sport",CA TSN 3 UHD-cdn.erost.us:8080@D-230715.done
@@ -9470,6 +9832,18 @@ http://ok4.club:25461/JJ020915/4073006144/451
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1136
 #EXTINF:0 group-title="QC-Sport",CA TSN 4 HD-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/182186.ts
+#EXTINF:0 group-title="QC-Sport",CA TSN 4 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72486
+#EXTINF:0 group-title="QC-Sport",CA TSN 4 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72486
+#EXTINF:0 group-title="QC-Sport",CA TSN 4 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72486
+#EXTINF:0 group-title="QC-Sport",CA TSN 4 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72486
+#EXTINF:0 group-title="QC-Sport",CA TSN 4 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72486
+#EXTINF:0 group-title="QC-Sport",CA TSN 4 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72486
 #EXTINF:0 group-title="QC-Sport",CA TSN 4 UHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72486
 #EXTINF:0 group-title="QC-Sport",CA TSN 4 UHD-cdn.erost.us:8080@D-230715.done
@@ -9574,6 +9948,18 @@ http://tvmate.icu:8080/lilly1/lilly1/16131
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1413
 #EXTINF:0 group-title="QC-Sport",CA TSN 5 HD-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/182187.ts
+#EXTINF:0 group-title="QC-Sport",CA TSN 5 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72487
+#EXTINF:0 group-title="QC-Sport",CA TSN 5 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72487
+#EXTINF:0 group-title="QC-Sport",CA TSN 5 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72487
+#EXTINF:0 group-title="QC-Sport",CA TSN 5 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72487
+#EXTINF:0 group-title="QC-Sport",CA TSN 5 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72487
+#EXTINF:0 group-title="QC-Sport",CA TSN 5 UHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72487
 #EXTINF:0 group-title="QC-Sport",CA TSN 5 UHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72487
 #EXTINF:0 group-title="QC-Sport",CA TSN 5 UHD-cdn.erost.us:8080@D-230715.done
@@ -9704,6 +10090,30 @@ http://hardcoremedia.xyz:80/uxY2s46qa/Z7xv5N1bcq/10818
 http://apontv.pm:80/live/231898749678226/1593574628/37197.ts
 #EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2-apontv.pm:80@D-230714.done
 http://apontv.pm:80/live/375617456966824/1593574628/37197.ts
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72449
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72449
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/72548
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72449
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/72548
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72449
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/72548
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/72548
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72449
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72548
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72449
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72548
 #EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/72449
 #EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-cdn.erost.us:8080@D-230715.done
