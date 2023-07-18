@@ -1,5 +1,5 @@
-#EXTM3U 7254
-#DATE 2023-07-17 17:39
+#EXTM3U 7221
+#DATE 2023-07-17 20:09
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -1082,6 +1082,8 @@ http://a.alcapone1.com:8080/Tommy/123456/27682
 http://sevi.2022spn.net:8080/AgustinHinojosAlex/pwhSv5eHSjAh/27682
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HD (P)-dns.p2.wtf:80@D-230705.done
 http://dns.p2.wtf:80/9zjjo38vys/b8b93zxoqm/162622
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HD (P)-dns.p2.wtf:80@D-230717.done
+http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/162622
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HD (P)-suadns.xyz:80@D-230715.done
 http://suadns.xyz:80/ypmrgu4o/pekmpytz/162622
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HD-176.9.16.190:8080@D-230705.done
@@ -1782,6 +1784,8 @@ http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/67808
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1386900
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 HD (1080P)-a.alcapone1.com:8080@D-230709.done
 http://a.alcapone1.com:8080/Tommy/123456/27686
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HD (P)-dns.p2.wtf:80@D-230717.done
+http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/162623
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HD-176.9.16.190:8080@D-230705.done
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1386551
 #EXTINF:0 group-title="FR-Bein",FR-Bein Sports 2 HD-1903.full57.us:8000@D-230623.done
@@ -2482,6 +2486,8 @@ http://a.alcapone1.com:8080/Tommy/123456/27690
 http://sevi.2022spn.net:8080/AgustinHinojosAlex/pwhSv5eHSjAh/27690
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 HD (1080P)-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/28900
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HD (P)-dns.p2.wtf:80@D-230717.done
+http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/162624
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HD-176.9.16.190:8080@D-230705.done
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1386552
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HD-372080500731297332.ot0711.xyz:80@D-230717.done
@@ -7208,6 +7214,8 @@ http://sevi.2022spn.net:8080/AgustinHinojosAlex/pwhSv5eHSjAh/27727
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/28924
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD (P)-dns.p2.wtf:80@D-230706.done
 http://dns.p2.wtf:80/rpkmho7j/x1giut7g/162657
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD (P)-dns.p2.wtf:80@D-230717.done
+http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/162657
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD (P)-suadns.xyz:80@D-230715.done
 http://suadns.xyz:80/Leonardopt/otttnvbpkr/162657
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD+-obsfullhd.tv:25461@D-230709.done
@@ -8408,6 +8416,8 @@ http://sevi.2022spn.net:8080/Angola/Ang0LA516/27730
 http://sevi.2022spn.net:8080/AgustinHinojosAlex/pwhSv5eHSjAh/27730
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD (1080P)-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/28926
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD (P)-dns.p2.wtf:80@D-230717.done
+http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/162692
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD (P)-stream.ultimate-tvservice.com:8080@D-230411.done
 http://stream.ultimate-tvservice.com:8080/willm2207/moye/167249
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD-104.244.73.237:8080@D-230714.done
@@ -8846,6 +8856,8 @@ http://sevi.2022spn.net:8080/AgustinHinojosAlex/pwhSv5eHSjAh/27733
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/28928
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD (P)-dns.p2.wtf:80@D-230706.done
 http://dns.p2.wtf:80/rpkmho7j/x1giut7g/162693
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD (P)-dns.p2.wtf:80@D-230717.done
+http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/162693
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD (P)-stream.ultimate-tvservice.com:8080@D-230411.done
 http://stream.ultimate-tvservice.com:8080/willm2207/moye/167250
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD (P)-suadns.xyz:80@D-230715.done
@@ -11166,6 +11178,8 @@ http://sevi.2022spn.net:8080/Angola/Ang0LA516/27708
 http://sevi.2022spn.net:8080/AgustinHinojosAlex/pwhSv5eHSjAh/27708
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD (P)-dns.p2.wtf:80@D-230705.done
 http://dns.p2.wtf:80/9zjjo38vys/b8b93zxoqm/162795
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD (P)-dns.p2.wtf:80@D-230717.done
+http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/162795
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/mag00:1A:79:50:21:A1/UVkRxKzFtC/77176
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-1.revportal.eu:80@D-230710.done
@@ -11800,6 +11814,8 @@ http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27712
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/27712
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD (1080P)-sevi.2022spn.net:8080@D-230626.done
 http://sevi.2022spn.net:8080/AgustinHinojosAlex/pwhSv5eHSjAh/27712
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD (P)-dns.p2.wtf:80@D-230717.done
+http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/162796
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD (P)-suadns.xyz:80@D-230715.done
 http://suadns.xyz:80/Leonardopt/otttnvbpkr/162796
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-1.revportal.eu:80@D-230710.done
@@ -12374,6 +12390,8 @@ http://xtremeport.com:80/Lorena2023/Lorena2023/1345665.ts
 http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/67774
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD (P)-dns.p2.wtf:80@D-230705.done
 http://dns.p2.wtf:80/9zjjo38vys/b8b93zxoqm/162797
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD (P)-dns.p2.wtf:80@D-230717.done
+http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/162797
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD (P)-suadns.xyz:80@D-230715.done
 http://suadns.xyz:80/Leonardopt/otttnvbpkr/162797
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-176.9.16.190:8080@D-230705.done
