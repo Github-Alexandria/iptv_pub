@@ -1,5 +1,5 @@
-#EXTM3U 7389
-#DATE 2023-07-18 11:53
+#EXTM3U 7541
+#DATE 2023-07-18 14:03
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -112,6 +112,10 @@ http://xtra.fireottplus.com:2052/642302570145/247679674992/96733
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96733
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 1-xtra.fireottplus.com:2052@D-230717.done
 http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96733
+#EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 1-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/230641037555/119482258817/96733
+#EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 1-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/319058287087/389271289827/96733
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 2-cloud.cdn-proxy.win:2052@D-230716.done
 http://cloud.cdn-proxy.win:2052/908067579441/483760576465/96736
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 2-es.xipi3.xyz:2052@D-230716.done
@@ -134,6 +138,10 @@ http://xtra.fireottplus.com:2052/642302570145/247679674992/96736
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96736
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 2-xtra.fireottplus.com:2052@D-230717.done
 http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96736
+#EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 2-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/230641037555/119482258817/96736
+#EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 2-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/319058287087/389271289827/96736
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 3-cloud.cdn-proxy.win:2052@D-230716.done
 http://cloud.cdn-proxy.win:2052/908067579441/483760576465/96738
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 3-es.xipi3.xyz:2052@D-230716.done
@@ -156,6 +164,10 @@ http://xtra.fireottplus.com:2052/642302570145/247679674992/96738
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96738
 #EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 3-xtra.fireottplus.com:2052@D-230717.done
 http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96738
+#EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 3-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/230641037555/119482258817/96738
+#EXTINF:0 group-title="FR-Bein",FR-4K BEIN SPORTS 3-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/319058287087/389271289827/96738
 #EXTINF:0 group-title="FR-Bein",FR-Bein max 4-freefly.dyndns.org:26650@D-230623.done
 http://freefly.dyndns.org:26650/pa0408/nkBtzqcg3kN7/84323
 #EXTINF:0 group-title="FR-Bein",FR-BEIN MAX 4 FHD-simone167.ddns.net:25461@D-230604.done
@@ -852,6 +864,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/144
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/144
 #EXTINF:0 group-title="FR-Bein",FR-beIN Sports 1-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/144
+#EXTINF:0 group-title="FR-Bein",FR-beIN Sports 1-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/144
 #EXTINF:0 group-title="FR-Bein",FR-beIN SPORTS 1-line.lemotv.cc:80@D-230506.done
 http://line.lemotv.cc:80/Ivica5274/juric4005/182316.ts
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1-linevip1.top:8080@D-230703.done
@@ -1608,6 +1622,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/145
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/145
 #EXTINF:0 group-title="FR-Bein",FR-beIN Sports 2-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/145
+#EXTINF:0 group-title="FR-Bein",FR-beIN Sports 2-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/145
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2-linevip1.top:8080@D-230703.done
 http://linevip1.top:8080/live/VIP0184168122893600/31681228936/374.ts
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2ˢᵈ-mag.diamondip.club:80@D-230709.done
@@ -2346,6 +2362,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/146
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/146
 #EXTINF:0 group-title="FR-Bein",FR-beIN Sports 3-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146
+#EXTINF:0 group-title="FR-Bein",FR-beIN Sports 3-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/146
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3-linevip1.top:8080@D-230703.done
 http://linevip1.top:8080/live/VIP0184168122893600/31681228936/375.ts
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3ˢᵈ-mag.diamondip.club:80@D-230709.done
@@ -2918,6 +2936,10 @@ http://xtra.fireottplus.com:2052/642302570145/247679674992/96731
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96731
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 1-xtra.fireottplus.com:2052@D-230717.done
 http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96731
+#EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 1-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/230641037555/119482258817/96731
+#EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 1-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/319058287087/389271289827/96731
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 2 -cloud.cdn-proxy.win:2052@D-230716.done
 http://cloud.cdn-proxy.win:2052/908067579441/483760576465/96734
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 2 -es.xipi3.xyz:2052@D-230716.done
@@ -2940,6 +2962,10 @@ http://xtra.fireottplus.com:2052/642302570145/247679674992/96734
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96734
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 2 -xtra.fireottplus.com:2052@D-230717.done
 http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96734
+#EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 2 -xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/230641037555/119482258817/96734
+#EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 2 -xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/319058287087/389271289827/96734
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 3 -cloud.cdn-proxy.win:2052@D-230716.done
 http://cloud.cdn-proxy.win:2052/908067579441/483760576465/96737
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 3 -es.xipi3.xyz:2052@D-230716.done
@@ -2962,6 +2988,10 @@ http://xtra.fireottplus.com:2052/642302570145/247679674992/96737
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96737
 #EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 3 -xtra.fireottplus.com:2052@D-230717.done
 http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96737
+#EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 3 -xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/230641037555/119482258817/96737
+#EXTINF:0 group-title="FR-Bein",FR-HD BEIN SPORTS 3 -xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/319058287087/389271289827/96737
 #EXTINF:0 group-title="FR-Bein",FR-Sport: BeIN Sports 1 HD-portal.alliptvapp.com:8080@D-230714.done
 http://portal.alliptvapp.com:8080/979385255854/060982824944/42217
 #EXTINF:0 group-title="FR-Bein",FR-Sport: BeIN Sports 1 HD-s.showplustv.pro:80@D-230716.done
@@ -4862,6 +4892,8 @@ http://dk.tgt6373.online:8080/rkn2501/rkn.1459/133749
 http://dk.tgt6373.online:8080/trk0120/mt.5200/133749
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport FHD FR-dk.tgt6373.online:8080@D-230710.done
 http://dk.tgt6373.online:8080/vizcr346/201121sxdx/133749
+#EXTINF:0 group-title="FR-Canal+",CANAL+ Sport FHD FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/4094
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport FHD FR-flix12.site:80@D-230708.done
 http://flix12.site:80/EdmondAsaniCH/o1rf2i1m3/16926
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport FHD FR-gffs.8kugur.online:80@D-230603.done
@@ -5444,6 +5476,8 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/2502/index.m3u8
 http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT HD HEVC FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/94679
 #EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT SD-apbest.re:80@D-230522.done
 http://apbest.re:80/live/214193490102780/1593574628/3941.ts
 #EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT SD-apontv.pm:80@D-230709.done
@@ -5510,6 +5544,10 @@ http://xtra.fireottplus.com:2052/642302570145/247679674992/96690
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96690
 #EXTINF:0 group-title="FR-Canal+",FR-4K CANAL+ SPORTS-xtra.fireottplus.com:2052@D-230717.done
 http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96690
+#EXTINF:0 group-title="FR-Canal+",FR-4K CANAL+ SPORTS-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/230641037555/119482258817/96690
+#EXTINF:0 group-title="FR-Canal+",FR-4K CANAL+ SPORTS-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/319058287087/389271289827/96690
 #EXTINF:0 group-title="FR-Canal+",FR-[-5H] CANAL+ SPORTS-airo-server.net:25461@D-230611.done
 http://airo-server.net:25461/19740arc1501/jHfQMDg/79021
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1-37.49.230.42:8080@D-230610.done
@@ -5908,6 +5946,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/286794
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/286794
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Premier League-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286794
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Premier League-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/286794
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE-linevip1.top:8080@D-230703.done
 http://linevip1.top:8080/live/VIP0184168122893600/31681228936/441.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE-moods42.com:80@D-230612.done
@@ -6300,6 +6340,8 @@ http://cmsott.com:8080/sabribeqirikek/vSWxHQvZnVet/30572
 http://cmsott.com:8080/Julyhoxhaah/UHe6BrkJyRG2/30572
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-cmsott.com:8080@D-230706.done
 http://cmsott.com:8080/JahiAdili/x95JGrUW45ut/30572
+#EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport-daleplaytv.vip:8080@D-230718.done
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/110333
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-evolved.host:8080@D-230528.done.NC
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/496605
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-evolved.host:8080@D-230604.done.NC
@@ -6380,6 +6422,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/143
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/143
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/143
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/143
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport-line.lemotv.cc:80@D-230506.done
 http://line.lemotv.cc:80/Ivica5274/juric4005/2160269.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-linevip1.top:8080@D-230703.done
@@ -6582,6 +6626,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/291175
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/291175
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 1-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/291175
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 1-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/291175
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 1-line.lemotv.cc:80@D-230506.done
 http://line.lemotv.cc:80/Ivica5274/juric4005/2160270.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 1-live2.unwiredtvnow.com:80@D-230526.done
@@ -6698,6 +6744,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298742
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/298742
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 2-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298742
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 2-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298742
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 2-santra.test96.xyz:80@D-230621.done
 http://santra.test96.xyz:80/live/xpma037es/3cpxt.qbm/226994.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT 2-scorpione.net:25461@D-230717.done
@@ -6802,6 +6850,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/291177
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/291177
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 3-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/291177
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 3-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/291177
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 3-line.lemotv.cc:80@D-230506.done
 http://line.lemotv.cc:80/Ivica5274/juric4005/2160271.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 3-pfsv.io:80@D-230706.done
@@ -6916,6 +6966,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297381
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297381
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 4-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297381
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 4-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297381
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 4-santra.test96.xyz:80@D-230621.done
 http://santra.test96.xyz:80/live/xpma037es/3cpxt.qbm/226996.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 4-test.kocdn.buzz:80@D-230712.done
@@ -7028,6 +7080,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/291178
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/291178
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 5-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/291178
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 5-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/291178
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 5-line.lemotv.cc:80@D-230506.done
 http://line.lemotv.cc:80/Ivica5274/juric4005/2160272.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport 5-pfsv.io:80@D-230706.done
@@ -7146,6 +7200,8 @@ http://be.iptivi.net:2086/beyaz6570/SzSAV8z3DZaS/123019
 http://bestsave.ltd:80/live/5544332211/1122334455/498540.ts
 #EXTINF:0 group-title="FR-Canal+",FR- Canal+ Sport FHD-clientbox.tv:80@D-230607.done.NC
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/17071
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-daleplaytv.vip:8080@D-230718.done
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/110331
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sportⓧ FHD-flowfhd.xyz:8080@D-230621.done
 http://flowfhd.xyz:8080/Carlos2022/Carlos2022/13768
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport FHD-freefly.dyndns.org:26650@D-230623.done
@@ -7790,6 +7846,10 @@ http://xtra.fireottplus.com:2052/642302570145/247679674992/96689
 http://xtra.fireottplus.com:2052/3913435847/mn463g7z/96689
 #EXTINF:0 group-title="FR-Canal+",FR-HD CANAL+ SPORTS-xtra.fireottplus.com:2052@D-230717.done
 http://xtra.fireottplus.com:2052/SW72441887/SW06956070/96689
+#EXTINF:0 group-title="FR-Canal+",FR-HD CANAL+ SPORTS-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/230641037555/119482258817/96689
+#EXTINF:0 group-title="FR-Canal+",FR-HD CANAL+ SPORTS-xtra.fireottplus.com:2052@D-230718.done
+http://xtra.fireottplus.com:2052/319058287087/389271289827/96689
 #EXTINF:0 group-title="FR-Canal+",FR-SAT CANAL+ SPORT HEVC-4k.boxip.org:8080@D-230525.done
 http://4k.boxip.org:8080/697303143383473/2052727552/55791.ts
 #EXTINF:0 group-title="FR-Canal+",FR-SAT CANAL+ SPORT HEVC-4k.boxip.org:8080@D-230627.done
@@ -8030,6 +8090,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297425
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297425
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Premier League-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297425
+#EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Premier League-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297425
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Premier League-test.kocdn.buzz:80@D-230712.done
 http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/158650
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Premier League-turkiye741nx.xyz:80@D-230620.done
@@ -8110,6 +8172,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297375
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297375
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 1-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297375
+#EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 1-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297375
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 1-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/160998
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 1-turkiye741nx.xyz:80@D-230620.done
@@ -8184,6 +8248,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297376
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297376
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 2-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297376
+#EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 2-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297376
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 2-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/160999
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 2-turkiye741nx.xyz:80@D-230620.done
@@ -8254,6 +8320,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297377
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297377
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 3-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297377
+#EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 3-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297377
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 3-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/161000
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 3-turkiye741nx.xyz:80@D-230620.done
@@ -8328,6 +8396,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297380
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297380
 #EXTINF:0 group-title="FR-Canal+",ZA: Canal+ Sport 4-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297380
+#EXTINF:0 group-title="FR-Canal+",ZA: Canal+ Sport 4-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297380
 #EXTINF:0 group-title="FR-Canal+",ZA: Canal+ Sport 4-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/161001
 #EXTINF:0 group-title="FR-Canal+",ZA: Canal+ Sport 4-turkiye741nx.xyz:80@D-230620.done
@@ -8406,6 +8476,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297383
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297383
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 5-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297383
+#EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 5-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297383
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 5-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/161002
 #EXTINF:0 group-title="FR-Canal+",ZA: CANAL+ Sport 5-turkiye741nx.xyz:80@D-230620.done
@@ -9396,6 +9468,8 @@ http://clientsportals.com:2095/x3bra4gj/fHxFhynt/603388
 http://clientsportals.tv:80/tjBaQGVgcV/yTdPcvwVjk/603388
 #EXTINF:0 group-title="FR-F1-Foot",Canal+ Foot FHD FR-lol.bz:2095@D-230630.done
 http://lol.bz:2095/jyZ3m1mf/dgRy1RphOn/603388
+#EXTINF:0 group-title="FR-F1-Foot",Canal+ Foot FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/1390
 #EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HD-4k.boxip.org:8080@D-230525.done
 http://4k.boxip.org:8080/697303143383473/2052727552/94165.ts
 #EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HD-4k.boxip.org:8080@D-230627.done
@@ -9518,6 +9592,8 @@ http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/155175
 http://revteam9.offshorerev.cc:80/SPIDER_NjKqYj/UrdiVGcB5A/155175
 #EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-spain1.offshorerev.cc:80@D-230718.done
 http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/155175
+#EXTINF:0 group-title="FR-F1-Foot",Canal+ Foot HEVC FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/94599
 #EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT SD-apbest.re:80@D-230522.done
 http://apbest.re:80/live/214193490102780/1593574628/99359.ts
 #EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT SD-apontv.pm:80@D-230305.done
@@ -9542,6 +9618,8 @@ http://www.premiumiptvmk.com:8080/F29175/cd31b677/295260
 http://4k.boxip.org:8080/695553539585239/2076559245/125701.ts
 #EXTINF:0 group-title="FR-F1-Foot",CANAL+ FORMULA1 FHD-negraott.com:80@D-230620.done
 http://negraott.com:80/vinzbattosai949/Ve1aVrep/104705
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FORMULA1 FHD FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/113020
 #EXTINF:0 group-title="FR-F1-Foot",CANAL+ FORMULA 1 HD-4k.boxip.org:8080@D-230627.done
 http://4k.boxip.org:8080/695553539585239/2076559245/81517.ts
 #EXTINF:0 group-title="FR-F1-Foot",Canal+ Formula 1 HD-enigmaiptv.tk:2095@D-230614.done
@@ -9848,6 +9926,8 @@ http://clientportal.link:80/0IK9OR6Blz6042/9RUfdP5822/95336
 http://clientportal.link:80/85sPX8orEAPV4215/xTXMFNUSM2YP3780/95336
 #EXTINF:0 group-title="FR-F1-Foot",Canal+ Formula 1 HD FR-cloudcdn.city:80@D-230524.done
 http://cloudcdn.city:80/DD3Fzuz13/uTEDuy6454/95336
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FORMULA1 HD FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/113019
 #EXTINF:0 group-title="FR-F1-Foot",Canal+ Formula 1 HD FR-sl.aabbyyzz.eu:80@D-230708.done
 http://sl.aabbyyzz.eu:80/nbqpaP2WlFRD348/NrBdO2009/95336
 #EXTINF:0 group-title="FR-F1-Foot",Canal+ Formula 1 HD FR-ssl.aabbyyzz.eu:80@D-230511.done
@@ -9912,6 +9992,8 @@ http://scorpione.net:25461/Filipe/123456/168108
 http://scorpione.net:25461/LHOCIEN/MO7AMED2/168108
 #EXTINF:0 group-title="FR-F1-Foot",FR-Canal+ F1 HD-176.9.16.190:8080@D-230705.done
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1387020
+#EXTINF:0 group-title="FR-F1-Foot",FR-Canal+ F1 HD-daleplaytv.vip:8080@D-230718.done
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/125373
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ F1 HD-ip.sltv.be:8080@D-230714.done
 http://ip.sltv.be:8080/ZT6sd7wLDT/Px2QGgwVKi/437472
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ F1 HD-maxhd.org:8080@D-230716.done
@@ -10072,6 +10154,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297371
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297371
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ Foot-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297371
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ Foot-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297371
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ Foot-line.lemotv.cc:80@D-230506.done
 http://line.lemotv.cc:80/Ivica5274/juric4005/182375.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-linevip1.top:8080@D-230703.done
@@ -10690,6 +10774,8 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295260
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/295260
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ Formula 1-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295260
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ Formula 1-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/295260
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA 1-linevip1.top:8080@D-230703.done
 http://linevip1.top:8080/live/VIP0184168122893600/31681228936/25879.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1-nepenthes.top:8080@D-230627.done
@@ -11088,6 +11174,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297372
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297372
 #EXTINF:0 group-title="FR-F1-Foot",ZA: Canal+ Foot-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297372
+#EXTINF:0 group-title="FR-F1-Foot",ZA: Canal+ Foot-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297372
 #EXTINF:0 group-title="FR-F1-Foot",ZA: Canal+ Foot-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/160997
 #EXTINF:0 group-title="FR-F1-Foot",ZA: Canal+ Foot-test.kocdn.buzz:80@D-230712.done
@@ -13042,6 +13130,8 @@ http://4r6.grande365.xyz:80/alp73645/camalan73645/90495.ts
 http://4r6.grande365.xyz:80/play/rDGSAoUZjdQ9c2fdcwJal5S_LvCW-jn8SvMhCYOy3bhWyXRZ3oHIKQ__GgVdJn47/ts
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 FHD FR-4r6.grande365.xyz:80@D-230705.done
 http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAlbbOILIjE6Lt3fRAhzTdRVY/ts
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 FHD FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/4086
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 FHD FR-flix12.site:80@D-230526.done
 http://flix12.site:80/7eiwwtgavd/sf45fvGre4/682956
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 FHD FR-flix12.site:80@D-230708.done
@@ -13384,10 +13474,14 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/KAMM9W36LM7AZT/2545/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-daleplaytv.vip:8080@D-230718.done
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/110341
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-dbef62ba.ottolok.net@D-230712.done
 http://dbef62ba.ottolok.net/iptv/WNCGQNRVKCR8BY/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-df44b665.ucomist.net@D-230712.done
 http://df44b665.ucomist.net/iptv/NQDEZ2CH2YYYQU/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/1170
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-dvag4ile.russtv.net@D-230705.done
 http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-e748b651.amazzin.pw@D-230604.done
@@ -13544,6 +13638,8 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/2545/index.m3u8
 http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC SPORT 1 HEVC FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/94692
 #EXTINF:0 group-title="FR-RMC",RMC SPORT 1 UHD-optimus-tv.com:8080@D-230626.done.NC
 http://optimus-tv.com:8080/Fabsl94/Honda1993!/520466
 #EXTINF:0 group-title="FR-RMC",RMC SPORT 1 UHD-optimustv.show:8080@D-230630.done.NC.dead
@@ -13588,6 +13684,8 @@ http://4r6.grande365.xyz:80/alp73645/camalan73645/90497.ts
 http://4r6.grande365.xyz:80/play/rDGSAoUZjdQ9c2fdcwJal5S_LvCW-jn8SvMhCYOy3bhSsGMMNLOE1OGQ7JHWeH1S/ts
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 FHD FR-4r6.grande365.xyz:80@D-230705.done
 http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAlQWDZYV0Y83Z1Tk-rCpyIFM/ts
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 FHD FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/4085
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 FHD FR-flix12.site:80@D-230526.done
 http://flix12.site:80/7eiwwtgavd/sf45fvGre4/682957
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 FHD FR-flix12.site:80@D-230708.done
@@ -13912,6 +14010,8 @@ http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2546/index.m3u8
 http://dbef62ba.ottolok.net/iptv/WNCGQNRVKCR8BY/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-df44b665.ucomist.net@D-230712.done
 http://df44b665.ucomist.net/iptv/NQDEZ2CH2YYYQU/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/1169
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-dvag4ile.russtv.net@D-230705.done
 http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-e748b651.amazzin.pw@D-230604.done
@@ -14136,6 +14236,8 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/2546/index.m3u8
 http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC SPORT 2 HEVC FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/94691
 #EXTINF:0 group-title="FR-RMC",RMC SPORT 3 FHD-optimustv.show:8080@D-230630.done.NC.dead
 http://optimustv.show:8080/Gunayyali2022/2jaRGDSMUd4x/520473
 #EXTINF:0 group-title="FR-RMC",RMC SPORT 3 FHD-tesslatv.net:80@D-230407.done
@@ -14242,6 +14344,8 @@ http://clientportal.link:80/keMQp34595/qfJ9QI6272/21522
 http://clientportal.link:80/0IK9OR6Blz6042/9RUfdP5822/21522
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 FHD FR-clientportal.link:80@D-230708.done.NC
 http://clientportal.link:80/85sPX8orEAPV4215/xTXMFNUSM2YP3780/21522
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 FHD FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/4084
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 FHD FR-flix12.site:80@D-230708.done
 http://flix12.site:80/EdmondAsaniCH/o1rf2i1m3/625250
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 FHD FR-flix12.site:80@D-230708.done
@@ -14536,6 +14640,8 @@ http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2547/index.m3u8
 http://dbef62ba.ottolok.net/iptv/WNCGQNRVKCR8BY/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-df44b665.ucomist.net@D-230712.done
 http://df44b665.ucomist.net/iptv/NQDEZ2CH2YYYQU/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/1168
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-dvag4ile.russtv.net@D-230705.done
 http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-e748b651.amazzin.pw@D-230604.done
@@ -14694,6 +14800,8 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/2547/index.m3u8
 http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC SPORT 3 HEVC FR-dss.theoneip.tv:8080@D-230718.done
+http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/94690
 #EXTINF:0 group-title="FR-RMC",SP RMC SPORT 1 FHD-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/507689
 #EXTINF:0 group-title="FR-RMC",SP RMC SPORT 1 FHD-tv.trexiptv.com:80@D-230715.done
