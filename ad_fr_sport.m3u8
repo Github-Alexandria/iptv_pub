@@ -1,5 +1,5 @@
-#EXTM3U 7221
-#DATE 2023-07-17 20:09
+#EXTM3U 7298
+#DATE 2023-07-17 23:58
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -524,6 +524,16 @@ http://apbest.re:80/live/214193490102780/1593574628/591.ts
 http://apontv.pm:80/live/231898749678226/1593574628/591.ts
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORT 3 FHD-apontv.pm:80@D-230714.done
 http://apontv.pm:80/live/375617456966824/1593574628/591.ts
+#EXTINF:0 group-title="FR-Bein",FR-BEINSPORT 3 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53526
+#EXTINF:0 group-title="FR-Bein",FR-BEINSPORT 3 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53526
+#EXTINF:0 group-title="FR-Bein",FR-BEINSPORT 3 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53526
+#EXTINF:0 group-title="FR-Bein",FR-BEINSPORT 3 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53526
+#EXTINF:0 group-title="FR-Bein",FR-BEINSPORT 3 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53526
 #EXTINF:0 group-title="FR-Bein",FR-BEINSPORT 3 FHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53526
 #EXTINF:0 group-title="FR-Bein",FR-BEINSPORT 3 FHD-cdn.erost.us:8080@D-230715.done
@@ -978,6 +988,18 @@ http://arrepiado.xyz:8080/v6iZxPxUTD/1sejrGhMtt/67880
 http://bestsave.ltd:80/live/5544332211/1122334455/498449.ts
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORTS 1 FHD-cafelisboa.work:8000@D-230519.done
 http://cafelisboa.work:8000/carloseduardo/BPoixdpCog/23564
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/53524
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53524
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53524
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53524
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53524
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53524
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 FHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53524
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 FHD-cdn.erost.us:8080@D-230715.done
@@ -1116,6 +1138,18 @@ http://alienstreams.fi:7070/nordicstariptv3410/Harald952/63889.ts
 http://amonra.xyz:8080/783:memato13223/UnXkSGzqjNC6/26689
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORTS 1 HD-cafelisboa.work:8000@D-230519.done
 http://cafelisboa.work:8000/carloseduardo/BPoixdpCog/23565
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53527
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53527
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53527
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53527
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/53527
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53527
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 HD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53527
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 HD-cdn.erost.us:8080@D-230715.done
@@ -1810,6 +1844,18 @@ http://amonra.xyz:8080/783:memato13223/UnXkSGzqjNC6/26690
 http://bestsave.ltd:80/live/5544332211/1122334455/498493.ts
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORTS 2 HD-cafelisboa.work:8000@D-230519.done
 http://cafelisboa.work:8000/carloseduardo/BPoixdpCog/23567
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53528
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53528
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53528
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53528
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/53528
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53528
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 HD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53528
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 HD-cdn.erost.us:8080@D-230715.done
@@ -2100,6 +2146,8 @@ http://germanydnsx15.com:8080/furkan12/12furkan/88283
 http://germanydnsx15.com:8080/ismailar/1021Zcr1021/88283
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 UHD-gu.iptivi.net:2086@D-230421.done
 http://gu.iptivi.net:2086/guzel5943/xytRW2945g/112798
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 VIP-axr.life:80@D-230717.done
+http://axr.life:80/731387/357011/1044219
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 (D)-scorpione.net:25461@D-230717.done
 http://scorpione.net:25461/Filipe/123456/168498
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 (D)-scorpione.net:25461@D-230717.done
@@ -2510,6 +2558,18 @@ http://amonra.xyz:8080/783:memato13223/UnXkSGzqjNC6/26691
 http://bestsave.ltd:80/live/5544332211/1122334455/498494.ts
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORTS 3 HD-cafelisboa.work:8000@D-230519.done
 http://cafelisboa.work:8000/carloseduardo/BPoixdpCog/23568
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/53529
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53529
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53529
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53529
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53529
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53529
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 HD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53529
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 HD-cdn.erost.us:8080@D-230715.done
@@ -8476,6 +8536,18 @@ http://amonra.xyz:8080/783:memato13223/UnXkSGzqjNC6/26727
 http://be.iptivi.net:2086/beyaz6570/SzSAV8z3DZaS/745
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-boomtivi.xyz:80@D-230705.done
 http://boomtivi.xyz:80/play/D_Mogcq4EtwRXChkvFCLJsTxi0FJnP2Fy1j4Qz6qulQ
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53537
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53537
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53537
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53537
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/53537
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53537
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53537
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-cdn.erost.us:8080@D-230715.done
@@ -8904,6 +8976,18 @@ http://amazingiptv.live:8080/cihan/esenim81/293138
 http://amonra.xyz:8080/783:memato13223/UnXkSGzqjNC6/26728
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD-be.iptivi.net:2086@D-230425.done
 http://be.iptivi.net:2086/beyaz6570/SzSAV8z3DZaS/744
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53538
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53538
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53538
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53538
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/53538
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53538
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53538
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD-cdn.erost.us:8080@D-230715.done
@@ -9176,6 +9260,8 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58770
 http://2hubs.ddns.net:25461/Sanders/Sanders/58770
 #EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-2hubs.ddns.net:25461@D-230716.done
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58770
+#EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-2hubs.ddns.net:25461@D-230717.done
+http://2hubs.ddns.net:25461/BabNour/telegrramm/58770
 #EXTINF:0 group-title="FR-Eurosport",FR-Sport: EuroSport 1 HD-portal.alliptvapp.com:8080@D-230714.done
 http://portal.alliptvapp.com:8080/979385255854/060982824944/42203
 #EXTINF:0 group-title="FR-Eurosport",FR-Sport: EuroSport 1 HD-s.showplustv.pro:80@D-230716.done
@@ -10974,6 +11060,18 @@ http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1386728
 http://372080500731444631.ot0711.xyz:80/play/vi0208715/Ht3MPB8Rxd3/444631.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/23196
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/53510
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53510
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53510
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53510
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53510
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53510
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53510
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-cdn.erost.us:8080@D-230715.done
@@ -11280,6 +11378,18 @@ http://appfactory.group:8080/z7ngPcVwjO/Ctx1Lz6kla/1999
 http://be.iptivi.net:2086/beyaz6570/SzSAV8z3DZaS/742
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 1 HD-cafelisboa.work:8000@D-230519.done
 http://cafelisboa.work:8000/carloseduardo/BPoixdpCog/23829
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53509
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53509
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53509
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53509
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/53509
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53509
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53509
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD-cdn.erost.us:8080@D-230715.done
@@ -11918,6 +12028,18 @@ http://appfactory.group:8080/z7ngPcVwjO/Ctx1Lz6kla/2000
 http://be.iptivi.net:2086/beyaz6570/SzSAV8z3DZaS/741
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 2 HD-cafelisboa.work:8000@D-230519.done
 http://cafelisboa.work:8000/carloseduardo/BPoixdpCog/23832
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53511
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53511
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53511
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53511
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/53511
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53511
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53511
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD-cdn.erost.us:8080@D-230715.done
@@ -12284,6 +12406,18 @@ http://372080500731506970.ot0711.xyz:80/play/vi0208715/Ht3MPB8Rxd3/506970.ts
 http://5.44.253.151:80/Selver123/Selver123/1345665.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/23198
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53514
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53514
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53514
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53514
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/53514
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53514
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53514
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-cdn.erost.us:8080@D-230715.done
@@ -12444,6 +12578,18 @@ http://appfactory.group:8080/z7ngPcVwjO/Ctx1Lz6kla/2001
 http://be.iptivi.net:2086/beyaz6570/SzSAV8z3DZaS/740
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 3 HD-cafelisboa.work:8000@D-230519.done
 http://cafelisboa.work:8000/carloseduardo/BPoixdpCog/23834
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/64096133/46555874/53513
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/29881768/81654876/53513
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/53513
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/83792837/82738278/53513
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/34263844/14193048/53513
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 HD-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/AGMO4527/4527AGMO/53513
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 HD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/21980101066/98654156/53513
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 HD-cdn.erost.us:8080@D-230715.done
