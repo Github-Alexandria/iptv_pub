@@ -1,5 +1,5 @@
-#EXTM3U 7492
-#DATE 2023-07-18 08:20
+#EXTM3U 7517
+#DATE 2023-07-18 11:49
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230623.done
 http://tv.pro-ott.com:25443/live/boko/0PV4GYNUGS/116752.ts
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230624.done
@@ -2156,6 +2156,8 @@ http://playhispano.org:8080/global0030/6C3SAoHgqX/253715
 http://playhispano.org:8080/rogeraguilar/roger2022/253715
 #EXTINF:0 group-title="QC-Info",CA: Ici RDI (FR)-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/253715
+#EXTINF:0 group-title="QC-Info",CA: Ici RDI (FR)-playhispano.org:8080@D-230718.done
+http://playhispano.org:8080/firesp11/2023C/253715
 #EXTINF:0 group-title="QC-Info",CA: ICI RDI (FR)-s.showplustv.pro:80@D-230716.done
 http://s.showplustv.pro:80/mustafaali909/8744367/64304
 #EXTINF:0 group-title="QC-Info",CA: ICI RDI (FR)-sevi.2022spn.net:8080@D-230625.done
@@ -2262,6 +2264,8 @@ http://onrev.xyz:80/SPIDER_ZeVbkq/4W6tPmVCrP/156012
 http://revteam9.offshorerev.cc:80/SPIDER_NjKqYj/UrdiVGcB5A/156012
 #EXTINF:0 group-title="QC-Info",CA: ICI RDI-s.showplustv.pro:80@D-230716.done
 http://s.showplustv.pro:80/mustafaali909/8744367/64335
+#EXTINF:0 group-title="QC-Info",CA: ICI  RDI-spain1.offshorerev.cc:80@D-230718.done
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/156012
 #EXTINF:0 group-title="QC-Info",CA: ICI RDI-tesslatv.net:80@D-230407.done
 http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/72935.ts
 #EXTINF:0 group-title="QC-Info",CA: Ici RDI-unblock2.king-box.tv:80@D-230618.done
@@ -5352,12 +5356,16 @@ http://suadns.xyz:80/11997152870/34939156n/159522
 http://suadns.xyz:80/Leonardopt/otttnvbpkr/159522
 #EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS 2 HD-ip365.cx:80@D-230606.done
 http://ip365.cx:80/8432671147/7922665246/172231
+#EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS 2 HD-negraott.com:80@D-230718.done
+http://negraott.com:80/vinzbattosai949/Ve1aVrep/167375
 #EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS HD (R)-dns.p2.wtf:80@D-230717.done
 http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/159523
 #EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS HD (R)-suadns.xyz:80@D-230712.done
 http://suadns.xyz:80/11997152870/34939156n/159523
 #EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS HD-ip365.cx:80@D-230606.done
 http://ip365.cx:80/8432671147/7922665246/172232
+#EXTINF:0 group-title="QC-Sport",CA (FR) TVA SPORTS HD-negraott.com:80@D-230718.done
+http://negraott.com:80/vinzbattosai949/Ve1aVrep/167376
 #EXTINF:0 group-title="QC-Sport",CA-FR:  RDS-2678ydr.xyz:80@D-230712.done
 http://2678ydr.xyz:80/live/oyabora/H18xy6FX22/229310.ts
 #EXTINF:0 group-title="QC-Sport",CA - FR:RDS-2hubs.ddns.net:25461@D-230610.done
@@ -5378,6 +5386,8 @@ http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61172
 http://2hubs.ddns.net:25461/Sanders/Sanders/61172
 #EXTINF:0 group-title="QC-Sport",CA-FR:  RDS-fanatik77.xyz:80@D-230708.done
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/166374
+#EXTINF:0 group-title="QC-Sport",CA-FR:  RDS-fanatik77.xyz:80@D-230718.done
+http://fanatik77.xyz:80/idriss/vMK3BVNTAP/166374
 #EXTINF:0 group-title="QC-Sport",CA-FR:  RDS-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/109558
 #EXTINF:0 group-title="QC-Sport",CA - FR:RDS-scorpione.net:25461@D-230712.done
@@ -5446,6 +5456,8 @@ http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61165
 http://2hubs.ddns.net:25461/Sanders/Sanders/61165
 #EXTINF:0 group-title="QC-Sport",CA-FR:  TVA SPORTS-fanatik77.xyz:80@D-230708.done
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/166382
+#EXTINF:0 group-title="QC-Sport",CA-FR:  TVA SPORTS-fanatik77.xyz:80@D-230718.done
+http://fanatik77.xyz:80/idriss/vMK3BVNTAP/166382
 #EXTINF:0 group-title="QC-Sport",CA-FR: TVA SPORTS-fuzzyunicorns.net:80@D-230716.done
 http://fuzzyunicorns.net:80/live/closincali/u4F1vfyuh2/564782.ts
 #EXTINF:0 group-title="QC-Sport",CA-FR:  TVA SPORTS-ip.xtremetv.eu:8000@D-230716.done
@@ -6414,6 +6426,8 @@ http://playhispano.org:8080/MauricioRivas/7YOsbvj8T2/253723
 http://playhispano.org:8080/rogeraguilar/roger2022/253723
 #EXTINF:0 group-title="QC-Sport",CA: RDS-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/253723
+#EXTINF:0 group-title="QC-Sport",CA: RDS-playhispano.org:8080@D-230718.done
+http://playhispano.org:8080/firesp11/2023C/253723
 #EXTINF:0 group-title="QC-Sport",CA: RDS-revteam9.offshorerev.cc:80@D-230717.done
 http://revteam9.offshorerev.cc:80/SPIDER_NjKqYj/UrdiVGcB5A/156047
 #EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230708.done.best
@@ -6434,6 +6448,8 @@ http://sansat.org:25461/OZOAUVSNLJ/itphLhmetUPzHbX/94171
 http://scorpione.net:25461/Filipe/123456/158201
 #EXTINF:0 group-title="QC-Sport",CA: RDS-scorpione.net:25461@D-230717.done
 http://scorpione.net:25461/LHOCIEN/MO7AMED2/158201
+#EXTINF:0 group-title="QC-Sport",CA: RDS-spain1.offshorerev.cc:80@D-230718.done
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/156047
 #EXTINF:0 group-title="QC-Sport",CA: RDS-spidertv.xyz:80@D-230709.done
 http://spidertv.xyz:80/11111111/123456/514962
 #EXTINF:0 group-title="QC-Sport",CA: RDS -unblock2.king-box.tv:80@D-230618.done
@@ -6540,6 +6556,8 @@ http://sansat.org:25461/OZOAUVSNLJ/itphLhmetUPzHbX/94172
 http://scorpione.net:25461/Filipe/123456/158202
 #EXTINF:0 group-title="QC-Sport",CA: RDS 2-scorpione.net:25461@D-230717.done
 http://scorpione.net:25461/LHOCIEN/MO7AMED2/158202
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-spain1.offshorerev.cc:80@D-230718.done
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/156048
 #EXTINF:0 group-title="QC-Sport",CA: RDS 2-spidertv.xyz:80@D-230709.done
 http://spidertv.xyz:80/11111111/123456/514963
 #EXTINF:0 group-title="QC-Sport",CA: RDS 2 HD-263750967376315555.ot0711.xyz:80@D-230712.done
@@ -6904,6 +6922,8 @@ http://maxhd.org:8080/VASvYOTkDm/5fMRNcq3bg/197399
 http://onrev.xyz:80/SPIDER_ZeVbkq/4W6tPmVCrP/156081
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-revteam9.offshorerev.cc:80@D-230717.done
 http://revteam9.offshorerev.cc:80/SPIDER_NjKqYj/UrdiVGcB5A/156081
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-spain1.offshorerev.cc:80@D-230718.done
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/156081
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-unblock2.king-box.tv:80@D-230618.done
 http://unblock2.king-box.tv:80/zyZaAu0E/jRrfDANjZr/7785
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1 HD-263750967376316548.ot0711.xyz:80@D-230712.done
@@ -7194,6 +7214,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/253736
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/253736
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/253736
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2-playhispano.org:8080@D-230718.done
+http://playhispano.org:8080/firesp11/2023C/253736
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-s.conecty.in:80@D-230715.done
 http://s.conecty.in:80/5743465047/9226260512/1255
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-s.conecty.in:80@D-230715.done
@@ -7300,6 +7322,8 @@ http://monte.mare7.co:8000/live/dXQXjEmsfT/CRHfuJqwzq/154933.ts
 http://onrev.xyz:80/SPIDER_ZeVbkq/4W6tPmVCrP/156082
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-revteam9.offshorerev.cc:80@D-230717.done
 http://revteam9.offshorerev.cc:80/SPIDER_NjKqYj/UrdiVGcB5A/156082
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-spain1.offshorerev.cc:80@D-230718.done
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/156082
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-unblock2.king-box.tv:80@D-230618.done
 http://unblock2.king-box.tv:80/zyZaAu0E/jRrfDANjZr/3469
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-unblock2.king-box.tv:80@D-230618.done
@@ -7604,6 +7628,8 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/253737
 http://playhispano.org:8080/userlw/led5120/253737
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/rogeraguilar/roger2022/253737
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3-playhispano.org:8080@D-230718.done
+http://playhispano.org:8080/firesp11/2023C/253737
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-s.conecty.in:80@D-230715.done
 http://s.conecty.in:80/5743465047/9226260512/1225
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-s.conecty.in:80@D-230715.done
@@ -7718,6 +7744,8 @@ http://premiumultra.xyz:8080/931124228tv/3dh78r/31735
 http://premiumultra.xyz:8080/a3s3d3g5/d5f4c5e3/31735
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-revteam9.offshorerev.cc:80@D-230717.done
 http://revteam9.offshorerev.cc:80/SPIDER_NjKqYj/UrdiVGcB5A/156083
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-spain1.offshorerev.cc:80@D-230718.done
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/156083
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-unblock2.king-box.tv:80@D-230618.done
 http://unblock2.king-box.tv:80/zyZaAu0E/jRrfDANjZr/3470
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3 HD-263750967376317106.ot0711.xyz:80@D-230712.done
@@ -8026,6 +8054,8 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/253738
 http://playhispano.org:8080/userlw/led5120/253738
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/rogeraguilar/roger2022/253738
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4-playhispano.org:8080@D-230718.done
+http://playhispano.org:8080/firesp11/2023C/253738
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-s.conecty.in:80@D-230715.done
 http://s.conecty.in:80/5743465047/9226260512/1237
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-s.conecty.in:80@D-230715.done
@@ -8180,6 +8210,8 @@ http://premiumultra.xyz:8080/931124228tv/3dh78r/31736
 http://premiumultra.xyz:8080/a3s3d3g5/d5f4c5e3/31736
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-revteam9.offshorerev.cc:80@D-230717.done
 http://revteam9.offshorerev.cc:80/SPIDER_NjKqYj/UrdiVGcB5A/156084
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-spain1.offshorerev.cc:80@D-230718.done
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/156084
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-unblock2.king-box.tv:80@D-230618.done
 http://unblock2.king-box.tv:80/zyZaAu0E/jRrfDANjZr/3471
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-unblock2.king-box.tv:80@D-230618.done
@@ -8584,6 +8616,8 @@ http://monte.mare7.co:8000/live/dXQXjEmsfT/CRHfuJqwzq/154928.ts
 http://onrev.xyz:80/SPIDER_ZeVbkq/4W6tPmVCrP/156085
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-revteam9.offshorerev.cc:80@D-230717.done
 http://revteam9.offshorerev.cc:80/SPIDER_NjKqYj/UrdiVGcB5A/156085
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-spain1.offshorerev.cc:80@D-230718.done
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/156085
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-unblock2.king-box.tv:80@D-230618.done
 http://unblock2.king-box.tv:80/zyZaAu0E/jRrfDANjZr/3472
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5 HD-263750967376316551.ot0711.xyz:80@D-230712.done
@@ -8938,6 +8972,8 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/253740
 http://playhispano.org:8080/userlw/led5120/253740
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/rogeraguilar/roger2022/253740
+#EXTINF:0 group-title="QC-Sport",CA: TVA Sports-playhispano.org:8080@D-230718.done
+http://playhispano.org:8080/firesp11/2023C/253740
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230611.done.best
 http://sansat.net:25461/x4MPNC2oHMASvRZ/BvKuNVnpgBG7pNk/94207
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230612.done.best
@@ -9134,6 +9170,8 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/253741
 http://playhispano.org:8080/userlw/led5120/253741
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports 2-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/rogeraguilar/roger2022/253741
+#EXTINF:0 group-title="QC-Sport",CA: TVA Sports 2-playhispano.org:8080@D-230718.done
+http://playhispano.org:8080/firesp11/2023C/253741
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS 2-test.kocdn.buzz:80@D-230712.done
 http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/166364
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS 2-vole1.rsvole22s.xyz:80@D-230714.done
