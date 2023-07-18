@@ -1,5 +1,5 @@
-#EXTM3U 6903
-#DATE 2023-07-18 08:25
+#EXTM3U 6937
+#DATE 2023-07-18 11:55
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNGV0n2cQ-AkJ3spjREqEr0A/ts
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-elmonkey.us:25461@D-230512.done
@@ -4540,6 +4540,8 @@ http://dar-4all.com:8080/amjad219832/m5zDNBstv2/237543
 http://humiptv.live:8080/live/NiteSH94/RF551585694/18451.ts
 #EXTINF:0 group-title="US-BEIN",USA: BEIN SPORTS HD-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/94445
+#EXTINF:0 group-title="US-BEIN",USA: BEIN SPORTS HD-medotv.nl:8000@D-230718.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94445
 #EXTINF:0 group-title="US-BEIN",USA: beIN SPORTS HD-monte.mare7.co:8000@D-230627.done
 http://monte.mare7.co:8000/live/dXQXjEmsfT/CRHfuJqwzq/152459.ts
 #EXTINF:0 group-title="US-BEIN",USA : BeIN SPORTS HD-ott1.co:8080@D-230627.done
@@ -4594,6 +4596,8 @@ http://dar-4all.com:8080/amjad219832/m5zDNBstv2/237544
 http://extm3u.zapto.quest:80/PPp11O6pxw/PrkvKhHDVd/387735
 #EXTINF:0 group-title="US-BEIN",USA: beIN Sports Xtra HD-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/94452
+#EXTINF:0 group-title="US-BEIN",USA: beIN Sports Xtra HD-medotv.nl:8000@D-230718.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94452
 #EXTINF:0 group-title="US-BEIN",USA: Bein Sports Xtra  HD-monte.mare7.co:8000@D-230627.done
 http://monte.mare7.co:8000/live/dXQXjEmsfT/CRHfuJqwzq/155355.ts
 #EXTINF:0 group-title="US-BEIN",USA: BeIN Sports Xtra HD-portal.alliptvapp.com:8080@D-230714.done
@@ -5288,6 +5292,8 @@ http://7go.xyz:8080/keila91672855/91672855keila/305026
 http://7go.xyz:8080/5327834/364253/305026
 #EXTINF:0 group-title="US-ESPN",US-Espn 2 HD-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/linha523/009x003D/305026
+#EXTINF:0 group-title="US-ESPN",US-Espn 2 HD-7go.xyz:8080@D-230718.done
+http://7go.xyz:8080/edmundolisboa/2021edmundo/305026
 #EXTINF:0 group-title="US-ESPN",US-ESPN 2 HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/211525711395/9062122146403628730aea/77201
 #EXTINF:0 group-title="US-ESPN",US-ESPN 2 HD-a36m.net:8080@D-230704.done
@@ -6456,6 +6462,8 @@ http://ghost-x99.uno:8080/BKs00tQ67o/DtmBBqRQ20/23342
 http://humiptv.live:8080/live/NiteSH94/RF551585694/53.ts
 #EXTINF:0 group-title="US-ESPN",USA: ESPN 2 HD-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/94456
+#EXTINF:0 group-title="US-ESPN",USA: ESPN 2 HD-medotv.nl:8000@D-230718.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94456
 #EXTINF:0 group-title="US-ESPN",USA: ESPN 2  HD-monte.mare7.co:8000@D-230627.done
 http://monte.mare7.co:8000/live/dXQXjEmsfT/CRHfuJqwzq/155278.ts
 #EXTINF:0 group-title="US-ESPN",USA: ESPN 2 HD-nxtplay.xyz:8080@D-230512.done
@@ -6492,6 +6500,8 @@ http://2678ydr.xyz:80/live/oyabora/H18xy6FX22/229068.ts
 http://gtv.best:80/play/WNbjHjWz75ueXqknGpioEyCpISJNbqOYlMPawzENXvo/ts
 #EXTINF:0 group-title="US-ESPN",USA: ESPN HD-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/94459
+#EXTINF:0 group-title="US-ESPN",USA: ESPN HD-medotv.nl:8000@D-230718.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94459
 #EXTINF:0 group-title="US-ESPN",USA: ESPN  HD-monte.mare7.co:8000@D-230627.done
 http://monte.mare7.co:8000/live/dXQXjEmsfT/CRHfuJqwzq/155271.ts
 #EXTINF:0 group-title="US-ESPN",USA: ESPN HD-nxtplay.xyz:8080@D-230512.done
@@ -13614,6 +13624,8 @@ http://ky-iptv.com:80/clayton21/clayton2021/2706810.ts
 http://xtremeport.com:80/Lorena2023/Lorena2023/2706810.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 1 HD-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/94524
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 1 HD-medotv.nl:8000@D-230718.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94524
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 1 HD-test.kocdn.buzz:80@D-230712.done
 http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/166739
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 1 HD-vole1.rsvole22s.xyz:80@D-230714.done
@@ -13666,6 +13678,8 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/170276
 http://playhispano.org:8080/userlw/led5120/170276
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 2 HD-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/94525
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 2 HD-medotv.nl:8000@D-230718.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94525
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 2 HD-test.kocdn.buzz:80@D-230712.done
 http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/166740
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 2 HD-vole1.rsvole22s.xyz:80@D-230714.done
@@ -13696,6 +13710,8 @@ http://cdn.erost.us:8080/loginquarto/70283372/69395
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/103034
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 3 HD-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/94526
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 3 HD-medotv.nl:8000@D-230718.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94526
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 3 HD-test.kocdn.buzz:80@D-230712.done
 http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/166741
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 3 HD-vole1.rsvole22s.xyz:80@D-230714.done
