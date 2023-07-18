@@ -1,5 +1,5 @@
-#EXTM3U 7298
-#DATE 2023-07-17 23:58
+#EXTM3U 7313
+#DATE 2023-07-18 07:39
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -14570,3 +14570,59 @@ http://fast.bounceme.net:8080/live/nsCDexFcpy/rr7FEd7f9d/4096.ts
 http://fast.bounceme.net:8080/live/nsCDexFcpy/rr7FEd7f9d/4097.ts
 #EXTINF:0 group-title="UK-Eurosport",France -EUROSPORT 1 HD-iptv-gmeuro.dyndns.tv:25461@D-230620.done
 http://iptv-gmeuro.dyndns.tv:25461/mc_Cgerla/GCiropass/95423
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-z5wyafgd.rostelekom.xyz@D-230718.new
+http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/2502/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-z5wyafgd.rostelekom.xyz@D-230718.new
+http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-z5wyafgd.rostelekom.xyz@D-230718.new
+http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-z5wyafgd.rostelekom.xyz@D-230718.new
+http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/2547/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-eje0iyhn.otttv.pw@D-230718.new
+http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/2502/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-eje0iyhn.otttv.pw@D-230718.new
+http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-eje0iyhn.otttv.pw@D-230718.new
+http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-eje0iyhn.otttv.pw@D-230718.new
+http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/2547/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-cv7jhvdz.otttv.pw@D-230718.new
+http://cv7jhvdz.otttv.pw/iptv/VX3A3MXVB42Q3Z/2502/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-cv7jhvdz.otttv.pw@D-230718.new
+http://cv7jhvdz.otttv.pw/iptv/VX3A3MXVB42Q3Z/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-cv7jhvdz.otttv.pw@D-230718.new
+http://cv7jhvdz.otttv.pw/iptv/VX3A3MXVB42Q3Z/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-cv7jhvdz.otttv.pw@D-230718.new
+http://cv7jhvdz.otttv.pw/iptv/VX3A3MXVB42Q3Z/2547/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-9zxma7fc.megatv.fun@D-230718.new
+http://9zxma7fc.megatv.fun/iptv/8TKSWD24N34ZSS/2502/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-9zxma7fc.megatv.fun@D-230718.new
+http://9zxma7fc.megatv.fun/iptv/8TKSWD24N34ZSS/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-9zxma7fc.megatv.fun@D-230718.new
+http://9zxma7fc.megatv.fun/iptv/8TKSWD24N34ZSS/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-9zxma7fc.megatv.fun@D-230718.new
+http://9zxma7fc.megatv.fun/iptv/8TKSWD24N34ZSS/2547/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-kh0logpn.tvclub.xyz@D-230718.new
+http://kh0logpn.tvclub.xyz/iptv/64KWGGSXMB5Z6F/2502/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-kh0logpn.tvclub.xyz@D-230718.new
+http://kh0logpn.tvclub.xyz/iptv/64KWGGSXMB5Z6F/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-kh0logpn.tvclub.xyz@D-230718.new
+http://kh0logpn.tvclub.xyz/iptv/64KWGGSXMB5Z6F/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-kh0logpn.tvclub.xyz@D-230718.new
+http://kh0logpn.tvclub.xyz/iptv/64KWGGSXMB5Z6F/2547/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-deryabin.akadatel.com@D-230718.new
+http://deryabin.akadatel.com/iptv/U3RQVZ5SK9LC2F/2502/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-deryabin.akadatel.com@D-230718.new
+http://deryabin.akadatel.com/iptv/U3RQVZ5SK9LC2F/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-deryabin.akadatel.com@D-230718.new
+http://deryabin.akadatel.com/iptv/U3RQVZ5SK9LC2F/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-deryabin.akadatel.com@D-230718.new
+http://deryabin.akadatel.com/iptv/U3RQVZ5SK9LC2F/2547/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-8a3d4c2a.edmonst.net@D-230718.new
+http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/2502/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-8a3d4c2a.edmonst.net@D-230718.new
+http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-8a3d4c2a.edmonst.net@D-230718.new
+http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-8a3d4c2a.edmonst.net@D-230718.new
+http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/2547/index.m3u8
