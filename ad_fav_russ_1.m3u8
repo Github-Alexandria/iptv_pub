@@ -1,5 +1,5 @@
-#EXTM3U 6159
-#DATE 2023-07-18 14:04
+#EXTM3U 6146
+#DATE 2023-07-18 23:00
 #EXTINF:0, Sister"  group-title="Fam" - Sister, Sister-66.70.177.156:25461@D-230717.done
 http://66.70.177.156:25461/barjohnsn/1234/197294
 #EXTINF:0,Verotika"  group-title="Russ" - ,Verotika-66.70.177.156:25461@D-230717.done
@@ -16,7 +16,7 @@ http://strm112.1.fm/dubstep_mobile_mp3
 http://bccdn.xyz:80/48739850693pw/98798249962/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230610.done.NC.dead
 http://cs21.xyz:80/83858929/82848389/619564
-#EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230706.done.NC.dead
+#EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230706.done.NC
 http://cs21.xyz:80/Horadoalmoco172/Cristolandia295/619564
 #EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230708.done.NC.dead
 http://cs21.xyz:80/6634400851/2927952573/619564
@@ -40,19 +40,19 @@ http://cs21.xyz:80/robsonp/robson0322/619564
 http://cs21.xyz:80/4905031531/3851918554/619564
 #EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230717.done.NC
 http://cs21.xyz:80/Horato99636/99636horato/619564
-#EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230717.NC.dead.done
-http://cs21.xyz:80/Horadoalmoco214/Verdades8364/619564
-#EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230717.NC.dead.done
+#EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230717.done.NC.dead
 http://cs21.xyz:80/Lucianesilmara736/Floripa316/619564
-#EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230717.NC.dead.done
+#EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230717.done.NC
+http://cs21.xyz:80/Horadoalmoco214/Verdades8364/619564
+#EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230717.done.NC
 http://cs21.xyz:80/7666401039/8575060044/619564
-#EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230717.NC.dead.done
+#EXTINF:0 group-title="Fam",24h RETRO +18-cs21.xyz:80@D-230717.done.NC
 http://cs21.xyz:80/live/7666401039/8575060044/619564.m3u8
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230623.done.NC
 http://joao-1-us.mainbkonline.shop:80/5s5tqlsx/tontx8gf/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230623.done.NC
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230623.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/9bu5p7rw/j72nytvl/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230623.done.NC
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230623.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/qis3akyu/w7bwu928/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230623.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/065renato/nato5543/82171
@@ -87,14 +87,42 @@ http://joao-1-us.mainbkonline.shop:80/v2od6ber/cecjnjun/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230623.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/zvyt27s2/jtz3ecad/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/234789623784pw/213847682348/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/34894949829/932969498632/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/377928604396PW/682978367415/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/4qt7hc1j/96kbu732/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/630264623654/829358743160/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/669485172626/078151133323/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/6984250603/7410230249/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/84ypxe6d/bq5myab0/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/DCH7538383/LHF87363737/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/hc2e5aje/1op3y0ew/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/m20unjij/w7xxe6t7/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+http://joao-1-us.mainbkonline.shop:80/MGR6373822/0882771412/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/0tggvk4d/axfw8tcz/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/490819756379PW/414388062962/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/863833241874PW/663007399408PR/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/rosemberg14/fah657vbn/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/tpvi5fj2/sclgjfjc/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/023285382889/236536817564/82171
@@ -107,8 +135,6 @@ http://joao-1-us.mainbkonline.shop:80/177654607473/678151978569/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/217863783256/8919198244794/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/234789623784pw/213847682348/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/236587264267/87237348684/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/289781354998PW/466999601905/82171
@@ -118,12 +144,6 @@ http://joao-1-us.mainbkonline.shop:80/2o0y8hwv/jmwu1wze/82171
 http://joao-1-us.mainbkonline.shop:80/2ov2lx1l/jl7y8r9x/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/3010272807pw/7728200927pw/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/34894949829/932969498632/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/377928604396PW/682978367415/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/392540598291/397533990103/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
@@ -141,31 +161,19 @@ http://joao-1-us.mainbkonline.shop:80/496071668266PW/022055206745PR/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/4Paulinho0764/19999230764/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/4qt7hc1j/96kbu732/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/547487589892/895769842459/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/5545856698/9965666230/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/5747504380pw/1604478444pw/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/630264623654/829358743160/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/6446850017/7551322699/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/669485172626/078151133323/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/6984250603/7410230249/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/7329929/08383828/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/74258864/05358845kgk/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/767340582/809755088/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/84ypxe6d/bq5myab0/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/852517004643/058090299669/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
@@ -175,13 +183,9 @@ http://joao-1-us.mainbkonline.shop:80/970605581260/621470733152/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/cidinha70/1146756179/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/DCH7538383/LHF87363737/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/diogenesfarinha/5698784345/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/edigleisonsilva/53896734/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/hc2e5aje/1op3y0ew/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/jtd4432/jtd6722/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
@@ -190,10 +194,6 @@ http://joao-1-us.mainbkonline.shop:80/katiareis11/reis4714/82171
 http://joao-1-us.mainbkonline.shop:80/lista161/2709010203/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/Luiz20/kwpqom50/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/m20unjij/w7xxe6t7/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/MGR6373822/0882771412/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/nahpqmro/p5c1vs0s/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
@@ -233,6 +233,12 @@ http://joao-1-us.mainbkonline.shop:80/welivelton298/welivelton/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230624.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/z4o0sa81/qenbsct5/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC
+http://joao-1-us.mainbkonline.shop:80/041008462024/658310826057/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC
+http://joao-1-us.mainbkonline.shop:80/49871845920pw/98732482952pw/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC
+http://joao-1-us.mainbkonline.shop:80/548732985929/899839349983/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/034tiagoo/maisfacil412/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/003784507465pw/216698337186/82171
@@ -251,8 +257,6 @@ http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/031180744637/78463925414/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/041008462024/658310826057/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/0411140944Pw/4212457796Pr/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/046732486905/295307371165/82171
@@ -263,10 +267,6 @@ http://joao-1-us.mainbkonline.shop:80/078430273602/280784531612/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/249664625594/585152138338/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/49871845920pw/98732482952pw/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/548732985929/899839349983/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/5811489313813/924728283191/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230706.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/6l6v9mzy/x87c424v/82171
@@ -274,6 +274,12 @@ http://joao-1-us.mainbkonline.shop:80/6l6v9mzy/x87c424v/82171
 http://joao-1-us.mainbkonline.shop:80/Aleiptv/641341516/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC
 http://joao-1-us.mainbkonline.shop:80/2973988128Pw/4776366857Pr/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC
+http://joao-1-us.mainbkonline.shop:80/44cieso9/oui2nw37/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC
+http://joao-1-us.mainbkonline.shop:80/alvaro/2709010203/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC
+http://joao-1-us.mainbkonline.shop:80/fyx8xet7/wjo2sym7/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/0212302147Pw/9630147410Pr/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC.dead
@@ -281,22 +287,24 @@ http://joao-1-us.mainbkonline.shop:80/3284832942pw/8372532538/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/328643293/386392384/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/44cieso9/oui2nw37/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/991736395870BL/202428283140/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/alvaro/2709010203/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/fyx8xet7/wjo2sym7/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/qrl0nzs1/4nubbzop/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230711.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/santos2261/483scj837/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC
+http://joao-1-us.mainbkonline.shop:80/746910889141/641466243900/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC
+http://joao-1-us.mainbkonline.shop:80/80924348956982/7834879863934/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC
+http://joao-1-us.mainbkonline.shop:80/848000343386/589128769641/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC
+http://joao-1-us.mainbkonline.shop:80/j8x4g4j3/ae05u9xv/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/2f6efq6h/00n7qvlc/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/7948523912948/98546948239/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/zp13td17/yybtzoeh/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/005gg449/uz6i2akx/82171
@@ -309,40 +317,32 @@ http://joao-1-us.mainbkonline.shop:80/6081238995PW/7781063081PW/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/721178303857PW/512753154952/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/746910889141/641466243900/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/79345657423/197572973845/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/80924348956982/7834879863934/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/833557040162/850191531234/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/848000343386/589128769641/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/893409239059/930998472924/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/giv0z3jv/8vutyy0t/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
-http://joao-1-us.mainbkonline.shop:80/j8x4g4j3/ae05u9xv/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230712.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/ml17x2tc/ohhqdur2/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.done.NC
-http://joao-1-us.mainbkonline.shop:80/254030092244PW/005125885033/82171
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.done.NC
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/82171.m3u8
 #EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.done.NC
-http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.done.NC
 http://joao-1-us.mainbkonline.shop:80/live/363414831673BL/363414998112/82171.m3u8
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.done.NC
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.done.NC.dead
+http://joao-1-us.mainbkonline.shop:80/254030092244PW/005125885033/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.done.NC.dead
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/82171
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/789463547854PW/789035243745PR/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.done.NC
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/Cida100/minhaeterna10/82171
-#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.NC.dead.done
+#EXTINF:0 group-title="Fam",24h RETRO +18-joao-1-us.mainbkonline.shop:80@D-230717.done.NC.dead
 http://joao-1-us.mainbkonline.shop:80/08654256/467996533/82171
-#EXTINF:0 group-title="Fam",✰:MY PERVY FAMILY-185.182.193.203:25461@D-230510.done.NC
+#EXTINF:0 group-title="Fam",✰:MY PERVY FAMILY-185.182.193.203:25461@D-230510.done.NC.dead
 http://185.182.193.203:25461/paulcapellari/4227524/67273
-#EXTINF:0 group-title="Fam",✰:MY PERVY FAMILY-185.182.193.203:25461@D-230510.done.NC
+#EXTINF:0 group-title="Fam",✰:MY PERVY FAMILY-185.182.193.203:25461@D-230510.done.NC.dead
 http://185.182.193.203:25461/y13982000/499735/67273
 #EXTINF:0 group-title="Fam",✰:MY PERVY FAMILY-185.182.193.203:25461@D-230510.done.NC.dead
 http://185.182.193.203:25461/peterrdavis/ZroTkBnJY5/67273
@@ -384,20 +384,6 @@ http://tv.pro-ott.com:25443/live/BOUREIMA2022/94YMZVC65L/273903.ts
 http://tv.pro-ott.com:25443/live/BOUREIMA2022/94YMZVC65L/273906.ts
 #EXTINF:0 group-title="Fam",Big Titty Goth Step Daughter needs Discipline - Skylar Vox - Family Therapy - Alex Adams - Pornhub.com-104.244.73.237:8080@D-230714.done
 http://104.244.73.237:8080/movie/ahmetsubasi/6266977291/155307.ts
-#EXTINF:0 group-title="Fam",box Bratty Sis-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297807
-#EXTINF:0 group-title="Fam",box family Strokes-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297798
-#EXTINF:0 group-title="Fam",BOX FAMILY SWAP-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297799
-#EXTINF:0 group-title="Fam",BOX KINKY FAMILY-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297822
-#EXTINF:0 group-title="Fam",BOX MOMMY BLOWS BEST-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298285
-#EXTINF:0 group-title="Fam",BOX MOM TEACH SEX-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297815
-#EXTINF:0 group-title="Fam",BOX MY PERVY FAMILY-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297814
 #EXTINF:0 group-title="Fam",Bratty Sis-065c3bf1.edemist.com@D-230626.done
 http://065c3bf1.edemist.com/iptv/8KPMSZ294HKTBW/12161/index.m3u8
 #EXTINF:0 group-title="Fam",Bratty Sis-0f3f161d.cbilant.com@D-230511.done
@@ -484,8 +470,6 @@ http://2678ydr.xyz:80/live/jestvip12c/jest536d4a/227781.ts
 http://2678ydr.xyz:80/live/namik41/24.12..2022/227781.ts
 #EXTINF:0 group-title="Fam",Bratty Sis-2678ydr.xyz:80@D-230712.done
 http://2678ydr.xyz:80/live/orhan.avci/15.12.2022/227781.ts
-#EXTINF:0 group-title="Fam",Bratty Sis-2678ydr.xyz:80@D-230712.done
-http://2678ydr.xyz:80/live/oyabora/H18xy6FX22/227781.ts
 #EXTINF:0 group-title="Fam",Bratty Sis-2c1e584b.cbilant.com@D-230718.done
 http://2c1e584b.cbilant.com/iptv/ZPW9DNWR2PVMFZ/12161/index.m3u8
 #EXTINF:0 group-title="Fam",Bratty Sis-2hoqrvgn.akciatv.ru@D-230630.done
@@ -548,8 +532,6 @@ http://9zxma7fc.megatv.fun/iptv/8TKSWD24N34ZSS/12161/index.m3u8
 http://a.alcapone1.com:8080/Tommy/123456/26318
 #EXTINF:0 group-title="Fam",BRATTY SIS-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/Miguel04/Bet4/26318
-#EXTINF:0 group-title="Fam",BRATTY SIS-a.alcapone1.com:8080@D-230716.done
-http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/26260
 #EXTINF:0 group-title="Fam",BRATTY SIS-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/26318
 #EXTINF:0 group-title="Fam",Bratty Sis-abe52a23.edemist.com@D-230718.done
@@ -685,9 +667,9 @@ http://foymmpeq.klaipedalt.org/iptv/2KKRWH284VKAUD/12161/index.m3u8
 #EXTINF:0 group-title="Fam",Bratty Sis-foymmpeq.klaipedalt.org@D-230615.done
 http://foymmpeq.klaipedalt.org/iptv/58K8XD6E8VQ7BS/12161/index.m3u8
 #EXTINF:0 group-title="Fam",BRATTY SIS-fuzzyunicorns.net:80@D-230603.done
-http://fuzzyunicorns.net:80/live/austin/austin/765181.ts
-#EXTINF:0 group-title="Fam",BRATTY SIS-fuzzyunicorns.net:80@D-230603.done
 http://fuzzyunicorns.net:80/live/austin/austin/765327.ts
+#EXTINF:0 group-title="Fam",BRATTY SIS-fuzzyunicorns.net:80@D-230603.done
+http://fuzzyunicorns.net:80/live/austin/austin/765181.ts
 #EXTINF:0 group-title="Fam",BRATTY SIS-fuzzyunicorns.net:80@D-230611.done
 http://fuzzyunicorns.net:80/live/laquitaevans3@gmail.com/laquitaevans3/765181.ts
 #EXTINF:0 group-title="Fam",BRATTY SIS-fuzzyunicorns.net:80@D-230611.done
@@ -718,8 +700,6 @@ http://halostyle.top:8080/live/271681648735807082/1251681648735807/54295.ts
 http://halostyle.top:8080/live/4141659051615946/1081659051615946/54295.ts
 #EXTINF:0 group-title="Fam",BRATTY SIS-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/5071662158313678/4821662158313678/54295.ts
-#EXTINF:0 group-title="Fam",BRATTY SIS-halostyle.top:8080@D-230624.done
-http://halostyle.top:8080/live/51664967470539017/3551664967470539/54295.ts
 #EXTINF:0 group-title="Fam",BRATTY SIS-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/561669544822135057/6461669544822135/54295.ts
 #EXTINF:0 group-title="Fam",BRATTY SIS-halostyle.top:8080@D-230624.done
@@ -772,6 +752,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297807
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297807
 #EXTINF:0 group-title="Fam",Bratty Sis-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297807
+#EXTINF:0 group-title="Fam",Bratty Sis-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297807
 #EXTINF:0 group-title="Fam",Bratty Sis-kv3z7bac.russtv.net@D-230712.done
 http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/12161/index.m3u8
 #EXTINF:0 group-title="Fam",Bratty Sis-kyaspiptv.xyz:8080@D-230717.done
@@ -823,9 +805,9 @@ http://sansat.net:25461/FCLCR2PHMS/ZUMRGIXZVE/285832
 #EXTINF:0 group-title="Fam",Bratty Sis-saveukraine.1ce.xyz@D-230518.done
 http://saveukraine.1ce.xyz/7772/index.m3u8?token=iI04DcvZcx
 #EXTINF:0 group-title="Fam",BRATTY SIS-sevi.2022spn.net:8080@D-230624.done
-http://sevi.2022spn.net:8080/Albino/6666/26260
-#EXTINF:0 group-title="Fam",BRATTY SIS-sevi.2022spn.net:8080@D-230624.done
 http://sevi.2022spn.net:8080/Albino/6666/26318
+#EXTINF:0 group-title="Fam",BRATTY SIS-sevi.2022spn.net:8080@D-230624.done
+http://sevi.2022spn.net:8080/Albino/6666/26260
 #EXTINF:0 group-title="Fam",BRATTY SIS-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/26318
 #EXTINF:0 group-title="Fam",BRATTY SIS-sevi.2022spn.net:8080@D-230625.done
@@ -1504,7 +1486,7 @@ http://45.12.1.14:80/5ntldkopFZ8631/yejYAr2237/109090
 http://45.12.1.14:80/MarkoBartulovic/ITWcue674/109090
 #EXTINF:0 group-title="Fam",Family Sinners (18+)-45.12.1.14:80@D-230514.done.NC
 http://45.12.1.14:80/nesadarko/VWOSDc748/109090
-#EXTINF:0 group-title="Fam",Family Sinners (18+)-45.12.1.14:80@D-230614.done.NC
+#EXTINF:0 group-title="Fam",Family Sinners (18+)-45.12.1.14:80@D-230614.done.NC.dead
 http://45.12.1.14:80/cPAj1vUtoWNG3300/VUd95c3sWUXJ4242/109090
 #EXTINF:0 group-title="Fam",Family Sinners (18+)-45.12.1.14:80@D-230617.done.NC
 http://45.12.1.14:80/bV3GJ2K2CkHE4103/nyYPMv1052/109090
@@ -1709,10 +1691,6 @@ http://23.227.132.58:25461/Bnelson/Thegame2022/47782
 #EXTINF:0 group-title="Fam",FAMILY STROKES-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/bonniethompson9999/Yankeessuck/47782
 #EXTINF:0 group-title="Fam",FAMILY STROKES-23.227.132.58:25461@D-230621.done
-http://23.227.132.58:25461/Bump29/Bowler300/47782
-#EXTINF:0 group-title="Fam",FAMILY STROKES-23.227.132.58:25461@D-230621.done
-http://23.227.132.58:25461/ckleypa/775Traff/47782
-#EXTINF:0 group-title="Fam",FAMILY STROKES-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/Dlhaukaas/Logand27/47782
 #EXTINF:0 group-title="Fam",FAMILY STROKES-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/ErnstTV2/010922/47782
@@ -1732,6 +1710,10 @@ http://23.227.132.58:25461/Nizzo/Blackout/47782
 http://23.227.132.58:25461/PMK/4702/47782
 #EXTINF:0 group-title="Fam",FAMILY STROKES-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/walterufen/nascar2022/47782
+#EXTINF:0 group-title="Fam",FAMILY STROKES-23.227.132.58:25461@D-230621.done
+http://23.227.132.58:25461/Bump29/Bowler300/47782
+#EXTINF:0 group-title="Fam",FAMILY STROKES-23.227.132.58:25461@D-230621.done
+http://23.227.132.58:25461/ckleypa/775Traff/47782
 #EXTINF:0 group-title="Fam",Family Strokes-23a3af71.ottolok.net@D-230711.done
 http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/12156/index.m3u8
 #EXTINF:0 group-title="Fam",Family Strokes-23deb70c.ucomist.net@D-230608.done.die
@@ -1971,11 +1953,11 @@ http://fuzzyunicorns.net:80/live/laquitaevans3@gmail.com/laquitaevans3/765041.ts
 #EXTINF:0 group-title="Fam",FAMILY STROKES-fuzzyunicorns.net:80@D-230716.done
 http://fuzzyunicorns.net:80/live/closincali/u4F1vfyuh2/765041.ts
 #EXTINF:0 group-title="Fam",FAMILY STROKES-gameplay.p2sweb.me:80@D-230712.done
-http://gameplay.p2sweb.me:80/fran2022/2022fran/270801
-#EXTINF:0 group-title="Fam",FAMILY STROKES-gameplay.p2sweb.me:80@D-230712.done
 http://gameplay.p2sweb.me:80/leandromorais/bel062013/270801
 #EXTINF:0 group-title="Fam",FAMILY STROKES-gameplay.p2sweb.me:80@D-230712.done
 http://gameplay.p2sweb.me:80/monteiro123/monteiro321/270801
+#EXTINF:0 group-title="Fam",FAMILY STROKES-gameplay.p2sweb.me:80@D-230712.done
+http://gameplay.p2sweb.me:80/fran2022/2022fran/270801
 #EXTINF:0 group-title="Fam",FAMILY STROKES-gamsgo.cyou:8080@D-230613.done
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/297126
 #EXTINF:0 group-title="Fam",family Strokes-gamsgo.cyou:8080@D-230613.done
@@ -2056,6 +2038,8 @@ http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297798
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297126
 #EXTINF:0 group-title="Fam",family Strokes-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297798
+#EXTINF:0 group-title="Fam",family Strokes-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297798
 #EXTINF:0 group-title="Fam",FAMILY STROKES-kuchini.site:8080@D-230718.done
 http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297126
 #EXTINF:0 group-title="Fam",Family Strokes-kv3z7bac.russtv.net@D-230712.done
@@ -2175,9 +2159,9 @@ http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/389262
 #EXTINF:0 group-title="Fam",FAMILY STROKES-tv.titanicos.net:2095@D-230717.done
 http://tv.titanicos.net:2095/Jgonz/Restream/330915.ts
 #EXTINF:0 group-title="Fam",FAMILY STROKES-tvpanel.one:80@D-230629.done
-http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765041.ts
-#EXTINF:0 group-title="Fam",FAMILY STROKES-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/939885/775792/765041.ts
+#EXTINF:0 group-title="Fam",FAMILY STROKES-tvpanel.one:80@D-230629.done
+http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765041.ts
 #EXTINF:0 group-title="Fam",FAMILY STROKES-tvpanel.one:80@D-230630.done
 http://tvpanel.one:80/live/austin/austin/765041.ts
 #EXTINF:0 group-title="Fam",Family Strokes-ujpqmexl.ottclub.xyz@D-230715.done
@@ -2386,6 +2370,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297799
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297799
 #EXTINF:0 group-title="Fam",FAMILY SWAP-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297799
+#EXTINF:0 group-title="Fam",FAMILY SWAP-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297799
 #EXTINF:0 group-title="Fam",Family Swap-kv3z7bac.russtv.net@D-230712.done
 http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/12155/index.m3u8
 #EXTINF:0 group-title="Fam",Family Swap-lby6vdnx.russtv.net@D-230702.done
@@ -2477,9 +2463,9 @@ http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/185113
 #EXTINF:0 group-title="Fam",FAMILY SWAP XXX-tv.titanicos.net:2095@D-230717.done
 http://tv.titanicos.net:2095/Jgonz/Restream/330904.ts
 #EXTINF:0 group-title="Fam",FAMILY SWAP XXX-tvpanel.one:80@D-230629.done
-http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765186.ts
-#EXTINF:0 group-title="Fam",FAMILY SWAP XXX-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/939885/775792/765186.ts
+#EXTINF:0 group-title="Fam",FAMILY SWAP XXX-tvpanel.one:80@D-230629.done
+http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765186.ts
 #EXTINF:0 group-title="Fam",FAMILY SWAP XXX-tvpanel.one:80@D-230630.done
 http://tvpanel.one:80/live/austin/austin/765186.ts
 #EXTINF:0 group-title="Fam",FAMILY SWAP XXX-watch-myjokertv.xyz:8080@D-230412.done
@@ -2542,7 +2528,7 @@ http://tr.bosstv.live:8080/AhmetMert/YMg9nGT5rC/389076
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/389076
 #EXTINF:0 group-title="Fam",FM - Dubstep Forward-prmstrm.1.fm:8000@D-230602.done
 http://prmstrm.1.fm:8000/dubstep
-#EXTINF:0 group-title="Fam",Ge: Legal TV-185.182.193.203:25461@D-230619.done.NC
+#EXTINF:0 group-title="Fam",Ge: Legal TV-185.182.193.203:25461@D-230619.done.NC.dead
 http://185.182.193.203:25461/anaanta/644247/69360
 #EXTINF:0 group-title="Fam",G PLUS - STEP MOM & SIS-germanydnsx14.com:8080@D-230610.done
 http://germanydnsx14.com:8080/adigeroglu/198700/79794
@@ -2556,9 +2542,9 @@ http://germanydnsx15.com:8080/dvtsntrk/Dvtsntrk8654/79794
 http://germanydnsx15.com:8080/furkan12/12furkan/79794
 #EXTINF:0 group-title="Fam",G PLUS - STEP MOM & SIS-germanydnsx15.com:8080@D-230716.done
 http://germanydnsx15.com:8080/ismailar/1021Zcr1021/79794
-#EXTINF:0 group-title="Fam",Hot Step Moms-185.156.74.135:80@D-230607.done.NC.dead
+#EXTINF:0 group-title="Fam",Hot Step Moms-185.156.74.135:80@D-230607.done.NC
 http://185.156.74.135:80/boris1234/1234boris/2696227.ts
-#EXTINF:0 group-title="Fam",Hot Step Moms-5.44.253.151:80@D-230607.done.NC.dead
+#EXTINF:0 group-title="Fam",Hot Step Moms-5.44.253.151:80@D-230607.done.NC
 http://5.44.253.151:80/dean12345/12345dean/2696227.ts
 #EXTINF:0 group-title="Fam",HOT X_Bratty Sis-teamzz.net:8080@D-230611.done
 http://teamzz.net:8080/j8gPC2xhL6/xMHcjvDoLH/579007
@@ -2686,6 +2672,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297822
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/297822
 #EXTINF:0 group-title="Fam",KINKY FAMILY-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297822
+#EXTINF:0 group-title="Fam",KINKY FAMILY-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297822
 #EXTINF:0 group-title="Fam",Kinky Family-kyaspiptv.xyz:8080@D-230717.done
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/389118
 #EXTINF:0 group-title="Fam",KINKY FAMILY-kyaspiptv.xyz:8080@D-230717.done
@@ -2705,9 +2693,9 @@ http://sansat.net:25461/TbddYkpv/YoFYDDKkPVcEvdh/285860
 #EXTINF:0 group-title="Fam",KINKY FAMILY-sansat.net:25461@D-230708.done.best
 http://sansat.net:25461/FCLCR2PHMS/ZUMRGIXZVE/285860
 #EXTINF:0 group-title="Fam",KINKY FAMILY-sevi.2022spn.net:8080@D-230624.done
-http://sevi.2022spn.net:8080/Albino/6666/26266
-#EXTINF:0 group-title="Fam",KINKY FAMILY-sevi.2022spn.net:8080@D-230624.done
 http://sevi.2022spn.net:8080/Albino/6666/26351
+#EXTINF:0 group-title="Fam",KINKY FAMILY-sevi.2022spn.net:8080@D-230624.done
+http://sevi.2022spn.net:8080/Albino/6666/26266
 #EXTINF:0 group-title="Fam",KINKY FAMILY-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/26351
 #EXTINF:0 group-title="Fam",KINKY FAMILY-sevi.2022spn.net:8080@D-230625.done
@@ -2878,6 +2866,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298285
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/298285
 #EXTINF:0 group-title="Fam",MOMMY BLOWS BEST-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298285
+#EXTINF:0 group-title="Fam",MOMMY BLOWS BEST-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298285
 #EXTINF:0 group-title="Fam",MOMMY BLOWS BEST-kyaspiptv.xyz:8080@D-230717.done
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/389294
 #EXTINF:0 group-title="Fam",MOMMY BLOWS BEST-live.iptv.tube:22461@D-230620.done
@@ -3178,8 +3168,6 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/297815
 http://37.49.230.42:8080/96e1e190/abb9f8142a/297140
 #EXTINF:0 group-title="Fam",MOM TEACH SEX-37.49.230.42:8080@D-230712.done
 http://37.49.230.42:8080/96e1e190/abb9f8142a/297815
-#EXTINF:0 group-title="Fam",MOM TEACH SEX-a.alcapone1.com:8080@D-230709.done
-http://a.alcapone1.com:8080/Tommy/123456/26362
 #EXTINF:0 group-title="Fam",MOM TEACH SEX-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/Miguel04/Bet4/26362
 #EXTINF:0 group-title="Fam",MOM TEACH SEX-a.alcapone1.com:8080@D-230716.done
@@ -3291,6 +3279,8 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297140
 #EXTINF:0 group-title="Fam",MOM TEACH SEX-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297815
 #EXTINF:0 group-title="Fam",MOM TEACH SEX-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297815
+#EXTINF:0 group-title="Fam",MOM TEACH SEX-kuchini.site:8080@D-230718.done
 http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297140
 #EXTINF:0 group-title="Fam",MOM TEACH SEX-kyaspiptv.xyz:8080@D-230717.done
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/389293
@@ -3380,30 +3370,6 @@ http://185.182.193.203:25461/peterrdavis/ZroTkBnJY5/66778
 http://185.182.193.203:25461/teefre78/7886394/66778
 #EXTINF:0 group-title="Fam",MyFamilyPies-185.182.193.203:25461@D-230619.done.NC
 http://185.182.193.203:25461/anaanta/644247/66778
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E01-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246676.ts
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E02-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246677.ts
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E03-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246678.ts
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E04-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246679.ts
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E05-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246680.ts
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E06-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246698.ts
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E07-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246681.ts
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E08-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246682.ts
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E09-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246683.ts
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E10-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246684.ts
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E11-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246685.ts
-#EXTINF:0 group-title="Fam",My One-Hit Kill Sister (2023) مترجم S01 My One Hit Kill Sister.S01.E12-dar-4all.com:8080@D-230714.done
-http://dar-4all.com:8080/series/amjad219832/m5zDNBstv2/246686.ts
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-104.243.32.68:25461@D-230607.done
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/425937
 #EXTINF:0 group-title="Fam",My Pervy Family-185.156.74.135:80@D-230607.done.NC
@@ -3422,8 +3388,6 @@ http://185.182.193.203:25461/peterrdavis/ZroTkBnJY5/69141
 http://185.182.193.203:25461/teefre78/7886394/69141
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-185.182.193.203:25461@D-230619.done.NC
 http://185.182.193.203:25461/anaanta/644247/69141
-#EXTINF:0 group-title="Fam",MY PERVY FAMILY-23.227.132.58:25461@D-230621.done
-http://23.227.132.58:25461/Barb/barb1957/47801
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/Bnelson/Thegame2022/47801
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-23.227.132.58:25461@D-230621.done
@@ -3452,6 +3416,8 @@ http://23.227.132.58:25461/Nizzo/Blackout/47801
 http://23.227.132.58:25461/PMK/4702/47801
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/walterufen/nascar2022/47801
+#EXTINF:0 group-title="Fam",MY PERVY FAMILY-23.227.132.58:25461@D-230621.done
+http://23.227.132.58:25461/Barb/barb1957/47801
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/1eae94e3/GpDddDC8ddMxhY2n/297143
 #EXTINF:0 group-title="Fam",My Pervy Family-37.49.230.42:8080@D-230610.done
@@ -3651,6 +3617,8 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297143
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297814
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297814
+#EXTINF:0 group-title="Fam",MY PERVY FAMILY-kuchini.site:8080@D-230718.done
 http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/297143
 #EXTINF:0 group-title="Fam",My Pervy Family-ky-iptv.com:80@D-230605.done
 http://ky-iptv.com:80/123454321/123454321/2696328.ts
@@ -3757,11 +3725,9 @@ http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/389299
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-tv.titanicos.net:2095@D-230717.done
 http://tv.titanicos.net:2095/Jgonz/Restream/330929.ts
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-tvpanel.one:80@D-230625.done
-http://tvpanel.one:80/live/laquitaevans3@gmail.com/laquitaevans3/765208.ts
-#EXTINF:0 group-title="Fam",MY PERVY FAMILY-tvpanel.one:80@D-230625.done
 http://tvpanel.one:80/live/laquitaevans3@gmail.com/laquitaevans3/765344.ts
-#EXTINF:0 group-title="Fam",MY PERVY FAMILY-tvpanel.one:80@D-230629.done
-http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765057.ts
+#EXTINF:0 group-title="Fam",MY PERVY FAMILY-tvpanel.one:80@D-230625.done
+http://tvpanel.one:80/live/laquitaevans3@gmail.com/laquitaevans3/765208.ts
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765208.ts
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-tvpanel.one:80@D-230629.done
@@ -3770,6 +3736,8 @@ http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765344.ts
 http://tvpanel.one:80/live/939885/775792/765208.ts
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/939885/775792/765344.ts
+#EXTINF:0 group-title="Fam",MY PERVY FAMILY-tvpanel.one:80@D-230629.done
+http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765057.ts
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-tvpanel.one:80@D-230630.done
 http://tvpanel.one:80/live/austin/austin/765057.ts
 #EXTINF:0 group-title="Fam",MY PERVY FAMILY-tvpanel.one:80@D-230630.done
@@ -3825,15 +3793,13 @@ http://cs21.xyz:80/movie/Horadoalmoco187/Crueldade285/1526407.
 #EXTINF:0 group-title="Fam",Os Irmãos Sisters - 2018-c.strzzi.site:80@D-230706.done
 http://c.strzzi.site:80/movie/123456789/987654321/2937697.
 #EXTINF:0 group-title="Fam",Os Irmãos Sisters - 2018-c.strzzi.site:80@D-230706.done
-http://c.strzzi.site:80/movie/617274976511/406903080241/2937697.
-#EXTINF:0 group-title="Fam",Os Irmãos Sisters - 2018-c.strzzi.site:80@D-230706.done
 http://c.strzzi.site:80/movie/hannah321/hannah123/2937697.
 #EXTINF:0 group-title="Fam",Os Irmãos Sisters - 2018-c.strzzi.site:80@D-230706.done
 http://c.strzzi.site:80/movie/srbraga9993/9993srbraga/2937697.
+#EXTINF:0 group-title="Fam",Os Irmãos Sisters - 2018-c.strzzi.site:80@D-230706.done
+http://c.strzzi.site:80/movie/617274976511/406903080241/2937697.
 #EXTINF:0 group-title="Fam",Os Irmãos Sisters - 2018-c.strzzi.site:80@D-230708.done
 http://c.strzzi.site:80/movie/ninoiptv52/623000/2937697.
-#EXTINF:0 group-title="Fam",Os Irmãos Sisters - 2018-c.strzzi.site:80@D-230711.done
-http://c.strzzi.site:80/movie/robson31/31robson/2937697.
 #EXTINF:0 group-title="Fam",PB MOMMY BLOWS BEST-kalitelitv.xyz:8080@D-230703.done
 http://kalitelitv.xyz:8080/almnihat/GgN4CUDGxN/234070
 #EXTINF:0 group-title="Fam",PB MOM TEACH SEX-kalitelitv.xyz:8080@D-230703.done
@@ -4028,33 +3994,33 @@ http://fast.bounceme.net:8080/live/nsCDexFcpy/rr7FEd7f9d/17845.ts
 http://invincibletv.online:8080/Salva2/VfM4HFpKYh/389193
 #EXTINF:0 group-title="Fam",Sis Loves Me-kyaspiptv.xyz:8080@D-230717.done
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/389193
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230630.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230630.done.NC
 http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230703.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230703.done.NC
 http://likea8bitboss.xyz:80/Newworldmedia/800423197353/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC
 http://likea8bitboss.xyz:80/Amanda1230/Trenise123/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC
 http://likea8bitboss.xyz:80/Bobjarmon/1748326059/761200
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/Crusher/2351069784/761200
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/dpick9376/6798214035/761200
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/eclay1/2805218568/761200
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/JohnG/7896021453/761200
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/pfraz7250/3682751094/761200
 #EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC.dead
 http://likea8bitboss.xyz:80/Clay1/TLQTrYzzYz/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/Crusher/2351069784/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/dpick9376/6798214035/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/eclay1/2805218568/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/JohnG/7896021453/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/pfraz7250/3682751094/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/Alert856/7051342689/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/Blue734/7316840952/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/ClEm4/8256031479/761200
-#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/cross/4930176852/761200
 #EXTINF:0 group-title="Fam",Sis Loves Me-saveukraine.1ce.xyz@D-230518.done
 http://saveukraine.1ce.xyz/7777/index.m3u8?token=iI04DcvZcx
@@ -4074,7 +4040,7 @@ http://tr.bosstv.live:8080/adamismailspengearkadas3536/1cfe2be15223/389193
 http://tr.bosstv.live:8080/AhmetMert/YMg9nGT5rC/389193
 #EXTINF:0 group-title="Fam",Sis Loves Me-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/389193
-#EXTINF:0 group-title="Fam",SisLovesMe 1 FHD-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Fam",SisLovesMe 1 FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/178042
 #EXTINF:0 group-title="Fam",SisLovesMe 1 FHD-unblock2.king-box.tv:80@D-230612.done
 http://unblock2.king-box.tv:80/xrLZq7hDPj/iIUWZpG2jW/178042
@@ -4088,35 +4054,35 @@ http://unblock2.king-box.tv:80/R2PHej70DI/aDIRc4ESqu/178042
 http://unblock2.king-box.tv:80/zyZaAu0E/jRrfDANjZr/178042
 #EXTINF:0 group-title="Fam",SisLovesMe 1 FHD-unblock2.king-box.tv:80@D-230625.done
 http://unblock2.king-box.tv:80/oNBFn3GomZ/vz2fGIpQ63/178042
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230630.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230630.done.NC
 http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230703.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230703.done.NC
 http://likea8bitboss.xyz:80/Newworldmedia/800423197353/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC
 http://likea8bitboss.xyz:80/Amanda1230/Trenise123/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC
 http://likea8bitboss.xyz:80/Bobjarmon/1748326059/761201
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/Crusher/2351069784/761201
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/dpick9376/6798214035/761201
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/eclay1/2805218568/761201
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/JohnG/7896021453/761201
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/pfraz7250/3682751094/761201
 #EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC.dead
 http://likea8bitboss.xyz:80/Clay1/TLQTrYzzYz/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/Crusher/2351069784/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/dpick9376/6798214035/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/eclay1/2805218568/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/JohnG/7896021453/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/pfraz7250/3682751094/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/Alert856/7051342689/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/Blue734/7316840952/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/ClEm4/8256031479/761201
-#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",SIS LOVES ME 2-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/cross/4930176852/761201
-#EXTINF:0 group-title="Fam",SisLovesMe 2 FHD-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Fam",SisLovesMe 2 FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/178043
 #EXTINF:0 group-title="Fam",SisLovesMe 2 FHD-unblock2.king-box.tv:80@D-230612.done
 http://unblock2.king-box.tv:80/xrLZq7hDPj/iIUWZpG2jW/178043
@@ -4130,7 +4096,7 @@ http://unblock2.king-box.tv:80/R2PHej70DI/aDIRc4ESqu/178043
 http://unblock2.king-box.tv:80/zyZaAu0E/jRrfDANjZr/178043
 #EXTINF:0 group-title="Fam",SisLovesMe 2 FHD-unblock2.king-box.tv:80@D-230625.done
 http://unblock2.king-box.tv:80/oNBFn3GomZ/vz2fGIpQ63/178043
-#EXTINF:0 group-title="Fam",SisLovesMe 3 FHD-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Fam",SisLovesMe 3 FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/178044
 #EXTINF:0 group-title="Fam",SisLovesMe 3 FHD-unblock2.king-box.tv:80@D-230612.done
 http://unblock2.king-box.tv:80/xrLZq7hDPj/iIUWZpG2jW/178044
@@ -4169,6 +4135,10 @@ http://tv70.icu:8080/BYS2dE/808078/124180
 #EXTINF:0 group-title="Fam",SomaFM - Dub Step Beyond (May damage speakers at high volume) live-tvmate.icu:8080@D-230716.done
 http://tvmate.icu:8080/lilly1/lilly1/124180
 #EXTINF:0 group-title="Fam",STEP MOM LESSONS-23.227.132.58:25461@D-230621.done
+http://23.227.132.58:25461/PMK/4702/47828
+#EXTINF:0 group-title="Fam",STEP MOM LESSONS-23.227.132.58:25461@D-230621.done
+http://23.227.132.58:25461/walterufen/nascar2022/47828
+#EXTINF:0 group-title="Fam",STEP MOM LESSONS-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/Barb/barb1957/47828
 #EXTINF:0 group-title="Fam",STEP MOM LESSONS-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/Bnelson/Thegame2022/47828
@@ -4194,10 +4164,6 @@ http://23.227.132.58:25461/jshultz/jaks0704/47828
 http://23.227.132.58:25461/knnthmcgrgr/broncos1/47828
 #EXTINF:0 group-title="Fam",STEP MOM LESSONS-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/Nizzo/Blackout/47828
-#EXTINF:0 group-title="Fam",STEP MOM LESSONS-23.227.132.58:25461@D-230621.done
-http://23.227.132.58:25461/PMK/4702/47828
-#EXTINF:0 group-title="Fam",STEP MOM LESSONS-23.227.132.58:25461@D-230621.done
-http://23.227.132.58:25461/walterufen/nascar2022/47828
 #EXTINF:0 group-title="Fam",STEP MOM LESSONS-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/Jaycode/EXjyXx56pG/22087
 #EXTINF:0 group-title="Fam",STEP MOM LESSONS-aca3b.tk:8080@D-230630.done
@@ -4211,9 +4177,9 @@ http://ip365.cx:80/8432671147/7922665246/400241914
 #EXTINF:0 group-title="Fam",Step Mom Lessons-tv.titanicos.net:2095@D-230717.done
 http://tv.titanicos.net:2095/Jgonz/Restream/233546.ts
 #EXTINF:0 group-title="Fam",STEP MOM LESSONS-tvpanel.one:80@D-230629.done
-http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765130.ts
-#EXTINF:0 group-title="Fam",STEP MOM LESSONS-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/939885/775792/765130.ts
+#EXTINF:0 group-title="Fam",STEP MOM LESSONS-tvpanel.one:80@D-230629.done
+http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765130.ts
 #EXTINF:0 group-title="Fam",STEP MOM LESSONS-tvpanel.one:80@D-230630.done
 http://tvpanel.one:80/live/austin/austin/765130.ts
 #EXTINF:0 group-title="Fam",STEP SIBILINGS CAUGHT-185.182.193.203:25461@D-230510.done.NC
@@ -4252,8 +4218,6 @@ http://halostyle.top:8080/live/271681648735807082/1251681648735807/54309.ts
 http://halostyle.top:8080/live/4141659051615946/1081659051615946/54309.ts
 #EXTINF:0 group-title="Fam",STEP SIBILINGS CAUGHT-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/5071662158313678/4821662158313678/54309.ts
-#EXTINF:0 group-title="Fam",STEP SIBILINGS CAUGHT-halostyle.top:8080@D-230624.done
-http://halostyle.top:8080/live/51664967470539017/3551664967470539/54309.ts
 #EXTINF:0 group-title="Fam",STEP SIBILINGS CAUGHT-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/561669544822135057/6461669544822135/54309.ts
 #EXTINF:0 group-title="Fam",STEP SIBILINGS CAUGHT-halostyle.top:8080@D-230624.done
@@ -4380,37 +4344,37 @@ http://5.44.253.151:80/dean12345/12345dean/2696262.ts
 http://ky-iptv.com:80/123454321/123454321/2696262.ts
 #EXTINF:0 group-title="Fam",Step Siblings Caught-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2696262.ts
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230630.done.NC.dead
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230630.done.NC
 http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230703.done.NC.dead
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230703.done.NC
 http://likea8bitboss.xyz:80/Newworldmedia/800423197353/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC.dead
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC
 http://likea8bitboss.xyz:80/Amanda1230/Trenise123/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC.dead
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC
 http://likea8bitboss.xyz:80/Bobjarmon/1748326059/761216
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/Crusher/2351069784/761216
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/dpick9376/6798214035/761216
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/eclay1/2805218568/761216
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/JohnG/7896021453/761216
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC
+http://likea8bitboss.xyz:80/pfraz7250/3682751094/761216
 #EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC.dead
 http://likea8bitboss.xyz:80/Clay1/TLQTrYzzYz/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/Crusher/2351069784/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/dpick9376/6798214035/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/eclay1/2805218568/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/JohnG/7896021453/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230706.done.NC.dead
-http://likea8bitboss.xyz:80/pfraz7250/3682751094/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/Alert856/7051342689/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/Blue734/7316840952/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/ClEm4/8256031479/761216
-#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230707.done.NC.dead
+#EXTINF:0 group-title="Fam",STEP SIBLINGS  CAUGHT-likea8bitboss.xyz:80@D-230707.done.NC
 http://likea8bitboss.xyz:80/cross/4930176852/761216
 #EXTINF:0 group-title="Fam",Step Siblings Caught-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/2696262.ts
-#EXTINF:0 group-title="Fam",Step Siblings Caught FHD-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Fam",Step Siblings Caught FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/186986
 #EXTINF:0 group-title="Fam",Step Siblings Caught FHD-unblock2.king-box.tv:80@D-230612.done
 http://unblock2.king-box.tv:80/xrLZq7hDPj/iIUWZpG2jW/186986
@@ -4447,15 +4411,13 @@ http://cs21.xyz:80/movie/Horadoalmoco187/Crueldade285/1525179.
 #EXTINF:0 group-title="Fam",Step Sisters - 2018-c.strzzi.site:80@D-230706.done
 http://c.strzzi.site:80/movie/123456789/987654321/2936469.
 #EXTINF:0 group-title="Fam",Step Sisters - 2018-c.strzzi.site:80@D-230706.done
-http://c.strzzi.site:80/movie/617274976511/406903080241/2936469.
-#EXTINF:0 group-title="Fam",Step Sisters - 2018-c.strzzi.site:80@D-230706.done
 http://c.strzzi.site:80/movie/hannah321/hannah123/2936469.
 #EXTINF:0 group-title="Fam",Step Sisters - 2018-c.strzzi.site:80@D-230706.done
 http://c.strzzi.site:80/movie/srbraga9993/9993srbraga/2936469.
+#EXTINF:0 group-title="Fam",Step Sisters - 2018-c.strzzi.site:80@D-230706.done
+http://c.strzzi.site:80/movie/617274976511/406903080241/2936469.
 #EXTINF:0 group-title="Fam",Step Sisters - 2018-c.strzzi.site:80@D-230708.done
 http://c.strzzi.site:80/movie/ninoiptv52/623000/2936469.
-#EXTINF:0 group-title="Fam",Step Sisters - 2018-c.strzzi.site:80@D-230711.done
-http://c.strzzi.site:80/movie/robson31/31robson/2936469.
 #EXTINF:0 group-title="Fam",Step Up-66.70.177.156:25461@D-230712.done
 http://66.70.177.156:25461/nikkimom/091922/197359
 #EXTINF:0 group-title="Fam",Step Up-66.70.177.156:25461@D-230717.done
@@ -4591,35 +4553,17 @@ http://cs21.xyz:80/Horato99636/99636horato/619562
 #EXTINF:0 group-title="Other",24h HENTAI +18-cs21.xyz:80@D-230717.done
 http://cs21.xyz:80/Horadoalmoco214/Verdades8364/619562
 #EXTINF:0 group-title="Other",24H HENTAI +18-deylertv.xyz:80@D-230717.done
-http://deylertv.xyz:80/34512/24757/1477867
-#EXTINF:0 group-title="Other",24H HENTAI +18-deylertv.xyz:80@D-230717.done
 http://deylertv.xyz:80/12345678/12345678/1477867
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230623.done
 http://joao-1-us.mainbkonline.shop:80/5s5tqlsx/tontx8gf/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230623.done
-http://joao-1-us.mainbkonline.shop:80/613122611799/926458295703/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230623.done
-http://joao-1-us.mainbkonline.shop:80/8042306288pW/6511862173Pr/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230623.done
 http://joao-1-us.mainbkonline.shop:80/81mrnisa/0n4eikih/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230623.done
 http://joao-1-us.mainbkonline.shop:80/9bu5p7rw/j72nytvl/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230623.done
-http://joao-1-us.mainbkonline.shop:80/mca4gcmc/zqb6je2s/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230623.done
 http://joao-1-us.mainbkonline.shop:80/Mxpro57/71837229/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230623.done
 http://joao-1-us.mainbkonline.shop:80/qis3akyu/w7bwu928/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
-http://joao-1-us.mainbkonline.shop:80/234789623784pw/213847682348/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
-http://joao-1-us.mainbkonline.shop:80/34894949829/932969498632/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
-http://joao-1-us.mainbkonline.shop:80/377928604396PW/682978367415/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
-http://joao-1-us.mainbkonline.shop:80/392540598291/397533990103/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
-http://joao-1-us.mainbkonline.shop:80/4787328584pw/8237424859pw/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
 http://joao-1-us.mainbkonline.shop:80/48739850693pw/98798249962/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
@@ -4635,67 +4579,23 @@ http://joao-1-us.mainbkonline.shop:80/630264623654/829358743160/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
 http://joao-1-us.mainbkonline.shop:80/6446850017/7551322699/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
-http://joao-1-us.mainbkonline.shop:80/970605581260/621470733152/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
-http://joao-1-us.mainbkonline.shop:80/lista161/2709010203/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
-http://joao-1-us.mainbkonline.shop:80/MGR6373822/0882771412/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
-http://joao-1-us.mainbkonline.shop:80/nahpqmro/p5c1vs0s/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
 http://joao-1-us.mainbkonline.shop:80/rosemberg14/fah657vbn/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230624.done
-http://joao-1-us.mainbkonline.shop:80/tpvi5fj2/sclgjfjc/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230706.done
-http://joao-1-us.mainbkonline.shop:80/004316257373/909505101448/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230706.done
-http://joao-1-us.mainbkonline.shop:80/027vinicius1/cabelo2030/82167
+http://joao-1-us.mainbkonline.shop:80/34894949829/932969498632/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230706.done
 http://joao-1-us.mainbkonline.shop:80/041008462024/658310826057/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230706.done
-http://joao-1-us.mainbkonline.shop:80/0411140944Pw/4212457796Pr/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230706.done
-http://joao-1-us.mainbkonline.shop:80/49871845920pw/98732482952pw/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230706.done
 http://joao-1-us.mainbkonline.shop:80/548732985929/899839349983/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230706.done
 http://joao-1-us.mainbkonline.shop:80/6l6v9mzy/x87c424v/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230706.done
-http://joao-1-us.mainbkonline.shop:80/Aleiptv/641341516/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230711.done
-http://joao-1-us.mainbkonline.shop:80/991736395870BL/202428283140/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230711.done
-http://joao-1-us.mainbkonline.shop:80/alvaro/2709010203/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230711.done
 http://joao-1-us.mainbkonline.shop:80/qrl0nzs1/4nubbzop/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230712.done
 http://joao-1-us.mainbkonline.shop:80/6081238995PW/7781063081PW/82167
 #EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230712.done
-http://joao-1-us.mainbkonline.shop:80/7948523912948/98546948239/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230712.done
 http://joao-1-us.mainbkonline.shop:80/j8x4g4j3/ae05u9xv/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230717.done
-http://joao-1-us.mainbkonline.shop:80/789463547854PW/789035243745PR/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230717.done
-http://joao-1-us.mainbkonline.shop:80/Cida100/minhaeterna10/82167
-#EXTINF:0 group-title="Other",24h HENTAI +18-joao-1-us.mainbkonline.shop:80@D-230717.done
-http://joao-1-us.mainbkonline.shop:80/santos2261/483scj837/82167
 #EXTINF:0 group-title="Other",24H HENTAI +18-jslinkdns.xyz:80@D-230711.done
 http://jslinkdns.xyz:80/live/iptvfhd205/20amanda2021/844605.m3u8
-#EXTINF:0 group-title="Other",24H XXX VIDEOS HENTAI-tntmais.com:80@D-230712.done
-http://tntmais.com:80/brunosachetti/8967851/10033870
-#EXTINF:0 group-title="Other",24H XXX VIDEOS HENTAI-tntmais.com:80@D-230712.done
-http://tntmais.com:80/Clodoaldo/230520/10033870
-#EXTINF:0 group-title="Other",24H XXX VIDEOS HENTAI-tntmais.com:80@D-230712.done
-http://tntmais.com:80/diego.imolesi/diego6069/10033870
-#EXTINF:0 group-title="Other",24H XXX VIDEOS HENTAI-tntmais.com:80@D-230712.done
-http://tntmais.com:80/escritorio/35551485/10033870
-#EXTINF:0 group-title="Other",24H XXX VIDEOS HENTAI-tntmais.com:80@D-230712.done
-http://tntmais.com:80/MarceloFcompleta/Abtx6734/10033870
-#EXTINF:0 group-title="Other",24H XXX VIDEOS HENTAI-tntmais.com:80@D-230712.done
-http://tntmais.com:80/mauricio3996ac2/29100853/10033870
-#EXTINF:0 group-title="Other",24H XXX VIDEOS HENTAI-tntmais.com:80@D-230712.done
-http://tntmais.com:80/p223397x/3859041/10033870
 #EXTINF:0 group-title="Other",41.2 Sexy Hot-189.81.38.25:4000@D-230522.done
 http://189.81.38.25:4000/play/a0o3
 #EXTINF:0 group-title="Other",4K: BBC PIE-185.182.193.203:25461@D-230425.done.NC
@@ -4718,8 +4618,6 @@ http://2678ydr.xyz:80/live/jestvip12c/jest536d4a/227762.ts
 http://2678ydr.xyz:80/live/namik41/24.12..2022/227762.ts
 #EXTINF:0 group-title="Other",4K BBC PIE-2678ydr.xyz:80@D-230712.done
 http://2678ydr.xyz:80/live/orhan.avci/15.12.2022/227762.ts
-#EXTINF:0 group-title="Other",4K BBC PIE-2678ydr.xyz:80@D-230712.done
-http://2678ydr.xyz:80/live/oyabora/H18xy6FX22/227762.ts
 #EXTINF:0 group-title="Other",4K BBC PIE-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/1eae94e3/GpDddDC8ddMxhY2n/298231
 #EXTINF:0 group-title="Other",4K BBC PIE-37.49.230.42:8080@D-230610.done
@@ -4778,22 +4676,16 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298231
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/298231
 #EXTINF:0 group-title="Other",4K BBC PIE-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298231
+#EXTINF:0 group-title="Other",4K BBC PIE-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298231
 #EXTINF:0 group-title="Other",4K BBC PIE-test.kocdn.buzz:80@D-230712.done
 http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/164732
 #EXTINF:0 group-title="Other",4K BBC PIE-www.premiumiptvmk.com:8080@D-230503.done
 http://www.premiumiptvmk.com:8080/71b7e12e/2c82a394/298231
-#EXTINF:0 group-title="Other",[+18] Sexy Hot 4K FHDR-acsa.ws:80@D-230516.done
-http://acsa.ws:80/HBWmePeRu/5387TYUHpehh/180157.ts
 #EXTINF:0 group-title="Other",[+18] Sexy Hot FHD-162.251.62.114:80@D-230621.done
 http://162.251.62.114:80/live/fernandonoob13/ti7ovttn/136232.ts
-#EXTINF:0 group-title="Other",[+18] Sexy Hot FHD-acsa.ws:80@D-230516.done
-http://acsa.ws:80/HBWmePeRu/5387TYUHpehh/180153.ts
 #EXTINF:0 group-title="Other",[+18] Sexy Hot HD-162.251.62.114:80@D-230621.done
 http://162.251.62.114:80/live/fernandonoob13/ti7ovttn/136233.ts
-#EXTINF:0 group-title="Other",[+18] Sexy Hot HD-acsa.ws:80@D-230516.done
-http://acsa.ws:80/HBWmePeRu/5387TYUHpehh/180154.ts
-#EXTINF:0 group-title="Other",[+18] Sexy Hot SD-acsa.ws:80@D-230516.done
-http://acsa.ws:80/HBWmePeRu/5387TYUHpehh/180155.ts
 #EXTINF:0 group-title="Other",[+18] Sexy Hot SD-acsa.ws:80@D-230516.done
 http://acsa.ws:80/HBWmePeRu/5387TYUHpehh/72310.ts
 #EXTINF:0 group-title="Other",AD - BBC Pie-nlgteam.ddns.net:80@D-230630.done.NC.dead
@@ -4835,8 +4727,6 @@ http://c.strzzi.site:80/Felipers/15199090/2974358
 #EXTINF:0 group-title="Other",Adulto Hentai-c.strzzi.site:80@D-230717.done
 http://c.strzzi.site:80/novais5676/992445676/2974358
 #EXTINF:0 group-title="Other",Adulto Hentai-c.strzzi.site:80@D-230717.done
-http://c.strzzi.site:80/7448194323/0098540251/2974358
-#EXTINF:0 group-title="Other",Adulto Hentai-c.strzzi.site:80@D-230717.done
 http://c.strzzi.site:80/588869204133/094654549310/2974358
 #EXTINF:0 group-title="Other",Adulto Hentai-c.strzzi.site:80@D-230717.done
 http://c.strzzi.site:80/juliana308/juliana2024/2974358
@@ -4850,11 +4740,11 @@ http://allstar.is-by.us:25461/Antoniogarri9/hjCJ2PLtNB/122083
 http://freefly.dyndns.org:26650/pa0408/nkBtzqcg3kN7/113390
 #EXTINF:0 group-title="Other",ASIAN-185.182.193.203:25461@D-230510.done.NC
 http://185.182.193.203:25461/paulcapellari/4227524/67210
-#EXTINF:0 group-title="Other",ASIAN-185.182.193.203:25461@D-230510.done.NC
+#EXTINF:0 group-title="Other",ASIAN-185.182.193.203:25461@D-230510.done.NC.dead
 http://185.182.193.203:25461/sbmpub/mw9GcM0GTc/67210
-#EXTINF:0 group-title="Other",ASIAN-185.182.193.203:25461@D-230510.done.NC
+#EXTINF:0 group-title="Other",ASIAN-185.182.193.203:25461@D-230510.done.NC.dead
 http://185.182.193.203:25461/therock554/YdtvyXqMNc/67210
-#EXTINF:0 group-title="Other",ASIAN-185.182.193.203:25461@D-230510.done.NC
+#EXTINF:0 group-title="Other",ASIAN-185.182.193.203:25461@D-230510.done.NC.dead
 http://185.182.193.203:25461/y13982000/499735/67210
 #EXTINF:0 group-title="Other",ASIAN-alienstreams.fi:7070@D-230416.done
 http://alienstreams.fi:7070/nordiciptvone18328/Magnus957/183627.ts
@@ -5214,8 +5104,6 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/69334
 http://kuchini.site:8080/7abb81c7/e9c0e4445d/69334
 #EXTINF:0 group-title="Other",BD: Asian TV-larahost.online:80@D-230710.done
 http://larahost.online:80/0563192282/AAA282/772489
-#EXTINF:0 group-title="Other",BOX 4K BBC PIE-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298231
 #EXTINF:0 group-title="Other",Br SEXY HOT-moontools.me:8080@D-230416.done.best
 http://moontools.me:8080/franmujica/v2sJ5r2tyb/1336107
 #EXTINF:0 group-title="Other",Br SEXY HOT-my-flashtv.com:8080@D-230521.done
@@ -5229,15 +5117,11 @@ http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/81552
 #EXTINF:0 group-title="Other",Bunny Cams  Female  Curvy  Asian-iphighland.co.uk:8080@D-230501.done
 http://iphighland.co.uk:8080/live/will.garnett@hotmail.co.uk/2uMR6yBrVSgL/277149.ts
 #EXTINF:0 group-title="Other",CA TAG TV (Asian)-cdn.erost.cc:8080@D-230717.done
-http://cdn.erost.cc:8080/AGMO4527/4527AGMO/72427
-#EXTINF:0 group-title="Other",CA TAG TV (Asian)-cdn.erost.cc:8080@D-230717.done
-http://cdn.erost.cc:8080/47366912/44561289/72427
-#EXTINF:0 group-title="Other",CA TAG TV (Asian)-cdn.erost.cc:8080@D-230717.done
-http://cdn.erost.cc:8080/83792837/82738278/72427
-#EXTINF:0 group-title="Other",CA TAG TV (Asian)-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/64096133/46555874/72427
 #EXTINF:0 group-title="Other",CA TAG TV (Asian)-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/29881768/81654876/72427
+#EXTINF:0 group-title="Other",CA TAG TV (Asian)-cdn.erost.cc:8080@D-230717.done
+http://cdn.erost.cc:8080/47366912/44561289/72427
 #EXTINF:0 group-title="Other",CAUCASIAN MUSIC-213.141.131.10:8000@D-230621.done
 http://213.141.131.10:8000/caucasus
 #EXTINF:0 group-title="Other",CHINA XXX-185.182.193.203:25461@D-230510.done.NC
@@ -5274,16 +5158,6 @@ http://41b4005a.ottolok.net/iptv/7EFG26YLXUDMHM/12144/index.m3u8
 http://4bec4640.ottolok.net/iptv/SCFMCHL3EVB754/12144/index.m3u8
 #EXTINF:0 group-title="Other",Dancing Bear-4rtnw86d.megatv.fun@D-230703.done
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12144/index.m3u8
-#EXTINF:0 group-title="Other",Dancing Bear-51.222.43.170:8001@D-230712.done
-http://51.222.43.170:8001/2861/xR4VbCnLKjJp/297239
-#EXTINF:0 group-title="Other",Dancing Bear-51.222.43.170:8001@D-230717.done
-http://51.222.43.170:8001/910182720403/f5H9aS39h4nG/297239
-#EXTINF:0 group-title="Other",Dancing Bear-51.222.43.170:8001@D-230717.done
-http://51.222.43.170:8001/Abel543/4gHm6v8eaQvk/297239
-#EXTINF:0 group-title="Other",Dancing Bear-51.222.43.170:8001@D-230717.done
-http://51.222.43.170:8001/abertgnz0603/R5WryknCyEZt/297239
-#EXTINF:0 group-title="Other",Dancing Bear-51.222.43.170:8001@D-230717.done
-http://51.222.43.170:8001/abortega2708/J8AwRxmujqJE/297239
 #EXTINF:0 group-title="Other",Dancing Bear-53bdf96d.edmonst.net@D-230626.done
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/12144/index.m3u8
 #EXTINF:0 group-title="Other",Dancing Bear-5fbe6188.rostelekom.xyz@D-230630.done
@@ -5494,8 +5368,6 @@ http://obsfullhd.tv:25461/exc_localtv4k/hzWxB82022KvnR20/2118
 http://obsfullhd.tv:25461/nunostiles/pppDrF4Ysr/2118
 #EXTINF:0 group-title="Other",FRENCH LOVER EUROPE-obshd.tv:25461@D-230710.done
 http://obshd.tv:25461/stevegombo/jpXtTT88qk/2118
-#EXTINF:0 group-title="Other",FRENCH LOVER EUROPE-pandar.cc:25461@D-230508.done
-http://pandar.cc:25461/ziwdeskpz33kH3c/SIZBjLJDHQJ8ZiP/94558
 #EXTINF:0 group-title="Other",FRENCH LOVER EUROPE-pandar.cc:25461@D-230619.done
 http://pandar.cc:25461/MgNqv7fp/cxxHRJkbXmkthJt/94558
 #EXTINF:0 group-title="Other",FRENCH LOVER EUROPE-pandar.plus:25461@D-230627.done
@@ -5734,10 +5606,6 @@ http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22032
 http://cdn7.live:80/regianoemenegildo/vdl2021/791998.ts
 #EXTINF:0 group-title="Other",HENTAI-dns.p2.wtf:80@D-230706.done
 http://dns.p2.wtf:80/rpkmho7j/x1giut7g/97841
-#EXTINF:0 group-title="Other",HENTAI-dns.p2.wtf:80@D-230717.done
-http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/97841
-#EXTINF:0 group-title="Other",HENTAI-dns.p2.wtf:80@D-230717.done
-http://dns.p2.wtf:80/live/fgb55ryx/pmwg45sx/97841.m3u8
 #EXTINF:0 group-title="Other",HENTAI-humiptv.live:8080@D-230716.done
 http://humiptv.live:8080/live/NiteSH94/RF551585694/6145.ts
 #EXTINF:0 group-title="Other",HENTAI-ott1.co:8080@D-230627.done
@@ -5750,15 +5618,11 @@ http://suadns.xyz:80/11997152870/34939156n/97841
 http://suadns.xyz:80/4899854826/5198418569/97841
 #EXTINF:0 group-title="Other",HENTAI 3D-dns.p2.wtf:80@D-230706.done
 http://dns.p2.wtf:80/rpkmho7j/x1giut7g/97842
-#EXTINF:0 group-title="Other",HENTAI 3D-dns.p2.wtf:80@D-230717.done
-http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/97842
-#EXTINF:0 group-title="Other",HENTAI 3D-dns.p2.wtf:80@D-230717.done
-http://dns.p2.wtf:80/live/fgb55ryx/pmwg45sx/97842.m3u8
 #EXTINF:0 group-title="Other",HENTAI 3D-suadns.xyz:80@D-230712.done
 http://suadns.xyz:80/11997152870/34939156n/97842
 #EXTINF:0 group-title="Other",HENTAI 3D-suadns.xyz:80@D-230712.done
 http://suadns.xyz:80/4899854826/5198418569/97842
-#EXTINF:0 group-title="Other",Hentai 3D 1 FHD-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Other",Hentai 3D 1 FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/158604
 #EXTINF:0 group-title="Other",Hentai 3D 1 FHD-ultra-box.club:80@D-230630.done
 http://ultra-box.club:80/uHVl3fiz4fEH/2MWgVZT3DU/158604
@@ -5774,7 +5638,7 @@ http://unblock2.king-box.tv:80/R2PHej70DI/aDIRc4ESqu/158604
 http://unblock2.king-box.tv:80/zyZaAu0E/jRrfDANjZr/158604
 #EXTINF:0 group-title="Other",Hentai 3D 1 FHD-unblock2.king-box.tv:80@D-230625.done
 http://unblock2.king-box.tv:80/oNBFn3GomZ/vz2fGIpQ63/158604
-#EXTINF:0 group-title="Other",Hentai 3D 2 FHD-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Other",Hentai 3D 2 FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/158621
 #EXTINF:0 group-title="Other",Hentai 3D 2 FHD-ultra-box.club:80@D-230630.done
 http://ultra-box.club:80/uHVl3fiz4fEH/2MWgVZT3DU/158621
@@ -5790,7 +5654,7 @@ http://unblock2.king-box.tv:80/R2PHej70DI/aDIRc4ESqu/158621
 http://unblock2.king-box.tv:80/zyZaAu0E/jRrfDANjZr/158621
 #EXTINF:0 group-title="Other",Hentai 3D 2 FHD-unblock2.king-box.tv:80@D-230625.done
 http://unblock2.king-box.tv:80/oNBFn3GomZ/vz2fGIpQ63/158621
-#EXTINF:0 group-title="Other",Hentai 3D 3 FHD-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Other",Hentai 3D 3 FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/158617
 #EXTINF:0 group-title="Other",Hentai 3D 3 FHD-ultra-box.club:80@D-230630.done
 http://ultra-box.club:80/uHVl3fiz4fEH/2MWgVZT3DU/158617
@@ -5824,8 +5688,6 @@ http://pfsrv.com:80/nicolas119/384929492/183874
 http://piglo.re:80/live/15604889/05800449/53862.ts
 #EXTINF:0 group-title="Other",HENTAI FHD-piglo.re:80@D-230711.done
 http://piglo.re:80/19172668/33985234/53862.ts
-#EXTINF:0 group-title="Other",HENTAI FHD-piglo.re:80@D-230711.done
-http://piglo.re:80/samuel123/samuel123/53862.ts
 #EXTINF:0 group-title="Other",HENTAI FHD-piglo.re:80@D-230717.done
 http://piglo.re:80/597549710051040/365427402547/53862.ts
 #EXTINF:0 group-title="Other",HENTAI FHD-piglo.re:80@D-230717.done
@@ -5836,7 +5698,7 @@ http://kalitelitv.xyz:8080/almnihat/GgN4CUDGxN/243575
 http://saveukraine.1ce.xyz/7810/index.m3u8?token=iI04DcvZcx
 #EXTINF:0 group-title="Other",HENTAINED-104.243.32.68:25461@D-230607.done
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/425907
-#EXTINF:0 group-title="Other",HENTAINED-185.182.193.203:25461@D-230425.done.NC.dead
+#EXTINF:0 group-title="Other",HENTAINED-185.182.193.203:25461@D-230425.done.NC
 http://185.182.193.203:25461/sbmpub/mw9GcM0GTc/69108
 #EXTINF:0 group-title="Other",HENTAINED-185.182.193.203:25461@D-230510.done.NC
 http://185.182.193.203:25461/paulcapellari/4227524/69108
@@ -6158,7 +6020,7 @@ http://45.12.1.14:80/zwtXu3jrvm7077/LUGg6E46/38045
 http://45.12.1.14:80/Veselica54/YVsNjy3369/38045
 #EXTINF:0 group-title="Other",JapanHDV (18+)-45.12.1.14:80@D-230610.done.NC
 http://45.12.1.14:80/yDkjfbWC1276/e5qS1F02/38045
-#EXTINF:0 group-title="Other",JapanHDV (18+)-45.12.1.14:80@D-230614.done.NC
+#EXTINF:0 group-title="Other",JapanHDV (18+)-45.12.1.14:80@D-230614.done.NC.dead
 http://45.12.1.14:80/cPAj1vUtoWNG3300/VUd95c3sWUXJ4242/38045
 #EXTINF:0 group-title="Other",JapanHDV (18+)-45.12.1.14:80@D-230619.done.NC
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/38045
@@ -6448,7 +6310,7 @@ http://45.12.1.14:80/zwtXu3jrvm7077/LUGg6E46/37954
 http://45.12.1.14:80/bFkS0vmqi4737/5xosqY232/37954
 #EXTINF:0 group-title="Other",JapanHDV Anal (18+)-45.12.1.14:80@D-230611.done.NC
 http://45.12.1.14:80/OJVNaxAfv1032/3yeLQ5703/37954
-#EXTINF:0 group-title="Other",JapanHDV Anal (18+)-45.12.1.14:80@D-230614.done.NC
+#EXTINF:0 group-title="Other",JapanHDV Anal (18+)-45.12.1.14:80@D-230614.done.NC.dead
 http://45.12.1.14:80/cPAj1vUtoWNG3300/VUd95c3sWUXJ4242/37954
 #EXTINF:0 group-title="Other",JapanHDV Anal (18+)-45.12.1.14:80@D-230617.done.NC
 http://45.12.1.14:80/bV3GJ2K2CkHE4103/nyYPMv1052/37954
@@ -6512,7 +6374,7 @@ http://45.12.1.14:80/zwtXu3jrvm7077/LUGg6E46/37947
 http://45.12.1.14:80/j2vDPCmC4A0693/lFSdQi5931/37947
 #EXTINF:0 group-title="Other",JapanHDV Creampie (18+)-45.12.1.14:80@D-230611.done.NC
 http://45.12.1.14:80/OJVNaxAfv1032/3yeLQ5703/37947
-#EXTINF:0 group-title="Other",JapanHDV Creampie (18+)-45.12.1.14:80@D-230614.done.NC
+#EXTINF:0 group-title="Other",JapanHDV Creampie (18+)-45.12.1.14:80@D-230614.done.NC.dead
 http://45.12.1.14:80/cPAj1vUtoWNG3300/VUd95c3sWUXJ4242/37947
 #EXTINF:0 group-title="Other",JapanHDV Creampie (18+)-45.12.1.14:80@D-230617.done.NC
 http://45.12.1.14:80/bV3GJ2K2CkHE4103/nyYPMv1052/37947
@@ -6576,7 +6438,7 @@ http://tv.satsolution.tvip.xyz:80/stad1111/6hbMvJ4317/37947
 http://tv.satsolution.tvip.xyz:80/ujyJfTIGTl740/3BDKwb861/37947
 #EXTINF:0 group-title="Other",JapanHDV Creampie (18+)-tv.satsolution.tvip.xyz:80@D-230624.done
 http://tv.satsolution.tvip.xyz:80/xKBT09lBV24i7065/0SK2Wy02/37947
-#EXTINF:0 group-title="Other",Japan HDV FHD-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Other",Japan HDV FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/158620
 #EXTINF:0 group-title="Other",Japan HDV FHD-unblock2.king-box.tv:80@D-230612.done
 http://unblock2.king-box.tv:80/xrLZq7hDPj/iIUWZpG2jW/158620
@@ -6690,8 +6552,6 @@ http://tvmate.icu:8080/lilly1/lilly1/88249
 http://mag.you24.online:80/movie/eeaa4kn1vl/ncim37qki/679134.wmv
 #EXTINF:0 group-title="Other", Javtv_japanese_porn_xxx_uncensored_hd_gachinco-gachi1144 -mag.you24.online:80@D-230428.done
 http://mag.you24.online:80/movie/5ogfkuvtr/y6ke3kv8vl/679134.wmv
-#EXTINF:0 group-title="Other", Javtv_japanese_porn_xxx_uncensored_hd_gachinco-gachi1144 -mytv.fun:80@D-230331.done
-http://mytv.fun:80/movie/kji6sha6xg/gq3vihqqa/679134.wmv
 #EXTINF:0 group-title="Other", Javtv_japanese_porn_xxx_uncensored_hd_gachinco-gachi1144 -satelliteiptv.xyz:80@D-230412.done
 http://satelliteiptv.xyz:80/movie/cz6xyh8a4l/0pstjsbfni/679134.wmv
 #EXTINF:0 group-title="Other",JP013:Learn Japanese-kmkus.wanicelife.com:8880@D-230605.done
@@ -6846,14 +6706,10 @@ http://live.mycamtv.com/asian.m3u8
 http://live.mycamtv.com/bigtits.m3u8
 #EXTINF:0 group-title="Other",MY NHK_WORLD_JAPAN-dns.p2.wtf:80@D-230705.done
 http://dns.p2.wtf:80/9zjjo38vys/b8b93zxoqm/158695
-#EXTINF:0 group-title="Other",MY NHK_WORLD_JAPAN-dns.p2.wtf:80@D-230717.done
-http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/158695
 #EXTINF:0 group-title="Other",MY NHK_World_Japan-humiptv.live:8080@D-230716.done
 http://humiptv.live:8080/live/NiteSH94/RF551585694/142964.ts
 #EXTINF:0 group-title="Other",MY NHK_World_Japan-ott1.co:8080@D-230627.done
 http://ott1.co:8080/live/p2GRI8QKKz/1Zi8iGfJxP/142964.ts
-#EXTINF:0 group-title="Other",MY NHK_WORLD_JAPAN-suadns.xyz:80@D-230712.done
-http://suadns.xyz:80/VanessaLima/VanLim214/158695
 #EXTINF:0 group-title="Other",N1 Play Adult - Little Asians 2019  (18+)-clientsportals.com:2095@D-230604.done
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/172347
 #EXTINF:0 group-title="Other",N1 Play Adult - Little Asians 2019  (18+)-clientsportals.com:2095@D-230626.done
@@ -6872,50 +6728,46 @@ http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/237364
 http://n1.koalatv.xyz:2052/1/49974484/131842
 #EXTINF:0 group-title="Other",O-la-la (16+) IT-telelux.us.to:25461@D-230429.done
 http://telelux.us.to:25461/wmqspzN4HT/PoldFtHXZP/226
-#EXTINF:0 group-title="Other",O-LA-LA (D)-dns.p2.wtf:80@D-230717.done
-http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/161633
-#EXTINF:0 group-title="Other",O-LA-LA (D)-dns.p2.wtf:80@D-230717.done
-http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/161574
 #EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/7424463051/6736394422/385159
 #EXTINF:0 group-title="Other",O-LA-LA (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/7424463051/6736394422/385218
-#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
-http://watch-myjokertv.xyz:8080/9209640341/0699361558/385159
 #EXTINF:0 group-title="Other",O-LA-LA (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/9209640341/0699361558/385218
-#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
-http://watch-myjokertv.xyz:8080/9417552580/7586930414/385159
 #EXTINF:0 group-title="Other",O-LA-LA (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/9417552580/7586930414/385218
-#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
-http://watch-myjokertv.xyz:8080/9602348416/9024783325/385159
 #EXTINF:0 group-title="Other",O-LA-LA (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/9602348416/9024783325/385218
-#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
-http://watch-myjokertv.xyz:8080/9634813270/4825633907/385159
 #EXTINF:0 group-title="Other",O-LA-LA (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/9634813270/4825633907/385218
-#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
-http://watch-myjokertv.xyz:8080/barronwest02/A19MaatxfL/385159
 #EXTINF:0 group-title="Other",O-LA-LA (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/barronwest02/A19MaatxfL/385218
-#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
-http://watch-myjokertv.xyz:8080/francer1986/9Dz72qZwWB/385159
 #EXTINF:0 group-title="Other",O-LA-LA (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/francer1986/9Dz72qZwWB/385218
-#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
-http://watch-myjokertv.xyz:8080/Fuandnic11/Z5H29gkdxc/385159
 #EXTINF:0 group-title="Other",O-LA-LA (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/Fuandnic11/Z5H29gkdxc/385218
-#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
-http://watch-myjokertv.xyz:8080/Leroy14/marlow14/385159
 #EXTINF:0 group-title="Other",O-LA-LA (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/Leroy14/marlow14/385218
 #EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/MaricelyMendez/G4zSkBwNqH/385159
 #EXTINF:0 group-title="Other",O-LA-LA (D)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/MaricelyMendez/G4zSkBwNqH/385218
+#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
+http://watch-myjokertv.xyz:8080/9209640341/0699361558/385159
+#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
+http://watch-myjokertv.xyz:8080/9417552580/7586930414/385159
+#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
+http://watch-myjokertv.xyz:8080/9602348416/9024783325/385159
+#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
+http://watch-myjokertv.xyz:8080/9634813270/4825633907/385159
+#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
+http://watch-myjokertv.xyz:8080/barronwest02/A19MaatxfL/385159
+#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
+http://watch-myjokertv.xyz:8080/francer1986/9Dz72qZwWB/385159
+#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
+http://watch-myjokertv.xyz:8080/Fuandnic11/Z5H29gkdxc/385159
+#EXTINF:0 group-title="Other",O-la-la (D)-watch-myjokertv.xyz:8080@D-230412.done
+http://watch-myjokertv.xyz:8080/Leroy14/marlow14/385159
 #EXTINF:0 group-title="Other",O-la-la-024b95ba.edemist.com@D-230604.done
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/2161/index.m3u8
 #EXTINF:0 group-title="Other",O-la-la-065c3bf1.edemist.com@D-230626.done
@@ -7009,8 +6861,6 @@ http://c.strzzi.site:80/Felipers/15199090/2974321
 #EXTINF:0 group-title="Other",O-LA-LA-c.strzzi.site:80@D-230717.done
 http://c.strzzi.site:80/novais5676/992445676/2974321
 #EXTINF:0 group-title="Other",O-LA-LA-c.strzzi.site:80@D-230717.done
-http://c.strzzi.site:80/7448194323/0098540251/2974321
-#EXTINF:0 group-title="Other",O-LA-LA-c.strzzi.site:80@D-230717.done
 http://c.strzzi.site:80/588869204133/094654549310/2974321
 #EXTINF:0 group-title="Other",O-LA-LA-c.strzzi.site:80@D-230717.done
 http://c.strzzi.site:80/juliana308/juliana2024/2974321
@@ -7032,16 +6882,6 @@ http://cdntv.online/high/6bvy42tizr/725.m3u8
 http://clofxtud.rostelekom.xyz/iptv/U5RTT4EW296H6V/2161/index.m3u8
 #EXTINF:0 group-title="Other",O-la-la-cloud-nany.cc:80@D-230711.done
 http://cloud-nany.cc:80/8547458c/98568717b/157834
-#EXTINF:0 group-title="Other",O-la-la-cloud-nany.cc:80@D-230711.done
-http://cloud-nany.cc:80/aqSjd1xV2v/IDFySKHR9W/157834
-#EXTINF:0 group-title="Other",O-la-la-cloud-nany.cc:80@D-230711.done
-http://cloud-nany.cc:80/josemariatv/superflix22/157834
-#EXTINF:0 group-title="Other",O-la-la-cloud-nany.cc:80@D-230711.done
-http://cloud-nany.cc:80/JRA3673883/057893821/157834
-#EXTINF:0 group-title="Other",O-la-la-cloud-nany.cc:80@D-230711.done
-http://cloud-nany.cc:80/Rodrigoluz/4169916999/157834
-#EXTINF:0 group-title="Other",O-la-la-cloud-nany.cc:80@D-230711.done
-http://cloud-nany.cc:80/t1h436zq/hnosrwwg/157834
 #EXTINF:0 group-title="Other",O-la-la-cv7jhvdz.otttv.pw@D-230718.done
 http://cv7jhvdz.otttv.pw/iptv/VX3A3MXVB42Q3Z/2161/index.m3u8
 #EXTINF:0 group-title="Other",O-la-la-czrb8vng.ottclub.xyz@D-230602.done
@@ -7116,8 +6956,6 @@ http://foymmpeq.klaipedalt.org/iptv/29SQ3W9NQ2FL78/2161/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/2KKRWH284VKAUD/2161/index.m3u8
 #EXTINF:0 group-title="Other",O-la-la-foymmpeq.klaipedalt.org@D-230615.done
 http://foymmpeq.klaipedalt.org/iptv/58K8XD6E8VQ7BS/2161/index.m3u8
-#EXTINF:0 group-title="Other",O-LA-LA-fuzzyunicorns.net:80@D-230712.done
-http://fuzzyunicorns.net:80/live/austin/austin/788465.ts
 #EXTINF:0 group-title="Other",O-LA-LA-fuzzyunicorns.net:80@D-230716.done
 http://fuzzyunicorns.net:80/live/closincali/u4F1vfyuh2/788465.ts
 #EXTINF:0 group-title="Other",O-la-la-hcatg4m7.ottclub.xyz@D-230630.done
@@ -7160,8 +6998,6 @@ http://nl01.spr24.net/907/index.m3u8?token=dbXEpQc3KHun3K
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/2161/index.m3u8
 #EXTINF:0 group-title="Other",O-la-la-omdtxvgd.otttv.pw@D-230703.done
 http://omdtxvgd.otttv.pw/iptv/WTRMLWF6MHW5NG/2161/index.m3u8
-#EXTINF:0 group-title="Other",O-LA-LA-p2cineshow.fun:80@D-230711.done
-http://p2cineshow.fun:80/455327691620/004169780389/1087943
 #EXTINF:0 group-title="Other",O-LA-LA-pandar.cc:25461@D-230619.done
 http://pandar.cc:25461/MgNqv7fp/cxxHRJkbXmkthJt/285951
 #EXTINF:0 group-title="Other",O-LA-LA-pandar.plus:25461@D-230627.done
@@ -7190,10 +7026,6 @@ http://tr.bosstv.live:8080/adamismailspengearkadas3536/1cfe2be15223/389148
 http://tr.bosstv.live:8080/AhmetMert/YMg9nGT5rC/389148
 #EXTINF:0 group-title="Other",O-la-la-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/389148
-#EXTINF:0 group-title="Other",O-LA-LA-tvpanel.one:80@D-230625.done
-http://tvpanel.one:80/live/laquitaevans3@gmail.com/laquitaevans3/788465.ts
-#EXTINF:0 group-title="Other",O-LA-LA-tvpanel.one:80@D-230629.done
-http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/788465.ts
 #EXTINF:0 group-title="Other",O-LA-LA-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/939885/775792/788465.ts
 #EXTINF:0 group-title="Other",O-LA-LA-tvpanel.one:80@D-230630.done
@@ -7441,8 +7273,6 @@ http://halostyle.top:8080/live/4141659051615946/1081659051615946/54408.ts
 #EXTINF:0 group-title="Other",PENTHOUSE GOLD-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/5071662158313678/4821662158313678/54408.ts
 #EXTINF:0 group-title="Other",PENTHOUSE GOLD-halostyle.top:8080@D-230624.done
-http://halostyle.top:8080/live/51664967470539017/3551664967470539/54408.ts
-#EXTINF:0 group-title="Other",PENTHOUSE GOLD-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/561669544822135057/6461669544822135/54408.ts
 #EXTINF:0 group-title="Other",PENTHOUSE GOLD-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/961666565594054031/1951666565594054/54408.ts
@@ -7490,7 +7320,7 @@ http://mytv.fun:80/di0vad0v4a/Bahar877/700031
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/12039
 #EXTINF:0 group-title="Other",Penthouse Gold FHD (18+)-ultratv.one:2095@D-230501.done.NC
 http://ultratv.one:2095/eBszdU8m/p8uQSGGE/12039
-#EXTINF:0 group-title="Other",Penthouse Gold FHD-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Other",Penthouse Gold FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/158614
 #EXTINF:0 group-title="Other",Penthouse Gold FHD-piglo.re:80@D-230617.done
 http://piglo.re:80/live/15604889/05800449/53866.ts
@@ -7530,7 +7360,7 @@ http://telelux.us.to:25461/wmqspzN4HT/PoldFtHXZP/220
 http://telelux.us.to:25461/bILJOyw2vQ/C4P7U3yWXp/220
 #EXTINF:0 group-title="Other",Penthouse Gold HD (18+) US-45.12.1.14:80@D-230311.done.NC
 http://45.12.1.14:80/Jaapb/cj2qtZ023/15890
-#EXTINF:0 group-title="Other",Penthouse Gold HD (18+) US-45.12.1.14:80@D-230614.done.NC
+#EXTINF:0 group-title="Other",Penthouse Gold HD (18+) US-45.12.1.14:80@D-230614.done.NC.dead
 http://45.12.1.14:80/cPAj1vUtoWNG3300/VUd95c3sWUXJ4242/15890
 #EXTINF:0 group-title="Other",Penthouse Gold HD (18+) US-45.12.1.14:80@D-230617.done.NC
 http://45.12.1.14:80/bV3GJ2K2CkHE4103/nyYPMv1052/15890
@@ -7782,7 +7612,7 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3284
 http://bis2023.selfip.co:8000/live/vomerocastrol/170222/201569.ts
 #EXTINF:0 group-title="Other",PENTHOUSE QUICKIES-cacoet.top:8080@D-230519.done
 http://cacoet.top:8080/live/721665614988930022/4471665614988930/54409.ts
-#EXTINF:0 group-title="Other",Penthouse Quickies-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Other",Penthouse Quickies-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/9844
 #EXTINF:0 group-title="Other",Penthouse Quickies-elmonkey.us:25461@D-230512.done
 http://elmonkey.us:25461/Victor/Victor/91525
@@ -7806,8 +7636,6 @@ http://halostyle.top:8080/live/271681648735807082/1251681648735807/54409.ts
 http://halostyle.top:8080/live/4141659051615946/1081659051615946/54409.ts
 #EXTINF:0 group-title="Other",PENTHOUSE QUICKIES-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/5071662158313678/4821662158313678/54409.ts
-#EXTINF:0 group-title="Other",PENTHOUSE QUICKIES-halostyle.top:8080@D-230624.done
-http://halostyle.top:8080/live/51664967470539017/3551664967470539/54409.ts
 #EXTINF:0 group-title="Other",PENTHOUSE QUICKIES-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/561669544822135057/6461669544822135/54409.ts
 #EXTINF:0 group-title="Other",PENTHOUSE QUICKIES-halostyle.top:8080@D-230624.done
@@ -7896,17 +7724,9 @@ http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/5012/index.m3u8
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/5012/index.m3u8
 #EXTINF:0 group-title="Other",Penthouse Quickies 1300k-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/5012/index.m3u8
-#EXTINF:0 group-title="Other",PENTHOUSE QUICKIES [1080p]-meuservicotv.club:8000@D-230620.done
-http://meuservicotv.club:8000/Leonel-ab/Tyuiop123reza/31325
 #EXTINF:0 group-title="Other",Penthouse Quickies FHD  (18+)-clientsportals.com:2095@D-230626.done
 http://clientsportals.com:2095/x3bra4gj/fHxFhynt/15555
-#EXTINF:0 group-title="Other",Penthouse Quickies FHD (18+) US-mag.you24.online:80@D-230428.done
-http://mag.you24.online:80/5ogfkuvtr/y6ke3kv8vl/13862
-#EXTINF:0 group-title="Other",Penthouse Quickies FHD (18+) US-my34.xyz:80@D-230521.done
-http://my34.xyz:80/rq56c5q5t/4t4jxae9ul/13862
-#EXTINF:0 group-title="Other",Penthouse Quickies FHD (18+) US-tv.europe.itv.world:80@D-230520.done
-http://tv.europe.itv.world:80/gculmfc5hn/b92uh61a8p/13862
-#EXTINF:0 group-title="Other",Penthouse Quickies FHD-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Other",Penthouse Quickies FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/158616
 #EXTINF:0 group-title="Other",Penthouse Quickies FHD-unblock2.king-box.tv:80@D-230612.done
 http://unblock2.king-box.tv:80/xrLZq7hDPj/iIUWZpG2jW/158616
@@ -7932,7 +7752,7 @@ http://45.12.1.14:80/Jaapb/cj2qtZ023/15891
 http://45.12.1.14:80/zwtXu3jrvm7077/LUGg6E46/15891
 #EXTINF:0 group-title="Other",Penthouse Quickies HD (18+) US-45.12.1.14:80@D-230611.done.NC
 http://45.12.1.14:80/OJVNaxAfv1032/3yeLQ5703/15891
-#EXTINF:0 group-title="Other",Penthouse Quickies HD (18+) US-45.12.1.14:80@D-230614.done.NC
+#EXTINF:0 group-title="Other",Penthouse Quickies HD (18+) US-45.12.1.14:80@D-230614.done.NC.dead
 http://45.12.1.14:80/cPAj1vUtoWNG3300/VUd95c3sWUXJ4242/15891
 #EXTINF:0 group-title="Other",Penthouse Quickies HD (18+) US-45.12.1.14:80@D-230617.done.NC
 http://45.12.1.14:80/bV3GJ2K2CkHE4103/nyYPMv1052/15891
@@ -7988,8 +7808,6 @@ http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/5013/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/9HDQFHY4ABB7AQ/5013/index.m3u8
 #EXTINF:0 group-title="Other",Penthouse Quickies HD-b-top.live:80@D-230430.done
 http://b-top.live:80/play/HdZdV-nX8BjlkJag2Hs92qhX5U21ubz6f63rweHEe6Y/ts
-#EXTINF:0 group-title="Other",Penthouse Quickies HD-bntvs.com:2052@D-230531.done
-http://bntvs.com:2052/MarinaLukovic/841368546/9594
 #EXTINF:0 group-title="Other", Penthouse Quickies HD-cz.iptv.monster@D-230615.done
 http://cz.iptv.monster/play/6881/D591A450364592E/video.m3u8
 #EXTINF:0 group-title="Other",Penthouse Quickies HD-dphbo59v.ottclub.xyz@D-230626.done
@@ -8036,8 +7854,6 @@ http://ultrach.com:8080/live/aritaypoyraz/2766522317/74851.ts
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/5013/index.m3u8
 #EXTINF:0 group-title="Other",Penthouse Quickies HD-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/5013/index.m3u8
-#EXTINF:0 group-title="Other",Penthouse Quickies HD 18+-cdn.ottg.tv@D-230518.done
-http://cdn.ottg.tv/6012/video.m3u8?username=kolyan0007&password=vf3pe7rH&token=138e558ae2cd881411996fdce7d8604d&ch_id=924&req_host=pkjX3BL
 #EXTINF:0 group-title="Other",PENTHOUSE QUICKIES LIVE-bis2023.selfip.co:8000@D-230617.done
 http://bis2023.selfip.co:8000/live/vomerocastrol/170222/201570.ts
 #EXTINF:0 group-title="Other",PENTHOUSE QUICKIES LIVE-iptvsantral1.xyz:8080@D-230620.done
@@ -8071,13 +7887,11 @@ http://tv.dominiotv.xyz:25461/live/Joaquin/Panama507/117806.ts
 #EXTINF:0 group-title="Other",PREMIUM XXX : HENTAI-tv.dominiotv.xyz:25461@D-230714.done
 http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/117806.ts
 #EXTINF:0 group-title="Other",PRESTIGE JAPAN-23.227.132.58:25461@D-230621.done
+http://23.227.132.58:25461/PMK/4702/47813
+#EXTINF:0 group-title="Other",PRESTIGE JAPAN-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/Barb/barb1957/47813
 #EXTINF:0 group-title="Other",PRESTIGE JAPAN-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/Dlhaukaas/Logand27/47813
-#EXTINF:0 group-title="Other",PRESTIGE JAPAN-23.227.132.58:25461@D-230621.done
-http://23.227.132.58:25461/jshultz/jaks0704/47813
-#EXTINF:0 group-title="Other",PRESTIGE JAPAN-23.227.132.58:25461@D-230621.done
-http://23.227.132.58:25461/PMK/4702/47813
 #EXTINF:0 group-title="Other",PRESTIGE JAPAN-fuzzyunicorns.net:80@D-230611.done
 http://fuzzyunicorns.net:80/live/laquitaevans3@gmail.com/laquitaevans3/765215.ts
 #EXTINF:0 group-title="Other",PT  Penthouse Gold FHD-live.iptv.tube:22461@D-230620.done
@@ -8110,7 +7924,7 @@ http://ss123.pro:80/shoshana/shoshana/309883
 http://45.12.1.14:80/5ntldkopFZ8631/yejYAr2237/28861
 #EXTINF:0 group-title="Other",Sexy Hot (18+) BR-45.12.1.14:80@D-230427.done.NC
 http://45.12.1.14:80/hayesjames1/XLfBTv52/28861
-#EXTINF:0 group-title="Other",Sexy Hot (18+) BR-45.12.1.14:80@D-230614.done.NC
+#EXTINF:0 group-title="Other",Sexy Hot (18+) BR-45.12.1.14:80@D-230614.done.NC.dead
 http://45.12.1.14:80/cPAj1vUtoWNG3300/VUd95c3sWUXJ4242/28861
 #EXTINF:0 group-title="Other",Sexy Hot (18+) BR-45.12.1.14:80@D-230617.done.NC
 http://45.12.1.14:80/bV3GJ2K2CkHE4103/nyYPMv1052/28861
@@ -8382,18 +8196,6 @@ http://5.44.253.151:80/dean12345/12345dean/2696277.ts
 http://ky-iptv.com:80/123454321/123454321/2696277.ts
 #EXTINF:0 group-title="Other",Unpregnant (2020)-xdplay.tv:8080@D-230621.done
 http://xdplay.tv:8080/play/deYQzncSxQPUWFA1IKauzMAR3FVI-U4kVXpc_MSsfgIMs3qb3cT27omQFhq57n_0
-#EXTINF:0 group-title="Other",US-(ASIAN) AL MAMLAKA (S)-suadns.xyz:80@D-230712.done
-http://suadns.xyz:80/VanessaLima/VanLim214/154900
-#EXTINF:0 group-title="Other",US-(ASIAN) GEO KAHANI (S)-suadns.xyz:80@D-230712.done
-http://suadns.xyz:80/VanessaLima/VanLim214/154920
-#EXTINF:0 group-title="Other",US-(ASIAN) ITV GOLD (S)-suadns.xyz:80@D-230712.done
-http://suadns.xyz:80/VanessaLima/VanLim214/154921
-#EXTINF:0 group-title="Other",US-(ASIAN) NOURSAT KIDS (S)-suadns.xyz:80@D-230712.done
-http://suadns.xyz:80/VanessaLima/VanLim214/154901
-#EXTINF:0 group-title="Other",US-(ASIAN) ONE TV (S)-suadns.xyz:80@D-230712.done
-http://suadns.xyz:80/VanessaLima/VanLim214/154898
-#EXTINF:0 group-title="Other",US-(ASIAN) ONLYMT S)-suadns.xyz:80@D-230712.done
-http://suadns.xyz:80/VanessaLima/VanLim214/154957
 #EXTINF:0 group-title="Other",US-(Hindi) Asian Sony Max 2 (S)-1tv41.icu:8080@D-230621.done
 http://1tv41.icu:8080/5745519674/andyrigelman99@gmail.com/125795
 #EXTINF:0 group-title="Other",US-Asian (Hindi) Colors Rishtey (S)-1tv41.icu:8080@D-230621.done
@@ -8422,11 +8224,11 @@ http://1tv41.icu:8080/5745519674/andyrigelman99@gmail.com/125827
 http://1tv41.icu:8080/5745519674/andyrigelman99@gmail.com/125829
 #EXTINF:0 group-title="Other",WebCam: 2001LIVE DRESSING ROOM-206.212.248.20@D-230529.done
 http://206.212.248.20/live/wickeduk/asdfasdfasdf3/116426.m3u8
-#EXTINF:0 group-title="Other",Wicked-185.156.74.135:80@D-230607.done.NC.dead
+#EXTINF:0 group-title="Other",Wicked-185.156.74.135:80@D-230607.done.NC
 http://185.156.74.135:80/boris1234/1234boris/2696339.ts
 #EXTINF:0 group-title="Other",Wicked-23deb70c.ucomist.net@D-230608.done.die
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/6268/index.m3u8
-#EXTINF:0 group-title="Other",Wicked-5.44.253.151:80@D-230607.done.NC.dead
+#EXTINF:0 group-title="Other",Wicked-5.44.253.151:80@D-230607.done.NC
 http://5.44.253.151:80/dean12345/12345dean/2696339.ts
 #EXTINF:0 group-title="Other",Wicked-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6268/index.m3u8
@@ -8462,7 +8264,7 @@ http://45.12.1.14:80/5ntldkopFZ8631/yejYAr2237/28858
 http://45.12.1.14:80/hayesjames1/XLfBTv52/28858
 #EXTINF:0 group-title="Other",XXL HD (18+) FR-45.12.1.14:80@D-230512.done.NC
 http://45.12.1.14:80/mA2kgN0/s4H5nO5/28858
-#EXTINF:0 group-title="Other",XXL HD (18+) FR-45.12.1.14:80@D-230614.done.NC
+#EXTINF:0 group-title="Other",XXL HD (18+) FR-45.12.1.14:80@D-230614.done.NC.dead
 http://45.12.1.14:80/cPAj1vUtoWNG3300/VUd95c3sWUXJ4242/28858
 #EXTINF:0 group-title="Other",XXL HD (18+) FR-45.12.1.14:80@D-230617.done.NC
 http://45.12.1.14:80/bV3GJ2K2CkHE4103/nyYPMv1052/28858
@@ -8752,20 +8554,6 @@ http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/160813
 http://gameplay.p2sweb.me:80/fran2022/2022fran/270833
 #EXTINF:0 group-title="Russ",BLUSH EROTICA-gameplay.p2sweb.me:80@D-230712.done
 http://gameplay.p2sweb.me:80/leandromorais/bel062013/270833
-#EXTINF:0 group-title="Russ",BOX EROTIK VON BENAN-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298255
-#EXTINF:0 group-title="Russ",BOX MASSAGE ROOMS-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298282
-#EXTINF:0 group-title="Russ",BOX NURU MASSAGE-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298293
-#EXTINF:0 group-title="Russ",BOX PRENCESS CUM-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298299
-#EXTINF:0 group-title="Russ",BOX SWEET SINNER-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298307
-#EXTINF:0 group-title="Russ",BOX THROATED-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298308
-#EXTINF:0 group-title="Russ",BOX TRUE AMATUERS-kuchini.site:8080@D-230718.done
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298309
 #EXTINF:0 group-title="Russ",BTV Erotik 1 (18+) HD-36c9aee1.edmonst.net@D-230627.done
 http://36c9aee1.edmonst.net/iptv/FP78L5SP82NDBY/14095/index.m3u8
 #EXTINF:0 group-title="Russ",BTV Erotik 2 (18+) HD-36c9aee1.edmonst.net@D-230627.done
@@ -9530,6 +9318,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298282
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/298282
 #EXTINF:0 group-title="Russ",MASSAGE ROOMS-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298282
+#EXTINF:0 group-title="Russ",MASSAGE ROOMS-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298282
 #EXTINF:0 group-title="Russ",MASSAGE ROOMS-kyaspiptv.xyz:8080@D-230717.done
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/389291
 #EXTINF:0 group-title="Russ",MASSAGE ROOMS-live.iptv.tube:22461@D-230620.done
@@ -9642,10 +9432,6 @@ http://37.49.230.42:8080/Jhgsdf/3f140eff/298293
 http://37.49.230.42:8080/mitrovic/tCTz8ZhyevV2qQYW/298293
 #EXTINF:0 group-title="Russ",NURU MASSAGE-37.49.230.42:8080@D-230712.done
 http://37.49.230.42:8080/96e1e190/abb9f8142a/298293
-#EXTINF:0 group-title="Russ",NURU MASSAGE-51.222.43.170:8001@D-230611.done
-http://51.222.43.170:8001/Portugal0766/ann4rpMpT66q/309385
-#EXTINF:0 group-title="Russ",NURU MASSAGE-51.222.43.170:8001@D-230621.done
-http://51.222.43.170:8001/2861/xR4VbCnLKjJp/309385
 #EXTINF:0 group-title="Russ",NURU MASSAGE-a.alcapone1.com:8080@D-230709.done
 http://a.alcapone1.com:8080/Tommy/123456/26371
 #EXTINF:0 group-title="Russ",NURU MASSAGE-a.alcapone1.com:8080@D-230716.done
@@ -9715,8 +9501,6 @@ http://halostyle.top:8080/live/4141659051615946/1081659051615946/54354.ts
 #EXTINF:0 group-title="Russ",NURU MASSAGE-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/5071662158313678/4821662158313678/54354.ts
 #EXTINF:0 group-title="Russ",NURU MASSAGE-halostyle.top:8080@D-230624.done
-http://halostyle.top:8080/live/51664967470539017/3551664967470539/54354.ts
-#EXTINF:0 group-title="Russ",NURU MASSAGE-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/561669544822135057/6461669544822135/54354.ts
 #EXTINF:0 group-title="Russ",NURU MASSAGE-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/961666565594054031/1951666565594054/54354.ts
@@ -9752,6 +9536,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298293
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/298293
 #EXTINF:0 group-title="Russ",NURU MASSAGE-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298293
+#EXTINF:0 group-title="Russ",NURU MASSAGE-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298293
 #EXTINF:0 group-title="Russ",Nuru Massage-kyaspiptv.xyz:8080@D-230717.done
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/389146
 #EXTINF:0 group-title="Russ",NURU MASSAGE-kyaspiptv.xyz:8080@D-230717.done
@@ -9819,17 +9605,17 @@ http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/389146
 #EXTINF:0 group-title="Russ",NURU MASSAGE-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/389305
 #EXTINF:0 group-title="Russ",NURU MASSAGE-tvpanel.one:80@D-230625.done
-http://tvpanel.one:80/live/laquitaevans3@gmail.com/laquitaevans3/765437.ts
-#EXTINF:0 group-title="Russ",NURU MASSAGE-tvpanel.one:80@D-230625.done
 http://tvpanel.one:80/live/laquitaevans3@gmail.com/laquitaevans3/788079.ts
-#EXTINF:0 group-title="Russ",NURU MASSAGE-tvpanel.one:80@D-230629.done
-http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765437.ts
+#EXTINF:0 group-title="Russ",NURU MASSAGE-tvpanel.one:80@D-230625.done
+http://tvpanel.one:80/live/laquitaevans3@gmail.com/laquitaevans3/765437.ts
 #EXTINF:0 group-title="Russ",NURU MASSAGE-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/788079.ts
 #EXTINF:0 group-title="Russ",NURU MASSAGE-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/939885/775792/765437.ts
 #EXTINF:0 group-title="Russ",NURU MASSAGE-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/939885/775792/788079.ts
+#EXTINF:0 group-title="Russ",NURU MASSAGE-tvpanel.one:80@D-230629.done
+http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765437.ts
 #EXTINF:0 group-title="Russ",NURU MASSAGE-tvpanel.one:80@D-230630.done
 http://tvpanel.one:80/live/austin/austin/765437.ts
 #EXTINF:0 group-title="Russ",NURU MASSAGE-tvpanel.one:80@D-230630.done
@@ -9955,8 +9741,6 @@ http://ss123.pro:80/11223344/11223344/774049
 #EXTINF:0 group-title="Russ",OLDTIMER-ss123.pro:80@D-230710.done
 http://ss123.pro:80/shoshana/shoshana/774049
 #EXTINF:0 group-title="Russ",Oldtimer-ultrontv.xyz:80@D-230712.done
-http://ultrontv.xyz:80/Abed/test1234/150562
-#EXTINF:0 group-title="Russ",Oldtimer-ultrontv.xyz:80@D-230712.done
 http://ultrontv.xyz:80/Cctrial/Firestickcc/150562
 #EXTINF:0 group-title="Russ",Oldtimer-ultrontv.xyz:80@D-230712.done
 http://ultrontv.xyz:80/Damion/Genesis2016/150562
@@ -10080,6 +9864,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298299
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/298299
 #EXTINF:0 group-title="Russ",PRENCESS CUM-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298299
+#EXTINF:0 group-title="Russ",PRENCESS CUM-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298299
 #EXTINF:0 group-title="Russ",PRENCESS CUM-kyaspiptv.xyz:8080@D-230717.done
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/389312
 #EXTINF:0 group-title="Russ",PRENCESS CUM-live.iptv.tube:22461@D-230620.done
@@ -10244,7 +10030,7 @@ http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/389171
 http://exploding.one:80/elite30/kpvyVYkCAJ/572903
 #EXTINF:0 group-title="Russ",Princess Cum 2-exploding.one:80@D-230718.done
 http://exploding.one:80/elite30/kpvyVYkCAJ/572904
-#EXTINF:0 group-title="Russ",Princess Cum FHD-clientbox.tv:80@D-230607.done.NC
+#EXTINF:0 group-title="Russ",Princess Cum FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/233604
 #EXTINF:0 group-title="Russ",Princess Cum FHD-ultra-box.club:80@D-230630.done
 http://ultra-box.club:80/uHVl3fiz4fEH/2MWgVZT3DU/233604
@@ -10288,8 +10074,6 @@ http://watch-now.xyz:8080/Radikarls/gazzagazza/216514
 http://xy.viptveu.com:8080/7Tycsyy3wY/uWr58nb8Qn/210295
 #EXTINF:0 group-title="Russ",RUS: Russkaya Roman-srvmain02.cctvhub.live:2087@D-230604.done
 https://srvmain02.cctvhub.live:2087/QjFcyzsOHi/icBSrdD7EL/17196011
-#EXTINF:0 group-title="Russ",RUSSKAYA NOCH (P)-dns.p2.wtf:80@D-230717.done
-http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/161549
 #EXTINF:0 group-title="Russ",RUSSKAYA NOCH (P)-watch-myjokertv.xyz:8080@D-230412.done
 http://watch-myjokertv.xyz:8080/7424463051/6736394422/385134
 #EXTINF:0 group-title="Russ",RUSSKAYA NOCH (P)-watch-myjokertv.xyz:8080@D-230412.done
@@ -10322,18 +10106,6 @@ http://37.49.230.42:8080/Jhgsdf/3f140eff/157436
 http://37.49.230.42:8080/mitrovic/tCTz8ZhyevV2qQYW/157436
 #EXTINF:0 group-title="Russ",Russkaya Noch-37.49.230.42:8080@D-230712.done
 http://37.49.230.42:8080/96e1e190/abb9f8142a/157436
-#EXTINF:0 group-title="Russ",Russkaya Noch-51.222.43.170:8001@D-230611.done
-http://51.222.43.170:8001/Portugal0766/ann4rpMpT66q/297241
-#EXTINF:0 group-title="Russ",Russkaya Noch-51.222.43.170:8001@D-230621.done
-http://51.222.43.170:8001/2861/xR4VbCnLKjJp/297241
-#EXTINF:0 group-title="Russ",Russkaya Noch-51.222.43.170:8001@D-230717.done
-http://51.222.43.170:8001/910182720403/f5H9aS39h4nG/297241
-#EXTINF:0 group-title="Russ",Russkaya Noch-51.222.43.170:8001@D-230717.done
-http://51.222.43.170:8001/Abel543/4gHm6v8eaQvk/297241
-#EXTINF:0 group-title="Russ",Russkaya Noch-51.222.43.170:8001@D-230717.done
-http://51.222.43.170:8001/abertgnz0603/R5WryknCyEZt/297241
-#EXTINF:0 group-title="Russ",Russkaya Noch-51.222.43.170:8001@D-230717.done
-http://51.222.43.170:8001/abortega2708/J8AwRxmujqJE/297241
 #EXTINF:0 group-title="Russ",RUSSKAYA NOCH-85.114.138.88:2052@D-230706.done
 http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/153213
 #EXTINF:0 group-title="Russ",RUSSKAYA NOCH-85.114.138.88:2052@D-230706.done
@@ -10354,8 +10126,6 @@ http://aflaxtv.xyz:8080/adastream/J2DVrYWnpTu3Sk4W/157436
 http://aflaxtv.xyz:8080/googleiptvex/8XsdD8qVstQhcjuy/157436
 #EXTINF:0 group-title="Russ",Russkaya Noch-aflaxtv.xyz:8080@D-230710.done
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/157436
-#EXTINF:0 group-title="Russ",RUSSKAYA NOCH-bis2023.selfip.co:8000@D-230617.done
-http://bis2023.selfip.co:8000/live/vomerocastrol/170222/201578.ts
 #EXTINF:0 group-title="Russ",Russkaya Noch-cloud-nany.cc:80@D-230711.done
 http://cloud-nany.cc:80/8547458c/98568717b/157772
 #EXTINF:0 group-title="Russ",Russkaya Noch-cloud-nany.cc:80@D-230711.done
@@ -10368,14 +10138,10 @@ http://cloud-nany.cc:80/JRA3673883/057893821/157772
 http://cloud-nany.cc:80/Rodrigoluz/4169916999/157772
 #EXTINF:0 group-title="Russ",Russkaya Noch-cloud-nany.cc:80@D-230711.done
 http://cloud-nany.cc:80/t1h436zq/hnosrwwg/157772
-#EXTINF:0 group-title="Russ",RUSSKAYA NOCH-dns.p2.wtf:80@D-230717.done
-http://dns.p2.wtf:80/fgb55ryx/pmwg45sx/161649
 #EXTINF:0 group-title="Russ",RUSSKAYA NOCH-fuska.in:8880@D-230422.done
 http://fuska.in:8880/Abeltele/bqdOtPoetgm5kPh/12678
 #EXTINF:0 group-title="Russ",RUSSKAYA NOCH -fuzzyunicorns.net:80@D-230611.done
 http://fuzzyunicorns.net:80/live/laquitaevans3@gmail.com/laquitaevans3/765104.ts
-#EXTINF:0 group-title="Russ",RUSSKAYA NOCH -fuzzyunicorns.net:80@D-230712.done
-http://fuzzyunicorns.net:80/live/austin/austin/765104.ts
 #EXTINF:0 group-title="Russ",RUSSKAYA NOCH -fuzzyunicorns.net:80@D-230716.done
 http://fuzzyunicorns.net:80/live/closincali/u4F1vfyuh2/765104.ts
 #EXTINF:0 group-title="Russ",Russkaya Noch-gamsgo.cyou:8080@D-230709.done
@@ -10416,14 +10182,10 @@ http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/77547
 http://lumaca.talumagishop.de:8000/grQwL5UtFdQf/mbA3ty82dBxW/72127
 #EXTINF:0 group-title="Russ",RUSSKAYA NOCH-lumaca.talumagishop.de:8000@D-230714.done
 http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/72127
-#EXTINF:0 group-title="Russ",RUSSKAYA NOCH-privatgiaiptv.myddns.me:80@D-230705.done
-http://privatgiaiptv.myddns.me:80/Enrico11/cDhundY/314231
-#EXTINF:0 group-title="Russ",RUSSKAYA NOCH-suadns.xyz:80@D-230712.done
-http://suadns.xyz:80/4899854826/5198418569/161649
-#EXTINF:0 group-title="Russ",RUSSKAYA NOCH -tvpanel.one:80@D-230629.done
-http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765104.ts
 #EXTINF:0 group-title="Russ",RUSSKAYA NOCH -tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/939885/775792/765104.ts
+#EXTINF:0 group-title="Russ",RUSSKAYA NOCH -tvpanel.one:80@D-230629.done
+http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/765104.ts
 #EXTINF:0 group-title="Russ",RUSSKAYA NOCH -tvpanel.one:80@D-230630.done
 http://tvpanel.one:80/live/austin/austin/765104.ts
 #EXTINF:0 group-title="Russ",Russkaya Noch-watch-myjokertv.xyz:8080@D-230412.done
@@ -11250,8 +11012,6 @@ http://omdtxvgd.otttv.pw/iptv/WTRMLWF6MHW5NG/6255/index.m3u8
 http://ru02.spr24.net/29101/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0 group-title="Russ",  SINematica-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/6255/index.m3u8
-#EXTINF:0 group-title="Russ",SINEMATICA-s1.tvchallenge.tn:2052@D-230717.done
-http://s1.tvchallenge.tn:2052/joao30/777333000/6776
 #EXTINF:0 group-title="Russ",SINematica-tr.bosstv.live:8080@D-230709.done
 http://tr.bosstv.live:8080/Benata/35353535/389190
 #EXTINF:0 group-title="Russ",SINematica-tr.bosstv.live:8080@D-230717.done
@@ -11402,6 +11162,8 @@ http://kuchini.site:8080/multi6741/ab72059e/298307
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/298307
 #EXTINF:0 group-title="Russ",SWEET SINNER-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298307
+#EXTINF:0 group-title="Russ",SWEET SINNER-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298307
 #EXTINF:0 group-title="Russ",SWEET SINNER-kyaspiptv.xyz:8080@D-230717.done
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/389324
 #EXTINF:0 group-title="Russ",SWEET SINNER-live.iptv.tube:22461@D-230620.done
@@ -11542,6 +11304,8 @@ http://kuchini.site:8080/multi6741/ab72059e/298308
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/298308
 #EXTINF:0 group-title="Russ",THROATED-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298308
+#EXTINF:0 group-title="Russ",THROATED-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298308
 #EXTINF:0 group-title="Russ",Throated-ky-iptv.com:80@D-230605.done
 http://ky-iptv.com:80/123454321/123454321/2696336.ts
 #EXTINF:0 group-title="Russ",Throated-ky-iptv.com:80@D-230708.done
@@ -11586,8 +11350,6 @@ http://tr.bosstv.live:8080/AhmetMert/YMg9nGT5rC/389325
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/389325
 #EXTINF:0 group-title="Russ",THROATED-tvpanel.one:80@D-230625.done
 http://tvpanel.one:80/live/laquitaevans3@gmail.com/laquitaevans3/788090.ts
-#EXTINF:0 group-title="Russ",THROATED-tvpanel.one:80@D-230629.done
-http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/788090.ts
 #EXTINF:0 group-title="Russ",THROATED-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/939885/775792/788090.ts
 #EXTINF:0 group-title="Russ",THROATED-tvpanel.one:80@D-230630.done
@@ -11930,8 +11692,6 @@ http://amazingiptv.life:8080/r7676/DdPXTHTpNMvq/389326
 http://amazingiptv.live:8080/Denizsubasi/utvmHTsEA6H5/389326
 #EXTINF:0 group-title="Russ",TRUE AMATUERS-fuzzyunicorns.net:80@D-230611.done
 http://fuzzyunicorns.net:80/live/laquitaevans3@gmail.com/laquitaevans3/788091.ts
-#EXTINF:0 group-title="Russ",TRUE AMATUERS-fuzzyunicorns.net:80@D-230712.done
-http://fuzzyunicorns.net:80/live/austin/austin/788091.ts
 #EXTINF:0 group-title="Russ",TRUE AMATUERS-fuzzyunicorns.net:80@D-230716.done
 http://fuzzyunicorns.net:80/live/closincali/u4F1vfyuh2/788091.ts
 #EXTINF:0 group-title="Russ",TRUE AMATUERS-gamsgo.cyou:8080@D-230613.done
@@ -11958,6 +11718,8 @@ http://kuchini.site:8080/multi6741/ab72059e/298309
 http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/298309
 #EXTINF:0 group-title="Russ",TRUE AMATUERS-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298309
+#EXTINF:0 group-title="Russ",TRUE AMATUERS-kuchini.site:8080@D-230718.done
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298309
 #EXTINF:0 group-title="Russ",TRUE AMATUERS-kyaspiptv.xyz:8080@D-230717.done
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/389326
 #EXTINF:0 group-title="Russ",TRUE AMATUERS-live.iptv.tube:22461@D-230620.done
@@ -11996,10 +11758,6 @@ http://tr.bosstv.live:8080/adamismailspengearkadas3536/1cfe2be15223/389326
 http://tr.bosstv.live:8080/AhmetMert/YMg9nGT5rC/389326
 #EXTINF:0 group-title="Russ",TRUE AMATUERS-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/389326
-#EXTINF:0 group-title="Russ",TRUE AMATUERS-tvpanel.one:80@D-230625.done
-http://tvpanel.one:80/live/laquitaevans3@gmail.com/laquitaevans3/788091.ts
-#EXTINF:0 group-title="Russ",TRUE AMATUERS-tvpanel.one:80@D-230629.done
-http://tvpanel.one:80/live/56uUkbXjm/3wG68uul4H/788091.ts
 #EXTINF:0 group-title="Russ",TRUE AMATUERS-tvpanel.one:80@D-230629.done
 http://tvpanel.one:80/live/939885/775792/788091.ts
 #EXTINF:0 group-title="Russ",TRUE AMATUERS-tvpanel.one:80@D-230630.done
@@ -12032,8 +11790,6 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/138909
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/138909
 #EXTINF:0 group-title="Russ",US-MC Radio  MC Workout: Yoga-abc123.digital:8080@D-230706.done
 http://abc123.digital:8080/bajbest@gmail.com/q2ugE63asZ/517213
-#EXTINF:0 group-title="Russ",US-MC RADIO  MC WORKOUT: YOGA-suadns.xyz:80@D-230712.done
-http://suadns.xyz:80/VanessaLima/VanLim214/152903
 #EXTINF:0 group-title="Russ",US-YOGA EXERCISE-line.rs6ott.com:80@D-230705.done
 http://line.rs6ott.com:80/Andreas/Andreas/872765
 #EXTINF:0 group-title="Russ",US-YOGA EXERCISE-ss123.pro:80@D-230710.done
@@ -12290,7 +12046,7 @@ http://z2kl9hrc.ottclub.xyz/iptv/MUYTSQ4A33AAND/14176/index.m3u8
 http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/14176/index.m3u8
 #EXTINF:0 group-title="Russ",YOSSO TV SEXY-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/14176/index.m3u8
-#EXTINF:0 group-title="Solo",Fine Erotica-185.156.74.135:80@D-230607.done.NC.dead
+#EXTINF:0 group-title="Solo",Fine Erotica-185.156.74.135:80@D-230607.done.NC
 http://185.156.74.135:80/boris1234/1234boris/2696195.ts
-#EXTINF:0 group-title="Solo",Fine Erotica-5.44.253.151:80@D-230607.done.NC.dead
+#EXTINF:0 group-title="Solo",Fine Erotica-5.44.253.151:80@D-230607.done.NC
 http://5.44.253.151:80/dean12345/12345dean/2696195.ts
