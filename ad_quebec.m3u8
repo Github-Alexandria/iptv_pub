@@ -1,5 +1,5 @@
-#EXTM3U 7075
-#DATE 2023-07-19 08:37
+#EXTM3U 7196
+#DATE 2023-07-19 11:39
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230623.done
 http://tv.pro-ott.com:25443/live/boko/0PV4GYNUGS/116752.ts
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230624.done
@@ -1794,6 +1794,8 @@ http://tvpanel.one:80/live/austin/austin/443238.ts
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/515
 #EXTINF:0 group-title="QC-Info",CA - FR:LCN-2hubs.ddns.net:25461@D-230709.done
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/61185
+#EXTINF:0 group-title="QC-Info",CA - FR:LCN-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61185
 #EXTINF:0 group-title="QC-Info",CA-FR  ICI RDI-ua-iptv.com:8080@D-230515.done
 http://ua-iptv.com:8080/MikeRoberts/Mike111/223100
 #EXTINF:0 group-title="QC-Info",CA-FR  ICI RDi HD-live.iptv.tube:22461@D-230620.done
@@ -2080,6 +2082,26 @@ http://1.revportal.eu:80/SPIDER_ZtcBzh/O5BQ7zebND/156012
 http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/156012
 #EXTINF:0 group-title="QC-Info",CA: ICI  RDI-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/156012
+#EXTINF:0 group-title="QC-Info",CA: ICI  RDI-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/156012
+#EXTINF:0 group-title="QC-Info",CA: ICI  RDI-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/156012
+#EXTINF:0 group-title="QC-Info",CA: ICI  RDI-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/156012
+#EXTINF:0 group-title="QC-Info",CA: ICI  RDI-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/156012
+#EXTINF:0 group-title="QC-Info",CA: ICI  RDI-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/156012
+#EXTINF:0 group-title="QC-Info",CA: ICI  RDI-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/156012
+#EXTINF:0 group-title="QC-Info",CA: ICI  RDI-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/156012
+#EXTINF:0 group-title="QC-Info",CA: ICI  RDI-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/156012
+#EXTINF:0 group-title="QC-Info",CA: ICI  RDI-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/156012
+#EXTINF:0 group-title="QC-Info",CA: ICI  RDI-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/156012
 #EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230528.done
 http://7go.xyz:8080/rlp1ajfq/9ik2lpcc/308859
 #EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230528.done
@@ -3592,6 +3614,10 @@ http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61174
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/61174
 #EXTINF:0 group-title="QC-Other",CA - FR:PRISE-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/61173
+#EXTINF:0 group-title="QC-Other",CA - FR:PRISE-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61173
+#EXTINF:0 group-title="QC-Other",CA - FR:PRISE-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61173
 #EXTINF:0 group-title="QC-Other",CA - FR:PRISE-scorpione.net:25461@D-230712.done
 http://scorpione.net:25461/Wing/123456/170359
 #EXTINF:0 group-title="QC-Other",CA - FR:PRISE-scorpione.net:25461@D-230717.done
@@ -5054,6 +5080,8 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61172
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61172
 #EXTINF:0 group-title="QC-Sport",CA - FR:RDS-2hubs.ddns.net:25461@D-230710.done
 http://2hubs.ddns.net:25461/Sanders/Sanders/61172
+#EXTINF:0 group-title="QC-Sport",CA - FR:RDS-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61172
 #EXTINF:0 group-title="QC-Sport",CA-FR:  RDS-fanatik77.xyz:80@D-230708.done
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/166374
 #EXTINF:0 group-title="QC-Sport",CA-FR:  RDS-fanatik77.xyz:80@D-230718.done
@@ -5084,6 +5112,8 @@ http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61171
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/61171
 #EXTINF:0 group-title="QC-Sport",CA - FR:RDS 2-2hubs.ddns.net:25461@D-230710.done
 http://2hubs.ddns.net:25461/Sanders/Sanders/61171
+#EXTINF:0 group-title="QC-Sport",CA - FR:RDS 2-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61171
 #EXTINF:0 group-title="QC-Sport",CA-FR:  RDS 2-fanatik77.xyz:80@D-230708.done
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/166375
 #EXTINF:0 group-title="QC-Sport",CA-FR: RDS 2-fuzzyunicorns.net:80@D-230712.done
@@ -5116,6 +5146,8 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61165
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61165
 #EXTINF:0 group-title="QC-Sport",CA - FR:TVA SPORTS-2hubs.ddns.net:25461@D-230710.done
 http://2hubs.ddns.net:25461/Sanders/Sanders/61165
+#EXTINF:0 group-title="QC-Sport",CA - FR:TVA SPORTS-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61165
 #EXTINF:0 group-title="QC-Sport",CA-FR:  TVA SPORTS-fanatik77.xyz:80@D-230708.done
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/166382
 #EXTINF:0 group-title="QC-Sport",CA-FR:  TVA SPORTS-fanatik77.xyz:80@D-230718.done
@@ -5972,6 +6004,28 @@ http://1.revportal.eu:80/SPIDER_hDv2T0/ptH6fy6TBp/156047
 http://1.revportal.eu:80/SPIDER_ZtcBzh/O5BQ7zebND/156047
 #EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/156047
+#EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/156047
+#EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/156047
+#EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/156047
+#EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/156047
+#EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/156047
+#EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/156047
+#EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/156047
+#EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/156047
+#EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/156047
+#EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/156047
+#EXTINF:0 group-title="QC-Sport",CA: RDS-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/156047
 #EXTINF:0 group-title="QC-Sport",CA: Rds-7go.xyz:8080@D-230528.done
 http://7go.xyz:8080/clientevip/20222023@1/308891
 #EXTINF:0 group-title="QC-Sport",CA: Rds-7go.xyz:8080@D-230708.done
@@ -6088,6 +6142,28 @@ http://maxhd.org:8080/VASvYOTkDm/5fMRNcq3bg/155735
 http://s.showplustv.pro:80/mustafaali909/8744367/64301
 #EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/156048
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/156048
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/156048
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/156048
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/156048
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/156048
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/156048
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/156048
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/156048
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/156048
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/156048
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/156048
 #EXTINF:0 group-title="QC-Sport",CA: Rds 2-7go.xyz:8080@D-230528.done
 http://7go.xyz:8080/clientevip/20222023@1/308890
 #EXTINF:0 group-title="QC-Sport",CA: Rds 2-7go.xyz:8080@D-230711.done
@@ -6506,6 +6582,26 @@ http://1.revportal.eu:80/SPIDER_ZtcBzh/O5BQ7zebND/156081
 http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/156081
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/156081
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/156081
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/156081
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/156081
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/156081
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/156081
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/156081
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/156081
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/156081
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/156081
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/156081
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-233836167629542052.ot0711.xyz:80@D-230718.done
 http://233836167629542052.ot0711.xyz:80/play/vd08206/2960766689/542052.ts
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1 FHD-dontuse.offshorerev.cc:80@D-230709.done
@@ -6888,6 +6984,26 @@ http://1.revportal.eu:80/SPIDER_ZtcBzh/O5BQ7zebND/156082
 http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/156082
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/156082
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/156082
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/156082
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/156082
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/156082
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/156082
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/156082
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/156082
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/156082
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/156082
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/156082
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-ipro.tv:80@D-230714.done
 http://ipro.tv:80/nLBh9ijt53PW/IJdcEsuuGk/3469
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2 FHD-ipro.tv:80@D-230714.done
@@ -7290,6 +7406,26 @@ http://1.revportal.eu:80/SPIDER_ZtcBzh/O5BQ7zebND/156083
 http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/156083
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/156083
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/156083
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/156083
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/156083
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/156083
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/156083
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/156083
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/156083
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/156083
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/156083
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/156083
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-233836167629539579.ot0711.xyz:80@D-230718.done
 http://233836167629539579.ot0711.xyz:80/play/vd08206/2960766689/539579.ts
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3 FHD-dontuse.offshorerev.cc:80@D-230709.done
@@ -7702,6 +7838,26 @@ http://1.revportal.eu:80/SPIDER_ZtcBzh/O5BQ7zebND/156084
 http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/156084
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/156084
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/156084
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/156084
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/156084
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/156084
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/156084
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/156084
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/156084
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/156084
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/156084
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/156084
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4 FHD-233836167629476883.ot0711.xyz:80@D-230718.done
 http://233836167629476883.ot0711.xyz:80/play/vd08206/2960766689/476883.ts
 #EXTINF:0 group-title="QC-Sport",CA: Tsn 4 FHD-7go.xyz:8080@D-230708.done
@@ -8136,6 +8292,26 @@ http://1.revportal.eu:80/SPIDER_ZtcBzh/O5BQ7zebND/156085
 http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/156085
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/156085
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/156085
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/156085
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/156085
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/156085
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/156085
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/156085
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/156085
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/156085
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/156085
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/156085
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5 FHD-ipro.tv:80@D-230714.done
 http://ipro.tv:80/nLBh9ijt53PW/IJdcEsuuGk/3472
 #EXTINF:0 group-title="QC-Sport",CA : TSN 5 FHD-iron-man.life:8000@D-230706.done
