@@ -1,5 +1,5 @@
-#EXTM3U 7235
-#DATE 2023-07-19 08:37
+#EXTM3U 7454
+#DATE 2023-07-19 11:41
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -46,6 +46,8 @@ http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/267790
 http://ipro.tv:80/nLBh9ijt53PW/IJdcEsuuGk/267790
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_1_HD-2.revportal.eu:80@D-230619.done
 http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/112622
+#EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_1_HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/112622
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_1_HD-dontuse.offshorerev.cc:80@D-230714.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/112622
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_1_HD-humiptv.live:8080@D-230716.done
@@ -54,6 +56,8 @@ http://humiptv.live:8080/live/NiteSH94/RF551585694/154527.ts
 http://ott1.co:8080/live/p2GRI8QKKz/1Zi8iGfJxP/154527.ts
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_1_HD-revteam11.offshorerev.cc:80@D-230718.done
 http://revteam11.offshorerev.cc:80/SPIDER_qdt1Jh/TZBFhZVogF/112622
+#EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_2_HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/112621
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_2_HD-dontuse.offshorerev.cc:80@D-230709.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/112621
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_2_HD-humiptv.live:8080@D-230716.done
@@ -66,6 +70,8 @@ http://ott1.co:8080/live/p2GRI8QKKz/1Zi8iGfJxP/154528.ts
 http://revteam11.offshorerev.cc:80/SPIDER_qdt1Jh/TZBFhZVogF/112621
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_3_HD-1.revportal.eu:80@D-230629.done
 http://1.revportal.eu:80/mag00:1A:79:53:93:67/bqnIkA75Si/112620
+#EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_3_HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/112620
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_3_HD-dontuse.offshorerev.cc:80@D-230714.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/112620
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_3_HD-humiptv.live:8080@D-230716.done
@@ -76,6 +82,8 @@ http://ott1.co:8080/live/p2GRI8QKKz/1Zi8iGfJxP/154529.ts
 http://revteam11.offshorerev.cc:80/SPIDER_qdt1Jh/TZBFhZVogF/112620
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_MAX_4-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/112550
+#EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_MAX_4-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/112550
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_MAX_4-dontuse.offshorerev.cc:80@D-230714.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/112550
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_MAX_4-humiptv.live:8080@D-230716.done
@@ -84,6 +92,8 @@ http://humiptv.live:8080/live/NiteSH94/RF551585694/154530.ts
 http://ott1.co:8080/live/p2GRI8QKKz/1Zi8iGfJxP/154530.ts
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_MAX_4-revteam11.offshorerev.cc:80@D-230718.done
 http://revteam11.offshorerev.cc:80/SPIDER_qdt1Jh/TZBFhZVogF/112550
+#EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_MAX_5-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/112549
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_MAX_5-dontuse.offshorerev.cc:80@D-230714.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/112549
 #EXTINF:0 group-title="FR-Bein",FR-(C+CAR) BEIN_SPORTS_MAX_5-humiptv.live:8080@D-230716.done
@@ -244,6 +254,8 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58753
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58753
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 1 HD-2hubs.ddns.net:25461@D-230710.done
 http://2hubs.ddns.net:25461/Sanders/Sanders/58753
+#EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 1 HD-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58753
 #EXTINF:0 group-title="FR-Bein",FR-beIN SPORT 1 HD-2playburnmaster.ddns.net:80@D-230708.done
 http://2playburnmaster.ddns.net:80/@@Jens!!/!!Jens@@/18747
 #EXTINF:0 group-title="FR-Bein",FR-beIN SPORT 1 HD-2playburnmaster.ddns.net:80@D-230714.done
@@ -424,6 +436,8 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58754
 http://2hubs.ddns.net:25461/BabNour/telegrramm/58754
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 2 HD-2hubs.ddns.net:25461@D-230710.done
 http://2hubs.ddns.net:25461/Sanders/Sanders/58754
+#EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 2 HD-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58754
 #EXTINF:0 group-title="FR-Bein",FR-beIN SPORT 2 HD-2playburnmaster.ddns.net:80@D-230708.done
 http://2playburnmaster.ddns.net:80/@@Jens!!/!!Jens@@/18749
 #EXTINF:0 group-title="FR-Bein",FR-beIN SPORT 2 HD-2playburnmaster.ddns.net:80@D-230714.done
@@ -582,6 +596,8 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58755
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58755
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 3 HD-2hubs.ddns.net:25461@D-230710.done
 http://2hubs.ddns.net:25461/Sanders/Sanders/58755
+#EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 3 HD-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58755
 #EXTINF:0 group-title="FR-Bein",FR-beIN SPORT 3 HD-2playburnmaster.ddns.net:80@D-230708.done
 http://2playburnmaster.ddns.net:80/@@Jens!!/!!Jens@@/18748
 #EXTINF:0 group-title="FR-Bein",FR-beIN SPORT 3 HD-2playburnmaster.ddns.net:80@D-230714.done
@@ -3636,6 +3652,28 @@ http://1.revportal.eu:80/SPIDER_s0c7U5/7bemfV89iD/77188
 http://1.revportal.eu:80/SPIDER_ZtcBzh/O5BQ7zebND/77188
 #EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/77188
+#EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/77188
+#EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/77188
+#EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/77188
+#EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/77188
+#EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/77188
+#EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/77188
+#EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/77188
+#EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/77188
+#EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/77188
+#EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/77188
+#EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/77188
 #EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-dontuse.offshorerev.cc:80@D-230709.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/77188
 #EXTINF:0 group-title="FR-Canal+",CANAL+ FORMULE 1 HD-onrev.xyz:80@D-230718.done
@@ -3730,6 +3768,28 @@ http://1.revportal.eu:80/SPIDER_Q0EDvT/DtvkaEoGQL/77190
 http://1.revportal.eu:80/mag00:1A:79:53:22:DD/k5pPUYZgvA/77190
 #EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/77190
+#EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/77190
+#EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/77190
+#EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/77190
+#EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/77190
+#EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/77190
+#EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/77190
+#EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/77190
+#EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/77190
+#EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/77190
+#EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/77190
+#EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/77190
 #EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-4k.boxip.org:8080@D-230627.done
 http://4k.boxip.org:8080/695553539585239/2076559245/81512.ts
 #EXTINF:0 group-title="FR-Canal+",CANAL+ PREMIER LEAGUE HD-dontuse.offshorerev.cc:80@D-230714.done
@@ -3808,6 +3868,14 @@ http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/77028
 http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/77028
 #EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/77028
+#EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/77028
+#EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/77028
+#EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/54833
+#EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/133281
 #EXTINF:0 group-title="FR-Canal+",CANAL+ Sport-4k.boxip.org:8080@D-230525.done
 http://4k.boxip.org:8080/697303143383473/2052727552/114645.ts
 #EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT-4k.boxip.org:8080@D-230525.done
@@ -9030,6 +9098,8 @@ http://iptv-turkseed.com:8080/Mtopcu/u2jMRKyMvK/184907
 http://iptv-turkseed.com:8080/umitata/dnz20umitata20/184907
 #EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-2hubs.ddns.net:25461@D-230622.done
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58770
+#EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58770
 #EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-zeintv.xyz:8080@D-230718.done
 http://zeintv.xyz:8080/moha/2020/229022
 #EXTINF:0 group-title="FR-Eurosport",FR-Sport: EuroSport 1 HD-portal.alliptvapp.com:8080@D-230714.done
@@ -9198,6 +9268,28 @@ http://1.revportal.eu:80/SPIDER_s0c7U5/7bemfV89iD/155175
 http://1.revportal.eu:80/SPIDER_ZtcBzh/O5BQ7zebND/155175
 #EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/155175
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/155175
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/155175
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/155175
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/155175
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/155175
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/155175
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/155175
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/155175
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/155175
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/155175
+#EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/155175
 #EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-dontuse.offshorerev.cc:80@D-230709.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/155175
 #EXTINF:0 group-title="FR-F1-Foot",CANAL+ FOOT HEVC-onrev.xyz:80@D-230718.done
@@ -11104,6 +11196,28 @@ http://1.revportal.eu:80/SPIDER_ZtcBzh/O5BQ7zebND/77176
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1386545
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/77176
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/77176
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/77176
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/77176
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/77176
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/77176
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/77176
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/77176
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/77176
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/77176
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/77176
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/77176
 #EXTINF:0 group-title="FR-RMC",FR- RMC Sport 1 HD-2015.surf:8080@D-230625.done
 http://2015.surf:8080/54bDUMBXu9/eiZ0BuJQAS/1999
 #EXTINF:0 group-title="FR-RMC",FR- RMC Sport 1 HD-2015.surf:8080@D-230625.done
@@ -11132,6 +11246,8 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58762
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58762
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 1 HD-2hubs.ddns.net:25461@D-230710.done
 http://2hubs.ddns.net:25461/Sanders/Sanders/58762
+#EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 1 HD-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58762
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-372080500731316637.ot0711.xyz:80@D-230717.done
 http://372080500731316637.ot0711.xyz:80/play/vi0208715/Ht3MPB8Rxd3/316637.ts
 #EXTINF:0 group-title="FR-RMC",FR-Rmc Sport 1 HD-7go.xyz:8080@D-230528.done
@@ -11732,6 +11848,24 @@ http://1.revportal.eu:80/SPIDER_ZtcBzh/O5BQ7zebND/77173
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1386547
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/77173
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/77173
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/77173
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/77173
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/77173
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/77173
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/77173
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/77173
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/77173
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/77173
 #EXTINF:0 group-title="FR-RMC",FR- RMC Sport 2 HD-2015.surf:8080@D-230625.done
 http://2015.surf:8080/54bDUMBXu9/eiZ0BuJQAS/2000
 #EXTINF:0 group-title="FR-RMC",FR- RMC Sport 2 HD-2015.surf:8080@D-230625.done
@@ -11760,6 +11894,8 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58763
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58763
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 2 HD-2hubs.ddns.net:25461@D-230710.done
 http://2hubs.ddns.net:25461/Sanders/Sanders/58763
+#EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 2 HD-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58763
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-372080500731316642.ot0711.xyz:80@D-230717.done
 http://372080500731316642.ot0711.xyz:80/play/vi0208715/Ht3MPB8Rxd3/316642.ts
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 2 HD-372080500731459199.ot0711.xyz:80@D-230717.done
@@ -12322,6 +12458,8 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58764
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58764
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 3 HD-2hubs.ddns.net:25461@D-230710.done
 http://2hubs.ddns.net:25461/Sanders/Sanders/58764
+#EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 3 HD-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58764
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-372080500731316643.ot0711.xyz:80@D-230717.done
 http://372080500731316643.ot0711.xyz:80/play/vi0208715/Ht3MPB8Rxd3/316643.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-aca3b.tk:8080@D-230630.done
@@ -12692,6 +12830,8 @@ http://kingtop10.net:7070/clubdeking2/eh4utvgr/5841
 http://kingtop10.net:7070/Anasgamout/m5kkbx3l/5841
 #EXTINF:0 group-title="FR-RMC",FRRMC SPORT 2 HD-m3u.sea-iptv.com:80@D-230629.done
 http://m3u.sea-iptv.com:80/f4:7b:5e:5d:e2:4b/12flmnrt/11992
+#EXTINF:0 group-title="FR-RMC",FRSD RMC SPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5B:A3:42/yNJuW68VkL/54884
 #EXTINF:0 group-title="FR-RMC",FRSD RMC SPORT 2 HD-dontuse.offshorerev.cc:80@D-230714.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/54884
 #EXTINF:0 group-title="FR-RMC",FRSD RMC SPORT 2 HD-onrev.xyz:80@D-230718.done
