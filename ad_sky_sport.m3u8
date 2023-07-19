@@ -1,6 +1,6 @@
-#EXTM3U 6656
-#DATE 2023-07-19 08:38
-#EXTINF:0 group-title="Now-Klub",### UK NOW SPORTS #####-mag.gofast-tv.me:80@D-230718.done
+#EXTM3U 6951
+#DATE 2023-07-19 11:49
+#EXTINF:0 group-title="Now-Klub",## UK NOW SPORTS #####-mag.gofast-tv.me:80@D-230718.done
 http://mag.gofast-tv.me:80/Abderrahim/Abderrahim/1032490
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tv.pro-ott.com:25443@D-230604.done
 http://tv.pro-ott.com:25443/live/355434554445/4565555665/116841.ts
@@ -166,6 +166,22 @@ http://evolved.host:8080/lou99/c8DtRWieta/332715
 http://ua-iptv.com:8080/MikeRoberts/Mike111/302995
 #EXTINF:0 group-title="Now-Klub",4K HK Now Sports-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/147560
+#EXTINF:0 group-title="Now-Klub",4K HK Now Sports-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/147560
+#EXTINF:0 group-title="Now-Klub",4K HK Now Sports-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/147560
+#EXTINF:0 group-title="Now-Klub",4K HK Now Sports-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/147560
+#EXTINF:0 group-title="Now-Klub",4K HK Now Sports-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/147560
+#EXTINF:0 group-title="Now-Klub",4K HK Now Sports-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/147560
+#EXTINF:0 group-title="Now-Klub",4K HK Now Sports-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/147560
+#EXTINF:0 group-title="Now-Klub",4K HK Now Sports-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/147560
+#EXTINF:0 group-title="Now-Klub",4K HK Now Sports-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/147560
 #EXTINF:0 group-title="Now-Klub",4K HK Now Sports-dontuse.offshorerev.cc:80@D-230709.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/147560
 #EXTINF:0 group-title="Now-Klub",4K HK Now Sports-onrev.xyz:80@D-230718.done
@@ -376,6 +392,22 @@ http://www.premiumiptvmk.com:8080/F29175/cd31b677/146068
 http://apontv.pm:80/live/231898749678226/1593574628/36916.ts
 #EXTINF:0 group-title="Now-Klub",ASTRO SUPERSPORT 1-apontv.pm:80@D-230714.done
 http://apontv.pm:80/live/375617456966824/1593574628/36916.ts
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/93836
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/93836
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/93836
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/93836
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/93836
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/93836
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/93836
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/93836
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport 1 HD-dontuse.offshorerev.cc:80@D-230709.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/93836
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport 1 HD-onrev.xyz:80@D-230718.done
@@ -402,6 +434,22 @@ http://apontv.pm:80/live/375617456966824/1593574628/36917.ts
 http://www.premiumiptvmk.com:8080/F29175/cd31b677/157556
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport 2 HD-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/SPIDER_LCRZfF/KeLBL42xrV/93837
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/93837
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/93837
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/93837
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/93837
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/93837
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/93837
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/93837
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/93837
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport 2 HD-dontuse.offshorerev.cc:80@D-230709.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/93837
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport 2 HD-gotdark.com:443@D-230623.done
@@ -434,6 +482,22 @@ http://kuchini.site:8080/multi6741/ab72059e/157557
 http://www.premiumiptvmk.com:8080/F29175/cd31b677/157557
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport 3 HD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/93838
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 3 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/93838
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 3 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/93838
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 3 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/93838
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 3 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/93838
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 3 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/93838
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 3 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/93838
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 3 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/93838
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 3 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/93838
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport 3 HD-gotdark.com:443@D-230623.done
 https://gotdark.com:443/gatodmiptv/9gaq9QVmEDDOyb50w/42255
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport 3 HD-onrev.xyz:80@D-230630.done
@@ -470,6 +534,22 @@ http://www.premiumiptvmk.com:8080/F29175/cd31b677/157558
 http://yahya.top:80/live/13538810817626027/1593574628/36919.ts
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport 4 HD-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/SPIDER_Lc0nTg/9eIKdaCfnp/93839
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 4 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/93839
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 4 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/93839
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 4 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/93839
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 4 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/93839
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 4 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/93839
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 4 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/93839
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 4 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/93839
+#EXTINF:0 group-title="Now-Klub",Astro SuperSport 4 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/93839
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport 4 HD-gotdark.com:443@D-230623.done
 https://gotdark.com:443/gatodmiptv/9gaq9QVmEDDOyb50w/42256
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport 4 HD-onrev.xyz:80@D-230718.done
@@ -922,6 +1002,22 @@ http://smartv.pro:80/live/Sultan123/Sultan123123/41764.ts
 http://smartv.pro:80/live/828282/484848/41764.ts
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 (SRB) HD-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/SPIDER_bSWRQM/sIVqH7KeyG/157657
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/157657
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/157657
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/157657
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/157657
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/157657
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/157657
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/157657
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/157657
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 (SRB) HD-onrev.xyz:80@D-230718.done
 http://onrev.xyz:80/SPIDER_7kGKCC/YPVWDXEXzy/157657
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 (SRB) HD-onrev.xyz:80@D-230718.done
@@ -942,6 +1038,22 @@ http://revteam11.offshorerev.cc:80/SPIDER_ufpSdX/S7JLOSc1Ns/157657
 http://revteam11.offshorerev.cc:80/SPIDER_2yn2yJ/fqIy9tDQ0Q/157657
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 HR HD L2-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/SPIDER_LCRZfF/KeLBL42xrV/157671
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/157671
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/157671
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/157671
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/157671
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/157671
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/157671
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/157671
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/157671
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 HR HD L2-onrev.xyz:80@D-230718.done
 http://onrev.xyz:80/SPIDER_7kGKCC/YPVWDXEXzy/157671
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 HR HD L2-onrev.xyz:80@D-230718.done
@@ -962,6 +1074,22 @@ http://revteam11.offshorerev.cc:80/SPIDER_ufpSdX/S7JLOSc1Ns/157671
 http://revteam11.offshorerev.cc:80/SPIDER_2yn2yJ/fqIy9tDQ0Q/157671
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 SR HD L2-1.revportal.eu:80@D-230629.done
 http://1.revportal.eu:80/mag00:1A:79:53:93:67/bqnIkA75Si/157658
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/157658
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/157658
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/157658
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/157658
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/157658
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/157658
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/157658
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/157658
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 SR HD L2-dontuse.offshorerev.cc:80@D-230709.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/157658
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 1 SR HD L2-onrev.xyz:80@D-230718.done
@@ -986,6 +1114,22 @@ http://revteam11.offshorerev.cc:80/SPIDER_2yn2yJ/fqIy9tDQ0Q/157658
 http://1.revportal.eu:80/mag00:1A:79:53:84:02/114LTV0sv2/157672
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/157672
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/157672
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/157672
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/157672
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/157672
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/157672
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/157672
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/157672
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/157672
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD-onrev.xyz:80@D-230718.done
 http://onrev.xyz:80/SPIDER_7kGKCC/YPVWDXEXzy/157672
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD-onrev.xyz:80@D-230718.done
@@ -1008,6 +1152,22 @@ http://revteam11.offshorerev.cc:80/SPIDER_2yn2yJ/fqIy9tDQ0Q/157672
 http://revteam9.offshorerev.cc:80/SPIDER_NjKqYj/UrdiVGcB5A/157672
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/SPIDER_bSWRQM/sIVqH7KeyG/157660
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/157660
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/157660
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/157660
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/157660
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/157660
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/157660
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/157660
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/157660
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-dontuse.offshorerev.cc:80@D-230709.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/157660
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-onrev.xyz:80@D-230718.done
@@ -1028,6 +1188,22 @@ http://revteam11.offshorerev.cc:80/SPIDER_TCYJjc/vkCsV7tVgg/157660
 http://revteam11.offshorerev.cc:80/SPIDER_ufpSdX/S7JLOSc1Ns/157660
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 (SRB) HD L2-revteam11.offshorerev.cc:80@D-230718.done
 http://revteam11.offshorerev.cc:80/SPIDER_2yn2yJ/fqIy9tDQ0Q/157660
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/157673
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/157673
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/157673
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/157673
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/157673
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/157673
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/157673
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/157673
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 HR HD L2-onrev.xyz:80@D-230718.done
 http://onrev.xyz:80/SPIDER_7kGKCC/YPVWDXEXzy/157673
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 HR HD L2-onrev.xyz:80@D-230718.done
@@ -1048,6 +1224,22 @@ http://revteam11.offshorerev.cc:80/SPIDER_ufpSdX/S7JLOSc1Ns/157673
 http://revteam11.offshorerev.cc:80/SPIDER_2yn2yJ/fqIy9tDQ0Q/157673
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 SR HD-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/SPIDER_Lc0nTg/9eIKdaCfnp/157659
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/157659
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/157659
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/157659
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/157659
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/157659
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/157659
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/157659
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/157659
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 SR HD-onrev.xyz:80@D-230718.done
 http://onrev.xyz:80/SPIDER_7kGKCC/YPVWDXEXzy/157659
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 2 SR HD-onrev.xyz:80@D-230718.done
@@ -1068,6 +1260,22 @@ http://revteam11.offshorerev.cc:80/SPIDER_ufpSdX/S7JLOSc1Ns/157659
 http://revteam11.offshorerev.cc:80/SPIDER_2yn2yJ/fqIy9tDQ0Q/157659
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 HR HD L2-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/SPIDER_LCRZfF/KeLBL42xrV/157675
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/157675
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/157675
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/157675
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/157675
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/157675
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/157675
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/157675
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 HR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/157675
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 HR HD L2-onrev.xyz:80@D-230718.done
 http://onrev.xyz:80/SPIDER_7kGKCC/YPVWDXEXzy/157675
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 HR HD L2-onrev.xyz:80@D-230718.done
@@ -1088,6 +1296,22 @@ http://revteam11.offshorerev.cc:80/SPIDER_ufpSdX/S7JLOSc1Ns/157675
 http://revteam11.offshorerev.cc:80/SPIDER_2yn2yJ/fqIy9tDQ0Q/157675
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/mag00:1A:79:53:84:02/114LTV0sv2/157661
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/157661
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/157661
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/157661
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/157661
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/157661
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/157661
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/157661
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/157661
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD-dontuse.offshorerev.cc:80@D-230709.done
 http://dontuse.offshorerev.cc:80/SPIDER_MANKeh/3VnL64czSl/157661
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD-onrev.xyz:80@D-230718.done
@@ -1110,6 +1334,22 @@ http://revteam11.offshorerev.cc:80/SPIDER_ufpSdX/S7JLOSc1Ns/157661
 http://revteam11.offshorerev.cc:80/SPIDER_2yn2yJ/fqIy9tDQ0Q/157661
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD L2-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/SPIDER_Lc0nTg/9eIKdaCfnp/157662
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/157662
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/157662
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/157662
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/157662
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/157662
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/157662
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/157662
+#EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD L2-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/157662
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD L2-onrev.xyz:80@D-230718.done
 http://onrev.xyz:80/SPIDER_7kGKCC/YPVWDXEXzy/157662
 #EXTINF:0 group-title="Now-Klub",EX-YOU: SPORT KLUB 3 SR HD L2-onrev.xyz:80@D-230718.done
@@ -3668,6 +3908,22 @@ http://065c3bf1.edemist.com/iptv/8KPMSZ294HKTBW/7269/index.m3u8
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-1.revportal.eu:80@D-230629.done
 http://1.revportal.eu:80/mag00:1A:79:53:93:67/bqnIkA75Si/63876
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/63876
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/63876
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/63876
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/63876
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/63876
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/63876
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/63876
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/63876
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-23a3af71.ottolok.net@D-230711.done
 http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-23deb70c.ucomist.net@D-230608.done.die
@@ -4414,6 +4670,22 @@ http://065c3bf1.edemist.com/iptv/8KPMSZ294HKTBW/7270/index.m3u8
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/SPIDER_LCRZfF/KeLBL42xrV/63877
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/63877
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/63877
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/63877
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/63877
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/63877
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/63877
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/63877
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/63877
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-23a3af71.ottolok.net@D-230711.done
 http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-23deb70c.ucomist.net@D-230608.done.die
@@ -5242,6 +5514,22 @@ http://065c3bf1.edemist.com/iptv/8KPMSZ294HKTBW/7271/index.m3u8
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/SPIDER_Lc0nTg/9eIKdaCfnp/63878
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/63878
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/63878
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/63878
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/63878
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/63878
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/63878
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/63878
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/63878
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-23a3af71.ottolok.net@D-230711.done
 http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-23deb70c.ucomist.net@D-230608.done.die
@@ -5614,6 +5902,22 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/7272/index.m3u8
 http://065c3bf1.edemist.com/iptv/8KPMSZ294HKTBW/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-0f3f161d.cbilant.com@D-230511.done
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7272/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/63879
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/63879
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/63879
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/63879
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/63879
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/63879
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/63879
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/63879
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-23a3af71.ottolok.net@D-230711.done
 http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-23deb70c.ucomist.net@D-230608.done.die
@@ -6064,6 +6368,22 @@ http://065c3bf1.edemist.com/iptv/8KPMSZ294HKTBW/7273/index.m3u8
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-1.revportal.eu:80@D-230710.done
 http://1.revportal.eu:80/mag00:1A:79:53:84:02/114LTV0sv2/63880
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/63880
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/63880
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/63880
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/63880
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/63880
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/63880
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/63880
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:5A:07:C3/XW6W5AFA6K/63880
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-23a3af71.ottolok.net@D-230711.done
 http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-23deb70c.ucomist.net@D-230608.done.die
@@ -8600,6 +8920,20 @@ http://2.revportal.eu:80/SPIDER_Mjkn37/gf3PDgvvRC/171141
 http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/171141
 #EXTINF:0 group-title="Sky",UK-Sky Sports Premier League HD-2.revportal.eu:80@D-230622.done
 http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/171141
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/171141
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/171141
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/171141
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/171141
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/171141
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/171141
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/171141
 #EXTINF:0 group-title="Sky",UK-SKY SPORTS PREMIER LEAGUE HD-263750967376337524.ot0711.xyz:80@D-230712.done
 http://263750967376337524.ot0711.xyz:80/play/vd08206/2960766689/337524.ts
 #EXTINF:0 group-title="Sky",UK-SKY SPORTS PREMIER LEAGUE  HD-263750967376341215.ot0711.xyz:80@D-230712.done
@@ -10096,6 +10430,20 @@ http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/171136
 http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/171136
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 HD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/171136
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/171136
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/171136
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/171136
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/171136
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/171136
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/171136
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/171136
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 HD-263750967376216045.ot0711.xyz:80@D-230712.done
 http://263750967376216045.ot0711.xyz:80/play/vd08206/2960766689/216045.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 HD-263750967376524876.ot0711.xyz:80@D-230712.done
@@ -10996,6 +11344,20 @@ http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/171137
 http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/171137
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/171137
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/171137
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/171137
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/171137
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/171137
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/171137
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/171137
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/171137
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS FOOTBALL HD-263750967376306442.ot0711.xyz:80@D-230712.done
 http://263750967376306442.ot0711.xyz:80/play/vd08206/2960766689/306442.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS FOOTBALL HD-263750967376477929.ot0711.xyz:80@D-230712.done
@@ -11484,6 +11846,8 @@ http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/64851
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/64851
 #EXTINF:0 group-title="Sky-F1-Foot",UK- Sky Sports MainEvent FHD-2hubs.ddns.net:25461@D-230717.done
 http://2hubs.ddns.net:25461/BabNour/telegrramm/64851
+#EXTINF:0 group-title="Sky-F1-Foot",UK- Sky Sports MainEvent FHD-2hubs.ddns.net:25461@D-230719.done
+http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/64851
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event FHD-a36m.net:8080@D-230612.done
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/76290
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event FHD-a36m.net:8080@D-230612.done
@@ -11578,6 +11942,20 @@ http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/171139
 http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/171139
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event HD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/171139
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/171139
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/171139
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/171139
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/171139
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/171139
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/171139
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/171139
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENT HD-263750967376257175.ot0711.xyz:80@D-230712.done
 http://263750967376257175.ot0711.xyz:80/play/vd08206/2960766689/257175.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENT  HD-263750967376344292.ot0711.xyz:80@D-230712.done
@@ -12372,6 +12750,20 @@ http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/171081
 http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/171081
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/171081
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/171081
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/171081
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/171081
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/171081
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/171081
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/171081
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/171081
 #EXTINF:0 group-title="UK-Eurosport",UK-Eurosport 1 HD-2015.surf:8080@D-230625.done
 http://2015.surf:8080/54bDUMBXu9/eiZ0BuJQAS/1115
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-263750967376337503.ot0711.xyz:80@D-230712.done
@@ -12868,6 +13260,20 @@ http://2.revportal.eu:80/SPIDER_AjkQua/PiuOPlfxnV/171082
 http://2.revportal.eu:80/sC1zhuWR/YqL4ARuIOj/171082
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-2.revportal.eu:80@D-230717.done
 http://2.revportal.eu:80/SPIDER_NjKqYj/UrdiVGcB5A/171082
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:53:55:D6/0pa5eedSby/171082
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:58:51:D2/i3oBBZJUN5/171082
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_oSZ53A/3c1wwPC15x/171082
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_sJX1q8/MddjKOXMFI/171082
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/mag00:1A:79:51:83:C8/kU46gIVeW8/171082
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_fFCJlc/6601QhBtVK/171082
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-2.revportal.eu:80@D-230719.done
+http://2.revportal.eu:80/SPIDER_SaFfNn/PMcAVM0scA/171082
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-263750967376215868.ot0711.xyz:80@D-230712.done
 http://263750967376215868.ot0711.xyz:80/play/vd08206/2960766689/215868.ts
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-263750967376379377.ot0711.xyz:80@D-230712.done
