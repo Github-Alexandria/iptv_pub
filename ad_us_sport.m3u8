@@ -1,5 +1,5 @@
-#EXTM3U 6923
-#DATE 2023-07-18 19:27
+#EXTM3U 6365
+#DATE 2023-07-19 01:56
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNGV0n2cQ-AkJ3spjREqEr0A/ts
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-elmonkey.us:25461@D-230512.done
@@ -2510,6 +2510,8 @@ http://es.xipi3.xyz:2052/420723189743/201367332303/38127
 http://es.xipi3.xyz:2052/8024984235966470/8024886739876658/38127
 #EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -fireott.biz:2052@D-230706.done
 http://fireott.biz:2052/8024392624348433/8024338703320131/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -fireott.biz:2052@D-230718.done
+http://fireott.biz:2052/8024960054590586/8024868538421752/38127
 #EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -ma.swords.live:2052@D-230716.done
 http://ma.swords.live:2052/802403538189137/802472298818437/38127
 #EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230708.done
@@ -3882,6 +3884,8 @@ http://es.xipi3.xyz:2052/420723189743/201367332303/38151
 http://es.xipi3.xyz:2052/8024984235966470/8024886739876658/38151
 #EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -fireott.biz:2052@D-230706.done
 http://fireott.biz:2052/8024392624348433/8024338703320131/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -fireott.biz:2052@D-230718.done
+http://fireott.biz:2052/8024960054590586/8024868538421752/38151
 #EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -ma.swords.live:2052@D-230716.done
 http://ma.swords.live:2052/802403538189137/802472298818437/38151
 #EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230708.done
@@ -4102,6 +4106,10 @@ http://s.showplustv.pro:80/mustafaali909/8744367/64044
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/44526
 #EXTINF:0 group-title="US-BEIN",USA: Bein Sports En Español-ghostiptv.vip:80@D-230710.done
 http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/44526.m3u8
+#EXTINF:0 group-title="US-BEIN",USA: Bein Sports En Español-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD98400E/63769b7dd9734/44526
+#EXTINF:0 group-title="US-BEIN",USA: Bein Sports En Español-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD92F98C/61fa7b9e825e7/44526
 #EXTINF:0 group-title="US-BEIN",USA: Bein Sports En Español-larahost.online:80@D-230714.done
 http://larahost.online:80/0563192282/AAA282/596183
 #EXTINF:0 group-title="US-BEIN",USA: Bein Sports En Español-portal.alliptvapp.com:8080@D-230714.done
@@ -4234,6 +4242,8 @@ http://yahya.top:80/live/13538810817626027/1593574628/68281.ts
 http://185.156.74.135:80/boris1234/1234boris/1120664.ts
 #EXTINF:0 group-title="US-BEIN",USA beIN Sports 01-a-coffee.net:80@D-230504.done
 http://a-coffee.net:80/brad12345/12345brad/1120664.ts
+#EXTINF:0 group-title="US-BEIN",USA beIN Sports 01-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/1120664.ts
 #EXTINF:0 group-title="US-BEIN",USA beIN Sports 01-ky-iptv.com:80@D-230606.done
 http://ky-iptv.com:80/123454321/123454321/1120664.ts
 #EXTINF:0 group-title="US-BEIN",USA beIN Sports 01-ky-iptv.com:80@D-230606.done
@@ -4254,6 +4264,8 @@ http://4k.boxip.org:8080/695553539585239/2076559245/87499.ts
 http://ok4.club:25461/JJ020915/4073006144/3217
 #EXTINF:0 group-title="US-BEIN",USA BeIN Sports 2-a-coffee.net:80@D-230504.done
 http://a-coffee.net:80/brad12345/12345brad/220396.ts
+#EXTINF:0 group-title="US-BEIN",USA BeIN Sports 2-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220396.ts
 #EXTINF:0 group-title="US-BEIN",USA BeIN Sports 2-ky-iptv.com:80@D-230522.done
 http://ky-iptv.com:80/Gianni2022/Gianni2023/220396.ts
 #EXTINF:0 group-title="US-BEIN",USA BeIN Sports 2-ky-iptv.com:80@D-230606.done
@@ -4264,6 +4276,8 @@ http://ky-iptv.com:80/clayton21/clayton2021/220396.ts
 http://live2.unwiredtvnow.com:80/saeed123/saeed123/220396.ts
 #EXTINF:0 group-title="US-BEIN",USA BeIN Sports 2-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/220396.ts
+#EXTINF:0 group-title="US-BEIN",USA BeIN Sports 4-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220397.ts
 #EXTINF:0 group-title="US-BEIN",USA BeIN Sports 4-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/64096133/46555874/69253
 #EXTINF:0 group-title="US-BEIN",USA BeIN Sports 4-cdn.erost.cc:8080@D-230717.done
@@ -4348,6 +4362,8 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/109235
 http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/109235
 #EXTINF:0 group-title="US-BEIN",USA Bein Sports en Espanol-104.243.32.68:25461@D-230607.done
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/376945
+#EXTINF:0 group-title="US-BEIN",USA beIN SPORTS enEspanol-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220503.ts
 #EXTINF:0 group-title="US-BEIN",USA beIN SPORTS enEspanol-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/220503.ts
 #EXTINF:0 group-title="US-BEIN",USA beIN SPORTS enEspanol-xtremeport.com:80@D-230717.done
@@ -4390,6 +4406,8 @@ http://cdn.erost.us:8080/21980101066/98654156/69258
 http://cdn.erost.us:8080/Khyara./6478634439/69258
 #EXTINF:0 group-title="US-BEIN",USA Bein Sports en Espanol UHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/loginquarto/70283372/69258
+#EXTINF:0 group-title="US-BEIN",USA BeIN SPORTS HD-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220512.ts
 #EXTINF:0 group-title="US-BEIN",USA BeIN SPORTS HD-ky-iptv.com:80@D-230606.done
 http://ky-iptv.com:80/123454321/123454321/220512.ts
 #EXTINF:0 group-title="US-BEIN",USA BeIN SPORTS HD-ky-iptv.com:80@D-230708.done
@@ -4398,6 +4416,8 @@ http://ky-iptv.com:80/clayton21/clayton2021/220512.ts
 http://xtremeport.com:80/Lorena2023/Lorena2023/220512.ts
 #EXTINF:0 group-title="US-BEIN",USA BeIN Sports La Liga-104.243.32.68:25461@D-230607.done
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/376946
+#EXTINF:0 group-title="US-BEIN",USA BeIN Sports LaLiga-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220401.ts
 #EXTINF:0 group-title="US-BEIN",USA BeIN Sports La Liga-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69260
 #EXTINF:0 group-title="US-BEIN",USA beIN SPORTS La Liga-cdn.erost.cc:8080@D-230717.done
@@ -4444,6 +4464,8 @@ http://cdn.erost.us:8080/loginquarto/70283372/69262
 http://ky-iptv.com:80/clayton21/clayton2021/220401.ts
 #EXTINF:0 group-title="US-BEIN",USA BeIN Sports LaLiga-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/220401.ts
+#EXTINF:0 group-title="US-BEIN",USA beIN Sports LHD-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220395.ts
 #EXTINF:0 group-title="US-BEIN",USA beIN Sports LHD-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69263
 #EXTINF:0 group-title="US-BEIN",USA beIN Sports LHD-cdn.erost.cc:8080@D-230717.done
@@ -4534,6 +4556,8 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/109228
 http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/109228
 #EXTINF:0 group-title="US-BEIN",USA Bein Sports Xtra-104.243.32.68:25461@D-230607.done
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/376948
+#EXTINF:0 group-title="US-BEIN",USA Bein Sports Xtra-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/1503405.ts
 #EXTINF:0 group-title="US-BEIN",USA Bein Sports Xtra-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/64096133/46555874/69265
 #EXTINF:0 group-title="US-BEIN",USA Bein Sports Xtra-cdn.erost.cc:8080@D-230717.done
@@ -4574,6 +4598,10 @@ http://smartv.pro:80/live/Sultan123/Sultan123123/4222.ts
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/44467
 #EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports 4 HD-ghostiptv.vip:80@D-230710.done
 http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/44467.m3u8
+#EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports 4 HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD98400E/63769b7dd9734/44467
+#EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports 4 HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD92F98C/61fa7b9e825e7/44467
 #EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports 4 HD-larahost.online:80@D-230710.done
 http://larahost.online:80/0563192282/AAA282/596128
 #EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports 5 HD-ghostiptv.vip:80@D-230610.done
@@ -4596,18 +4624,30 @@ http://larahost.online:80/0563192282/AAA282/596132
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/44472
 #EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports HD-ghostiptv.vip:80@D-230714.done
 http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/44472.m3u8
+#EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD98400E/63769b7dd9734/44472
+#EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD92F98C/61fa7b9e825e7/44472
 #EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports HD-larahost.online:80@D-230710.done
 http://larahost.online:80/0563192282/AAA282/596133
 #EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports La Liga-ghostiptv.vip:80@D-230610.done
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/44473
 #EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports La Liga-ghostiptv.vip:80@D-230710.done
 http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/44473.m3u8
+#EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports La Liga-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD98400E/63769b7dd9734/44473
+#EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports La Liga-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD92F98C/61fa7b9e825e7/44473
 #EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports La Liga-larahost.online:80@D-230710.done
 http://larahost.online:80/0563192282/AAA282/596134
 #EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports Xtra HD-ghostiptv.vip:80@D-230610.done
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/44474
 #EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports Xtra HD-ghostiptv.vip:80@D-230714.done
 http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/44474.m3u8
+#EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports Xtra HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD98400E/63769b7dd9734/44474
+#EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports Xtra HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD92F98C/61fa7b9e825e7/44474
 #EXTINF:0 group-title="US-BEIN",Usa  Sport: BeIN Sports Xtra HD-larahost.online:80@D-230710.done
 http://larahost.online:80/0563192282/AAA282/596135
 #EXTINF:0 group-title="US-BEIN",USA  STIRR  beIN Sports Xtra-live.iptv.tube:22461@D-230620.done
@@ -5920,6 +5960,10 @@ http://monte.mare7.co:8000/live/dXQXjEmsfT/CRHfuJqwzq/155273.ts
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/44531
 #EXTINF:0 group-title="US-ESPN",USA: ESPN U HD-ghostiptv.vip:80@D-230714.done
 http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/44531.m3u8
+#EXTINF:0 group-title="US-ESPN",USA: ESPN U HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD98400E/63769b7dd9734/44531
+#EXTINF:0 group-title="US-ESPN",USA: ESPN U HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD92F98C/61fa7b9e825e7/44531
 #EXTINF:0 group-title="US-ESPN",USA: ESPN U HD-larahost.online:80@D-230710.done
 http://larahost.online:80/0563192282/AAA282/596188
 #EXTINF:0 group-title="US-ESPN",USA: ESPN U  HD-monte.mare7.co:8000@D-230627.done
@@ -6032,10 +6076,14 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1205
 http://tutv.online:2080/679JuanMontero/LYYGusUymxXe/19932
 #EXTINF:0 group-title="US-ESPN",USA  ESPN FHD-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/91375
+#EXTINF:0 group-title="US-ESPN",USA ESPN HD (backup)-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2420493.ts
 #EXTINF:0 group-title="US-ESPN",USA ESPN HD (backup)-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2420493.ts
 #EXTINF:0 group-title="US-ESPN",USA ESPN HD (backup)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/2420493.ts
+#EXTINF:0 group-title="US-ESPN",USA ESPN HD-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220406.ts
 #EXTINF:0 group-title="US-ESPN",USA  ESPN HD-casaplay.cf:8080@D-230717.done
 http://casaplay.cf:8080/bernardo/123456/151535
 #EXTINF:0 group-title="US-ESPN",USA  ESPN HD-casaplay.cf:8080@D-230717.done
@@ -6100,6 +6148,8 @@ http://185.156.74.135:80/boris1234/1234boris/177207.ts
 http://5.44.253.151:80/dean12345/12345dean/177207.ts
 #EXTINF:0 group-title="US-ESPN",USA ESPN SD-a-coffee.net:80@D-230504.done
 http://a-coffee.net:80/brad12345/12345brad/177207.ts
+#EXTINF:0 group-title="US-ESPN",USA ESPN SD-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/177207.ts
 #EXTINF:0 group-title="US-ESPN",USA ESPN SD-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/29881768/81654876/71359
 #EXTINF:0 group-title="US-ESPN",USA ESPN SD-cdn.erost.cc:8080@D-230717.done
@@ -6148,6 +6198,8 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/163511
 http://playhispano.org:8080/userlw/led5120/163511
 #EXTINF:0 group-title="US-ESPN",USA ESPN SD-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/177207.ts
+#EXTINF:0 group-title="US-ESPN",USA ESPN SEC NETWORK HD-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220411.ts
 #EXTINF:0 group-title="US-ESPN",USA  ESPN  SEC NETWORK HD-flowfhd.xyz:8080@D-230621.done
 http://flowfhd.xyz:8080/Carlos2022/Carlos2022/18052
 #EXTINF:0 group-title="US-ESPN",USA ESPN SEC NETWORK HD-ky-iptv.com:80@D-230708.done
@@ -6178,6 +6230,10 @@ http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/91373
 http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/1202
 #EXTINF:0 group-title="US-ESPN",USA  ESPN Uⓧ FHD-xplatinmedia.com:8080@D-230709.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1202
+#EXTINF:0 group-title="US-ESPN",USA ESPN U HD-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220412.ts
+#EXTINF:0 group-title="US-ESPN",USA ESPN UHD-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/226642.ts
 #EXTINF:0 group-title="US-ESPN",USA ESPN UHD-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69293
 #EXTINF:0 group-title="US-ESPN",USA ESPN UHD-cdn.erost.cc:8080@D-230717.done
@@ -6268,6 +6324,10 @@ http://playhispano.org:8080/userlw/led5120/86728
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/44483
 #EXTINF:0 group-title="US-ESPN",USA  Sport: ESPN ACC Network HD-ghostiptv.vip:80@D-230714.done
 http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/44483.m3u8
+#EXTINF:0 group-title="US-ESPN",USA  Sport: ESPN ACC Network HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD98400E/63769b7dd9734/44483
+#EXTINF:0 group-title="US-ESPN",USA  Sport: ESPN ACC Network HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD92F98C/61fa7b9e825e7/44483
 #EXTINF:0 group-title="US-ESPN",USA  Sport: ESPN ACC Network HD-larahost.online:80@D-230710.done
 http://larahost.online:80/0563192282/AAA282/596143
 #EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230712.done
@@ -6280,6 +6340,8 @@ http://gameplay.p2sweb.me:80/marina04x/Mar2021/248033
 http://gameplay.p2sweb.me:80/marina06/Marina2021/248033
 #EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230712.done
 http://gameplay.p2sweb.me:80/monteiro123/monteiro321/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230718.done
+http://gameplay.p2sweb.me:80/2498893/2383592/248033
 #EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230712.done
 http://gameplay.p2sweb.me:80/fran2022/2022fran/248028
 #EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230712.done
@@ -6290,6 +6352,8 @@ http://gameplay.p2sweb.me:80/marina04x/Mar2021/248028
 http://gameplay.p2sweb.me:80/marina06/Marina2021/248028
 #EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230712.done
 http://gameplay.p2sweb.me:80/monteiro123/monteiro321/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230718.done
+http://gameplay.p2sweb.me:80/2498893/2383592/248028
 #EXTINF:0 group-title="US-FOX",US-Fox Sports (Arizona) HD-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/26526
 #EXTINF:0 group-title="US-FOX",US-Fox Sports (Cincinnati) HD-spainline.xyz:8000@D-230620.done
@@ -11656,6 +11720,10 @@ http://nxtplay.xyz:8080/VZ4GYOtUrqVP1FV/qEOISzIJKDHQCOECyl/185325
 http://nxtplay.xyz:8080/OxJGoYrmuQAB/8aPjEyWs5DvQ/185325
 #EXTINF:0 group-title="US-Tennis-Pac",USA: Tennis Channel HD-ghostiptv.vip:80@D-230714.done
 http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/44583.m3u8
+#EXTINF:0 group-title="US-Tennis-Pac",USA: Tennis Channel HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD98400E/63769b7dd9734/44583
+#EXTINF:0 group-title="US-Tennis-Pac",USA: Tennis Channel HD-ghostiptv.vip:80@D-230718.done
+http://ghostiptv.vip:80/162CBD92F98C/61fa7b9e825e7/44583
 #EXTINF:0 group-title="US-Tennis-Pac",USA: Tennis Channel HD-larahost.online:80@D-230714.done
 http://larahost.online:80/0563192282/AAA282/596236
 #EXTINF:0 group-title="US-Tennis-Pac",USA: TENNIS CHANNEL  HD-monte.mare7.co:8000@D-230627.done
@@ -11896,6 +11964,8 @@ http://192.99.70.160:25461/maria23/maria23/117114
 http://192.99.70.160:25461/maria23/maria23/1517
 #EXTINF:0 group-title="US-Tennis-Pac",USA  Pac-12 Arizona-192.99.70.160:25461@D-230622.done
 http://192.99.70.160:25461/maria23/maria23/91367
+#EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Arizona-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220459.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Arizona-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69367
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Arizona-cdn.erost.cc:8080@D-230717.done
@@ -11944,6 +12014,8 @@ http://192.99.70.160:25461/maria23/maria23/117113
 http://192.99.70.160:25461/maria23/maria23/1516
 #EXTINF:0 group-title="US-Tennis-Pac",USA  Pac-12 Bay Area-192.99.70.160:25461@D-230622.done
 http://192.99.70.160:25461/maria23/maria23/91366
+#EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Bay Area-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220456.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Bay Area-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69368
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Bay Area-cdn.erost.cc:8080@D-230717.done
@@ -11994,6 +12066,8 @@ http://192.99.70.160:25461/maria23/maria23/117112
 http://192.99.70.160:25461/maria23/maria23/1515
 #EXTINF:0 group-title="US-Tennis-Pac",USA  Pac-12 Los Angeles-192.99.70.160:25461@D-230622.done
 http://192.99.70.160:25461/maria23/maria23/91365
+#EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 LosAngeles-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220457.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 LOS ANGELES-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69369
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Los Angeles-cdn.erost.cc:8080@D-230717.done
@@ -12042,6 +12116,8 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1172
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/377033
 #EXTINF:0 group-title="US-Tennis-Pac",USA  PAC-12 Mountain-192.99.70.160:25461@D-230622.done
 http://192.99.70.160:25461/maria23/maria23/91292
+#EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Mountain-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220393.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Mountain-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69371
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Mountain-cdn.erost.cc:8080@D-230717.done
@@ -12086,6 +12162,8 @@ http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/91980
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1173
 #EXTINF:0 group-title="US-Tennis-Pac",USA  Pac-12 Network-192.99.70.160:25461@D-230622.done
 http://192.99.70.160:25461/maria23/maria23/91293
+#EXTINF:0 group-title="US-Tennis-Pac",USA Pac-12 Network-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2384640.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Network-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69422
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Network-cdn.erost.cc:8080@D-230717.done
@@ -12114,6 +12192,8 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1175
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/377034
 #EXTINF:0 group-title="US-Tennis-Pac",USA  PAC-12 Oregon-192.99.70.160:25461@D-230622.done
 http://192.99.70.160:25461/maria23/maria23/91294
+#EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Oregon-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220441.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Oregon-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69372
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Oregon-cdn.erost.cc:8080@D-230717.done
@@ -12166,6 +12246,8 @@ http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/91982
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1174
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Washington-104.243.32.68:25461@D-230607.done
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/377035
+#EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 WASHINGTON-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220442.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Washington-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69374
 #EXTINF:0 group-title="US-Tennis-Pac",USA PAC-12 Washington-cdn.erost.cc:8080@D-230717.done
@@ -12214,6 +12296,8 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55465
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/377047
 #EXTINF:0 group-title="US-Tennis-Pac",USA  Tennis Channel-192.99.70.160:25461@D-230622.done
 http://192.99.70.160:25461/maria23/maria23/91311
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/220448.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69391
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel-cdn.erost.cc:8080@D-230717.done
@@ -12276,22 +12360,32 @@ http://cdn.erost.us:8080/loginquarto/70283372/69393
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/103032
 #EXTINF:0 group-title="US-Tennis-Pac",USA  Tennis Channel Plus 1ⓧ-xplatinmedia.com:8080@D-230709.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/129420
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 10 (D)-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2706806.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 10 (D)-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2706806.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 10 (D)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/2706806.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 11 (D)-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2706807.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 11 (D)-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2706807.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 11 (D)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/2706807.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 12 (D)-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2706808.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 12 (D)-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2706808.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 12 (D)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/2706808.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 13 (D)-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2706809.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 13 (D)-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2706809.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 13 (D)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/2706809.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 14 (D)-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2706810.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 14 (D)-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2706810.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 1 HD-ip.xtremetv.eu:8000@D-230716.done
@@ -12376,22 +12470,32 @@ http://medotv.nl:8000/ataa/caBeFNgbFaZN/94526
 http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/166741
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 3 HD-vole1.rsvole22s.xyz:80@D-230714.done
 http://vole1.rsvole22s.xyz:80/live/okay2023/tBQsyF2Qey/229104.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 5 (D)-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2706801.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 5 (D)-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2706801.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 5 (D)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/2706801.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 6 (D)-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2706802.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 6 (D)-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2706802.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 6 (D)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/2706802.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 7 (D)-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2706803.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 7 (D)-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2706803.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 7 (D)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/2706803.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 8 (D)-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2706804.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 8 (D)-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2706804.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 8 (D)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/2706804.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 9 (D)-a-coffee.net:80@D-230718.done
+http://a-coffee.net:80/victor2/12345/2706805.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 9 (D)-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/2706805.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 9 (D)-xtremeport.com:80@D-230717.done
