@@ -1,5 +1,5 @@
-#EXTM3U 7160
-#DATE 2023-07-19 12:32
+#EXTM3U 7165
+#DATE 2023-07-19 12:55
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230623.done
 http://tv.pro-ott.com:25443/live/boko/0PV4GYNUGS/116752.ts
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230624.done
@@ -8890,6 +8890,8 @@ http://ultrontv.xyz:80/Cctrial/Firestickcc/4844
 http://ultrontv.xyz:80/Clubiptv110922/110922Clubiptv2/4844
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports 2 HD-unblock2.king-box.tv:80@D-230618.done
 http://unblock2.king-box.tv:80/zyZaAu0E/jRrfDANjZr/275589
+#EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS 2 SD-225467058470543700.ot0711.xyz:80@D-230719.done
+http://225467058470543700.ot0711.xyz:80/play/676472121/2854573127/543700.ts
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS 2 SD-233836167629543700.ot0711.xyz:80@D-230718.done
 http://233836167629543700.ot0711.xyz:80/play/vd08206/2960766689/543700.ts
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports FHD-ipro.tv:80@D-230714.done
