@@ -1,5 +1,5 @@
-#EXTM3U 6309
-#DATE 2023-07-19 12:57
+#EXTM3U 6300
+#DATE 2023-07-19 16:49
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNGV0n2cQ-AkJ3spjREqEr0A/ts
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-elmonkey.us:25461@D-230512.done
@@ -2728,6 +2728,8 @@ http://test.kocdn.buzz:80/8221racon/xmNRyx9zhu/134047
 http://adamnk.me:8080/negritaC69/6dN328ThKA/1160600
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 1 HD-a36m.net:8080@D-230714.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/77022
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports 1 HD-a36m.net:8080@D-230719.done
+http://a36m.net:8080/AQIBFVTOBERHQ/1234567/77022
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 1 HD-extm3u.zapto.quest:80@D-230702.done
 http://extm3u.zapto.quest:80/PPp11O6pxw/PrkvKhHDVd/387802
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 1 HD-fast.bounceme.net:8080@D-230703.done
@@ -3334,6 +3336,8 @@ http://unblock2.king-box.tv:80/xrLZq7hDPj/iIUWZpG2jW/3671
 http://live.tvsmartgo.com:8000/58rRW6Ja7M/H8YefyNDD7/32938.ts
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS HD-372080500731512677.ot0711.xyz:80@D-230717.done
 http://372080500731512677.ot0711.xyz:80/play/vi0208715/Ht3MPB8Rxd3/512677.ts
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports HD-a36m.net:8080@D-230719.done
+http://a36m.net:8080/AQIBFVTOBERHQ/1234567/77024
 #EXTINF:0 group-title="US-BEIN",US-Bein Sports  HD-adamnk.me:8080@D-230706.done
 http://adamnk.me:8080/negritaC69/6dN328ThKA/1160601
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports HD-adamnk.me:8080@D-230706.done
@@ -10826,6 +10830,8 @@ http://1903.full57.us:8000/apomen123/apomen2002/144836
 http://2playburnmaster.ddns.net:80/!!Frank@@!/caXSieBIL3/14919
 #EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/211525711395/9062122146403628730aea/77592
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-a36m.net:8080@D-230719.done
+http://a36m.net:8080/AQIBFVTOBERHQ/1234567/77592
 #EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-adamnk.me:8080@D-230706.done
 http://adamnk.me:8080/negritaC69/6dN328ThKA/28615
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL HD-br2.me:80@D-230620.done
