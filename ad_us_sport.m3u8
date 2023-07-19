@@ -1,5 +1,5 @@
-#EXTM3U 6320
-#DATE 2023-07-19 11:41
+#EXTM3U 6294
+#DATE 2023-07-19 12:32
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNGV0n2cQ-AkJ3spjREqEr0A/ts
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-elmonkey.us:25461@D-230512.done
@@ -12584,3 +12584,7 @@ http://ultrontv.xyz:80/live/Brandonpook92828/Bs729ehdjd/79827.m3u8
 http://ultrontv.xyz:80/live/Damion/Genesis2016/79827.m3u8
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel UHD-ultrontv.xyz:80@D-230707.done
 http://ultrontv.xyz:80/live/Lori123/Lori78/79827.m3u8
+#EXTINF:0 group-title="US-ESPN",US-Espn 2 HD-7go.xyz:8080@D-230719.new
+http://7go.xyz:8080/delacir40/25106385249/305026
+#EXTINF:0 group-title="US-ESPN",US-Espn 2 HD-7go.xyz:8080@D-230719.new
+http://7go.xyz:8080/zogbi11/982451290/305026
