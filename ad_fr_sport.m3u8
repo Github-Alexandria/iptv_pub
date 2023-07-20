@@ -1,5 +1,5 @@
-#EXTM3U 7391
-#DATE 2023-07-19 17:02
+#EXTM3U 7397
+#DATE 2023-07-20 08:06
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -5034,6 +5034,8 @@ http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/2502/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-c6564fd3.rossteleccom.net@D-230626.done
 http://c6564fd3.rossteleccom.net/iptv/HCC9DZ8WERSGPP/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-clientportal.link:80@D-230619.done.NC
 http://clientportal.link:80/fHwaYQxL6t74/ZyCc4y30/13149
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-clientportal.link:80@D-230625.done.NC
@@ -5148,43 +5150,43 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/2502/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2502/index.m3u8
@@ -8548,6 +8550,8 @@ http://localchtv.xyz:8080/orhan8671882/6hxcYhZSFGxE/293137
 http://mag.gofast-tv.me:80/Abderrahim/Abderrahim/507388
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-maxhd.org:8080@D-230716.done
 http://maxhd.org:8080/VASvYOTkDm/5fMRNcq3bg/1892
+#EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD-memotv.xyz:8080@D-230720.done
+http://memotv.xyz:8080/mehmetgunay/havagunay/293137
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD-mrcool.nomorecable.me:8000@D-230706.done
 http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/107447
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-mrcool.nomorecable.me:8000@D-230706.done
@@ -8974,6 +8978,8 @@ http://maxhd.org:8080/VASvYOTkDm/5fMRNcq3bg/3827
 http://memotv.xyz:8080/AtillaCetin/qbjLvv7DTScY/293138
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD-memotv.xyz:8080@D-230504.done
 http://memotv.xyz:8080/aydin1040879/X6NQ9S7WJ3HC/293138
+#EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD-memotv.xyz:8080@D-230720.done
+http://memotv.xyz:8080/mehmetgunay/havagunay/293138
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD-mrcool.nomorecable.me:8000@D-230706.done
 http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/107449
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD-mrcool.nomorecable.me:8000@D-230706.done
@@ -13150,6 +13156,8 @@ http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/2545/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-c6564fd3.rossteleccom.net@D-230626.done
 http://c6564fd3.rossteleccom.net/iptv/HCC9DZ8WERSGPP/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-clientportal.link:80@D-230619.done.NC
 http://clientportal.link:80/fHwaYQxL6t74/ZyCc4y30/13182
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-clientportal.link:80@D-230625.done.NC
@@ -13272,43 +13280,43 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/2545/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2545/index.m3u8
@@ -13744,6 +13752,8 @@ http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/2546/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-c6564fd3.rossteleccom.net@D-230626.done
 http://c6564fd3.rossteleccom.net/iptv/HCC9DZ8WERSGPP/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-clientportal.link:80@D-230619.done.NC
 http://clientportal.link:80/fHwaYQxL6t74/ZyCc4y30/2251
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-clientportal.link:80@D-230625.done.NC
@@ -13864,43 +13874,43 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/2546/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2546/index.m3u8
@@ -14444,6 +14454,8 @@ http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/2547/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-c6564fd3.rossteleccom.net@D-230626.done
 http://c6564fd3.rossteleccom.net/iptv/HCC9DZ8WERSGPP/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-clientsportals.com:2095@D-230604.done
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/27733
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-clientsportals.com:2095@D-230626.done
@@ -14540,43 +14552,43 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/2547/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2547/index.m3u8
