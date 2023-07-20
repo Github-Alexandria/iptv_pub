@@ -1,5 +1,5 @@
-#EXTM3U 6977
-#DATE 2023-07-19 17:04
+#EXTM3U 6989
+#DATE 2023-07-20 08:07
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tv.pro-ott.com:25443@D-230604.done
 http://tv.pro-ott.com:25443/live/355434554445/4565555665/116841.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tv.pro-ott.com:25443@D-230623.done
@@ -1418,6 +1418,8 @@ http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/192175
 http://localchtv.xyz:8080/sez365haret/mvnjBbnUZxJB/192175
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 1 HD (HR)-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/orhan8671882/6hxcYhZSFGxE/192175
+#EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 1 HD (HR)-memotv.xyz:8080@D-230720.fail3
+http://memotv.xyz:8080/mehmetgunay/havagunay/192175
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 1 HD (HR)-sdsfdsfsdfsfasfd.avrupastream.com:8080@D-230611.done
 http://sdsfdsfsdfsfasfd.avrupastream.com:8080/haci1233mntr/wkKK6KRWShnZ/2510
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 1 HD (HR)-teosflix.xyz:8080@D-230607.done
@@ -1474,6 +1476,8 @@ http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/192181
 http://localchtv.xyz:8080/sez365haret/mvnjBbnUZxJB/192181
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 1 HD (SR)-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/orhan8671882/6hxcYhZSFGxE/192181
+#EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 1 HD (SR)-memotv.xyz:8080@D-230720.done
+http://memotv.xyz:8080/mehmetgunay/havagunay/192181
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 1 HD (SR)-psmtv.site:8080@D-230617.done
 http://psmtv.site:8080/8pVMmBC8cMYb/dyjbRKuYdbDJ/192181
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 1 HD (SR)-sdsfdsfsdfsfasfd.avrupastream.com:8080@D-230611.done
@@ -1606,6 +1610,8 @@ http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/192176
 http://localchtv.xyz:8080/sez365haret/mvnjBbnUZxJB/192176
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 2 HD (HR)-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/orhan8671882/6hxcYhZSFGxE/192176
+#EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 2 HD (HR)-memotv.xyz:8080@D-230720.done
+http://memotv.xyz:8080/mehmetgunay/havagunay/192176
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 2 HD (HR)-psmtv.site:8080@D-230617.done
 http://psmtv.site:8080/8pVMmBC8cMYb/dyjbRKuYdbDJ/192176
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 2 HD (HR)-sdsfdsfsdfsfasfd.avrupastream.com:8080@D-230611.done
@@ -1668,6 +1674,8 @@ http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/192182
 http://localchtv.xyz:8080/sez365haret/mvnjBbnUZxJB/192182
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 2 HD (SR)-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/orhan8671882/6hxcYhZSFGxE/192182
+#EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 2 HD (SR)-memotv.xyz:8080@D-230720.done
+http://memotv.xyz:8080/mehmetgunay/havagunay/192182
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 2 HD (SR)-sdsfdsfsdfsfasfd.avrupastream.com:8080@D-230611.done
 http://sdsfdsfsdfsfasfd.avrupastream.com:8080/haci1233mntr/wkKK6KRWShnZ/2502
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 2 HD (SR)-tr.bosstv.live:8080@D-230717.done
@@ -1762,6 +1770,8 @@ http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/192177
 http://localchtv.xyz:8080/sez365haret/mvnjBbnUZxJB/192177
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 3 HD (HR)-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/orhan8671882/6hxcYhZSFGxE/192177
+#EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 3 HD (HR)-memotv.xyz:8080@D-230720.done
+http://memotv.xyz:8080/mehmetgunay/havagunay/192177
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 3 HD (HR)-psmtv.site:8080@D-230617.done
 http://psmtv.site:8080/8pVMmBC8cMYb/dyjbRKuYdbDJ/192177
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 3 HD (HR)-sdsfdsfsdfsfasfd.avrupastream.com:8080@D-230611.done
@@ -1828,6 +1838,8 @@ http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/192183
 http://localchtv.xyz:8080/sez365haret/mvnjBbnUZxJB/192183
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 3 HD (SR)-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/orhan8671882/6hxcYhZSFGxE/192183
+#EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 3 HD (SR)-memotv.xyz:8080@D-230720.done
+http://memotv.xyz:8080/mehmetgunay/havagunay/192183
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 3 HD (SR)-psmtv.site:8080@D-230617.done
 http://psmtv.site:8080/8pVMmBC8cMYb/dyjbRKuYdbDJ/192183
 #EXTINF:0 group-title="Now-Klub",EX-YU: Sport Klub 3 HD (SR)-sdsfdsfsdfsfasfd.avrupastream.com:8080@D-230611.done
@@ -4034,6 +4046,8 @@ http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/7269/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-c6564fd3.rossteleccom.net@D-230702.done
 http://c6564fd3.rossteleccom.net/iptv/HCC9DZ8WERSGPP/7269/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-clientportal.link:80@D-230619.done.NC
 http://clientportal.link:80/fHwaYQxL6t74/ZyCc4y30/17252
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-clientportal.link:80@D-230625.done.NC
@@ -4140,45 +4154,45 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/7269/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/7269/index.m3u8
@@ -4844,6 +4858,8 @@ http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/7270/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-c6564fd3.rossteleccom.net@D-230702.done
 http://c6564fd3.rossteleccom.net/iptv/HCC9DZ8WERSGPP/7270/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-clientportal.link:80@D-230619.done.NC
 http://clientportal.link:80/fHwaYQxL6t74/ZyCc4y30/13833
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-clientportal.link:80@D-230625.done.NC
@@ -4930,47 +4946,47 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/7270/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9VELUUZWMTRBL/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/7270/index.m3u8
@@ -5722,6 +5738,8 @@ http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/7271/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-c6564fd3.rossteleccom.net@D-230702.done
 http://c6564fd3.rossteleccom.net/iptv/HCC9DZ8WERSGPP/7271/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-clientportal.link:80@D-230627.done.NC
 http://clientportal.link:80/Lzanetti/fpAKj8882/13834
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-clientsportals.com:2095@D-230604.done
@@ -5798,45 +5816,45 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/7271/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/7271/index.m3u8
@@ -6158,6 +6176,8 @@ http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/7272/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-c6564fd3.rossteleccom.net@D-230702.done
 http://c6564fd3.rossteleccom.net/iptv/HCC9DZ8WERSGPP/7272/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-clientsportals.com:2095@D-230604.done
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/14097
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-clientsportals.com:2095@D-230626.done
@@ -6224,45 +6244,45 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/7272/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9VELUUZWMTRBL/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/7272/index.m3u8
@@ -6672,6 +6692,8 @@ http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/7273/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-c6564fd3.rossteleccom.net@D-230702.done
 http://c6564fd3.rossteleccom.net/iptv/HCC9DZ8WERSGPP/7273/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-clientsportals.com:2095@D-230604.done
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/14096
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-clientsportals.com:2095@D-230626.done
@@ -6744,45 +6766,45 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/7273/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9VELUUZWMTRBL/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/7273/index.m3u8
@@ -12016,6 +12038,8 @@ http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/68778
 http://mag.gofast-tv.me:80/Abderrahim/Abderrahim/79476
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-medotv.nl:8000@D-230623.done
 http://medotv.nl:8000/ataa/caBeFNgbFaZN/108178
+#EXTINF:0 group-title="Sky-F1-Foot",UK-SKY Sports Main Event-memotv.xyz:8080@D-230720.fail3
+http://memotv.xyz:8080/mehmetgunay/havagunay/388828
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-monte.mare7.co:8000@D-230627.done
 http://monte.mare7.co:8000/live/PqZrxhTBP8/mEhadWejKb/201043.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-monte.mare7.co:8000@D-230627.done
