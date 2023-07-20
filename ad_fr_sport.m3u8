@@ -1,5 +1,5 @@
-#EXTM3U 7401
-#DATE 2023-07-20 08:27
+#EXTM3U 7415
+#DATE 2023-07-20 16:39
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -3894,6 +3894,8 @@ http://4k.boxip.org:8080/695553539585239/2076559245/164.ts
 http://aflaxtv.xyz:8080/multi9159/d1a478bd/143
 #EXTINF:0 group-title="FR-Canal+",CANAL+ Sport-aflaxtv.xyz:8080@D-230516.done
 http://aflaxtv.xyz:8080/multi9159/d1a478bd/69426
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport-am01.spr24.net@D-230720.done
+http://am01.spr24.net/5870/mpegts?token=479RUFCKZzriXn
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport-as01.spr24.net@D-230705.done
 http://as01.spr24.net/5870/mpegts?token=569XzbdmXUcUKN
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport-as01.spr24.net@D-230718.done
@@ -4098,6 +4100,8 @@ http://4k.boxip.org:8080/695553539585239/2076559245/124388.ts
 http://4k.boxip.org:8080/695553539585239/2076559245/90942.ts
 #EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT 2 HD-51.89.67.79:25461@D-230509.done
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/86
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport 2 HD-am01.spr24.net@D-230720.done
+http://am01.spr24.net/737/mpegts?token=479RUFCKZzriXn
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport 2 HD-as01.spr24.net@D-230705.done
 http://as01.spr24.net/737/mpegts?token=569XzbdmXUcUKN
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport 2 HD-as01.spr24.net@D-230718.done
@@ -4196,6 +4200,8 @@ http://4k.boxip.org:8080/695553539585239/2076559245/124387.ts
 http://4k.boxip.org:8080/695553539585239/2076559245/81513.ts
 #EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT 3 HD-51.89.67.79:25461@D-230509.done
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/85
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport 3 HD-am01.spr24.net@D-230720.done
+http://am01.spr24.net/1766/mpegts?token=479RUFCKZzriXn
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport 3 HD-as01.spr24.net@D-230705.done
 http://as01.spr24.net/1766/mpegts?token=569XzbdmXUcUKN
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport 3 HD-as01.spr24.net@D-230718.done
@@ -4288,6 +4294,8 @@ http://4k.boxip.org:8080/695553539585239/2076559245/124386.ts
 http://4k.boxip.org:8080/695553539585239/2076559245/81514.ts
 #EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT 4 HD-51.89.67.79:25461@D-230509.done
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/84
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport 4 HD-am01.spr24.net@D-230720.done
+http://am01.spr24.net/1767/mpegts?token=479RUFCKZzriXn
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport 4 HD-as01.spr24.net@D-230705.done
 http://as01.spr24.net/1767/mpegts?token=569XzbdmXUcUKN
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport 4 HD-as01.spr24.net@D-230718.done
@@ -4304,6 +4312,8 @@ http://aflaxtv.xyz:8080/multi9159/d1a478bd/291178
 http://aflaxtv.xyz:8080/multi9159/d1a478bd/297382
 #EXTINF:0 group-title="FR-Canal+",CANAL+ Sport 5-aflaxtv.xyz:8080@D-230516.done
 http://aflaxtv.xyz:8080/multi9159/d1a478bd/297383
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport 5-am01.spr24.net@D-230720.done
+http://am01.spr24.net/709/mpegts?token=479RUFCKZzriXn
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport 5-as01.spr24.net@D-230705.done
 http://as01.spr24.net/709/mpegts?token=569XzbdmXUcUKN
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport 5-as01.spr24.net@D-230718.done
@@ -4844,6 +4854,8 @@ http://3987.giize.com:8000/cod966/f48e86ba862b/103630
 http://4k.boxip.org:8080/695553539585239/2076559245/124385.ts
 #EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT HD-51.89.67.79:25461@D-230509.done
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/83
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD-am01.spr24.net@D-230720.done
+http://am01.spr24.net/742/mpegts?token=479RUFCKZzriXn
 #EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT HD-apbest.re:80@D-230522.done
 http://apbest.re:80/live/214193490102780/1593574628/7804.ts
 #EXTINF:0 group-title="FR-Canal+",CANAL+ SPORT HD-apontv.pm:80@D-230709.done
@@ -4978,6 +4990,8 @@ http://4bec4640.ottolok.net/iptv/SCFMCHL3EVB754/2502/index.m3u8
 http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-53bdf96d.edmonst.net@D-230626.done
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-550a07aa.kazaktelekom.com@D-230720.done
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-60142d04.akadatel.com@D-230711.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-67e4a403.kazaktelekom.com@D-230627.done
@@ -5336,6 +5350,8 @@ http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/2502/index.m3u8
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-omdtxvgd.otttv.pw@D-230703.done
 http://omdtxvgd.otttv.pw/iptv/WTRMLWF6MHW5NG/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-q01bznud.ottclub.xyz@D-230720.done
+http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",  Canal+ Sport HD FR-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-satelliteiptv.xyz:80@D-230412.done
@@ -13100,6 +13116,8 @@ http://4bec4640.ottolok.net/iptv/SCFMCHL3EVB754/2545/index.m3u8
 http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-53bdf96d.edmonst.net@D-230626.done
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-550a07aa.kazaktelekom.com@D-230720.done
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-60142d04.akadatel.com@D-230711.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-67e4a403.kazaktelekom.com@D-230627.done
@@ -13438,6 +13456,8 @@ http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/2545/index.m3u8
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-omdtxvgd.otttv.pw@D-230703.done
 http://omdtxvgd.otttv.pw/iptv/WTRMLWF6MHW5NG/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-q01bznud.ottclub.xyz@D-230720.done
+http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",  RMC Sport 1 HD FR-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-sl.aabbyyzz.eu:80@D-230708.done
@@ -13698,6 +13718,8 @@ http://4r6.grande365.xyz:80/play/X6S4miIL5ZJuKy7dbOd-dwWTEukwrATaASOYbUc1mUI/ts
 http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-53bdf96d.edmonst.net@D-230626.done
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-550a07aa.kazaktelekom.com@D-230720.done
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-60142d04.akadatel.com@D-230711.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-67e4a403.kazaktelekom.com@D-230627.done
@@ -14072,6 +14094,8 @@ http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/2546/index.m3u8
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-omdtxvgd.otttv.pw@D-230703.done
 http://omdtxvgd.otttv.pw/iptv/WTRMLWF6MHW5NG/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-q01bznud.ottclub.xyz@D-230720.done
+http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",  RMC Sport 2 HD FR-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-satelliteiptv.xyz:80@D-230412.done
@@ -14402,6 +14426,8 @@ http://4r6.grande365.xyz:80/play/X6S4miIL5ZJuKy7dbOd-d7s4iKVxlhuxvzogNx3Q_0c/ts
 http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-53bdf96d.edmonst.net@D-230626.done
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-550a07aa.kazaktelekom.com@D-230720.done
+http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-60142d04.akadatel.com@D-230711.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-67e4a403.kazaktelekom.com@D-230627.done
@@ -14732,6 +14758,8 @@ http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/2547/index.m3u8
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-omdtxvgd.otttv.pw@D-230703.done
 http://omdtxvgd.otttv.pw/iptv/WTRMLWF6MHW5NG/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-q01bznud.ottclub.xyz@D-230720.done
+http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",  RMC Sport 3 HD FR-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-satelliteiptv.xyz:80@D-230412.done
