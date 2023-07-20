@@ -1,5 +1,5 @@
-#EXTM3U 7679
-#DATE 2023-07-19 17:00
+#EXTM3U 7700
+#DATE 2023-07-20 08:06
 #EXTINF:0, Hip-Hop -  R&B, EDM, Acoustic, Latin Pop, K-pop"  group-title="Music", PlatinumXmedia  Epidemic Pop  Epidemic Music Video  Pop, Hip-Hop, R&B, EDM, Acoustic, Latin Pop, K-pop-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/94907
 #EXTINF:0 group-title="Mezzo",(PT) MEZZO-adamnk.me:8080@D-230706.done
@@ -286,6 +286,8 @@ http://iptvzeus.com:25461/AXYS3TMCCGRTB2Q/E29M11LLFG9UTZX/127804
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/324919
 #EXTINF:0 group-title="Mezzo",ES  MEZZO-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/324919
+#EXTINF:0 group-title="Mezzo",ES  MEZZO-memotv.xyz:8080@D-230720.fail3
+http://memotv.xyz:8080/mehmetgunay/havagunay/324919
 #EXTINF:0 group-title="Mezzo",ES  Mezzo-niaip.com:80@D-230315.done
 http://niaip.com:80/6hwcduwc7147duwgc/py6k5ZWsyE/328891
 #EXTINF:0 group-title="Mezzo",ES MEZZO-ottsansat.org:25461@D-230714.done
@@ -362,6 +364,8 @@ http://fiberlip.xyz:8080/Siggii/AjcazN3SSD/264952
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/264952
 #EXTINF:0 group-title="Mezzo",FR-2MB+  MEZZO HD-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/264952
+#EXTINF:0 group-title="Mezzo",FR-2MB+  MEZZO HD-memotv.xyz:8080@D-230720.fail3
+http://memotv.xyz:8080/mehmetgunay/havagunay/264952
 #EXTINF:0 group-title="Mezzo",FR-2MB+  MEZZO HD-psmtv.site:8080@D-230621.done
 http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/264952
 #EXTINF:0 group-title="Mezzo",FR-2MB+  MEZZO HD-superbtv.online:8080@D-230716.done
@@ -1286,6 +1290,8 @@ http://memotv.xyz:8080/7fnbDSBR9hTb/2qXRB4HUS7F5/293142
 http://memotv.xyz:8080/67yusff/AY63yRdAMNHn/293142
 #EXTINF:0 group-title="Mezzo",FR-MEZZO TV-memotv.xyz:8080@D-230504.done
 http://memotv.xyz:8080/5323365939/Emc7PNSCc7/293142
+#EXTINF:0 group-title="Mezzo",FR-MEZZO TV-memotv.xyz:8080@D-230720.done
+http://memotv.xyz:8080/mehmetgunay/havagunay/293142
 #EXTINF:0 group-title="Mezzo",FR-MEZZO TV-onlytvserver.com:8080@D-230625.done
 http://onlytvserver.com:8080/live/ozantuna2/3WPPeYlkjV/71425.ts
 #EXTINF:0 group-title="Mezzo",FR-MEZZO TV-psmtv.site:8080@D-230617.done
@@ -1610,6 +1616,8 @@ https://cdntv.online/high/wcpkzdjxf2/491.m3u8
 http://cdntv.online/high/6bvy42tizr/491.m3u8
 #EXTINF:0 group-title="Mezzo", Mezzo-cdntv.online@D-230719.done
 https://cdntv.online/high/6bvy42tizr/491.m3u8
+#EXTINF:0 group-title="Mezzo",Mezzo-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-ch01.spr24.net@D-230626.done
 http://ch01.spr24.net/22902/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:0 group-title="Mezzo",Mezzo-ch01.spr24.net@D-230719.done
@@ -1732,43 +1740,43 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/707/index.
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-d4c21a9d.rossteleccom.net@D-230701.done
 http://d4c21a9d.rossteleccom.net/iptv/M8UDH8MF9F6M6P/707/index.m3u8
@@ -1952,6 +1960,8 @@ https://nl01.spr24.net/22902/index.m3u8?token=6NKtDLCbKfZKiQ
 http://nowhosts.one:80/n9zwZdst8upCXu/cdAqDjuXQKSn37/328262
 #EXTINF:0 group-title="Mezzo",Mezzo-nthr9saa.russtv.net@D-230711.done
 http://nthr9saa.russtv.net/iptv/5QLQRWN6D9WPZ4/707/index.m3u8
+#EXTINF:0 group-title="Mezzo",Mezzo-ob8gjai2.rostelekom.xyz@D-230720.done
+http://ob8gjai2.rostelekom.xyz/iptv/XSRTBXY2XDHHUF/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-omdtxvgd.otttv.pw@D-230703.done
@@ -2772,6 +2782,8 @@ http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/9170/index.m3u8
 http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-c182c462.akadatel.com@D-230621.done
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/9170/index.m3u8
+#EXTINF:0 group-title="Mezzo",Mezzo orig-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-clofxtud.rostelekom.xyz@D-230621.done
 http://clofxtud.rostelekom.xyz/iptv/U5RTT4EW296H6V/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-cv7jhvdz.otttv.pw@D-230718.done
@@ -2866,43 +2878,43 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/9170/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-d4c21a9d.rossteleccom.net@D-230701.done
 http://d4c21a9d.rossteleccom.net/iptv/M8UDH8MF9F6M6P/9170/index.m3u8
@@ -3014,6 +3026,8 @@ http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/9170/index.m3u8
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-nthr9saa.russtv.net@D-230711.done
 http://nthr9saa.russtv.net/iptv/5QLQRWN6D9WPZ4/9170/index.m3u8
+#EXTINF:0 group-title="Mezzo",Mezzo orig-ob8gjai2.rostelekom.xyz@D-230720.done
+http://ob8gjai2.rostelekom.xyz/iptv/XSRTBXY2XDHHUF/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-omdtxvgd.otttv.pw@D-230703.done
@@ -3226,43 +3240,43 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/7011/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/7011/index.m3u8
@@ -3786,6 +3800,8 @@ http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/264951
 http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/264951
 #EXTINF:0 group-title="Mezzo",NL 4MB+  Mezzo-memotv.xyz:8080@D-230716.done
 http://memotv.xyz:8080/2adem21197166/XuTvQm2uet/264951
+#EXTINF:0 group-title="Mezzo",NL 4MB+  Mezzo-memotv.xyz:8080@D-230720.fail3
+http://memotv.xyz:8080/mehmetgunay/havagunay/264951
 #EXTINF:0 group-title="Mezzo",NL 4MB+  Mezzo-psmtv.site:8080@D-230621.done
 http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/264951
 #EXTINF:0 group-title="Mezzo",NL 4MB+  Mezzo-superbtv.online:8080@D-230627.done
@@ -4938,6 +4954,8 @@ http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/193947
 http://localchtv.xyz:8080/sez365haret/mvnjBbnUZxJB/193947
 #EXTINF:0 group-title="Mezzo",RU: Mezzo-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/orhan8671882/6hxcYhZSFGxE/193947
+#EXTINF:0 group-title="Mezzo",RU: Mezzo-memotv.xyz:8080@D-230720.done
+http://memotv.xyz:8080/mehmetgunay/havagunay/193947
 #EXTINF:0 group-title="Mezzo",RU: Mezzo-onlytvserver.com:8080@D-230625.done
 http://onlytvserver.com:8080/live/ozantuna2/3WPPeYlkjV/73588.ts
 #EXTINF:0 group-title="Mezzo",RU: MEZZO-onrev.xyz:80@D-230630.done
@@ -5930,6 +5948,8 @@ http://amazingiptv.life:8080/ercan_saal/y7nacuZgtZ/264953
 http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/264953
 #EXTINF:0 group-title="Mezzo Live",FR-2MB+  MEZZO LIVE HD-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/264953
+#EXTINF:0 group-title="Mezzo Live",FR-2MB+  MEZZO LIVE HD-memotv.xyz:8080@D-230720.fail3
+http://memotv.xyz:8080/mehmetgunay/havagunay/264953
 #EXTINF:0 group-title="Mezzo Live",FR-2MB+  MEZZO LIVE HD-superbtv.online:8080@D-230627.done
 http://superbtv.online:8080/DrafuZ9mtp/cR5jM6mrBP/264953
 #EXTINF:0 group-title="Mezzo Live",FR-2MB+  MEZZO LIVE HD-tr.bosstv.live:8080@D-230711.done
@@ -7570,6 +7590,8 @@ https://cdntv.online/high/wcpkzdjxf2/73.m3u8
 http://cdntv.online/high/6bvy42tizr/73.m3u8
 #EXTINF:0 group-title="Mezzo Live", Mezzo Live HD-cdntv.online@D-230719.done
 https://cdntv.online/high/6bvy42tizr/73.m3u8
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-ch01.spr24.net@D-230626.done
 http://ch01.spr24.net/3126/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-ch01.spr24.net@D-230712.done
@@ -7672,43 +7694,43 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/208/index.
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d4c21a9d.rossteleccom.net@D-230701.done
 http://d4c21a9d.rossteleccom.net/iptv/M8UDH8MF9F6M6P/208/index.m3u8
@@ -7882,6 +7904,8 @@ http://nl01.spr24.net/3126/mpegts?token=6NKtDLCbKfZKiQ
 https://nl01.spr24.net/3126/index.m3u8?token=6NKtDLCbKfZKiQ
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-nthr9saa.russtv.net@D-230711.done
 http://nthr9saa.russtv.net/iptv/5QLQRWN6D9WPZ4/208/index.m3u8
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-ob8gjai2.rostelekom.xyz@D-230720.done
+http://ob8gjai2.rostelekom.xyz/iptv/XSRTBXY2XDHHUF/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-omdtxvgd.otttv.pw@D-230703.done
@@ -8418,6 +8442,8 @@ http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/9014/index.m3u8
 http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-c182c462.akadatel.com@D-230621.done
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/9014/index.m3u8
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-clofxtud.rostelekom.xyz@D-230621.done
 http://clofxtud.rostelekom.xyz/iptv/U5RTT4EW296H6V/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-cv7jhvdz.otttv.pw@D-230718.done
@@ -8510,43 +8536,43 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/9014/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d4c21a9d.rossteleccom.net@D-230701.done
 http://d4c21a9d.rossteleccom.net/iptv/M8UDH8MF9F6M6P/9014/index.m3u8
@@ -8654,6 +8680,8 @@ http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/9014/index.m3u8
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-nthr9saa.russtv.net@D-230711.done
 http://nthr9saa.russtv.net/iptv/5QLQRWN6D9WPZ4/9014/index.m3u8
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-ob8gjai2.rostelekom.xyz@D-230720.done
+http://ob8gjai2.rostelekom.xyz/iptv/XSRTBXY2XDHHUF/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-omdtxvgd.otttv.pw@D-230703.done
@@ -8920,6 +8948,8 @@ http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/193949
 http://localchtv.xyz:8080/sez365haret/mvnjBbnUZxJB/193949
 #EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/orhan8671882/6hxcYhZSFGxE/193949
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-memotv.xyz:8080@D-230720.done
+http://memotv.xyz:8080/mehmetgunay/havagunay/193949
 #EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-onlytvserver.com:8080@D-230625.done
 http://onlytvserver.com:8080/live/ozantuna2/3WPPeYlkjV/73590.ts
 #EXTINF:0 group-title="Mezzo Live",RU: MEZZO live HD-onrev.xyz:80@D-230630.done
@@ -11548,6 +11578,8 @@ http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/19199/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-c6564fd3.rossteleccom.net@D-230626.done
 http://c6564fd3.rossteleccom.net/iptv/HCC9DZ8WERSGPP/19199/index.m3u8
+#EXTINF:0 group-title="Music",NRJ HITS HD-cef23ac9.rossteleccom.net@D-230720.done
+http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-clofxtud.rostelekom.xyz@D-230621.done
 http://clofxtud.rostelekom.xyz/iptv/U5RTT4EW296H6V/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-cv7jhvdz.otttv.pw@D-230718.done
@@ -11640,43 +11672,43 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/19199/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.NC.done
+#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-d4c21a9d.rossteleccom.net@D-230701.done
 http://d4c21a9d.rossteleccom.net/iptv/M8UDH8MF9F6M6P/19199/index.m3u8
@@ -11786,6 +11818,8 @@ http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/19199/index.m3u8
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-nthr9saa.russtv.net@D-230711.done
 http://nthr9saa.russtv.net/iptv/5QLQRWN6D9WPZ4/19199/index.m3u8
+#EXTINF:0 group-title="Music",NRJ HITS HD-ob8gjai2.rostelekom.xyz@D-230720.done
+http://ob8gjai2.rostelekom.xyz/iptv/XSRTBXY2XDHHUF/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-omdtxvgd.otttv.pw@D-230703.done
@@ -12212,6 +12246,8 @@ http://localchtv.xyz:8080/sez365haret/mvnjBbnUZxJB/324303
 http://localchtv.xyz:8080/orhan8671882/6hxcYhZSFGxE/324303
 #EXTINF:0 group-title="Music",Pluto TV K-Pop-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/324303
+#EXTINF:0 group-title="Music",Pluto TV K-Pop-memotv.xyz:8080@D-230720.fail3
+http://memotv.xyz:8080/mehmetgunay/havagunay/324303
 #EXTINF:0 group-title="Music",Pluto TV K-Pop-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/136817
 #EXTINF:0 group-title="Music",Pluto TV K-Pop-stitcher-ipv4.pluto.tv@D-230603.done
@@ -12418,6 +12454,8 @@ http://memotv.xyz:8080/christian16534sdfs/xKVHjDnFcr/324307
 http://memotv.xyz:8080/burhan.koc/95ZjWr2G47jm/324307
 #EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-memotv.xyz:8080@D-230504.done
 http://memotv.xyz:8080/65kvB5Wy7Qva/xxQyBkmvRvnP/324307
+#EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-memotv.xyz:8080@D-230720.fail3
+http://memotv.xyz:8080/mehmetgunay/havagunay/324307
 #EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-raceipt.ddns.net:8000@D-230706.done
 http://raceipt.ddns.net:8000/daSIMO/04072023A/431402
 #EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-simone167.ddns.net:25461@D-230604.done
@@ -12632,6 +12670,8 @@ http://localchtv.xyz:8080/orhan8671882/6hxcYhZSFGxE/275846
 http://localchtv.xyz:8080/yener66591/qw3b5b/275846
 #EXTINF:0 group-title="Stingray",AMA: Stingray Classica-memotv.xyz:8080@D-230623.done
 http://memotv.xyz:8080/yener66591/qw3b5b/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-memotv.xyz:8080@D-230720.done
+http://memotv.xyz:8080/mehmetgunay/havagunay/275846
 #EXTINF:0 group-title="Stingray",AMA: Stingray Classica-superbtv.online:8080@D-230627.done
 http://superbtv.online:8080/DrafuZ9mtp/cR5jM6mrBP/275846
 #EXTINF:0 group-title="Stingray",AMA: Stingray Classica-superbtv.online:8080@D-230716.done
@@ -12998,6 +13038,8 @@ http://kyaspiptv.xyz:8080/eEdCALdwG6fQ/eMpCDguzMNXm/324924
 http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/324924
 #EXTINF:0 group-title="Stingray",ES  Stingray Classica-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/sez365haret/mvnjBbnUZxJB/324924
+#EXTINF:0 group-title="Stingray",ES  Stingray Classica-memotv.xyz:8080@D-230720.fail3
+http://memotv.xyz:8080/mehmetgunay/havagunay/324924
 #EXTINF:0 group-title="Stingray",ES  Stingray Classica-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/324924
 #EXTINF:0 group-title="Stingray",ES  Stingray Classica-tr.bosstv.live:8080@D-230717.done
