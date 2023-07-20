@@ -1,5 +1,5 @@
-#EXTM3U 7397
-#DATE 2023-07-20 08:06
+#EXTM3U 7401
+#DATE 2023-07-20 08:27
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -5218,6 +5218,8 @@ http://dk.tgt6373.online:8080/trk0120/mt.5200/133750
 http://dk.tgt6373.online:8080/vizcr346/201121sxdx/133750
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-e748b651.amazzin.pw@D-230604.done
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-e77b7c02.edmonst.net@D-230720.done
+http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-ebbbd8e0.ottrast.com@D-230705.done
 http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-eje0iyhn.otttv.pw@D-230718.done
@@ -13332,6 +13334,8 @@ http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/1170
 http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-e748b651.amazzin.pw@D-230604.done
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-e77b7c02.edmonst.net@D-230720.done
+http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-ebbbd8e0.ottrast.com@D-230705.done
 http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-eje0iyhn.otttv.pw@D-230718.done
@@ -13924,6 +13928,8 @@ http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/1169
 http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-e748b651.amazzin.pw@D-230604.done
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-e77b7c02.edmonst.net@D-230720.done
+http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-ebbbd8e0.ottrast.com@D-230705.done
 http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-eje0iyhn.otttv.pw@D-230718.done
@@ -14602,6 +14608,8 @@ http://dss.theoneip.tv:8080/6ey7CNHSXn/1wVqIXRcPJ/1168
 http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-e748b651.amazzin.pw@D-230604.done
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-e77b7c02.edmonst.net@D-230720.done
+http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-ebbbd8e0.ottrast.com@D-230705.done
 http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-eje0iyhn.otttv.pw@D-230718.done
