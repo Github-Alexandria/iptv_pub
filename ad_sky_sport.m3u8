@@ -1,5 +1,5 @@
-#EXTM3U 7086
-#DATE 2023-07-21 11:52
+#EXTM3U 7059
+#DATE 2023-07-21 12:04
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tv.pro-ott.com:25443@D-230604.done
 http://tv.pro-ott.com:25443/live/355434554445/4565555665/116841.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tv.pro-ott.com:25443@D-230623.done
@@ -9510,8 +9510,6 @@ http://zeintv.xyz:8080/55225522/55225522/130333
 http://263750967376301744.ot0711.xyz:80/play/vd08206/2960766689/301744.ts
 #EXTINF:0 group-title="Sky",UK-SKY SPORTS PREMIER LEAGUE  HEVC-263750967376314012.ot0711.xyz:80@D-230712.done
 http://263750967376314012.ot0711.xyz:80/play/vd08206/2960766689/314012.ts
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS PREMIER LEAGUE SD-zeintv.xyz:8080@D-230721.done
-http://zeintv.xyz:8080/55225522/55225522/130381
 #EXTINF:0 group-title="Sky",UK- Sky Sports Premier League UHD-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62554
 #EXTINF:0 group-title="Sky",UK- Sky Sports Premier League UHD-2hubs.ddns.net:25461@D-230610.done
@@ -11136,8 +11134,6 @@ http://zeintv.xyz:8080/zmohamedkiko/05318453509/130349
 http://zeintv.xyz:8080/55225522/55225522/130349
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 HEVC-263750967376363772.ot0711.xyz:80@D-230712.done
 http://263750967376363772.ot0711.xyz:80/play/vd08206/2960766689/363772.ts
-#EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 SD-zeintv.xyz:8080@D-230721.done
-http://zeintv.xyz:8080/55225522/55225522/130405
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 UHD-germanydnsx14.com:8080@D-230610.done
 http://germanydnsx14.com:8080/adigeroglu/198700/86109
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 UHD-germanydnsx15.com:8080@D-230716.done
@@ -11856,8 +11852,6 @@ http://zeintv.xyz:8080/zmohamedkiko/05318453509/130337
 http://zeintv.xyz:8080/55225522/55225522/130337
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS FOOTBALL HEVC-263750967376346254.ot0711.xyz:80@D-230712.done
 http://263750967376346254.ot0711.xyz:80/play/vd08206/2960766689/346254.ts
-#EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS FOOTBALL SD-zeintv.xyz:8080@D-230721.done
-http://zeintv.xyz:8080/55225522/55225522/130387
 #EXTINF:0 group-title="Sky-F1-Foot",UK- Sky Sports Football UHD-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62555
 #EXTINF:0 group-title="Sky-F1-Foot",UK- Sky Sports Football UHD-2hubs.ddns.net:25461@D-230610.done
@@ -12536,8 +12530,6 @@ http://ky-iptv.com:80/123454321/123454321/1847084.ts
 http://ky-iptv.com:80/clayton21/clayton2021/1847084.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Events-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/1847084.ts
-#EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENT SD-zeintv.xyz:8080@D-230721.done
-http://zeintv.xyz:8080/55225522/55225522/130379
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Events FHD-ip.sltv.be:8080@D-230714.done
 http://ip.sltv.be:8080/ZT6sd7wLDT/Px2QGgwVKi/14986
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Events FHD-neofass.com:8080@D-230714.done
