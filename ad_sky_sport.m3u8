@@ -1,7 +1,9 @@
-#EXTM3U 7219
-#DATE 2023-07-23 12:45
-#EXTINF:0 group-title="Now-Klub",### UK NOW SPORTS #####-tr.redatvgold.com:80@D-230722.done
+#EXTM3U 6913
+#DATE 2023-07-23 19:48
+#EXTINF:0 group-title="Now-Klub",## UK NOW SPORTS #####-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/1032490
+#EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-pro.xviptv.com:25443@D-230723.done
+http://pro.xviptv.com:25443/live/990066/2100220077/116841.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tv.pro-ott.com:25443@D-230604.done
 http://tv.pro-ott.com:25443/live/355434554445/4565555665/116841.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tv.pro-ott.com:25443@D-230623.done
@@ -38,6 +40,8 @@ http://tv.viptvpro.com:25443/live/Kamel69200/Kamel69200/116841.ts
 http://tv.viptvpro.com:25443/live/V183icRQ8OrX1/U2hgcMOHhF/116841.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tvpro.vprotv.com:25443@D-230716.done
 http://tvpro.vprotv.com:25443/live/V5R0x4GFVezm/FPMcd7ggwH/116841.ts
+#EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 2 HD-pro.xviptv.com:25443@D-230723.done
+http://pro.xviptv.com:25443/live/990066/2100220077/116842.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 2 HD-tv.pro-ott.com:25443@D-230623.done
 http://tv.pro-ott.com:25443/live/boko/0PV4GYNUGS/116842.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 2 HD-tv.pro-ott.com:25443@D-230624.done
@@ -72,6 +76,8 @@ http://tv.viptvpro.com:25443/live/Kamel69200/Kamel69200/116842.ts
 http://tv.viptvpro.com:25443/live/V183icRQ8OrX1/U2hgcMOHhF/116842.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 2 HD-tvpro.vprotv.com:25443@D-230716.done
 http://tvpro.vprotv.com:25443/live/V5R0x4GFVezm/FPMcd7ggwH/116842.ts
+#EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 3 HD-pro.xviptv.com:25443@D-230723.done
+http://pro.xviptv.com:25443/live/990066/2100220077/116845.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 3 HD-tv.pro-ott.com:25443@D-230605.done
 http://tv.pro-ott.com:25443/live/V5AQQeqJW3Y1/RfikXUR1Pn/116845.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 3 HD-tv.pro-ott.com:25443@D-230623.done
@@ -3290,6 +3296,8 @@ http://45.12.1.14:80/qnpxX8FPPv168/decCFz305/17256
 http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/17256
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD HR-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/17256
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD HR-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/17256
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD HR-channels227070.clientportal.link:80@D-230722.done.NC
 http://channels227070.clientportal.link:80/ZsSBuE50/kbDxRi10/17256
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD HR-channels227070.clientportal.link:80@D-230722.done.NC
@@ -3416,6 +3424,8 @@ http://45.12.1.14:80/qnpxX8FPPv168/decCFz305/1440
 http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/1440
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD RS-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/1440
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD RS-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/1440
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD RS-channels227070.clientportal.link:80@D-230722.done.NC
 http://channels227070.clientportal.link:80/ZsSBuE50/kbDxRi10/1440
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD RS-channels227070.clientportal.link:80@D-230722.done.NC
@@ -3638,6 +3648,8 @@ http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/17252
 http://45.12.1.14:80/OuqcQSX74/ACBXn146/17252
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/17252
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/17252
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-4bec4640.ottolok.net@D-230718.done
 http://4bec4640.ottolok.net/iptv/SCFMCHL3EVB754/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-5251035c.edemist.com@D-230711.done
@@ -4056,6 +4068,8 @@ http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/13832
 http://45.12.1.14:80/OuqcQSX74/ACBXn146/13832
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD RS-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/13832
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD RS-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/13832
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD RS-clientsportals.com:2095@D-230604.done
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/29935
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD RS-clientsportals.com:2095@D-230626.done
@@ -4154,6 +4168,8 @@ http://45.12.1.14:80/qnpxX8FPPv168/decCFz305/17254
 http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/17254
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD HR-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/17254
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD HR-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/17254
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD HR-channels227070.clientportal.link:80@D-230722.done.NC
 http://channels227070.clientportal.link:80/ZsSBuE50/kbDxRi10/17254
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD HR-channels227070.clientportal.link:80@D-230722.done.NC
@@ -4288,6 +4304,8 @@ http://45.12.1.14:80/qnpxX8FPPv168/decCFz305/17257
 http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/17257
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD RS-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/17257
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD RS-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/17257
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD RS-channels227070.clientportal.link:80@D-230722.done.NC
 http://channels227070.clientportal.link:80/ZsSBuE50/kbDxRi10/17257
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD RS-channels227070.clientportal.link:80@D-230722.done.NC
@@ -4466,6 +4484,8 @@ http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/13833
 http://45.12.1.14:80/OuqcQSX74/ACBXn146/13833
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/13833
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/13833
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-4bec4640.ottolok.net@D-230718.done
 http://4bec4640.ottolok.net/iptv/SCFMCHL3EVB754/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-5251035c.edemist.com@D-230711.done
@@ -4836,6 +4856,8 @@ http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/1441
 http://45.12.1.14:80/OuqcQSX74/ACBXn146/1441
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD RS-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/1441
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD RS-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/1441
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD RS-clientsportals.com:2095@D-230604.done
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/29934
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD RS-clientsportals.com:2095@D-230626.done
@@ -4938,6 +4960,8 @@ http://45.12.1.14:80/qnpxX8FPPv168/decCFz305/17917
 http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/17917
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD HR-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/17917
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD HR-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/17917
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD HR-channels227070.clientportal.link:80@D-230722.done.NC
 http://channels227070.clientportal.link:80/ZsSBuE50/kbDxRi10/17917
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD HR-channels227070.clientportal.link:80@D-230722.done.NC
@@ -5060,6 +5084,8 @@ http://45.12.1.14:80/qnpxX8FPPv168/decCFz305/17258
 http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/17258
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD RS-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/17258
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD RS-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/17258
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD RS-channels227070.clientportal.link:80@D-230722.done.NC
 http://channels227070.clientportal.link:80/ZsSBuE50/kbDxRi10/17258
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD RS-channels227070.clientportal.link:80@D-230722.done.NC
@@ -5204,6 +5230,8 @@ http://45.12.1.14:80/qnpxX8FPPv168/decCFz305/16822
 http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/16822
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD SI-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/16822
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD SI-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/16822
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD SI-channels227070.clientportal.link:80@D-230722.done.NC
 http://channels227070.clientportal.link:80/ZsSBuE50/kbDxRi10/16822
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD SI-channels227070.clientportal.link:80@D-230722.done.NC
@@ -6178,6 +6206,8 @@ http://45.12.1.14:80/RPSmwZAjYeYp916/ItidKFst3jNt922/17250
 http://45.12.1.14:80/OuqcQSX74/ACBXn146/17250
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 FHD HR-45.12.1.14:80@D-230708.done.NC
 http://45.12.1.14:80/DRdpk19XMS975/wU1tiB786/17250
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 FHD HR-45.12.1.14:80@D-230723.done.NC
+http://45.12.1.14:80/slwRf1fZlm/aOtvaI6870/17250
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 FHD HR-channels227070.clientportal.link:80@D-230722.done.NC
 http://channels227070.clientportal.link:80/ZsSBuE50/kbDxRi10/17250
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 FHD HR-channels227070.clientportal.link:80@D-230722.done.NC
@@ -8502,6 +8532,38 @@ http://185.156.74.135:80/boris1234/1234boris/1821337.ts
 http://2678ydr.xyz:80/live/jestvip12c/jest536d4a/227438.ts
 #EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230712.done
 http://2678ydr.xyz:80/live/barisanne@2106/21z06@21k/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/akay051/2yGfNbCshn/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/bekir4735/24.07.22/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Erhan@Kaya/ZbHQtavQ4x/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Cagdas39@/16@Agus2022Cgds/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/cengizokyay/YceqWPvTU5/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/brk101/vQPupX23z8/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Ozgur.bal699/07kasim2021/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/bcbaris1808b/bc.180822/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/max070922/kral.070922/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/mehmet0311/2022kiris/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/erdalerkal/YtxnHqTWHD/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/tahirfr/D6fPj4jjAS/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/gcm006/tdfa.hxcs/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Hami34/faVRhpe7me/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Murat.Akyuz/VZ9dRMDtJ2/227438.ts
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/ayselkonya/aysel.1705/227438.ts
 #EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/263
 #EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-37.49.230.42:8080@D-230610.done
@@ -9074,8 +9136,6 @@ http://118038704389337524.ot0711.xyz:80/play/Geno129/Geno129D2/337524.ts
 http://263750967376301744.ot0711.xyz:80/play/vd08206/2960766689/301744.ts
 #EXTINF:0 group-title="Sky",UK-SKY SPORTS PREMIER LEAGUE  HEVC-263750967376314012.ot0711.xyz:80@D-230712.done
 http://263750967376314012.ot0711.xyz:80/play/vd08206/2960766689/314012.ts
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS PREMIER LEAGUE SD-118038704389490424.ot0711.xyz:80@D-230723.done
-http://118038704389490424.ot0711.xyz:80/play/Geno129/Geno129D2/490424.ts
 #EXTINF:0 group-title="Sky",UK- Sky Sports Premier League UHD-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62554
 #EXTINF:0 group-title="Sky",UK- Sky Sports Premier League UHD-2hubs.ddns.net:25461@D-230610.done
@@ -9970,6 +10030,38 @@ http://1903.full57.us:8000/apomen123/apomen2002/88958
 http://2678ydr.xyz:80/live/jestvip12c/jest536d4a/227433.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230712.done
 http://2678ydr.xyz:80/live/barisanne@2106/21z06@21k/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/ayselkonya/aysel.1705/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/akay051/2yGfNbCshn/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/bekir4735/24.07.22/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Erhan@Kaya/ZbHQtavQ4x/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Cagdas39@/16@Agus2022Cgds/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/cengizokyay/YceqWPvTU5/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/brk101/vQPupX23z8/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Ozgur.bal699/07kasim2021/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/bcbaris1808b/bc.180822/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/max070922/kral.070922/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/mehmet0311/2022kiris/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/erdalerkal/YtxnHqTWHD/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/tahirfr/D6fPj4jjAS/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/gcm006/tdfa.hxcs/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Hami34/faVRhpe7me/227433.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Murat.Akyuz/VZ9dRMDtJ2/227433.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/265
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-37.49.230.42:8080@D-230610.done
@@ -10680,8 +10772,6 @@ http://zeintv.xyz:8080/zmohamedkiko/05318453509/130349
 http://zeintv.xyz:8080/55225522/55225522/130349
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 HEVC-118038704389363772.ot0711.xyz:80@D-230723.done
 http://118038704389363772.ot0711.xyz:80/play/Geno129/Geno129D2/363772.ts
-#EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 SD-118038704389306441.ot0711.xyz:80@D-230723.done
-http://118038704389306441.ot0711.xyz:80/play/Geno129/Geno129D2/306441.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 UHD-germanydnsx14.com:8080@D-230610.done
 http://germanydnsx14.com:8080/adigeroglu/198700/86109
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 UHD-germanydnsx15.com:8080@D-230716.done
@@ -10704,6 +10794,38 @@ http://185.156.74.135:80/boris1234/1234boris/1846775.ts
 http://2678ydr.xyz:80/live/jestvip12c/jest536d4a/227434.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230712.done
 http://2678ydr.xyz:80/live/barisanne@2106/21z06@21k/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/akay051/2yGfNbCshn/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/bekir4735/24.07.22/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Erhan@Kaya/ZbHQtavQ4x/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Cagdas39@/16@Agus2022Cgds/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/cengizokyay/YceqWPvTU5/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/brk101/vQPupX23z8/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Ozgur.bal699/07kasim2021/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/bcbaris1808b/bc.180822/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/max070922/kral.070922/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/mehmet0311/2022kiris/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/erdalerkal/YtxnHqTWHD/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/tahirfr/D6fPj4jjAS/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/gcm006/tdfa.hxcs/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Hami34/faVRhpe7me/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Murat.Akyuz/VZ9dRMDtJ2/227434.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/ayselkonya/aysel.1705/227434.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-37.49.230.42:8080@D-230610.done
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/266
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-37.49.230.42:8080@D-230610.done
@@ -11348,8 +11470,6 @@ http://zeintv.xyz:8080/zmohamedkiko/05318453509/130337
 http://zeintv.xyz:8080/55225522/55225522/130337
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS FOOTBALL HEVC-118038704389346254.ot0711.xyz:80@D-230723.done
 http://118038704389346254.ot0711.xyz:80/play/Geno129/Geno129D2/346254.ts
-#EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS FOOTBALL SD-118038704389314011.ot0711.xyz:80@D-230723.done
-http://118038704389314011.ot0711.xyz:80/play/Geno129/Geno129D2/314011.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK- Sky Sports Football UHD-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62555
 #EXTINF:0 group-title="Sky-F1-Foot",UK- Sky Sports Football UHD-2hubs.ddns.net:25461@D-230610.done
@@ -11384,6 +11504,38 @@ http://104.244.73.237:8080/ahmetsubasi/6266977291/71569
 http://2678ydr.xyz:80/live/jestvip12c/jest536d4a/227436.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230712.done
 http://2678ydr.xyz:80/live/barisanne@2106/21z06@21k/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/bekir4735/24.07.22/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Erhan@Kaya/ZbHQtavQ4x/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Cagdas39@/16@Agus2022Cgds/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/cengizokyay/YceqWPvTU5/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/brk101/vQPupX23z8/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Ozgur.bal699/07kasim2021/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/bcbaris1808b/bc.180822/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/max070922/kral.070922/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/mehmet0311/2022kiris/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/erdalerkal/YtxnHqTWHD/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/tahirfr/D6fPj4jjAS/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/gcm006/tdfa.hxcs/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Hami34/faVRhpe7me/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/Murat.Akyuz/VZ9dRMDtJ2/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/ayselkonya/aysel.1705/227436.ts
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-2678ydr.xyz:80@D-230723.done
+http://2678ydr.xyz:80/live/akay051/2yGfNbCshn/227436.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK- Sky Sports Main Event-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/60969
 #EXTINF:0 group-title="Sky-F1-Foot",UK- Sky Sports Main Event-2hubs.ddns.net:25461@D-230610.done
@@ -12000,10 +12152,6 @@ http://ky-iptv.com:80/123454321/123454321/1847084.ts
 http://ky-iptv.com:80/clayton21/clayton2021/1847084.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Events-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/1847084.ts
-#EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENT SD-118038704389324200.ot0711.xyz:80@D-230723.done
-http://118038704389324200.ot0711.xyz:80/play/Geno129/Geno129D2/324200.ts
-#EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENT  SD-118038704389353847.ot0711.xyz:80@D-230723.done
-http://118038704389353847.ot0711.xyz:80/play/Geno129/Geno129D2/353847.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENTS HD-ip365.cx:80@D-230606.done
 http://ip365.cx:80/8432671147/7922665246/191674
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENTS HD-iptv-turkseed.com:8080@D-230702.done
