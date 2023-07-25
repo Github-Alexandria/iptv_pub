@@ -1,5 +1,5 @@
-#EXTM3U 6111
-#DATE 2023-07-24 22:57
+#EXTM3U 6295
+#DATE 2023-07-25 14:47
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNGV0n2cQ-AkJ3spjREqEr0A/ts
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-elmonkey.us:25461@D-230512.done
@@ -2308,6 +2308,32 @@ http://xtra.fireottplus.com:2052/SW72441887/SW06956070/38127
 http://xtra.fireottplus.com:2052/319058287087/389271289827/38127
 #EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230718.done
 http://xtra.fireottplus.com:2052/230641037555/119482258817/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/3913527790/5jmejhqe/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/126865564532/139204323574/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/149776906134/997492360439/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/311291130600/311291130600/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/33624357573/802462754564927/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/3913437703/0ze63ove/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/3913438192/fd634adz/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/024102787493/857306166563/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/200683478913/393447053066/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/056557324724/267507805489/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/074238510571/572660662691/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/339022321169/663428048553/38127
+#EXTINF:0 group-title="US-BEIN",US-4K BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/130827905880/459554984234/38127
 #EXTINF:0 group-title="US-BEIN",US-AR: BEIN SPORTS 01-fuzzyunicorns.net:80@D-230712.done
 http://fuzzyunicorns.net:80/live/austin/austin/687109.ts
 #EXTINF:0 group-title="US-BEIN",US-AR: BEIN SPORTS 01-tvpanel.one:80@D-230630.done
@@ -2476,6 +2502,8 @@ http://raceipt.ddns.net:8000/daSIMO/04072023A/422642
 http://tntmais.com:80/diego.imolesi/diego6069/10040712
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports-turkiye741nx.xyz:80@D-230722.done
 http://turkiye741nx.xyz:80/nihateri/Sw4VShdvgq/134046
+#EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS-uniontvs.com:8080@D-230725.done
+http://uniontvs.com:8080/essam6230/trabia62300/369887
 #EXTINF:0 group-title="US-BEIN",US-BEIN Sports 01 HD-loadbl2.online:80@D-230706.done
 http://loadbl2.online:80/14280613/40895116/1583631
 #EXTINF:0 group-title="US-BEIN",US-BEIN Sports 01 HD-loadbl2.online:80@D-230715.done
@@ -2502,6 +2530,8 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/255030
 http://playhispano.org:8080/userlw/led5120/255030
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 1-turkiye741nx.xyz:80@D-230722.done
 http://turkiye741nx.xyz:80/nihateri/Sw4VShdvgq/134047
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports 1 ENGLISH HD-uniontvs.com:8080@D-230725.done
+http://uniontvs.com:8080/essam6230/trabia62300/219515
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 1  HD*-adamnk.me:8080@D-230706.done
 http://adamnk.me:8080/negritaC69/6dN328ThKA/1160600
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 1 HD-a36m.net:8080@D-230714.done
@@ -2538,6 +2568,8 @@ http://fast.bounceme.net:8080/live/nsCDexFcpy/rr7FEd7f9d/17903.ts
 http://iptv-turkseed.com:8080/Mtopcu/u2jMRKyMvK/206927
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS 2 HD-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/83953
+#EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS 2 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/83953
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS 2 HD-ss123.pro:80@D-230710.done
 http://ss123.pro:80/11223344/11223344/83953
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS 2 HD-ss123.pro:80@D-230710.done
@@ -2664,6 +2696,8 @@ http://loadbl2.online:80/14280613/40895116/1583609
 http://loadbl2.online:80/22897764/50595081/1583609
 #EXTINF:0 group-title="US-BEIN",US-BEIN Sports 4 HD-loadbl2.online:80@D-230715.done
 http://loadbl2.online:80/46073956/39208015/1583609
+#EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS 4 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/83954
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS 4 HD-ss123.pro:80@D-230710.done
 http://ss123.pro:80/11223344/11223344/83954
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS 4 HD-ss123.pro:80@D-230710.done
@@ -3050,10 +3084,14 @@ http://adamnk.me:8080/negritaC69/6dN328ThKA/25206
 http://premiumultra.xyz:8080/931124228tv/3dh78r/23404
 #EXTINF:0 group-title="US-BEIN",US-Bein Sports En Español-premiumultra.xyz:8080@D-230715.done
 http://premiumultra.xyz:8080/a3s3d3g5/d5f4c5e3/23404
+#EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS EN ESPANOL-uniontvs.com:8080@D-230725.done
+http://uniontvs.com:8080/essam6230/trabia62300/369886
 #EXTINF:0 group-title="US-BEIN",US-beIN SPORTS En Espanol  HD-adamnk.me:8080@D-230706.done
 http://adamnk.me:8080/negritaC69/6dN328ThKA/1160609
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS ESPANOL-66.70.177.156:25461@D-230717.done
 http://66.70.177.156:25461/barjohnsn/1234/179515
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports Español-uniontvs.com:8080@D-230725.done
+http://uniontvs.com:8080/essam6230/trabia62300/219519
 #EXTINF:0 group-title="US-BEIN",US- BEIN SPORTS EXTRA FHD-118038704389544462.ot0711.xyz:80@D-230723.done
 http://118038704389544462.ot0711.xyz:80/play/Geno129/Geno129D2/544462.ts
 #EXTINF:0 group-title="US-BEIN",US- BEIN SPORTS EXTRA FHD-985038061475544462.ot0711.xyz:80@D-230723.done
@@ -3096,6 +3134,8 @@ http://line.rs6ott.com:80/17BB91LL/51HDMM29/45611
 http://loadbl2.online:80/22897764/50595081/1583613
 #EXTINF:0 group-title="US-BEIN",US-BEIN Sports HD-loadbl2.online:80@D-230715.done
 http://loadbl2.online:80/46073956/39208015/1583613
+#EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/45611
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports HD-premiumultra.xyz:8080@D-230715.done
 http://premiumultra.xyz:8080/931124228tv/3dh78r/23877
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports HD-premiumultra.xyz:8080@D-230715.done
@@ -3430,6 +3470,8 @@ http://splaytv.io:80/priscila389201gas/pris689281cila/139610
 http://splaytv.io:80/live/priscila389201gas/pris689281cila/139610.m3u8
 #EXTINF:0 group-title="US-BEIN",US-Bein Sports USA HD-srv.vitrizamper.com:80@D-230714.done
 http://srv.vitrizamper.com:80/04630925285717/67419296649889/1140
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports USA HD-uniontvs.com:8080@D-230725.done
+http://uniontvs.com:8080/essam6230/trabia62300/219518
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS USA SD-263750967376444688.ot0711.xyz:80@D-230712.done
 http://263750967376444688.ot0711.xyz:80/play/vd08206/2960766689/444688.ts
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA-66.70.177.156:25461@D-230712.done
@@ -3522,12 +3564,16 @@ http://tv.logincp.top:80/live/jovaninovaaurora/cassarojova0875ni/142838.m3u8
 http://tv.logincp.top:80/live/michael9663x/michael5802x/142838.m3u8
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA HD¹-tv.logincp.top:80@D-230717.done
 http://tv.logincp.top:80/live/4o8h4aiz/vue5s62x/142838.m3u8
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports Xtra HD-uniontvs.com:8080@D-230725.done
+http://uniontvs.com:8080/essam6230/trabia62300/369888
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA HD-vegasizle.xyz:8080@D-230703.done.NC.dead
 http://vegasizle.xyz:8080/Acar2023nvd/mWwBXHFtdWew/670191
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA HD-vegasizle.xyz:8080@D-230703.done.NC.dead
 http://vegasizle.xyz:8080/nevzat746/z8VEXGEcqfBp/670191
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA N (ES) HD-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/1127391
+#EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA N (ES) HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/1127391
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA N (ES) HD-ss123.pro:80@D-230710.done
 http://ss123.pro:80/11223344/11223344/1127391
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA N (ES) HD-ss123.pro:80@D-230710.done
@@ -3566,6 +3612,34 @@ http://xtra.fireottplus.com:2052/SW72441887/SW06956070/38151
 http://xtra.fireottplus.com:2052/230641037555/119482258817/38151
 #EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230718.done
 http://xtra.fireottplus.com:2052/319058287087/389271289827/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/183977232983/480493160477/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/3913527790/5jmejhqe/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/126865564532/139204323574/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/149776906134/997492360439/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/311291130600/311291130600/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/33624357573/802462754564927/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/3913437703/0ze63ove/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/3913438192/fd634adz/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/024102787493/857306166563/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/200683478913/393447053066/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/056557324724/267507805489/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/074238510571/572660662691/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/339022321169/663428048553/38151
+#EXTINF:0 group-title="US-BEIN",US-HD BEIN SPORTS NBA -xtra.fireottplus.com:2052@D-230725.done
+http://xtra.fireottplus.com:2052/130827905880/459554984234/38151
 #EXTINF:0 group-title="US-BEIN",US-LATIN BEIN SPORTS CONNECT LALIGA -ip365.cx:80@D-230606.done
 http://ip365.cx:80/8432671147/7922665246/176988
 #EXTINF:0 group-title="US-BEIN",US1: beIN SPORTS CONNECT 4-cdn.rtyh.xyz:80@D-230711.done
@@ -3874,10 +3948,14 @@ http://66.70.177.156:25461/barjohnsn/1234/209807
 http://axr.life:80/731387/357011/1044265
 #EXTINF:0 group-title="US-BEIN",USA: VIP BEIN SPORTS-axr.life:80@D-230721.done
 http://axr.life:80/247406/650183/1044265
+#EXTINF:0 group-title="US-BEIN",USA: VIP BEIN SPORTS-axr.life:80@D-230724.done
+http://axr.life:80/epg/epg/1044265
 #EXTINF:0 group-title="US-BEIN",USA: VIP BEIN SPORTS XTRA-66.70.177.156:25461@D-230717.done
 http://66.70.177.156:25461/barjohnsn/1234/209805
 #EXTINF:0 group-title="US-BEIN",USA: VIP BEIN SPORTS XTRA-axr.life:80@D-230721.done
 http://axr.life:80/247406/650183/1044263
+#EXTINF:0 group-title="US-BEIN",USA: VIP BEIN SPORTS XTRA-axr.life:80@D-230724.done
+http://axr.life:80/epg/epg/1044263
 #EXTINF:0 group-title="US-BEIN",USA Bein Sports-104.243.32.68:25461@D-230607.done
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/376947
 #EXTINF:0 group-title="US-BEIN",USA  beIN SPORTS -apbest.re:80@D-230523.done
@@ -4548,6 +4626,8 @@ http://loadbl2.online:80/22897764/50595081/1583639
 http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/130435
 #EXTINF:0 group-title="US-ESPN",US-ESPN 2 HD-mrcool.nomorecable.me:8000@D-230706.done
 http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/131442
+#EXTINF:0 group-title="US-ESPN",US-ESPN 2 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/45580
 #EXTINF:0 group-title="US-ESPN",US-ESPN 2 HD-premiumultra.xyz:8080@D-230715.done
 http://premiumultra.xyz:8080/931124228tv/3dh78r/24047
 #EXTINF:0 group-title="US-ESPN",US-ESPN 2 HD-premiumultra.xyz:8080@D-230715.done
@@ -4684,6 +4764,12 @@ http://7go.xyz:8080/004o8x08/nla614ks/305027
 http://7go.xyz:8080/carlos9164/jose9164/305027
 #EXTINF:0 group-title="US-ESPN",US-Espn 3 HD-7go.xyz:8080@D-230723.done
 http://7go.xyz:8080/edmundolisboa/2021edmundo/305027
+#EXTINF:0 group-title="US-ESPN",US-Espn 3 HD-7go.xyz:8080@D-230724.done
+http://7go.xyz:8080/antoniojr51/mrtv27xx/305027
+#EXTINF:0 group-title="US-ESPN",US-Espn 3 HD-7go.xyz:8080@D-230724.done
+http://7go.xyz:8080/Catiane76t/7687439/305027
+#EXTINF:0 group-title="US-ESPN",US-Espn 3 HD-7go.xyz:8080@D-230724.done
+http://7go.xyz:8080/RPLQemQ9/oYGnP3dz/305027
 #EXTINF:0 group-title="US-ESPN",US-ESPN 3 HD-loadbl2.online:80@D-230715.done
 http://loadbl2.online:80/22897764/50595081/1583640
 #EXTINF:0 group-title="US-ESPN",US-ESPN 3 HD-loadbl2.online:80@D-230715.done
@@ -4764,6 +4850,8 @@ http://iptv-turkseed.com:8080/Bedri52/tjmGZkWFkh/207110
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/45579
 #EXTINF:0 group-title="US-ESPN",US-ESPN HD-mrcool.nomorecable.me:8000@D-230706.done
 http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/131450
+#EXTINF:0 group-title="US-ESPN",US-ESPN HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/45579
 #EXTINF:0 group-title="US-ESPN",US-ESPN HD-ss123.pro:80@D-230710.done
 http://ss123.pro:80/11223344/11223344/45579
 #EXTINF:0 group-title="US-ESPN",US-ESPN HD-ss123.pro:80@D-230710.done
@@ -4792,512 +4880,708 @@ http://iptv-turkseed.com:8080/Bedri52/tjmGZkWFkh/206943
 http://loadbl2.online:80/22897764/50595081/1583641
 #EXTINF:0 group-title="US-ESPN",US-ESPN Longhorn Network HD-loadbl2.online:80@D-230715.done
 http://loadbl2.online:80/46073956/39208015/1583641
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 10 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739267
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 10 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739267
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 10 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739267
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 11 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739266
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 11 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739266
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 11 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739266
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 11 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739266
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 12 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739265
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 12 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739265
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 12 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739265
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 12 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739265
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 13 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739264
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 13 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739264
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 13 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739264
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 13 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739264
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 14 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739263
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 14 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739263
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 14 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739263
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 14 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739263
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 15 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739262
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 15 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739262
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 15 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739262
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 15 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739262
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 16 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739261
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 16 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739261
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 16 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739261
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 16 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739261
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 17 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739260
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 17 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739260
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 17 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739260
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 18 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739259
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 18 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739259
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 18 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739259
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 18 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739259
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 19 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739258
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 19 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739258
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 19 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739258
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 19 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739258
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 1 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739277
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 1 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739277
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 1 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739277
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 1 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739277
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 20 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739257
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 20 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739257
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 20 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739257
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 20 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739257
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 21 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739256
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 21 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739256
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 21 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739256
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 22 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739255
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 22 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739255
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 22 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739255
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 23 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739254
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 23 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739254
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 23 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739254
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 23 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739254
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 24 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739253
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 24 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739253
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 24 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739253
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 25 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739252
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 25 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739252
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 25 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739252
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 25 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739252
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 26 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739251
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 26 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739251
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 26 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739251
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 27 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739250
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 27 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739250
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 27 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739250
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 28 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739249
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 28 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739249
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 28 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739249
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 28 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739249
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 29 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739248
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 29 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739248
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 29 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739248
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 29 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739248
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 2 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739276
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 2 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739276
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 2 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739276
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 30 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739247
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 30 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739247
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 30 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739247
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 30 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739247
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 31 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739246
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 31 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739246
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 31 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739246
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 31 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739246
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 32 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739245
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 32 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739245
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 32 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739245
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 32 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739245
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 33 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739244
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 33 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739244
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 33 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739244
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 33 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739244
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 34 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739243
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 34 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739243
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 34 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739243
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 34 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739243
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 35 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739242
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 35 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739242
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 35 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739242
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 35 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739242
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 36 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739241
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 36 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739241
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 36 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739241
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 36 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739241
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 37 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739240
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 37 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739240
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 37 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739240
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 38 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739239
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 38 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739239
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 38 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739239
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 38 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739239
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 39 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739238
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 39 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739238
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 39 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739238
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 3 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739274
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 3 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739274
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 3 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739274
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 3 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739274
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 40 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739237
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 40 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739237
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 40 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739237
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 40 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739237
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 41 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739236
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 41 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739236
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 41 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739236
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 42 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739235
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 42 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739235
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 42 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739235
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 42 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739235
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 43 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739234
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 43 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739234
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 43 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739234
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 44 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739233
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 44 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739233
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 44 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739233
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 44 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739233
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 45 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739232
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 45 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739232
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 45 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739232
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 45 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739232
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 46 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739231
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 46 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739231
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 46 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739231
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 47 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739230
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 47 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739230
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 47 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739230
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 48 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739229
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 48 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739229
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 48 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739229
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 49 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739228
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 49 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739228
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 49 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739228
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 49 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739228
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 4 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739273
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 4 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739273
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 4 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739273
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 4 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739273
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 50 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739227
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 50 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739227
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 50 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739227
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 50 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739227
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 51 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739226
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 51 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739226
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 51 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739226
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 52 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739225
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 52 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739225
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 52 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739225
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 52 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739225
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 53 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739224
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 53 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739224
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 53 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739224
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 53 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739224
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 54 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739223
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 54 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739223
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 54 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739223
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 55 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739221
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 55 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739221
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 55 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739221
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 55 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739221
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 56 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739220
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 56 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739220
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 56 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739220
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 57 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739219
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 57 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739219
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 57 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739219
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 57 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739219
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 58 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739218
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 58 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739218
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 58 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739218
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 59 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739217
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 59 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739217
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 59 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739217
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 59 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739217
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 5 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739272
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 5 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739272
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 5 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739272
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 60 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739216
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 60 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739216
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 60 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739216
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 60 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739216
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 61 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739215
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 61 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739215
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 61 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739215
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 62 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739214
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 62 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739214
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 62 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739214
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 62 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739214
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 63 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739213
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 63 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739213
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 63 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739213
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 63 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739213
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 64 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739212
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 64 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739212
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 64 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739212
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 64 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739212
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 65 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739211
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 65 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739211
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 65 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739211
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 66 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739210
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 66 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739210
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 66 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739210
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 66 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739210
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 67 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739209
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 67 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739209
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 67 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739209
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 68 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739208
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 68 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739208
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 68 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739208
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 68 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739208
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 69 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739207
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 69 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739207
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 69 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739207
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 6 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739271
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 6 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739271
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 6 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739271
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 6 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739271
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 70 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739206
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 70 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739206
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 70 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739206
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 71 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739205
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 71 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739205
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 71 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739205
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 71 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739205
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 72 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739204
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 72 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739204
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 72 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739204
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 73 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739203
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 73 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739203
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 73 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739203
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 73 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739203
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 74 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739202
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 74 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739202
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 74 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739202
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 75 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739201
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 75 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739201
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 75 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739201
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 75 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739201
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 76 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739200
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 76 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739200
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 76 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739200
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 77 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739199
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 77 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739199
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 77 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739199
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 77 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739199
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 78 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739198
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 78 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739198
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 78 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739198
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 79 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739197
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 79 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739197
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 79 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739197
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 79 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739197
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 7 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739270
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 7 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739270
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 7 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739270
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 80 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739196
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 80 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739196
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 80 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739196
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 80 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739196
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 81 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739195
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 81 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739195
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 81 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739195
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 82 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739194
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 82 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739194
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 82 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739194
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 82 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739194
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 83 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739193
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 83 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739193
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 83 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739193
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 84 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739192
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 84 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739192
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 84 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739192
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 84 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739192
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 85 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739191
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 85 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739191
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 85 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739191
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 86 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739190
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 86 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739190
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 86 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739190
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 86 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739190
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 87 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739189
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 87 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739189
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 87 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739189
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 87 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739189
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 88 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739188
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 88 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739188
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 88 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739188
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 88 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739188
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 89 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739187
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 89 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739187
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 89 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739187
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 8 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739269
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 8 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739269
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 8 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739269
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 8 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739269
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 90 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739186
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 90 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739186
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 90 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739186
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 90 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739186
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 91 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739185
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 91 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739185
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 91 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739185
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 92 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739184
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 92 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739184
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 92 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739184
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 92 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739184
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 93 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739183
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 93 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739183
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 93 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739183
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 94 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739182
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 94 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739182
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 94 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739182
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 94 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739182
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 95 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739181
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 95 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739181
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 95 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739181
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 96 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739180
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 96 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739180
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 96 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739180
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 96 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739180
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 97 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739179
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 97 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739179
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 97 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739179
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 98 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739178
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 98 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/739178
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 98 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739178
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 98 HD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/739178
+#EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 9 HD-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/739268
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 9 HD-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/739268
 #EXTINF:0 group-title="US-ESPN",US-ESPN PLAY EVENTS 9 HD-tr.redatvgold.com:80@D-230722.done
@@ -6190,6 +6474,76 @@ http://gameplay.p2sweb.me:80/marina06/Marina2021/248033
 http://gameplay.p2sweb.me:80/monteiro123/monteiro321/248033
 #EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230718.done
 http://gameplay.p2sweb.me:80/2498893/2383592/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/qtv1l7s/tiw332d/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/8465804/0931949/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/7959086/9698636/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/lexsala/lex2580/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/5973419/8208952/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/cleverson/x024330/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/JoseRobertoSaraceni/Jose1234/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/34leandro/390angra/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/1576250/7098834/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/JovaneTV/92563505/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/1744670/3188910/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/24brener/480angra/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Ailton11/A976535p/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Railson9171/91710474/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/kledna/af5634hg/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/336813/458453/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Sandro78/093855/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/edsoneli/14062022/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/saraipipote/Toni@1105/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Emerson001/123456Em/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Dentinho1021/Dentinho21/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/andresiqueira2/439GYPzns/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/nathanpaixao/Np5875/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/edu2612/947282/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/767244/141105/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/douglas558w/izeemik/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/analucia202210/2022102030/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/jeferson3378/2813954209/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/68146835/1646849849/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/4282ghsi/529wj548/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Luky.../98357300/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/adantas/x130968/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/nicolecarlao/2587463984/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/4257153/6989507/248033
+#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/12442123/22843123/248033
 #EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230712.done
 http://gameplay.p2sweb.me:80/fran2022/2022fran/248028
 #EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230712.done
@@ -6202,6 +6556,76 @@ http://gameplay.p2sweb.me:80/marina06/Marina2021/248028
 http://gameplay.p2sweb.me:80/monteiro123/monteiro321/248028
 #EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230718.done
 http://gameplay.p2sweb.me:80/2498893/2383592/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/qtv1l7s/tiw332d/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/8465804/0931949/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/7959086/9698636/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/lexsala/lex2580/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/5973419/8208952/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/cleverson/x024330/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/JoseRobertoSaraceni/Jose1234/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/34leandro/390angra/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/1576250/7098834/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/JovaneTV/92563505/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/1744670/3188910/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/24brener/480angra/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Ailton11/A976535p/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Railson9171/91710474/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/kledna/af5634hg/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/336813/458453/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Sandro78/093855/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/edsoneli/14062022/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/saraipipote/Toni@1105/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Emerson001/123456Em/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Dentinho1021/Dentinho21/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/andresiqueira2/439GYPzns/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/nathanpaixao/Np5875/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/edu2612/947282/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/767244/141105/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/douglas558w/izeemik/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/analucia202210/2022102030/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/jeferson3378/2813954209/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/68146835/1646849849/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/4282ghsi/529wj548/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/Luky.../98357300/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/adantas/x130968/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/nicolecarlao/2587463984/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/4257153/6989507/248028
+#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
+http://gameplay.p2sweb.me:80/12442123/22843123/248028
 #EXTINF:0 group-title="US-FOX",US-Fox Sports (Arizona) HD-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/26526
 #EXTINF:0 group-title="US-FOX",US-Fox Sports (Cincinnati) HD-spainline.xyz:8000@D-230620.done
@@ -10328,6 +10752,8 @@ http://line.rs6ott.com:80/17BB91LL/51HDMM29/811667
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/017abd00-9008-48ee-9493-86c987d9c0f9.m3u
 #EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel-moods42.com:80@D-230612.done
 http://moods42.com:80/P1GNSA32/MXnmDbz40I/204105
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/811667
 #EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel-raceipt.ddns.net:8000@D-230706.done
 http://raceipt.ddns.net:8000/daSIMO/04072023A/422155
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL-ss123.pro:80@D-230714.done
@@ -10348,6 +10774,8 @@ http://tvmate.icu:8080/lilly1/lilly1/20184
 http://tvpanel.one:80/live/939885/775792/435497.ts
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL -tvpanel.one:80@D-230630.done
 http://tvpanel.one:80/live/austin/austin/435497.ts
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL-uniontvs.com:8080@D-230725.done
+http://uniontvs.com:8080/essam6230/trabia62300/370156
 #EXTINF:0 group-title="US-Tennis-Pac",US- TENNIS CHANNEL FHD 1080-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/249142.ts
 #EXTINF:0 group-title="US-Tennis-Pac",US- TENNIS CHANNEL FHD 1080-mains.services@D-230712.done.NC.dead
@@ -10440,6 +10868,8 @@ http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/497562
 http://evolved.host:8080/lou99/c8DtRWieta/497562
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 1-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959419
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 1-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959419
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 1-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/959419
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 1-ss123.pro:80@D-230714.done
@@ -10450,8 +10880,12 @@ http://tr.redatvgold.com:80/munir123/munir123/959419
 http://tv.trexiptv.com:80/helene/helene/959419
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 1-tv.trexiptv.com:80@D-230715.done
 http://tv.trexiptv.com:80/william/william/959419
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel Plus 1-uniontvs.com:8080@D-230725.done
+http://uniontvs.com:8080/essam6230/trabia62300/370157
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 10-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959428
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 10-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959428
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 10-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/959428
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 10-ss123.pro:80@D-230714.done
@@ -10460,6 +10894,8 @@ http://ss123.pro:80/shoshana/shoshana/959428
 http://tr.redatvgold.com:80/munir123/munir123/959428
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 11-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959429
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 11-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959429
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 11-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/959429
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 11-ss123.pro:80@D-230714.done
@@ -10468,6 +10904,8 @@ http://ss123.pro:80/shoshana/shoshana/959429
 http://tr.redatvgold.com:80/munir123/munir123/959429
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 12-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959430
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 12-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959430
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 12-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/959430
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 12-ss123.pro:80@D-230714.done
@@ -10476,6 +10914,8 @@ http://ss123.pro:80/shoshana/shoshana/959430
 http://tr.redatvgold.com:80/munir123/munir123/959430
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 2-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959420
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 2-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959420
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 2-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/959420
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 2-ss123.pro:80@D-230714.done
@@ -10486,8 +10926,12 @@ http://tr.redatvgold.com:80/munir123/munir123/959420
 http://tv.trexiptv.com:80/helene/helene/959420
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 2-tv.trexiptv.com:80@D-230715.done
 http://tv.trexiptv.com:80/william/william/959420
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel Plus 2-uniontvs.com:8080@D-230725.done
+http://uniontvs.com:8080/essam6230/trabia62300/370158
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 3-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959421
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 3-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959421
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 3-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/959421
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 3-ss123.pro:80@D-230714.done
@@ -10500,6 +10944,8 @@ http://tv.trexiptv.com:80/helene/helene/959421
 http://tv.trexiptv.com:80/william/william/959421
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 4-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959422
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 4-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959422
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 4-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/959422
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 4-tr.redatvgold.com:80@D-230722.done
@@ -10510,6 +10956,8 @@ http://tv.trexiptv.com:80/helene/helene/959422
 http://tv.trexiptv.com:80/william/william/959422
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 5-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959423
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 5-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959423
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 5-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/959423
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 5-ss123.pro:80@D-230714.done
@@ -10522,6 +10970,8 @@ http://tv.trexiptv.com:80/helene/helene/959423
 http://tv.trexiptv.com:80/william/william/959423
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 6-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959424
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 6-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959424
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 6-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/959424
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 6-tr.redatvgold.com:80@D-230722.done
@@ -10532,6 +10982,8 @@ http://tv.trexiptv.com:80/helene/helene/959424
 http://tv.trexiptv.com:80/william/william/959424
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 7-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959425
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 7-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959425
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 7-ss123.pro:80@D-230714.done
 http://ss123.pro:80/shoshana/shoshana/959425
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 7-tr.redatvgold.com:80@D-230722.done
@@ -10542,6 +10994,8 @@ http://tv.trexiptv.com:80/helene/helene/959425
 http://tv.trexiptv.com:80/william/william/959425
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 8-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959426
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 8-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959426
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 8-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/959426
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 8-ss123.pro:80@D-230714.done
@@ -10554,6 +11008,8 @@ http://tv.trexiptv.com:80/helene/helene/959426
 http://tv.trexiptv.com:80/william/william/959426
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 9-line.rs6ott.com:80@D-230614.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/959427
+#EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 9-portal.magic8kip.tv:80@D-230725.done
+http://portal.magic8kip.tv:80/admin123/admin123/959427
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 9-ss123.pro:80@D-230714.done
 http://ss123.pro:80/11223344/11223344/959427
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL PLUS 9-ss123.pro:80@D-230714.done
@@ -11320,6 +11776,8 @@ http://66.70.177.156:25461/nikkimom/091922/209859
 http://66.70.177.156:25461/barjohnsn/1234/209859
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 LOS ANGELES-bestsave.ltd:80@D-230709.done
 http://bestsave.ltd:80/live/5544332211/1122334455/497958.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 LOS ANGELES-golplay.top:8080@D-230725.done
+http://golplay.top:8080/live/211659898957889/4411659898957889/50431.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 LOS ANGELES-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/141661869418158/7631661869418158/50431.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 LOS ANGELES-halostyle.top:8080@D-230624.done
@@ -11348,6 +11806,8 @@ http://bestsave.ltd:80/live/5544332211/1122334455/498205.ts
 http://66.70.177.156:25461/barjohnsn/1234/209858
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 OREGON-bestsave.ltd:80@D-230709.done
 http://bestsave.ltd:80/live/5544332211/1122334455/497957.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 OREGON-golplay.top:8080@D-230725.done
+http://golplay.top:8080/live/211659898957889/4411659898957889/50430.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 OREGON-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/141661869418158/7631661869418158/50430.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 OREGON-halostyle.top:8080@D-230624.done
@@ -11366,6 +11826,8 @@ http://vipgature.top:8080/live/VIP0180168537735303/31685377353/5617.ts
 http://66.70.177.156:25461/barjohnsn/1234/209857
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 WASHINGTON-bestsave.ltd:80@D-230709.done
 http://bestsave.ltd:80/live/5544332211/1122334455/497956.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 WASHINGTON-golplay.top:8080@D-230725.done
+http://golplay.top:8080/live/211659898957889/4411659898957889/50429.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 WASHINGTON-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/141661869418158/7631661869418158/50429.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP PAC-12 WASHINGTON-halostyle.top:8080@D-230624.done
@@ -11384,6 +11846,8 @@ http://vipgature.top:8080/live/VIP0180168537735303/31685377353/5616.ts
 http://66.70.177.156:25461/barjohnsn/1234/209896
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP TENNIS CHANNEL-bestsave.ltd:80@D-230709.done
 http://bestsave.ltd:80/live/5544332211/1122334455/498014.ts
+#EXTINF:0 group-title="US-Tennis-Pac",USA: VIP TENNIS CHANNEL-golplay.top:8080@D-230725.done
+http://golplay.top:8080/live/211659898957889/4411659898957889/50487.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP TENNIS CHANNEL-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/141661869418158/7631661869418158/50487.ts
 #EXTINF:0 group-title="US-Tennis-Pac",USA: VIP TENNIS CHANNEL-halostyle.top:8080@D-230624.done
@@ -12072,153 +12536,3 @@ http://cdn.erost.us:8080/loginquarto/70283372/69396
 http://ultrontv.xyz:80/Cctrial/Firestickcc/79827
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel UHD-ultrontv.xyz:80@D-230628.done
 http://ultrontv.xyz:80/Damion/Genesis2016/79827
-#EXTINF:0 group-title="US-BEIN",USA: VIP BEIN SPORTS-axr.life:80@D-230724.done
-http://axr.life:80/epg/epg/1044265
-#EXTINF:0 group-title="US-BEIN",USA: VIP BEIN SPORTS XTRA-axr.life:80@D-230724.done
-http://axr.life:80/epg/epg/1044263
-#EXTINF:0 group-title="US-ESPN",US-Espn 3 HD-7go.xyz:8080@D-230724.done
-http://7go.xyz:8080/antoniojr51/mrtv27xx/305027
-#EXTINF:0 group-title="US-ESPN",US-Espn 3 HD-7go.xyz:8080@D-230724.done
-http://7go.xyz:8080/Catiane76t/7687439/305027
-#EXTINF:0 group-title="US-ESPN",US-Espn 3 HD-7go.xyz:8080@D-230724.done
-http://7go.xyz:8080/RPLQemQ9/oYGnP3dz/305027
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/qtv1l7s/tiw332d/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/8465804/0931949/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/7959086/9698636/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/lexsala/lex2580/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/5973419/8208952/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/cleverson/x024330/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/JoseRobertoSaraceni/Jose1234/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/34leandro/390angra/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/1576250/7098834/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/JovaneTV/92563505/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/1744670/3188910/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/24brener/480angra/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Ailton11/A976535p/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Railson9171/91710474/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/kledna/af5634hg/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/336813/458453/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Sandro78/093855/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/edsoneli/14062022/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/saraipipote/Toni@1105/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Emerson001/123456Em/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Dentinho1021/Dentinho21/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/andresiqueira2/439GYPzns/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/nathanpaixao/Np5875/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/edu2612/947282/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/767244/141105/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/douglas558w/izeemik/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/analucia202210/2022102030/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/jeferson3378/2813954209/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/68146835/1646849849/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/4282ghsi/529wj548/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Luky.../98357300/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/adantas/x130968/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/nicolecarlao/2587463984/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/4257153/6989507/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN 2 HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/12442123/22843123/248033
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/qtv1l7s/tiw332d/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/8465804/0931949/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/7959086/9698636/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/lexsala/lex2580/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/5973419/8208952/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/cleverson/x024330/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/JoseRobertoSaraceni/Jose1234/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/34leandro/390angra/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/1576250/7098834/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/JovaneTV/92563505/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/1744670/3188910/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/24brener/480angra/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Ailton11/A976535p/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Railson9171/91710474/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/kledna/af5634hg/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/336813/458453/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Sandro78/093855/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/edsoneli/14062022/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/saraipipote/Toni@1105/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Emerson001/123456Em/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Dentinho1021/Dentinho21/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/andresiqueira2/439GYPzns/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/nathanpaixao/Np5875/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/edu2612/947282/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/767244/141105/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/douglas558w/izeemik/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/analucia202210/2022102030/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/jeferson3378/2813954209/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/68146835/1646849849/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/4282ghsi/529wj548/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/Luky.../98357300/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/adantas/x130968/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/nicolecarlao/2587463984/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/4257153/6989507/248028
-#EXTINF:0 group-title="US-ESPN",USL- ESPN HD-gameplay.p2sweb.me:80@D-230724.done
-http://gameplay.p2sweb.me:80/12442123/22843123/248028
