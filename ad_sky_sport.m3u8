@@ -1,5 +1,5 @@
-#EXTM3U 6835
-#DATE 2023-07-24 17:48
+#EXTM3U 6860
+#DATE 2023-07-24 22:57
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/990066/2100220077/116841.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tv.pro-ott.com:25443@D-230604.done
@@ -13652,3 +13652,71 @@ http://fast.bounceme.net:8080/live/nsCDexFcpy/rr7FEd7f9d/8834.ts
 http://fast.bounceme.net:8080/live/nsCDexFcpy/rr7FEd7f9d/8833.ts
 #EXTINF:0 group-title="US-ESPN",UK- BT SPORT ESPN HD-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/60017
+#EXTINF:0 group-title="Now-Klub",Astro Supersports 1 MY-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/23453
+#EXTINF:0 group-title="Now-Klub",Astro Supersports 1 MY-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/23453
+#EXTINF:0 group-title="Now-Klub",Astro Supersports 2 MY-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/23452
+#EXTINF:0 group-title="Now-Klub",Astro Supersports 2 MY-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/23452
+#EXTINF:0 group-title="Now-Klub",Astro Supersports 3 MY-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/23451
+#EXTINF:0 group-title="Now-Klub",Astro Supersports 3 MY-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/23451
+#EXTINF:0 group-title="Now-Klub",Astro Supersports 4 MY-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/33973
+#EXTINF:0 group-title="Now-Klub",Astro Supersports 4 MY-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/33973
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/17256
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/17256
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD RS-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/1440
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 FHD RS-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/1440
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/17252
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/17252
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD RS-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/13832
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD RS-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/13832
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/17254
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/17254
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD RS-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/17257
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 FHD RS-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/17257
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/13833
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/13833
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD RS-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/1441
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD RS-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/1441
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/17917
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/17917
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD RS-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/17258
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD RS-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/17258
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD SI-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/16822
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 FHD SI-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/16822
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 FHD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/7stZRS945/YEP9kg041/17250
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 FHD HR-clientportal.link:80@D-230724.done.NC
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/17250
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORTS 2 HD-7go.xyz:8080@D-230724.done
+http://7go.xyz:8080/Catiane76t/7687439/306262
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORTS 2 HD-7go.xyz:8080@D-230724.done
+http://7go.xyz:8080/RPLQemQ9/oYGnP3dz/306262
