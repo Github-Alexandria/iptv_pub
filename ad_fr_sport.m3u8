@@ -1,5 +1,5 @@
-#EXTM3U 8249
-#DATE 2023-07-25 14:45
+#EXTM3U 7717
+#DATE 2023-07-25 16:29
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -4812,8 +4812,6 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/2502/index.m3u8
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-9gvb3ezf.rostelekom.xyz@D-230626.done
 http://9gvb3ezf.rostelekom.xyz/iptv/R3YSFX3SQVXTRZ/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-9zxma7fc.megatv.fun@D-230718.done
-http://9zxma7fc.megatv.fun/iptv/8TKSWD24N34ZSS/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-9zxma7fc.megatv.fun@D-230719.done
 http://9zxma7fc.megatv.fun/iptv/65AAQRG2FPVFWX/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-a0000.otttv.pw@D-230529.done
@@ -4907,8 +4905,6 @@ http://d09c8a6a.akadatel.com/iptv/4NW5K63H2NAL6S/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/29SQ3W9NQ2FL78/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/4TA63XWKU9M5QH/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/852UPAMGYC5FDA/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/AHMQNVLWUTM5PW/2502/index.m3u8
@@ -4970,46 +4966,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/2502/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-dbef62ba.ottolok.net@D-230712.done
@@ -5438,9 +5394,9 @@ http://sansat.net:25461/02052328252119/02052328252119/126830
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126830
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126830
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/126830
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126830
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 LQ-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/507547
@@ -5918,9 +5874,9 @@ http://sansat.net:25461/02052328252119/02052328252119/126828
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126828
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126828
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/126828
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126828
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-balkanfree.net:25461@D-230722.done
 http://balkanfree.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126840
@@ -5980,9 +5936,9 @@ http://sansat.net:25461/02052328252119/02052328252119/126840
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126840
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126840
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/126840
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126840
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT (HD)-nxtplay.xyz:8080@D-230512.done
 http://nxtplay.xyz:8080/VZ4GYOtUrqVP1FV/qEOISzIJKDHQCOECyl/361771
@@ -7214,9 +7170,9 @@ http://sansat.net:25461/02052328252119/02052328252119/126814
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126814
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126814
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/126814
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126814
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-simone167.ddns.net:25461@D-230604.done
 http://simone167.ddns.net:25461/pepperuss/pontirossi/152336
@@ -7704,9 +7660,9 @@ http://sansat.net:25461/02052328252119/02052328252119/126834
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126834
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126834
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/126834
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126834
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sports FULL-nadjespe.site:2082@D-230605.done
 http://nadjespe.site:2082/P22023347/PSFs45BFbWSr/376557
@@ -10458,9 +10414,9 @@ http://sansat.net:25461/02052328252119/02052328252119/199965
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/199965
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/199965
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/199965
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/199965
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-starshare.live:8080@D-230614.done
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/143386.ts
@@ -10658,9 +10614,9 @@ http://sansat.net:25461/02052328252119/02052328252119/199964
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/199964
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/199964
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/199964
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/199964
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT RED-176.9.16.190:8080@D-230705.done
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1387045
@@ -10728,9 +10684,9 @@ http://sansat.net:25461/02052328252119/02052328252119/199963
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/199963
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/199963
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/199963
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/199963
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-starshare.live:8080@D-230614.done
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/143618.ts
@@ -11044,9 +11000,9 @@ http://sansat.net:25461/02052328252119/02052328252119/126818
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126818
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126818
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/126818
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126818
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/506553
@@ -11656,9 +11612,9 @@ http://sansat.net:25461/02052328252119/02052328252119/126919
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126919
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126919
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/126919
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126919
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 FHD-simone167.ddns.net:25461@D-230604.done
 http://simone167.ddns.net:25461/pepperuss/pontirossi/152421
@@ -12142,9 +12098,9 @@ http://sansat.net:25461/02052328252119/02052328252119/126964
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126964
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126964
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/126964
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126964
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-starshare.live:8080@D-230614.done
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/143259.ts
@@ -12314,9 +12270,9 @@ http://sansat.net:25461/02052328252119/02052328252119/126920
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126920
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126920
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/126920
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126920
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 FHD-simone167.ddns.net:25461@D-230604.done
 http://simone167.ddns.net:25461/pepperuss/pontirossi/152423
@@ -12856,9 +12812,9 @@ http://sansat.net:25461/02052328252119/02052328252119/126965
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126965
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126965
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/126965
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126965
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-tesslatv.net:80@D-230407.done
 http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/363635.ts
@@ -13774,8 +13730,6 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/2545/index.m3u8
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-9gvb3ezf.rostelekom.xyz@D-230626.done
 http://9gvb3ezf.rostelekom.xyz/iptv/R3YSFX3SQVXTRZ/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-9zxma7fc.megatv.fun@D-230718.done
-http://9zxma7fc.megatv.fun/iptv/8TKSWD24N34ZSS/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-9zxma7fc.megatv.fun@D-230719.done
 http://9zxma7fc.megatv.fun/iptv/65AAQRG2FPVFWX/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-a0000.otttv.pw@D-230529.done
@@ -13879,8 +13833,6 @@ http://d09c8a6a.akadatel.com/iptv/4NW5K63H2NAL6S/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/29SQ3W9NQ2FL78/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/4TA63XWKU9M5QH/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/852UPAMGYC5FDA/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/AHMQNVLWUTM5PW/2545/index.m3u8
@@ -13942,46 +13894,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/2545/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-daleplaytv.vip:8080@D-230718.done
@@ -14420,8 +14332,6 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/2546/index.m3u8
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-9gvb3ezf.rostelekom.xyz@D-230626.done
 http://9gvb3ezf.rostelekom.xyz/iptv/R3YSFX3SQVXTRZ/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-9zxma7fc.megatv.fun@D-230718.done
-http://9zxma7fc.megatv.fun/iptv/8TKSWD24N34ZSS/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-9zxma7fc.megatv.fun@D-230719.done
 http://9zxma7fc.megatv.fun/iptv/65AAQRG2FPVFWX/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-a0000.otttv.pw@D-230529.done
@@ -14523,8 +14433,6 @@ http://d09c8a6a.akadatel.com/iptv/4NW5K63H2NAL6S/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/29SQ3W9NQ2FL78/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/4TA63XWKU9M5QH/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/852UPAMGYC5FDA/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/AHMQNVLWUTM5PW/2546/index.m3u8
@@ -14586,46 +14494,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/2546/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-dbef62ba.ottolok.net@D-230712.done
@@ -15200,8 +15068,6 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/2547/index.m3u8
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-9gvb3ezf.rostelekom.xyz@D-230626.done
 http://9gvb3ezf.rostelekom.xyz/iptv/R3YSFX3SQVXTRZ/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-9zxma7fc.megatv.fun@D-230718.done
-http://9zxma7fc.megatv.fun/iptv/8TKSWD24N34ZSS/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-9zxma7fc.megatv.fun@D-230719.done
 http://9zxma7fc.megatv.fun/iptv/65AAQRG2FPVFWX/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-a0000.otttv.pw@D-230529.done
@@ -15258,8 +15124,6 @@ http://czrb8vng.ottclub.xyz/iptv/N5U4GHRQQ5WAL9/2547/index.m3u8
 http://d09c8a6a.akadatel.com/iptv/4NW5K63H2NAL6S/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/29SQ3W9NQ2FL78/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/4TA63XWKU9M5QH/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/852UPAMGYC5FDA/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
@@ -15322,46 +15186,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/2547/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PPTFT39UQD843X/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3NXRNFVH9HC3E2/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9MXUWBKXT5D2K/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N75Z83DFNW44W5/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9LVWV5R68KLTVT/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/N5USEKC6T4G387/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3RE7KFW6KWLP86/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/GG9DX7CS44KXE8/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3PQLDLNW24KCP4/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/BG7Y8HL96NMYUV/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/LQT6HHPZBN9HV4/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/HF5M9T7FQVA489/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/9NF38XBA4SUVXP/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/WZLV7LT5G6LDX8/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/S2XV7URLXPG6PE/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/DMK955EW86D3RG/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/ACQHSFXHB36N9Q/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/D4H9XXUDCSXVF7/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-dbef62ba.ottolok.net@D-230712.done
