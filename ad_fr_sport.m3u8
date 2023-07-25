@@ -1,5 +1,5 @@
-#EXTM3U 7788
-#DATE 2023-07-24 17:48
+#EXTM3U 7692
+#DATE 2023-07-24 22:57
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -15358,3 +15358,29 @@ http://fast.bounceme.net:8080/live/nsCDexFcpy/rr7FEd7f9d/4096.ts
 http://fast.bounceme.net:8080/live/nsCDexFcpy/rr7FEd7f9d/4097.ts
 #EXTINF:0 group-title="UK-Eurosport",France -EUROSPORT 1 HD-iptv-gmeuro.dyndns.tv:25461@D-230620.done
 http://iptv-gmeuro.dyndns.tv:25461/mc_Cgerla/GCiropass/95423
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 VIP-axr.life:80@D-230724.done
+http://axr.life:80/epg/epg/1044219
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport FHD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/7stZRS945/YEP9kg041/2210
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport FHD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/2210
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/7stZRS945/YEP9kg041/13149
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/13149
+#EXTINF:0 group-title="FR-F1-Foot",Canal+ Formula 1 HD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/7stZRS945/YEP9kg041/95336
+#EXTINF:0 group-title="FR-F1-Foot",Canal+ Formula 1 HD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/95336
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/7stZRS945/YEP9kg041/13182
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/13182
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/7stZRS945/YEP9kg041/2251
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/2251
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 FHD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/7stZRS945/YEP9kg041/21522
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 FHD FR-clientportal.link:80@D-230724.NC.done
+http://clientportal.link:80/8OUiF2ydeQ949/RQE9iw425/21522
