@@ -1,5 +1,5 @@
-#EXTM3U 8545
-#DATE 2023-07-25 14:15
+#EXTM3U 8161
+#DATE 2023-07-25 16:29
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230624.done
 http://tv.pro-ott.com:25443/live/V17H95GqAzaWd/FmkKy0Jnbz/116752.ts
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230627.done
@@ -1322,9 +1322,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94140
 http://sansat.net:25461/02052328252119/02052328252119/94140
 #EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94140
-#EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94140
-#EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94140
 #EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-test.proiptr.xyz:8080@D-230723.done
 http://test.proiptr.xyz:8080/ylmz1873/22102018ade/138915
@@ -1486,9 +1486,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94206
 http://sansat.net:25461/02052328252119/02052328252119/94206
 #EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94206
-#EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94206
-#EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94206
 #EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-test.proiptr.xyz:8080@D-230723.done
 http://test.proiptr.xyz:8080/ylmz1873/22102018ade/138931
@@ -2476,9 +2476,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94389
 http://sansat.net:25461/02052328252119/02052328252119/94389
 #EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94389
-#EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94389
-#EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94389
 #EXTINF:0 group-title="QC-Info",Ca  Fr: LCN (FR)-portal.alliptvapp.com:8080@D-230714.done
 http://portal.alliptvapp.com:8080/979385255854/060982824944/71156
@@ -3902,9 +3902,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94125
 http://sansat.net:25461/02052328252119/02052328252119/94125
 #EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94125
-#EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94125
-#EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94125
 #EXTINF:0 group-title="QC-Other",CA: Frissons TV-monte.mare7.co:8000@D-230627.done
 http://monte.mare7.co:8000/live/dXQXjEmsfT/CRHfuJqwzq/154921.ts
@@ -4130,9 +4130,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94231
 http://sansat.net:25461/02052328252119/02052328252119/94231
 #EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94231
-#EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94231
-#EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94231
 #EXTINF:0 group-title="QC-Other",CA: TELETOON FRENCH-vipgature.top:8080@D-230627.done
 http://vipgature.top:8080/live/VIP0180168537735303/31685377353/5503.ts
@@ -5372,9 +5372,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94340
 http://sansat.net:25461/02052328252119/02052328252119/94340
 #EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94340
-#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94340
-#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94340
 #EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-balkanfree.net:25461@D-230722.done
 http://balkanfree.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94341
@@ -5428,9 +5428,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94341
 http://sansat.net:25461/02052328252119/02052328252119/94341
 #EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94341
-#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94341
-#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94341
 #EXTINF:0 group-title="QC-Sport",CA - RDS-tv.nousiptv.com:8080@D-230711.done
 http://tv.nousiptv.com:8080/Cristina/73946108/1100901
@@ -6102,9 +6102,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94171
 http://sansat.net:25461/02052328252119/02052328252119/94171
 #EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94171
-#EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94171
-#EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94171
 #EXTINF:0 group-title="QC-Sport",CA: RDS-spain1.offshorerev.cc:80@D-230718.done
 http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/156047
@@ -6374,9 +6374,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94199
 http://sansat.net:25461/02052328252119/02052328252119/94199
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94199
-#EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94199
-#EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94199
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-splaytv.club:80@D-230715.done
 http://splaytv.club:80/live/lilianpvhro4/69992729421/139721.m3u8
@@ -6828,9 +6828,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94200
 http://sansat.net:25461/02052328252119/02052328252119/94200
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94200
-#EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94200
-#EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94200
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-splaytv.club:80@D-230715.done
 http://splaytv.club:80/live/lilianpvhro4/69992729421/164919.m3u8
@@ -7258,9 +7258,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94201
 http://sansat.net:25461/02052328252119/02052328252119/94201
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94201
-#EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94201
-#EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94201
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-splaytv.club:80@D-230715.done
 http://splaytv.club:80/live/lilianpvhro4/69992729421/139698.m3u8
@@ -7690,9 +7690,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94202
 http://sansat.net:25461/02052328252119/02052328252119/94202
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94202
-#EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94202
-#EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94202
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-splaytv.club:80@D-230715.done
 http://splaytv.club:80/live/lilianpvhro4/69992729421/139722.m3u8
@@ -8164,9 +8164,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94203
 http://sansat.net:25461/02052328252119/02052328252119/94203
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94203
-#EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94203
-#EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94203
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-splaytv.club:80@D-230715.done
 http://splaytv.club:80/live/lilianpvhro4/69992729421/139699.m3u8
@@ -8620,9 +8620,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94207
 http://sansat.net:25461/02052328252119/02052328252119/94207
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94207
-#EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94207
-#EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94207
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-test.proiptr.xyz:8080@D-230723.done
 http://test.proiptr.xyz:8080/ylmz1873/22102018ade/138932
@@ -11148,9 +11148,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94185
 http://sansat.net:25461/02052328252119/02052328252119/94185
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94185
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94185
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94185
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-balkanfree.net:25461@D-230722.done
 http://balkanfree.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94186
@@ -11168,9 +11168,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94186
 http://sansat.net:25461/02052328252119/02052328252119/94186
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94186
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94186
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94186
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-balkanfree.net:25461@D-230722.done
 http://balkanfree.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94187
@@ -11188,9 +11188,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94187
 http://sansat.net:25461/02052328252119/02052328252119/94187
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94187
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94187
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94187
 #EXTINF:0 group-title="QC-Super Ecran",CA005:TMN1E (CRAVE TV 1)-ae2.aatvbox.club:8880@D-230510.done
 http://ae2.aatvbox.club:8880/DYJ12M1719/04168399/3064
@@ -12392,9 +12392,9 @@ http://sansat.net:25461/france1010/A5IQLYNLUH/268756
 http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/268756
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230714.done.best
 http://sansat.net:25461/02052328252119/02052328252119/268756
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/268756
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/268756
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN2E (CRAVE TV 2)-vegasizle.xyz:8080@D-230624.done.NC.dead
 http://vegasizle.xyz:8080/SU4HCLdLA6sps754/zPEAG7RXa8ujIjzQ/533184
@@ -12424,9 +12424,9 @@ http://sansat.net:25461/france1010/A5IQLYNLUH/268757
 http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/268757
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230714.done.best
 http://sansat.net:25461/02052328252119/02052328252119/268757
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/268757
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/268757
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN3E (CRAVE TV 3)-vegasizle.xyz:8080@D-230624.done.NC.dead
 http://vegasizle.xyz:8080/SU4HCLdLA6sps754/zPEAG7RXa8ujIjzQ/533185
@@ -12456,9 +12456,9 @@ http://sansat.net:25461/france1010/A5IQLYNLUH/268758
 http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/268758
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230714.done.best
 http://sansat.net:25461/02052328252119/02052328252119/268758
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/268758
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/268758
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN4E (CRAVE TV 4)-vegasizle.xyz:8080@D-230624.done.NC.dead
 http://vegasizle.xyz:8080/SU4HCLdLA6sps754/zPEAG7RXa8ujIjzQ/533186
@@ -12488,9 +12488,9 @@ http://sansat.net:25461/france1010/A5IQLYNLUH/268759
 http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/268759
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230714.done.best
 http://sansat.net:25461/02052328252119/02052328252119/268759
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/268759
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/268759
 #EXTINF:0 group-title="QC-Super Ecran",CH - ROUGE TV-2hubs.ddns.net:25461@D-230623.done
 http://2hubs.ddns.net:25461/BabNour/telegrramm/73478
@@ -15292,9 +15292,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94244
 http://sansat.net:25461/02052328252119/02052328252119/94244
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94244
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94244
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94244
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-vipgature.top:8080@D-230627.done
 http://vipgature.top:8080/live/VIP0180168537735303/31685377353/5492.ts
@@ -15428,9 +15428,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94245
 http://sansat.net:25461/02052328252119/02052328252119/94245
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94245
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94245
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94245
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST HD-375060664772419925.ot0711.xyz:80@D-230723.done
 http://375060664772419925.ot0711.xyz:80/play/Elias/8683723805/419925.ts
@@ -15584,9 +15584,9 @@ http://sansat.net:25461/france1010/A5IQLYNLUH/94246
 http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94246
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94246
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94246
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94246
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-vipgature.top:8080@D-230627.done
 http://vipgature.top:8080/live/VIP0180168537735303/31685377353/5493.ts
@@ -15720,9 +15720,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94248
 http://sansat.net:25461/02052328252119/02052328252119/94248
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94248
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94248
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94248
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-vipgature.top:8080@D-230627.done
 http://vipgature.top:8080/live/VIP0180168537735303/31685377353/5495.ts
@@ -15938,9 +15938,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94249
 http://sansat.net:25461/02052328252119/02052328252119/94249
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94249
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/Kcfm9XOjZYXEvYm/QNxczuAaJysx2LM/94249
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230725.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94249
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-test.proiptr.xyz:8080@D-230723.done
 http://test.proiptr.xyz:8080/ylmz1873/22102018ade/138895
