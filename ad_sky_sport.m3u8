@@ -1,6 +1,6 @@
-#EXTM3U 6831
-#DATE 2023-07-25 16:29
-#EXTINF:0 group-title="Now-Klub",### UK NOW SPORTS #####-portal.magic8kip.tv:80@D-230725.done
+#EXTM3U 6871
+#DATE 2023-07-26 15:06
+#EXTINF:0 group-title="Now-Klub",## UK NOW SPORTS #####-portal.magic8kip.tv:80@D-230725.done
 http://portal.magic8kip.tv:80/admin123/admin123/1032490
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/990066/2100220077/116841.ts
@@ -3052,58 +3052,86 @@ http://lucidhosting.xyz:82/wendym/wendy@123/287176
 http://hostengine.live/live/Terry/Johnson/236720.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 01-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/82910fbe-545f-46aa-9087-4fb36c3faf17.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 01-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/82910fbe-545f-46aa-9087-4fb36c3faf17.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 02-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236721.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 02-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/8408dc5b-6b47-420d-aea8-3663518fd9d5.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 02-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/8408dc5b-6b47-420d-aea8-3663518fd9d5.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 03-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236722.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 03-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/e59bdd37-d1c4-45f9-b307-50f91968fa1a.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 03-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/e59bdd37-d1c4-45f9-b307-50f91968fa1a.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 04-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236723.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 04-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/322241c0-e471-4ec9-82d1-2fb889181131.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 04-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/322241c0-e471-4ec9-82d1-2fb889181131.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 05-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236724.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 05-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/c116e69d-aa7a-4256-8fdc-5f76c305556e.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 05-mains.services@D-230726.NC.dead
+http://mains.services/live/Grahxen/3docpGDalU/c116e69d-aa7a-4256-8fdc-5f76c305556e.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 06-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236725.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 06-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/68883709-7baf-47c8-9e3f-7f9977e63893.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 06-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/68883709-7baf-47c8-9e3f-7f9977e63893.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 07-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236726.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 07-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/f36f7b89-f034-4923-b9b8-77d3764169f8.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS 07-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/f36f7b89-f034-4923-b9b8-77d3764169f8.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 01-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236727.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 01-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/e9301034-7ab8-4915-86f2-9e092bb06134.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 01-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/e9301034-7ab8-4915-86f2-9e092bb06134.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 02-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236728.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 02-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/41176be7-518a-4f04-a721-7d89161cf8fc.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 02-mains.services@D-230726.NC.dead
+http://mains.services/live/Grahxen/3docpGDalU/41176be7-518a-4f04-a721-7d89161cf8fc.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 03-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236729.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 03-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/cbceee38-4772-4b22-b2bb-797ce06177ed.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 03-mains.services@D-230726.NC.dead
+http://mains.services/live/Grahxen/3docpGDalU/cbceee38-4772-4b22-b2bb-797ce06177ed.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 04-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236730.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 04-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/7367b8b8-f459-4be2-aee2-5e3f5e8d1f7e.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 04-mains.services@D-230726.NC.dead
+http://mains.services/live/Grahxen/3docpGDalU/7367b8b8-f459-4be2-aee2-5e3f5e8d1f7e.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 05-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236731.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 05-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/5655f0f0-79f8-404d-a44c-128ef2e3c74d.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 05-mains.services@D-230726.NC.dead
+http://mains.services/live/Grahxen/3docpGDalU/5655f0f0-79f8-404d-a44c-128ef2e3c74d.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 06-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236732.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 06-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/93aa194a-e771-4070-9ee3-055230acc379.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE 06-mains.services@D-230726.NC.dead
+http://mains.services/live/Grahxen/3docpGDalU/93aa194a-e771-4070-9ee3-055230acc379.m3u
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE TV-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/236733.ts
 #EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE TV-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/5153cfce-c89d-4937-901f-98bb480d35e5.m3u
+#EXTINF:0 group-title="Now-Klub",NOW: NOW SPORTS PREMIER LEAGUE TV-mains.services@D-230726.NC.dead
+http://mains.services/live/Grahxen/3docpGDalU/5153cfce-c89d-4937-901f-98bb480d35e5.m3u
 #EXTINF:0 group-title="Now-Klub",Now HK Now Sports 1-optimustv.show:8080@D-230630.done.NC.dead
 http://optimustv.show:8080/Gunayyali2022/2jaRGDSMUd4x/670223
 #EXTINF:0 group-title="Now-Klub",Now HK Now Sports 1-simplicityitservices.co.uk:8080@D-230525.done
@@ -3722,6 +3750,10 @@ http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/7269/index.m3u8
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-247e81a6.amazzin.pw@D-230626.done
 http://247e81a6.amazzin.pw/iptv/QLESGFKGPKFTER/7269/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-2615a5d9.edmonst.net@D-230726.done
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/7269/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-2707b.ottolok.net@D-230726.done
+http://2707b.ottolok.net/iptv/HAA39Q9RE8T9CA/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-2hoqrvgn.akciatv.ru@D-230630.done
 http://2hoqrvgn.akciatv.ru/iptv/SPFDNTXCXG4LU2/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-36c9aee1.edmonst.net@D-230627.done
@@ -3760,10 +3792,12 @@ http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/7269/index.m3u8
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-550a07aa.kazaktelekom.com@D-230720.done
 http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-60142d04.akadatel.com@D-230711.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-60142d04.akadatel.com@D-230726.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-67e4a403.kazaktelekom.com@D-230627.done
 http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/7269/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-69c5e778.edemist.com@D-230726.done
+http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-7497611a.edmonst.net@D-230705.done
 http://7497611a.edmonst.net/iptv/XTBRS6NV7M7FYD/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-761aa4b9.ottrast.com@D-230626.done
@@ -3950,6 +3984,8 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/7269/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/7269/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230726.NC.done
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-dbef62ba.ottolok.net@D-230712.done
@@ -3962,8 +3998,6 @@ http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7269/index.m3u8
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-e77b7c02.edmonst.net@D-230720.done
 http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-ebbbd8e0.ottrast.com@D-230705.done
-http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-eje0iyhn.otttv.pw@D-230718.done
 http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-epvzzr4d.ottclub.xyz@D-230602.done
@@ -3992,14 +4026,14 @@ http://foymmpeq.klaipedalt.org/iptv/2KKRWH284VKAUD/7269/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/29SQ3W9NQ2FL78/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/7269/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-germany.amazzin.pw@D-230726.done
+http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-hcatg4m7.ottclub.xyz@D-230630.done
 http://hcatg4m7.ottclub.xyz/iptv/E8HZ4C7FU3SYC9/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/TXQXV6VX7ZDC6S/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
-http://czrb8vng.ottclub.xyz/iptv/SWYGMQ5X7BKRYZ/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/NZ777TZ7C5C27P/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
@@ -4022,12 +4056,12 @@ http://czrb8vng.ottclub.xyz/iptv/N6N2ZVY3ZABEVZ/7269/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/5E4YVB88D4FFE4/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/7269/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-iptvdudi.russtv.net@D-230726.done
+http://iptvdudi.russtv.net/iptv/3BW6TGMY3RSR86/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-kv3z7bac.russtv.net@D-230712.done
 http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/7269/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-lby6vdnx.russtv.net@D-230702.done
-http://lby6vdnx.russtv.net/iptv/TTN5XH76SSMH3M/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-lol.bz:2095@D-230630.done
 http://lol.bz:2095/jyZ3m1mf/dgRy1RphOn/14103
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-mag.borderiptv.itv.world:80@D-230722.done
@@ -4044,6 +4078,8 @@ http://mytv.fun:80/Agim/iwgw15t939/53605
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-ne0zzgxm.rostelekom.xyz@D-230604.done
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/7269/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-northalex.akadatel.com@D-230726.done
+http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-nplay.is:2095@D-230518.done
 http://nplay.is:2095/ycXSTnEf/jMMSeCbh/14103
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-oiwymun5.tvclub.xyz@D-230715.done
@@ -4530,6 +4566,10 @@ http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/7270/index.m3u8
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-247e81a6.amazzin.pw@D-230626.done
 http://247e81a6.amazzin.pw/iptv/QLESGFKGPKFTER/7270/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-2615a5d9.edmonst.net@D-230726.done
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/7270/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-2707b.ottolok.net@D-230726.done
+http://2707b.ottolok.net/iptv/HAA39Q9RE8T9CA/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-2hoqrvgn.akciatv.ru@D-230630.done
 http://2hoqrvgn.akciatv.ru/iptv/SPFDNTXCXG4LU2/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-36c9aee1.edmonst.net@D-230627.done
@@ -4568,10 +4608,12 @@ http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/7270/index.m3u8
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-550a07aa.kazaktelekom.com@D-230720.done
 http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-60142d04.akadatel.com@D-230711.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-60142d04.akadatel.com@D-230726.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-67e4a403.kazaktelekom.com@D-230627.done
 http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/7270/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-69c5e778.edemist.com@D-230726.done
+http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-7497611a.edmonst.net@D-230705.done
 http://7497611a.edmonst.net/iptv/XTBRS6NV7M7FYD/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-761aa4b9.ottrast.com@D-230626.done
@@ -4738,6 +4780,8 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/7270/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/7270/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230726.NC.done
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-dbef62ba.ottolok.net@D-230712.done
@@ -4750,8 +4794,6 @@ http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7270/index.m3u8
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-e77b7c02.edmonst.net@D-230720.done
 http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-ebbbd8e0.ottrast.com@D-230705.done
-http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-eje0iyhn.otttv.pw@D-230718.done
 http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-epvzzr4d.ottclub.xyz@D-230602.done
@@ -4780,6 +4822,8 @@ http://foymmpeq.klaipedalt.org/iptv/2KKRWH284VKAUD/7270/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/29SQ3W9NQ2FL78/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/7270/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-germany.amazzin.pw@D-230726.done
+http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-hcatg4m7.ottclub.xyz@D-230630.done
@@ -4802,12 +4846,12 @@ http://czrb8vng.ottclub.xyz/iptv/N6N2ZVY3ZABEVZ/7270/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/5E4YVB88D4FFE4/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/7270/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-iptvdudi.russtv.net@D-230726.done
+http://iptvdudi.russtv.net/iptv/3BW6TGMY3RSR86/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-kv3z7bac.russtv.net@D-230712.done
 http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/7270/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-lby6vdnx.russtv.net@D-230702.done
-http://lby6vdnx.russtv.net/iptv/TTN5XH76SSMH3M/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-lol.bz:2095@D-230630.done
 http://lol.bz:2095/jyZ3m1mf/dgRy1RphOn/14102
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-mag.borderiptv.itv.world:80@D-230722.done
@@ -4826,6 +4870,8 @@ http://mytv.fun:80/Agim/iwgw15t939/9413
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-ne0zzgxm.rostelekom.xyz@D-230604.done
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/7270/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-northalex.akadatel.com@D-230726.done
+http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-nplay.is:2095@D-230518.done
 http://nplay.is:2095/ycXSTnEf/jMMSeCbh/14102
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-oiwymun5.tvclub.xyz@D-230715.done
@@ -5446,6 +5492,10 @@ http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/7271/index.m3u8
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-247e81a6.amazzin.pw@D-230626.done
 http://247e81a6.amazzin.pw/iptv/QLESGFKGPKFTER/7271/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-2615a5d9.edmonst.net@D-230726.done
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/7271/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-2707b.ottolok.net@D-230726.done
+http://2707b.ottolok.net/iptv/HAA39Q9RE8T9CA/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-2hoqrvgn.akciatv.ru@D-230630.done
 http://2hoqrvgn.akciatv.ru/iptv/SPFDNTXCXG4LU2/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-36c9aee1.edmonst.net@D-230627.done
@@ -5466,10 +5516,12 @@ http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/7271/index.m3u8
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-550a07aa.kazaktelekom.com@D-230720.done
 http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-60142d04.akadatel.com@D-230711.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-60142d04.akadatel.com@D-230726.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-67e4a403.kazaktelekom.com@D-230627.done
 http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/7271/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-69c5e778.edemist.com@D-230726.done
+http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-7497611a.edmonst.net@D-230705.done
 http://7497611a.edmonst.net/iptv/XTBRS6NV7M7FYD/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-761aa4b9.ottrast.com@D-230626.done
@@ -5602,6 +5654,8 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/7271/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/7271/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230726.NC.done
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-dbef62ba.ottolok.net@D-230712.done
@@ -5614,8 +5668,6 @@ http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7271/index.m3u8
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-e77b7c02.edmonst.net@D-230720.done
 http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-ebbbd8e0.ottrast.com@D-230705.done
-http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-eje0iyhn.otttv.pw@D-230718.done
 http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-epvzzr4d.ottclub.xyz@D-230602.done
@@ -5644,14 +5696,14 @@ http://foymmpeq.klaipedalt.org/iptv/2KKRWH284VKAUD/7271/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/29SQ3W9NQ2FL78/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/7271/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-germany.amazzin.pw@D-230726.done
+http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-hcatg4m7.ottclub.xyz@D-230630.done
 http://hcatg4m7.ottclub.xyz/iptv/E8HZ4C7FU3SYC9/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/TXQXV6VX7ZDC6S/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
-http://czrb8vng.ottclub.xyz/iptv/SWYGMQ5X7BKRYZ/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/MRDP2VRMNQ3GZM/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
@@ -5672,12 +5724,12 @@ http://czrb8vng.ottclub.xyz/iptv/N6N2ZVY3ZABEVZ/7271/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/5E4YVB88D4FFE4/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/7271/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-iptvdudi.russtv.net@D-230726.done
+http://iptvdudi.russtv.net/iptv/3BW6TGMY3RSR86/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-kv3z7bac.russtv.net@D-230712.done
 http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/7271/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-lby6vdnx.russtv.net@D-230702.done
-http://lby6vdnx.russtv.net/iptv/TTN5XH76SSMH3M/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-lol.bz:2095@D-230630.done
 http://lol.bz:2095/jyZ3m1mf/dgRy1RphOn/14101
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-mag.borderiptv.itv.world:80@D-230722.done
@@ -5696,6 +5748,8 @@ http://mytv.fun:80/Agim/iwgw15t939/53166
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-ne0zzgxm.rostelekom.xyz@D-230604.done
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/7271/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-northalex.akadatel.com@D-230726.done
+http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-nplay.is:2095@D-230518.done
 http://nplay.is:2095/ycXSTnEf/jMMSeCbh/14101
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-oiwymun5.tvclub.xyz@D-230715.done
@@ -5834,6 +5888,10 @@ http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/7272/index.m3u8
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-247e81a6.amazzin.pw@D-230626.done
 http://247e81a6.amazzin.pw/iptv/QLESGFKGPKFTER/7272/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-2615a5d9.edmonst.net@D-230726.done
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/7272/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-2707b.ottolok.net@D-230726.done
+http://2707b.ottolok.net/iptv/HAA39Q9RE8T9CA/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-2hoqrvgn.akciatv.ru@D-230630.done
 http://2hoqrvgn.akciatv.ru/iptv/SPFDNTXCXG4LU2/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-36c9aee1.edmonst.net@D-230627.done
@@ -5854,10 +5912,12 @@ http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/7272/index.m3u8
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-550a07aa.kazaktelekom.com@D-230720.done
 http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-60142d04.akadatel.com@D-230711.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-60142d04.akadatel.com@D-230726.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-67e4a403.kazaktelekom.com@D-230627.done
 http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/7272/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-69c5e778.edemist.com@D-230726.done
+http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-7497611a.edmonst.net@D-230705.done
 http://7497611a.edmonst.net/iptv/XTBRS6NV7M7FYD/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-761aa4b9.ottrast.com@D-230626.done
@@ -5980,6 +6040,8 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/7272/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/7272/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230726.NC.done
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-dbef62ba.ottolok.net@D-230712.done
@@ -5992,8 +6054,6 @@ http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7272/index.m3u8
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-e77b7c02.edmonst.net@D-230720.done
 http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-ebbbd8e0.ottrast.com@D-230705.done
-http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-eje0iyhn.otttv.pw@D-230718.done
 http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-epvzzr4d.ottclub.xyz@D-230602.done
@@ -6022,14 +6082,14 @@ http://foymmpeq.klaipedalt.org/iptv/2KKRWH284VKAUD/7272/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/29SQ3W9NQ2FL78/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/7272/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-germany.amazzin.pw@D-230726.done
+http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-hcatg4m7.ottclub.xyz@D-230630.done
 http://hcatg4m7.ottclub.xyz/iptv/E8HZ4C7FU3SYC9/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/TXQXV6VX7ZDC6S/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
-http://czrb8vng.ottclub.xyz/iptv/SWYGMQ5X7BKRYZ/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/NZ777TZ7C5C27P/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
@@ -6052,12 +6112,12 @@ http://czrb8vng.ottclub.xyz/iptv/N6N2ZVY3ZABEVZ/7272/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/5E4YVB88D4FFE4/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/7272/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-iptvdudi.russtv.net@D-230726.done
+http://iptvdudi.russtv.net/iptv/3BW6TGMY3RSR86/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-kv3z7bac.russtv.net@D-230712.done
 http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/7272/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-lby6vdnx.russtv.net@D-230702.done
-http://lby6vdnx.russtv.net/iptv/TTN5XH76SSMH3M/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-lol.bz:2095@D-230630.done
 http://lol.bz:2095/jyZ3m1mf/dgRy1RphOn/14097
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-mag.borderiptv.itv.world:80@D-230722.done
@@ -6076,6 +6136,8 @@ http://mytv.fun:80/Agim/iwgw15t939/9411
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-ne0zzgxm.rostelekom.xyz@D-230604.done
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/7272/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-northalex.akadatel.com@D-230726.done
+http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-nplay.is:2095@D-230518.done
 http://nplay.is:2095/ycXSTnEf/jMMSeCbh/14097
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-oiwymun5.tvclub.xyz@D-230715.done
@@ -6318,6 +6380,10 @@ http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/7273/index.m3u8
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-247e81a6.amazzin.pw@D-230626.done
 http://247e81a6.amazzin.pw/iptv/QLESGFKGPKFTER/7273/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-2615a5d9.edmonst.net@D-230726.done
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/7273/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-2707b.ottolok.net@D-230726.done
+http://2707b.ottolok.net/iptv/HAA39Q9RE8T9CA/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-2hoqrvgn.akciatv.ru@D-230630.done
 http://2hoqrvgn.akciatv.ru/iptv/SPFDNTXCXG4LU2/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-36c9aee1.edmonst.net@D-230627.done
@@ -6338,10 +6404,12 @@ http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/7273/index.m3u8
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-550a07aa.kazaktelekom.com@D-230720.done
 http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-60142d04.akadatel.com@D-230711.done
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-60142d04.akadatel.com@D-230726.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-67e4a403.kazaktelekom.com@D-230627.done
 http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/7273/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-69c5e778.edemist.com@D-230726.done
+http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-7497611a.edmonst.net@D-230705.done
 http://7497611a.edmonst.net/iptv/XTBRS6NV7M7FYD/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-761aa4b9.ottrast.com@D-230626.done
@@ -6470,6 +6538,8 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/7273/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/7273/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230726.NC.done
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-dbef62ba.ottolok.net@D-230712.done
@@ -6482,8 +6552,6 @@ http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7273/index.m3u8
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-e77b7c02.edmonst.net@D-230720.done
 http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-ebbbd8e0.ottrast.com@D-230705.done
-http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-eje0iyhn.otttv.pw@D-230718.done
 http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-epvzzr4d.ottclub.xyz@D-230602.done
@@ -6512,14 +6580,14 @@ http://foymmpeq.klaipedalt.org/iptv/2KKRWH284VKAUD/7273/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/29SQ3W9NQ2FL78/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/7273/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-germany.amazzin.pw@D-230726.done
+http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-hcatg4m7.ottclub.xyz@D-230630.done
 http://hcatg4m7.ottclub.xyz/iptv/E8HZ4C7FU3SYC9/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/TXQXV6VX7ZDC6S/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
-http://czrb8vng.ottclub.xyz/iptv/SWYGMQ5X7BKRYZ/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/NZ777TZ7C5C27P/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-hyqzethr.megatv.fun@D-230505.done.best.NC
@@ -6540,12 +6608,12 @@ http://czrb8vng.ottclub.xyz/iptv/N6N2ZVY3ZABEVZ/7273/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/5E4YVB88D4FFE4/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/7273/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-iptvdudi.russtv.net@D-230726.done
+http://iptvdudi.russtv.net/iptv/3BW6TGMY3RSR86/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-kv3z7bac.russtv.net@D-230712.done
 http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/7273/index.m3u8
-#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-lby6vdnx.russtv.net@D-230702.done
-http://lby6vdnx.russtv.net/iptv/TTN5XH76SSMH3M/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-lol.bz:2095@D-230630.done
 http://lol.bz:2095/jyZ3m1mf/dgRy1RphOn/14096
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-mag.borderiptv.itv.world:80@D-230722.done
@@ -6562,6 +6630,8 @@ http://mytv.fun:80/Agim/iwgw15t939/9410
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-ne0zzgxm.rostelekom.xyz@D-230604.done
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/7273/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-northalex.akadatel.com@D-230726.done
+http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-nplay.is:2095@D-230518.done
 http://nplay.is:2095/ycXSTnEf/jMMSeCbh/14096
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-oiwymun5.tvclub.xyz@D-230715.done
@@ -6626,22 +6696,32 @@ http://vegasizle.xyz:8080/Acar2023nvd/mWwBXHFtdWew/5489
 http://hostengine.live/live/Terry/Johnson/197514.ts
 #EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 1-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/908d1263-42e6-4d4d-becb-ff4c3f2a0e2d.m3u
+#EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 1-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/908d1263-42e6-4d4d-becb-ff4c3f2a0e2d.m3u
 #EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 2-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/197515.ts
 #EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 2-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/789d04b3-af43-4185-a849-a4cbcd123660.m3u
+#EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 2-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/789d04b3-af43-4185-a849-a4cbcd123660.m3u
 #EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 3-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/197516.ts
 #EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 3-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/a2688b68-2f5e-4891-a26f-a61d587aae17.m3u
+#EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 3-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/a2688b68-2f5e-4891-a26f-a61d587aae17.m3u
 #EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 4-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/197517.ts
 #EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 4-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/402826aa-5119-4254-b520-13c53cb5fa4a.m3u
+#EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 4-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/402826aa-5119-4254-b520-13c53cb5fa4a.m3u
 #EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 5-hostengine.live@D-230723.done
 http://hostengine.live/live/Terry/Johnson/197518.ts
 #EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 5-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/ffcdf3f0-7fe2-4dd7-9e20-e746c902ef74.m3u
+#EXTINF:0 group-title="Now-Klub",SPORTS : ASTRO SUPERSPORT 5-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/ffcdf3f0-7fe2-4dd7-9e20-e746c902ef74.m3u
 #EXTINF:0 group-title="Now-Klub",SPORTS HK NOW SPORTS 1 HD-portal.magic8kip.tv:80@D-230725.done
 http://portal.magic8kip.tv:80/admin123/admin123/1110615
 #EXTINF:0 group-title="Now-Klub",SPORTS HK NOW SPORTS 1 HD-ss123.pro:80@D-230710.done
