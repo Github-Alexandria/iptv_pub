@@ -1,5 +1,5 @@
-#EXTM3U 7717
-#DATE 2023-07-26 14:29
+#EXTM3U 6518
+#DATE 2023-07-26 15:05
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -92,6 +92,8 @@ http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/398594.ts
 http://yahya.top:80/live/13538810817626027/1593574628/589.ts
 #EXTINF:0 group-title="FR-Bein",FR- BEINSPORT 1 FR-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/d9cf5717-fbfe-4cdb-bc91-7cd9a2d018f1.m3u
+#EXTINF:0 group-title="FR-Bein",FR- BEINSPORT 1 FR-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/d9cf5717-fbfe-4cdb-bc91-7cd9a2d018f1.m3u
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 1 HD-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/58753
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 1 HD-2hubs.ddns.net:25461@D-230610.done
@@ -248,6 +250,8 @@ http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/398595.ts
 http://yahya.top:80/live/13538810817626027/1593574628/590.ts
 #EXTINF:0 group-title="FR-Bein",FR- BEINSPORT 2 FR-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/6acb63d3-16f4-4fb1-821f-b7449ed51de0.m3u
+#EXTINF:0 group-title="FR-Bein",FR- BEINSPORT 2 FR-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/6acb63d3-16f4-4fb1-821f-b7449ed51de0.m3u
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORT 2 HD-104.243.32.68:25461@D-230607.done
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/7636
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 2 HD-2hubs.ddns.net:25461@D-230610.done
@@ -380,6 +384,8 @@ http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/398596.ts
 http://yahya.top:80/live/13538810817626027/1593574628/591.ts
 #EXTINF:0 group-title="FR-Bein",FR- BEINSPORT 3 FR-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/62e568cf-91b5-4bcb-b427-a5fe89a42c25.m3u
+#EXTINF:0 group-title="FR-Bein",FR- BEINSPORT 3 FR-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/62e568cf-91b5-4bcb-b427-a5fe89a42c25.m3u
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 3 HD-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/58755
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 3 HD-2hubs.ddns.net:25461@D-230610.done
@@ -2630,17 +2636,17 @@ http://kingtop10.net:7070/Anasgamout/m5kkbx3l/5924
 http://kingtop10.net:7070/Anasgamout/m5kkbx3l/74048
 #EXTINF:0 group-title="FR-Bein",HINDI 24/7: AMAZON PRIME UHD-linevip1.top:8080@D-230703.done
 http://linevip1.top:8080/live/VIP0184168122893600/31681228936/37155.ts
-#EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 1-sansat.net:25461@D-230709.best.done
+#EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 1-sansat.net:25461@D-230709.done.best
 http://sansat.net:25461/france1010/A5IQLYNLUH/189508
-#EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 1-sansat.net:25461@D-230709.best.done
+#EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 1-sansat.net:25461@D-230709.done.best
 http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/189508
 #EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 2-iptvzeus.com:25461@D-230626.done
 http://iptvzeus.com:25461/PXNBAEPQK8VGSLA/5CU5LQQEALXMU23/189509
 #EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 2-iptvzeus.com:25461@D-230626.done
 http://iptvzeus.com:25461/KE5quvvYOHJFn4Z/cLJ4sJkhETLfvfG/189509
-#EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 2-sansat.net:25461@D-230611.best.done
+#EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 2-sansat.net:25461@D-230611.done.best
 http://sansat.net:25461/x4MPNC2oHMASvRZ/BvKuNVnpgBG7pNk/189509
-#EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 2-sansat.net:25461@D-230612.best.done
+#EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 2-sansat.net:25461@D-230612.done.best
 http://sansat.net:25461/TbddYkpv/YoFYDDKkPVcEvdh/189509
 #EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 2-sansat.net:25461@D-230619.done.best
 http://sansat.net:25461/02059720255829/4db2a927b7abe7e8/189509
@@ -2674,7 +2680,7 @@ http://iptvzeus.com:25461/e2qnbOypNYqxYzH/oXEFaEDkuUzbv1v/189513
 http://sansat.net:25461/france1010/A5IQLYNLUH/189514
 #EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 7-sansat.net:25461@D-230710.done.best
 http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/189514
-#EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 8-sansat.net:25461@D-230709.best.done
+#EXTINF:0 group-title="FR-Bein",UK-4k AMAZON PRIME FHD 8-sansat.net:25461@D-230709.done.best
 http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/189515
 #EXTINF:0 group-title="FR-Bein",UK-AMAZON PRIME FHD 2-prott.ottc.pro:80@D-230706.done
 http://prott.ottc.pro:80/BEWJ6MEKHI/IPBACRHMWE/281959
@@ -2706,11 +2712,11 @@ http://sansat.net:25461/FCLCR2PHMS/ZUMRGIXZVE/189500
 http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/189500
 #EXTINF:0 group-title="FR-Bein",UK-HD AMAZON PRIME HD 6-iptvzeus.com:25461@D-230626.done
 http://iptvzeus.com:25461/QHEEBTEZU0OZQNJ/UZPGK5RM2XCMTGA/189503
-#EXTINF:0 group-title="FR-Bein",UK-HD AMAZON PRIME HD 6-sansat.net:25461@D-230709.best.done
+#EXTINF:0 group-title="FR-Bein",UK-HD AMAZON PRIME HD 6-sansat.net:25461@D-230709.done.best
 http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/189503
-#EXTINF:0 group-title="FR-Bein",UK-HD AMAZON PRIME HD 7-sansat.net:25461@D-230706.best.done
+#EXTINF:0 group-title="FR-Bein",UK-HD AMAZON PRIME HD 7-sansat.net:25461@D-230706.done.best
 http://sansat.net:25461/02056846618481/02056846618481/189504
-#EXTINF:0 group-title="FR-Bein",UK-HD AMAZON PRIME HD 7-sansat.net:25461@D-230710.best.done
+#EXTINF:0 group-title="FR-Bein",UK-HD AMAZON PRIME HD 7-sansat.net:25461@D-230710.done.best
 http://sansat.net:25461/france1010/A5IQLYNLUH/189504
 #EXTINF:0 group-title="FR-Bein",UK-HD AMAZON PRIME HD 8-pandar.cc:25461@D-230619.done
 http://pandar.cc:25461/MgNqv7fp/cxxHRJkbXmkthJt/189505
@@ -3906,6 +3912,10 @@ http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/2502/index.m3u8
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-247e81a6.amazzin.pw@D-230626.done
 http://247e81a6.amazzin.pw/iptv/QLESGFKGPKFTER/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-2615a5d9.edmonst.net@D-230726.done
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-2707b.ottolok.net@D-230726.done
+http://2707b.ottolok.net/iptv/HAA39Q9RE8T9CA/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-2hoqrvgn.akciatv.ru@D-230630.done
 http://2hoqrvgn.akciatv.ru/iptv/SPFDNTXCXG4LU2/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-36c9aee1.edmonst.net@D-230627.done
@@ -4010,10 +4020,12 @@ http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/2502/index.m3u8
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-550a07aa.kazaktelekom.com@D-230720.done
 http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-60142d04.akadatel.com@D-230711.done
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-60142d04.akadatel.com@D-230726.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-67e4a403.kazaktelekom.com@D-230627.done
 http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-69c5e778.edemist.com@D-230726.done
+http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-7497611a.edmonst.net@D-230705.done
 http://7497611a.edmonst.net/iptv/XTBRS6NV7M7FYD/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-761aa4b9.ottrast.com@D-230626.done
@@ -4200,6 +4212,8 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/2502/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230726.NC.done
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-dbef62ba.ottolok.net@D-230712.done
@@ -4238,8 +4252,6 @@ http://dk.tgt6373.online:8080/tv2204/tvlnk2204/133750
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-e77b7c02.edmonst.net@D-230720.done
 http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-ebbbd8e0.ottrast.com@D-230705.done
-http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-eje0iyhn.otttv.pw@D-230718.done
 http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-epvzzr4d.ottclub.xyz@D-230602.done
@@ -4272,6 +4284,8 @@ http://foymmpeq.klaipedalt.org/iptv/2KTEACSPFEP692/2502/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/VK3AX8MG8ZGVY9/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-germany.amazzin.pw@D-230726.done
+http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-hcatg4m7.ottclub.xyz@D-230630.done
@@ -4288,8 +4302,6 @@ http://czrb8vng.ottclub.xyz/iptv/3Z4H4E9X3XN79G/2502/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/MRDP2VRMNQ3GZM/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/NZ777TZ7C5C27P/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
-http://czrb8vng.ottclub.xyz/iptv/SWYGMQ5X7BKRYZ/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/TXQXV6VX7ZDC6S/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC.dead
@@ -4324,12 +4336,12 @@ http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/2502/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-iptvdudi.russtv.net@D-230726.done
+http://iptvdudi.russtv.net/iptv/3BW6TGMY3RSR86/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-kv3z7bac.russtv.net@D-230712.done
 http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/2502/index.m3u8
-#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-lby6vdnx.russtv.net@D-230702.done
-http://lby6vdnx.russtv.net/iptv/TTN5XH76SSMH3M/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-mag.you24.online:80@D-230708.done
 http://mag.you24.online:80/Linus/d39r2mc0x/5696
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-mk3gi6qohdjrudj.russtv.net@D-230604.done
@@ -4348,6 +4360,8 @@ http://mytv.fun:80/5cfrlu69ih/ooapixg8u/5696
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-ne0zzgxm.rostelekom.xyz@D-230604.done
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-northalex.akadatel.com@D-230726.done
+http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-omdtxvgd.otttv.pw@D-230703.done
@@ -11260,6 +11274,10 @@ http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/2545/index.m3u8
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-247e81a6.amazzin.pw@D-230626.done
 http://247e81a6.amazzin.pw/iptv/QLESGFKGPKFTER/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-2615a5d9.edmonst.net@D-230726.done
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-2707b.ottolok.net@D-230726.done
+http://2707b.ottolok.net/iptv/HAA39Q9RE8T9CA/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-2hoqrvgn.akciatv.ru@D-230630.done
 http://2hoqrvgn.akciatv.ru/iptv/SPFDNTXCXG4LU2/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-36c9aee1.edmonst.net@D-230627.done
@@ -11318,10 +11336,12 @@ http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/2545/index.m3u8
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-550a07aa.kazaktelekom.com@D-230720.done
 http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-60142d04.akadatel.com@D-230711.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-60142d04.akadatel.com@D-230726.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-67e4a403.kazaktelekom.com@D-230627.done
 http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-69c5e778.edemist.com@D-230726.done
+http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-7497611a.edmonst.net@D-230705.done
 http://7497611a.edmonst.net/iptv/XTBRS6NV7M7FYD/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-761aa4b9.ottrast.com@D-230626.done
@@ -11520,6 +11540,8 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/2545/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230726.NC.done
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-daleplaytv.vip:8080@D-230718.done
@@ -11534,8 +11556,6 @@ http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2545/index.m3u8
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-e77b7c02.edmonst.net@D-230720.done
 http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-ebbbd8e0.ottrast.com@D-230705.done
-http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-eje0iyhn.otttv.pw@D-230718.done
 http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-epvzzr4d.ottclub.xyz@D-230602.done
@@ -11566,6 +11586,8 @@ http://foymmpeq.klaipedalt.org/iptv/2KTEACSPFEP692/2545/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/VK3AX8MG8ZGVY9/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-germany.amazzin.pw@D-230726.done
+http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-gffs.8kugur.online:80@D-230603.done
 http://gffs.8kugur.online:80/bbs4336/uGtgMp2Rc8Wv/124499
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-gvacmmh7.russtv.net@D-230701.done
@@ -11584,8 +11606,6 @@ http://czrb8vng.ottclub.xyz/iptv/3Z4H4E9X3XN79G/2545/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/MRDP2VRMNQ3GZM/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/NZ777TZ7C5C27P/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
-http://czrb8vng.ottclub.xyz/iptv/SWYGMQ5X7BKRYZ/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/TXQXV6VX7ZDC6S/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC.dead
@@ -11618,12 +11638,12 @@ http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/2545/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-iptvdudi.russtv.net@D-230726.done
+http://iptvdudi.russtv.net/iptv/3BW6TGMY3RSR86/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-kv3z7bac.russtv.net@D-230712.done
 http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/2545/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-lby6vdnx.russtv.net@D-230702.done
-http://lby6vdnx.russtv.net/iptv/TTN5XH76SSMH3M/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-lol.bz:2095@D-230630.done
 http://lol.bz:2095/jyZ3m1mf/dgRy1RphOn/27735
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-mk3gi6qohdjrudj.russtv.net@D-230604.done
@@ -11634,6 +11654,8 @@ http://mytv.fun:80/5cfrlu69ih/ooapixg8u/625226
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-ne0zzgxm.rostelekom.xyz@D-230604.done
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-northalex.akadatel.com@D-230726.done
+http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-omdtxvgd.otttv.pw@D-230703.done
@@ -11826,6 +11848,10 @@ http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/2546/index.m3u8
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-247e81a6.amazzin.pw@D-230626.done
 http://247e81a6.amazzin.pw/iptv/QLESGFKGPKFTER/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-2615a5d9.edmonst.net@D-230726.done
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-2707b.ottolok.net@D-230726.done
+http://2707b.ottolok.net/iptv/HAA39Q9RE8T9CA/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-2hoqrvgn.akciatv.ru@D-230630.done
 http://2hoqrvgn.akciatv.ru/iptv/SPFDNTXCXG4LU2/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-36c9aee1.edmonst.net@D-230627.done
@@ -11902,10 +11928,12 @@ http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/2546/index.m3u8
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-550a07aa.kazaktelekom.com@D-230720.done
 http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-60142d04.akadatel.com@D-230711.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-60142d04.akadatel.com@D-230726.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-67e4a403.kazaktelekom.com@D-230627.done
 http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-69c5e778.edemist.com@D-230726.done
+http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-7497611a.edmonst.net@D-230705.done
 http://7497611a.edmonst.net/iptv/XTBRS6NV7M7FYD/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-761aa4b9.ottrast.com@D-230626.done
@@ -12102,6 +12130,8 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/2546/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230726.NC.done
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-dbef62ba.ottolok.net@D-230712.done
@@ -12114,8 +12144,6 @@ http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2546/index.m3u8
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-e77b7c02.edmonst.net@D-230720.done
 http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-ebbbd8e0.ottrast.com@D-230705.done
-http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-eje0iyhn.otttv.pw@D-230718.done
 http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-epvzzr4d.ottclub.xyz@D-230602.done
@@ -12154,6 +12182,8 @@ http://foymmpeq.klaipedalt.org/iptv/2KTEACSPFEP692/2546/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/VK3AX8MG8ZGVY9/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-germany.amazzin.pw@D-230726.done
+http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-hcatg4m7.ottclub.xyz@D-230630.done
@@ -12170,8 +12200,6 @@ http://czrb8vng.ottclub.xyz/iptv/3Z4H4E9X3XN79G/2546/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/MRDP2VRMNQ3GZM/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/NZ777TZ7C5C27P/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
-http://czrb8vng.ottclub.xyz/iptv/SWYGMQ5X7BKRYZ/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/TXQXV6VX7ZDC6S/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC.dead
@@ -12204,12 +12232,12 @@ http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/2546/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-iptvdudi.russtv.net@D-230726.done
+http://iptvdudi.russtv.net/iptv/3BW6TGMY3RSR86/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-kv3z7bac.russtv.net@D-230712.done
 http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/2546/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-lby6vdnx.russtv.net@D-230702.done
-http://lby6vdnx.russtv.net/iptv/TTN5XH76SSMH3M/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-lol.bz:2095@D-230630.done
 http://lol.bz:2095/jyZ3m1mf/dgRy1RphOn/27734
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-mag.borderiptv.itv.world:80@D-230722.done
@@ -12252,6 +12280,8 @@ http://mytv.fun:80/5cfrlu69ih/ooapixg8u/682955
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-ne0zzgxm.rostelekom.xyz@D-230604.done
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-northalex.akadatel.com@D-230726.done
+http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-omdtxvgd.otttv.pw@D-230703.done
@@ -12570,6 +12600,10 @@ http://23a3af71.ottolok.net/iptv/CYM5F7MTBW5Z8G/2547/index.m3u8
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-247e81a6.amazzin.pw@D-230626.done
 http://247e81a6.amazzin.pw/iptv/QLESGFKGPKFTER/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-2615a5d9.edmonst.net@D-230726.done
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-2707b.ottolok.net@D-230726.done
+http://2707b.ottolok.net/iptv/HAA39Q9RE8T9CA/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-2hoqrvgn.akciatv.ru@D-230630.done
 http://2hoqrvgn.akciatv.ru/iptv/SPFDNTXCXG4LU2/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-36c9aee1.edmonst.net@D-230627.done
@@ -12608,10 +12642,12 @@ http://5251035c.edemist.com/iptv/EWMY84D89B7E7E/2547/index.m3u8
 http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-550a07aa.kazaktelekom.com@D-230720.done
 http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-60142d04.akadatel.com@D-230711.done
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-60142d04.akadatel.com@D-230726.done
 http://60142d04.akadatel.com/iptv/KMARTD7ED49TLC/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-67e4a403.kazaktelekom.com@D-230627.done
 http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-69c5e778.edemist.com@D-230726.done
+http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-7497611a.edmonst.net@D-230705.done
 http://7497611a.edmonst.net/iptv/XTBRS6NV7M7FYD/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-761aa4b9.ottrast.com@D-230626.done
@@ -12764,6 +12800,8 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/6KNY9KWMAYNVTD/2547/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/V5RXC33AGA9CSK/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230719.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CA7QRCEPYRSCBN/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230726.NC.done
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-d5858753.cbilant.com@D-230509.done
 http://d5858753.cbilant.com/iptv/ZX4CC4KF59TNGC/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-dbef62ba.ottolok.net@D-230712.done
@@ -12776,8 +12814,6 @@ http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2547/index.m3u8
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-e77b7c02.edmonst.net@D-230720.done
 http://e77b7c02.edmonst.net/iptv/4QG4MV9AWZAB5S/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-ebbbd8e0.ottrast.com@D-230705.done
-http://ebbbd8e0.ottrast.com/iptv/KP5V7795V2XNNE/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-eje0iyhn.otttv.pw@D-230718.done
 http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-epvzzr4d.ottclub.xyz@D-230602.done
@@ -12812,6 +12848,8 @@ http://foymmpeq.klaipedalt.org/iptv/2KTEACSPFEP692/2547/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/VK3AX8MG8ZGVY9/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-germany.amazzin.pw@D-230726.done
+http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-gffs.8kugur.online:80@D-230603.done
 http://gffs.8kugur.online:80/bbs4336/uGtgMp2Rc8Wv/124503
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-gvacmmh7.russtv.net@D-230701.done
@@ -12830,8 +12868,6 @@ http://czrb8vng.ottclub.xyz/iptv/3Z4H4E9X3XN79G/2547/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/MRDP2VRMNQ3GZM/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/NZ777TZ7C5C27P/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
-http://czrb8vng.ottclub.xyz/iptv/SWYGMQ5X7BKRYZ/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/TXQXV6VX7ZDC6S/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-hyqzethr.megatv.fun@D-230505.done.best.NC.dead
@@ -12864,12 +12900,12 @@ http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/2547/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-iptvdudi.russtv.net@D-230726.done
+http://iptvdudi.russtv.net/iptv/3BW6TGMY3RSR86/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-kv3z7bac.russtv.net@D-230712.done
 http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/2547/index.m3u8
-#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-lby6vdnx.russtv.net@D-230702.done
-http://lby6vdnx.russtv.net/iptv/TTN5XH76SSMH3M/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-lol.bz:2095@D-230630.done
 http://lol.bz:2095/jyZ3m1mf/dgRy1RphOn/27733
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-mag.borderiptv.itv.world:80@D-230722.done
@@ -12896,6 +12932,8 @@ http://mytv.fun:80/5cfrlu69ih/ooapixg8u/625233
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-ne0zzgxm.rostelekom.xyz@D-230604.done
 http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-northalex.akadatel.com@D-230726.done
+http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-omdtxvgd.otttv.pw@D-230703.done
