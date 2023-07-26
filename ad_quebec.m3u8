@@ -1,5 +1,5 @@
-#EXTM3U 8161
-#DATE 2023-07-26 11:39
+#EXTM3U 7249
+#DATE 2023-07-26 15:05
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230624.done
 http://tv.pro-ott.com:25443/live/V17H95GqAzaWd/FmkKy0Jnbz/116752.ts
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230627.done
@@ -1252,6 +1252,8 @@ http://vipgature.top:8080/live/VIP0180168537735303/31685377353/5465.ts
 http://n1.koalatv.xyz:2052/1/49974484/98070
 #EXTINF:0 group-title="QC-Ici",CA : ICI ARTV HD-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/ca26c660-b892-4c3b-80fe-15d6221b72ae.m3u
+#EXTINF:0 group-title="QC-Ici",CA : ICI ARTV HD-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/ca26c660-b892-4c3b-80fe-15d6221b72ae.m3u
 #EXTINF:0 group-title="QC-Ici",CA : ICI MONTREAL (FR)-meuservicotv.club:8000@D-230620.done
 http://meuservicotv.club:8000/Leonel-ab/Tyuiop123reza/26641
 #EXTINF:0 group-title="QC-Ici",CA: ICI Montreal (FR)-sevi.2022spn.net:8080@D-230625.done
@@ -1424,6 +1426,8 @@ http://kuchini.site:8080/7abb81c7/e9c0e4445d/2608
 http://mains.services/live/wR34qMzGj3/6530858/ebde6ae6-59dd-4641-bd99-546ad0b66517.m3u
 #EXTINF:0 group-title="QC-Ici",CA : TVA MONTREAL-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/ebde6ae6-59dd-4641-bd99-546ad0b66517.m3u
+#EXTINF:0 group-title="QC-Ici",CA : TVA MONTREAL-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/ebde6ae6-59dd-4641-bd99-546ad0b66517.m3u
 #EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23822.ts
 #EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-ottsansat.org:25461@D-230714.done
@@ -1546,12 +1550,18 @@ http://simplicityitservices.co.uk:8080/IanBcordSPfL2021/G8HvQEoXH0/727080
 http://mains.services/live/wR34qMzGj3/6530858/cf1c1f37-4cc8-4756-86ba-21d534f4f9cd.m3u
 #EXTINF:0 group-title="QC-Ici",FRCAN : ICI RADIO CANADA TELE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/cf1c1f37-4cc8-4756-86ba-21d534f4f9cd.m3u
+#EXTINF:0 group-title="QC-Ici",FRCAN : ICI RADIO CANADA TELE-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/cf1c1f37-4cc8-4756-86ba-21d534f4f9cd.m3u
 #EXTINF:0 group-title="QC-Ici",FRCAN : ICI RDI TELE-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/c9d0deac-5561-434d-b744-a24563f59933.m3u
 #EXTINF:0 group-title="QC-Ici",FRCAN : ICI RDI TELE-mains.services@D-230712.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/c9d0deac-5561-434d-b744-a24563f59933.m3u
+#EXTINF:0 group-title="QC-Ici",FRCAN : ICI RDI TELE-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/c9d0deac-5561-434d-b744-a24563f59933.m3u
 #EXTINF:0 group-title="QC-Ici",FRCAN : NOOVO-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/5f5f9104-d982-4d0f-a84a-7205f804811b.m3u
+#EXTINF:0 group-title="QC-Ici",FRCAN : NOOVO-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/5f5f9104-d982-4d0f-a84a-7205f804811b.m3u
 #EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI (D)-1tv41.icu:8080@D-230621.done
 http://1tv41.icu:8080/5745519674/andyrigelman99@gmail.com/164369
 #EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI (D)-nocable.cc:8080@D-230225.done
@@ -2136,6 +2146,8 @@ http://7go.xyz:8080/Jessica22/96801cl/308863
 http://7go.xyz:8080/brunachianelli/bch825536/308863
 #EXTINF:0 group-title="QC-Info",CA : LCN HD-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/94066fa1-d8d2-4629-b3d6-56666ad10644.m3u
+#EXTINF:0 group-title="QC-Info",CA : LCN HD-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/94066fa1-d8d2-4629-b3d6-56666ad10644.m3u
 #EXTINF:0 group-title="QC-Info",CA: LCN HD-mrcool.nomorecable.me:8000@D-230706.done
 http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/99181
 #EXTINF:0 group-title="QC-Info",CA : RDI (FR)-iron-man.life:8000@D-230706.done
@@ -4172,54 +4184,84 @@ http://185.156.74.135:80/boris1234/1234boris/182223.ts
 http://mains.services/live/wR34qMzGj3/6530858/5e916d68-6198-4a2a-b532-cd9f94492ef2.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : AMI TELE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/5e916d68-6198-4a2a-b532-cd9f94492ef2.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : AMI TELE-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/5e916d68-6198-4a2a-b532-cd9f94492ef2.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : ARTV-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/43c4ed85-7656-4dab-8187-db6012e83317.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : ARTV-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/43c4ed85-7656-4dab-8187-db6012e83317.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : ARTV-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/43c4ed85-7656-4dab-8187-db6012e83317.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : CANAL D-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/5996302f-9d59-4f2f-97f6-4784654feb1b.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : CANAL D-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/5996302f-9d59-4f2f-97f6-4784654feb1b.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : CANAL VIE-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/a8236f86-cd65-4d00-9f8c-c4d37541613e.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : CANAL VIE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/a8236f86-cd65-4d00-9f8c-c4d37541613e.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : CANAL VIE-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/a8236f86-cd65-4d00-9f8c-c4d37541613e.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : GLOBAL MTL-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/ff269238-14db-41e9-acc1-d8fa04d5b6aa.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : GLOBAL MTL-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/ff269238-14db-41e9-acc1-d8fa04d5b6aa.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : HISTORIA-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/dcab554a-9a23-4802-b516-6e4f6d95b352.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : HISTORIA-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/dcab554a-9a23-4802-b516-6e4f6d95b352.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : HISTORIA-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/dcab554a-9a23-4802-b516-6e4f6d95b352.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : LCN HD-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/5a5b6696-270f-43e2-96a3-67de97cd4b5e.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : LCN HD-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/5a5b6696-270f-43e2-96a3-67de97cd4b5e.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : MUSIQUE PLUS-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/ee0c3fb1-e3af-4f6c-a25e-02a30a730a0e.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : MUSIQUE PLUS-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/ee0c3fb1-e3af-4f6c-a25e-02a30a730a0e.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : MUSIQUE PLUS-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/ee0c3fb1-e3af-4f6c-a25e-02a30a730a0e.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : TELETOON-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/c44e77a8-329a-4160-ae33-44e77063f64a.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : TELETOON-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/c44e77a8-329a-4160-ae33-44e77063f64a.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : TELETOON-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/c44e77a8-329a-4160-ae33-44e77063f64a.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : TV5-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/400eeec3-081d-4ea5-b76e-5041b380de2b.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : TV5-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/400eeec3-081d-4ea5-b76e-5041b380de2b.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : TV5-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/400eeec3-081d-4ea5-b76e-5041b380de2b.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : TVA MTL HD-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/448aa669-c951-4444-b0d8-7d2c9db39efb.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : TVA MTL HD-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/448aa669-c951-4444-b0d8-7d2c9db39efb.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : UNIS TV-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/d73addef-f44d-4597-9902-4d62174cb9c4.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : UNIS TV-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/d73addef-f44d-4597-9902-4d62174cb9c4.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : UNIS TV-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/d73addef-f44d-4597-9902-4d62174cb9c4.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : YOOPA-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/62994f61-2514-4e93-878d-94d2d6f445dc.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : YOOPA-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/62994f61-2514-4e93-878d-94d2d6f445dc.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : YOOPA-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/62994f61-2514-4e93-878d-94d2d6f445dc.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : ZESTE-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/935ca89f-201b-48fa-ad10-c2f2f99907d0.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : ZESTE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/935ca89f-201b-48fa-ad10-c2f2f99907d0.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : ZESTE-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/935ca89f-201b-48fa-ad10-c2f2f99907d0.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : Z TELE-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/925cecc5-64db-4d35-8c17-38e6dc945bff.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : Z TELE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/925cecc5-64db-4d35-8c17-38e6dc945bff.m3u
+#EXTINF:0 group-title="QC-Other",FRCAN : Z TELE-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/925cecc5-64db-4d35-8c17-38e6dc945bff.m3u
 #EXTINF:0 group-title="QC-Sport",[CA-FR] TVA SPORTS-hd.turki.stream:8080@D-230703.done
 http://hd.turki.stream:8080/aydnfrck/6CtVgjUCScMA/93172
 #EXTINF:0 group-title="QC-Sport",[CA-FR] TVA SPORTS-pro.ipcover.tv:8080@D-230417.done
@@ -5782,6 +5824,8 @@ http://linevip1.top:8080/live/VIP0184168122893600/31681228936/5508.ts
 http://mains.services/live/wR34qMzGj3/6530858/65b625fa-62d3-44a5-9be1-2d895fb96cef.m3u
 #EXTINF:0 group-title="QC-Sport",CA : TSN 1-mains.services@D-230712.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/65b625fa-62d3-44a5-9be1-2d895fb96cef.m3u
+#EXTINF:0 group-title="QC-Sport",CA : TSN 1-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/65b625fa-62d3-44a5-9be1-2d895fb96cef.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-myserveriptv.com:2082@D-230705.done
 http://myserveriptv.com:2082/Derkaoui/fDmZMAtQUu/32046
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-nepenthes.top:8080@D-230627.done
@@ -6106,6 +6150,8 @@ http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/771
 http://linevip1.top:8080/live/VIP0184168122893600/31681228936/5509.ts
 #EXTINF:0 group-title="QC-Sport",CA : TSN 2-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/f1ceaa07-9046-4314-bd17-736d28e3ef2d.m3u
+#EXTINF:0 group-title="QC-Sport",CA : TSN 2-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/f1ceaa07-9046-4314-bd17-736d28e3ef2d.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-myserveriptv.com:2082@D-230705.done
 http://myserveriptv.com:2082/Derkaoui/fDmZMAtQUu/32047
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-nepenthes.top:8080@D-230627.done
@@ -6436,6 +6482,8 @@ http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/772
 http://linevip1.top:8080/live/VIP0184168122893600/31681228936/5510.ts
 #EXTINF:0 group-title="QC-Sport",CA : TSN 3-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/ebfd864a-e00e-4c3b-beae-cc1ec3f1d01a.m3u
+#EXTINF:0 group-title="QC-Sport",CA : TSN 3-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/ebfd864a-e00e-4c3b-beae-cc1ec3f1d01a.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-myserveriptv.com:2082@D-230705.done
 http://myserveriptv.com:2082/Derkaoui/fDmZMAtQUu/32048
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-nepenthes.top:8080@D-230627.done
@@ -6754,6 +6802,8 @@ http://linevip1.top:8080/live/VIP0184168122893600/31681228936/5511.ts
 http://mains.services/live/wR34qMzGj3/6530858/64074fc6-43e9-4e52-92b9-838b2f21a22c.m3u
 #EXTINF:0 group-title="QC-Sport",CA : TSN 4-mains.services@D-230712.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/64074fc6-43e9-4e52-92b9-838b2f21a22c.m3u
+#EXTINF:0 group-title="QC-Sport",CA : TSN 4-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/64074fc6-43e9-4e52-92b9-838b2f21a22c.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23734.ts
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-op.cdloop.eu:80@D-230530.done
@@ -7106,6 +7156,8 @@ http://linevip1.top:8080/live/VIP0184168122893600/31681228936/5512.ts
 http://mains.services/live/wR34qMzGj3/6530858/255a5c0b-98b8-48d3-96ac-2aa93ee480a5.m3u
 #EXTINF:0 group-title="QC-Sport",CA : TSN 5-mains.services@D-230712.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/255a5c0b-98b8-48d3-96ac-2aa93ee480a5.m3u
+#EXTINF:0 group-title="QC-Sport",CA : TSN 5-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/255a5c0b-98b8-48d3-96ac-2aa93ee480a5.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-myserveriptv.com:2082@D-230705.done
 http://myserveriptv.com:2082/Derkaoui/fDmZMAtQUu/32480
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-nepenthes.top:8080@D-230627.done
@@ -7696,6 +7748,8 @@ http://appfactory.group:8080/FnEZZlRLB9/swWdeNBrbo/6673
 http://ipro.tv:80/nLBh9ijt53PW/IJdcEsuuGk/10727
 #EXTINF:0 group-title="QC-Sport",CA : TVA SPORTS HD-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/fd9575b2-f9b3-4036-a578-f7a2e1e96d97.m3u
+#EXTINF:0 group-title="QC-Sport",CA : TVA SPORTS HD-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/fd9575b2-f9b3-4036-a578-f7a2e1e96d97.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports HD-mrcool.nomorecable.me:8000@D-230706.done
 http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/99200
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports HD-sevi.2022spn.net:8080@D-230625.done
@@ -8576,6 +8630,8 @@ http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/107678
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/66107
 #EXTINF:0 group-title="QC-Sport",FRCAN : RDS-mains.services@D-230712.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/d85f88da-f1ca-417d-a2f3-e099ecf2f5ce.m3u
+#EXTINF:0 group-title="QC-Sport",FRCAN : RDS-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/d85f88da-f1ca-417d-a2f3-e099ecf2f5ce.m3u
 #EXTINF:0 group-title="QC-Sport",SP: CA: TVA Sports 1-tv.titanicos.net:2095@D-230717.done
 http://tv.titanicos.net:2095/Jgonz/Restream/8147.ts
 #EXTINF:0 group-title="QC-Sport",SP: CA: TVA Sports 2-tv.titanicos.net:2095@D-230717.done
@@ -9066,7 +9122,7 @@ http://zx.pe:80/592448/221606/1563916.ts
 http://dk.tgt6373.online:8080/smt1923/rs.664/133834
 #EXTINF:0 group-title="QC-Super Ecran",A La Carte 5 HD FR-dk.tgt6373.online:8080@D-230723.done
 http://dk.tgt6373.online:8080/lkr3408/Unn39yhtQhfa/133834
-#EXTINF:0 group-title="QC-Super Ecran",A La Carte 5 HD FR-moontools.me:8080@D-230416.best.done
+#EXTINF:0 group-title="QC-Super Ecran",A La Carte 5 HD FR-moontools.me:8080@D-230416.done.best
 http://moontools.me:8080/franmujica/v2sJ5r2tyb/19123
 #EXTINF:0 group-title="QC-Super Ecran",A La Carte 5 HD FR-mytv.fun:80@D-230621.done
 http://mytv.fun:80/di0vad0v4a/Bahar877/12926
@@ -9998,6 +10054,8 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761389
 http://mains.services/live/wR34qMzGj3/6530858/4aea29e6-822a-4516-9300-ff6f26573005.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 1-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/4aea29e6-822a-4516-9300-ff6f26573005.m3u
+#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 1-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/4aea29e6-822a-4516-9300-ff6f26573005.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 1-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23789.ts
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 1-ua-iptv.com:8080@D-230515.done
@@ -10132,6 +10190,8 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761390
 http://mains.services/live/wR34qMzGj3/6530858/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 2-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
+#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 2-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 2-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23790.ts
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 2-ua-iptv.com:8080@D-230515.done
@@ -10250,6 +10310,8 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761391
 http://mains.services/live/wR34qMzGj3/6530858/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 3-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
+#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 3-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 3-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23791.ts
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 3-nocable.cc:8080@D-230511.done
@@ -10368,6 +10430,8 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761392
 http://mains.services/live/wR34qMzGj3/6530858/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 4-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
+#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 4-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 4-vipgature.top:8080@D-230627.done
 http://vipgature.top:8080/live/VIP0180168537735303/31685377353/5437.ts
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 4 HD-1tv41.icu:8080@D-230621.done
@@ -12856,8 +12920,14 @@ http://ae2.aatvbox.club:8880/6ms210011/88738116/28119
 http://ae2.aatvbox.club:8880/AALM4456/1571328912/28119
 #EXTINF:0 group-title="QC-Super Ecran",FR191:A LA CARTE 10-ae2.aatvbox.club:8880@D-230510.done
 http://ae2.aatvbox.club:8880/29us043008/asdf3dw34r/28118
+#EXTINF:0 group-title="QC-Super Ecran",FRCAN : SUPER ECRAN 2-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/e74b0c40-ecb1-4a0c-818e-c3e92131bb29.m3u
 #EXTINF:0 group-title="QC-Super Ecran",FRCAN : SUPER ECRAN 3-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/660776a6-fee2-4cf8-9c48-4fd163919a15.m3u
+#EXTINF:0 group-title="QC-Super Ecran",FRCAN : SUPER ECRAN 3-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/660776a6-fee2-4cf8-9c48-4fd163919a15.m3u
+#EXTINF:0 group-title="QC-Super Ecran",FRCAN : SUPER ECRAN 4-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/a0bab8cb-7190-46e5-aff1-cceea374b934.m3u
 #EXTINF:0 group-title="QC-Super Ecran",G PLUS - A LA CARTE 1-germanydnsx13.com:8080@D-230525.done
 http://germanydnsx13.com:8080/furkan12/12furkan/75719
 #EXTINF:0 group-title="QC-Super Ecran",G PLUS - A LA CARTE 1-germanydnsx13.com:8080@D-230531.done
@@ -13164,6 +13234,8 @@ http://vipgature.top:8080/live/VIP0180168537735303/31685377353/1957.ts
 http://b-top.live:80/play/WhxL0zgjweD4vbwGdbQpcbl0KNYEFeTcG5dO3G947i0/ts
 #EXTINF:0 group-title="QC-Super Ecran",US-720 : LOGO TV-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/9ec4f528-51b5-41bf-9345-0a0a3c0df020.m3u
+#EXTINF:0 group-title="QC-Super Ecran",US-720 : LOGO TV-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/9ec4f528-51b5-41bf-9345-0a0a3c0df020.m3u
 #EXTINF:0 group-title="QC-Super Ecran",US-HD: LOGO-alienstreams.fi:7070@D-230416.done
 http://alienstreams.fi:7070/nordiciptvone18328/Magnus957/186668.ts
 #EXTINF:0 group-title="QC-Super Ecran",US-Logo (West)-abc123.digital:8080@D-230417.done
@@ -13272,6 +13344,8 @@ http://159734.mavitv.eu:80/ces192/BlkounQGj4/102149
 http://mains.services/live/wR34qMzGj3/6530858/b0d4ae03-c536-45b7-8242-5d7f4c2fef84.m3u
 #EXTINF:0 group-title="QC-Super Ecran",US- LOGO TV-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/b0d4ae03-c536-45b7-8242-5d7f4c2fef84.m3u
+#EXTINF:0 group-title="QC-Super Ecran",US- LOGO TV-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/b0d4ae03-c536-45b7-8242-5d7f4c2fef84.m3u
 #EXTINF:0 group-title="QC-Super Ecran",US-LOGO TV-n1.koalatv.xyz:2052@D-230619.done
 http://n1.koalatv.xyz:2052/1/49974484/98531
 #EXTINF:0 group-title="QC-Super Ecran",USA- Logo FHD-idlib.link:2082@D-230621.done
@@ -13436,6 +13510,8 @@ http://iptvzeus.com:25461/QHEEBTEZU0OZQNJ/UZPGK5RM2XCMTGA/94244
 http://mains.services/live/wR34qMzGj3/6530858/3be0557f-f67b-4ce4-8b05-5142ed952870.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET 360-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/3be0557f-f67b-4ce4-8b05-5142ed952870.m3u
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET 360-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/3be0557f-f67b-4ce4-8b05-5142ed952870.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23696.ts
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-ottsansat.org:25461@D-230714.done
@@ -13562,6 +13638,8 @@ http://iptvzeus.com:25461/QHEEBTEZU0OZQNJ/UZPGK5RM2XCMTGA/94245
 http://mains.services/live/wR34qMzGj3/6530858/98f22436-c862-4a90-b3c3-7286bdf1db03.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET EAST-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/98f22436-c862-4a90-b3c3-7286bdf1db03.m3u
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET EAST-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/98f22436-c862-4a90-b3c3-7286bdf1db03.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-ottsansat.org:25461@D-230714.done
 http://ottsansat.org:25461/02024748893799/O51VG32STP476FL/94245
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-ottsansat.org:25461@D-230722.done
@@ -13706,6 +13784,8 @@ http://iptvzeus.com:25461/QHEEBTEZU0OZQNJ/UZPGK5RM2XCMTGA/94246
 http://mains.services/live/wR34qMzGj3/6530858/dc379409-ee90-4382-9d9c-8d60ddd14302.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET ONE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/dc379409-ee90-4382-9d9c-8d60ddd14302.m3u
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET ONE-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/dc379409-ee90-4382-9d9c-8d60ddd14302.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23697.ts
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-ottsansat.org:25461@D-230722.done
@@ -13832,6 +13912,8 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761490
 http://mains.services/live/wR34qMzGj3/6530858/6bbaa88e-b678-416e-b087-34da238bf88c.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET PACIFIC-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/6bbaa88e-b678-416e-b087-34da238bf88c.m3u
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET PACIFIC-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/6bbaa88e-b678-416e-b087-34da238bf88c.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23698.ts
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-ottsansat.org:25461@D-230714.done
@@ -14022,6 +14104,8 @@ http://iptvzeus.com:25461/QHEEBTEZU0OZQNJ/UZPGK5RM2XCMTGA/94249
 http://mains.services/live/wR34qMzGj3/6530858/3317da2f-9af5-48d1-a082-b088b97a4b0d.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WEST-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/3317da2f-9af5-48d1-a082-b088b97a4b0d.m3u
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WEST-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/3317da2f-9af5-48d1-a082-b088b97a4b0d.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23693.ts
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-nocable.cc:8080@D-230511.done
@@ -14162,6 +14246,8 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761491
 http://mains.services/live/wR34qMzGj3/6530858/37b41623-b4f0-4d28-b916-8c8ea6316f29.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WORLD-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/37b41623-b4f0-4d28-b916-8c8ea6316f29.m3u
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WORLD-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/37b41623-b4f0-4d28-b916-8c8ea6316f29.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WORLD-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23699.ts
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WORLD-vipgature.top:8080@D-230627.done
@@ -14262,6 +14348,8 @@ http://sevi.2022spn.net:8080/Angola/Ang0LA516/8069
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/8070
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WWE-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/07218624-0173-4371-ac2c-afd7b6b1e0b4.m3u
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WWE-mains.services@D-230726.NC.done
+http://mains.services/live/Grahxen/3docpGDalU/07218624-0173-4371-ac2c-afd7b6b1e0b4.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: Spt - Sportsnet 360-7go.xyz:8080@D-230724.done
 http://7go.xyz:8080/JulianaToronto/ju34an3836/308907
 #EXTINF:0 group-title="US-SportsNet",CA: SPT - SPORTSNET One-ua-iptv.com:8080@D-230515.done
