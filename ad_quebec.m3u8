@@ -1,5 +1,5 @@
-#EXTM3U 7249
-#DATE 2023-07-26 15:05
+#EXTM3U 7722
+#DATE 2023-07-27 07:42
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230624.done
 http://tv.pro-ott.com:25443/live/V17H95GqAzaWd/FmkKy0Jnbz/116752.ts
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230627.done
@@ -1252,7 +1252,7 @@ http://vipgature.top:8080/live/VIP0180168537735303/31685377353/5465.ts
 http://n1.koalatv.xyz:2052/1/49974484/98070
 #EXTINF:0 group-title="QC-Ici",CA : ICI ARTV HD-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/ca26c660-b892-4c3b-80fe-15d6221b72ae.m3u
-#EXTINF:0 group-title="QC-Ici",CA : ICI ARTV HD-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Ici",CA : ICI ARTV HD-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/ca26c660-b892-4c3b-80fe-15d6221b72ae.m3u
 #EXTINF:0 group-title="QC-Ici",CA : ICI MONTREAL (FR)-meuservicotv.club:8000@D-230620.done
 http://meuservicotv.club:8000/Leonel-ab/Tyuiop123reza/26641
@@ -1426,7 +1426,7 @@ http://kuchini.site:8080/7abb81c7/e9c0e4445d/2608
 http://mains.services/live/wR34qMzGj3/6530858/ebde6ae6-59dd-4641-bd99-546ad0b66517.m3u
 #EXTINF:0 group-title="QC-Ici",CA : TVA MONTREAL-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/ebde6ae6-59dd-4641-bd99-546ad0b66517.m3u
-#EXTINF:0 group-title="QC-Ici",CA : TVA MONTREAL-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Ici",CA : TVA MONTREAL-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/ebde6ae6-59dd-4641-bd99-546ad0b66517.m3u
 #EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23822.ts
@@ -1550,17 +1550,17 @@ http://simplicityitservices.co.uk:8080/IanBcordSPfL2021/G8HvQEoXH0/727080
 http://mains.services/live/wR34qMzGj3/6530858/cf1c1f37-4cc8-4756-86ba-21d534f4f9cd.m3u
 #EXTINF:0 group-title="QC-Ici",FRCAN : ICI RADIO CANADA TELE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/cf1c1f37-4cc8-4756-86ba-21d534f4f9cd.m3u
-#EXTINF:0 group-title="QC-Ici",FRCAN : ICI RADIO CANADA TELE-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Ici",FRCAN : ICI RADIO CANADA TELE-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/cf1c1f37-4cc8-4756-86ba-21d534f4f9cd.m3u
 #EXTINF:0 group-title="QC-Ici",FRCAN : ICI RDI TELE-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/c9d0deac-5561-434d-b744-a24563f59933.m3u
 #EXTINF:0 group-title="QC-Ici",FRCAN : ICI RDI TELE-mains.services@D-230712.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/c9d0deac-5561-434d-b744-a24563f59933.m3u
-#EXTINF:0 group-title="QC-Ici",FRCAN : ICI RDI TELE-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Ici",FRCAN : ICI RDI TELE-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/c9d0deac-5561-434d-b744-a24563f59933.m3u
 #EXTINF:0 group-title="QC-Ici",FRCAN : NOOVO-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/5f5f9104-d982-4d0f-a84a-7205f804811b.m3u
-#EXTINF:0 group-title="QC-Ici",FRCAN : NOOVO-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Ici",FRCAN : NOOVO-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/5f5f9104-d982-4d0f-a84a-7205f804811b.m3u
 #EXTINF:0 group-title="QC-Info",CA (FR) ICI RDI (D)-1tv41.icu:8080@D-230621.done
 http://1tv41.icu:8080/5745519674/andyrigelman99@gmail.com/164369
@@ -1858,6 +1858,8 @@ http://iptvch.com:2082/avanger-discord/dU2S7yeQ20N6fK/213562
 http://iptvh2o.com:2082/khkanbar/452d/213562
 #EXTINF:0 group-title="QC-Info",CA: FR ICI RDI-myserveriptv.com:2082@D-230705.done
 http://myserveriptv.com:2082/Derkaoui/fDmZMAtQUu/213562
+#EXTINF:0 group-title="QC-Info",CA: FR ICI RDI-sharkytv.com:2082@D-230726.done
+http://sharkytv.com:2082/marwan21/marwan22/213562
 #EXTINF:0 group-title="QC-Info",CA: FR ICI RDI-star8iptv.com:2082@D-230712.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213562
 #EXTINF:0 group-title="QC-Info",CA: FR LCN-31.42.184.159:2082@D-230630.done
@@ -1868,6 +1870,8 @@ http://iptvch.com:2082/ks9Dff4sNcb5dlj2M1/7Sl2Nbf8Fkd58dKDy/213592
 http://iptvch.com:2082/avanger-discord/dU2S7yeQ20N6fK/213592
 #EXTINF:0 group-title="QC-Info",CA: FR LCN-myserveriptv.com:2082@D-230705.done
 http://myserveriptv.com:2082/Derkaoui/fDmZMAtQUu/213592
+#EXTINF:0 group-title="QC-Info",CA: FR LCN-sharkytv.com:2082@D-230726.done
+http://sharkytv.com:2082/marwan21/marwan22/213592
 #EXTINF:0 group-title="QC-Info",CA: FR LCN-star8iptv.com:2082@D-230712.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213592
 #EXTINF:0 group-title="QC-Info",CA : HD LCN-xtra.fireottplus.com:2052@D-230708.done
@@ -1928,6 +1932,8 @@ http://s.showplustv.pro:80/mustafaali909/8744367/64304
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/7998
 #EXTINF:0 group-title="QC-Info",CA: Ici RDI (FR) HD-a36m.net:8080@D-230712.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72846
+#EXTINF:0 group-title="QC-Info",CA: Ici RDI (FR) HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/fsbsWq/L4FCczaJDy/72846
 #EXTINF:0 group-title="QC-Info",CA: ICI RDI (FR)  SD-appfactory.group:8080@D-230722.done
 http://appfactory.group:8080/FnEZZlRLB9/swWdeNBrbo/6694
 #EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230528.done
@@ -1966,6 +1972,12 @@ http://7go.xyz:8080/Jessica22/96801cl/308859
 http://7go.xyz:8080/brunachianelli/bch825536/308858
 #EXTINF:0 group-title="QC-Info",CA: Ici Rdi-7go.xyz:8080@D-230717.done
 http://7go.xyz:8080/brunachianelli/bch825536/308859
+#EXTINF:0 group-title="QC-Info",CA: ICI RDI-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Brisa01/brisa190/233507
+#EXTINF:0 group-title="QC-Info",CA: ICI RDI-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/233507
+#EXTINF:0 group-title="QC-Info",CA: ICI RDI-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Listandb72736as/Kejenbrb737/233507
 #EXTINF:0 group-title="QC-Info",CA: Ici RDI-ipro.tv:80@D-230714.done
 http://ipro.tv:80/nLBh9ijt53PW/IJdcEsuuGk/44162
 #EXTINF:0 group-title="QC-Info",CA : ICI RDI-iron-man.life:8000@D-230706.done
@@ -2098,6 +2110,48 @@ http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/9300
 http://medotv.nl:8000/ataa/caBeFNgbFaZN/109549
 #EXTINF:0 group-title="QC-Info",CA : LCN (FR)-meuservicotv.club:8000@D-230620.done
 http://meuservicotv.club:8000/Leonel-ab/Tyuiop123reza/26650
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/4Zhmhe6ZB/cIXRCQoghJ0W/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/65NwwerwD/Hin6GFTsB3/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/66FENAQrXv/8368285577/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aBu9h9Ead/08Aeo238t5/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aprkqiwv/3902321152/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/drkwkytc/4021140177/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/dw534vpWX2/8938917749/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/g2Drmk4TA/JHAYXQemJD/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/G6T2j9q5t/AVLhAzKQDS/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/hj7uRcnFSq/6797106174/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/K9ptsh28t/t96qlK9sC7/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/lmdxhjuv/1370416187/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/moyvppwg/2108189947/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/r6aAX668fH/8361422764/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/snDdw3duY/3917036666/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/wwkvnobk/1252056755/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/xfahqzrc/0809944317/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/Y96EjKAdc/ke0d23u7ZU/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/yZz28uJh23/119jaovfBjET/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/zdbbZ5YK9x/6014092189/16783
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/ZE5BHSu6Jd/1711281974/16783
 #EXTINF:0 group-title="QC-Info",CA: LCN (FR)-motivatv.club:80@D-230712.done
 http://motivatv.club:80/play/ZnVec6J2vKPbfOL-YL2zyiYJxmovmlzxGBn_HYAt6L4
 #EXTINF:0 group-title="QC-Info",CA: LCN (FR)-nox.nox102.xyz:80@D-230722.done
@@ -2114,6 +2168,8 @@ http://turkiye741nx.xyz:80/nihateri/Sw4VShdvgq/166365
 http://vole1.rsvole22s.xyz:80/live/okay2023/tBQsyF2Qey/229301.ts
 #EXTINF:0 group-title="QC-Info",CA: LCN (FR) HD-a36m.net:8080@D-230712.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72852
+#EXTINF:0 group-title="QC-Info",CA: LCN (FR) HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72852
 #EXTINF:0 group-title="QC-Info",CA: LCN (FR)  SD-appfactory.group:8080@D-230722.done
 http://appfactory.group:8080/FnEZZlRLB9/swWdeNBrbo/6696
 #EXTINF:0 group-title="QC-Info",CA: LCN-iptvsantral1.xyz:8080@D-230620.done
@@ -2146,7 +2202,7 @@ http://7go.xyz:8080/Jessica22/96801cl/308863
 http://7go.xyz:8080/brunachianelli/bch825536/308863
 #EXTINF:0 group-title="QC-Info",CA : LCN HD-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/94066fa1-d8d2-4629-b3d6-56666ad10644.m3u
-#EXTINF:0 group-title="QC-Info",CA : LCN HD-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Info",CA : LCN HD-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/94066fa1-d8d2-4629-b3d6-56666ad10644.m3u
 #EXTINF:0 group-title="QC-Info",CA: LCN HD-mrcool.nomorecable.me:8000@D-230706.done
 http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/99181
@@ -2306,6 +2362,48 @@ http://hardcoremedia.xyz:80/UGHTEbs7sH/1941014161/10795
 http://hardcoremedia.xyz:80/uxY2s46qa/Z7xv5N1bcq/10795
 #EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-lucidhosting.xyz:82@D-230601.done
 http://lucidhosting.xyz:82/wendym/wendy@123/35225
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/65NwwerwD/Hin6GFTsB3/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/66FENAQrXv/8368285577/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aBu9h9Ead/08Aeo238t5/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aprkqiwv/3902321152/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/drkwkytc/4021140177/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/dw534vpWX2/8938917749/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/g2Drmk4TA/JHAYXQemJD/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/G6T2j9q5t/AVLhAzKQDS/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/hj7uRcnFSq/6797106174/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/K9ptsh28t/t96qlK9sC7/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/lmdxhjuv/1370416187/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/moyvppwg/2108189947/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/r6aAX668fH/8361422764/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/snDdw3duY/3917036666/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/wwkvnobk/1252056755/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/xfahqzrc/0809944317/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/Y96EjKAdc/ke0d23u7ZU/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/yZz28uJh23/119jaovfBjET/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/zdbbZ5YK9x/6014092189/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/ZE5BHSu6Jd/1711281974/10795
+#EXTINF:0 group-title="QC-Info",CA  ICI RDI (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/4Zhmhe6ZB/cIXRCQoghJ0W/10795
 #EXTINF:0 group-title="QC-Info",CA ICI RDI-185.156.74.135:80@D-230607.done.NC
 http://185.156.74.135:80/boris1234/1234boris/181987.ts
 #EXTINF:0 group-title="QC-Info",CA ICI RDI-5.44.253.151:80@D-230607.done.NC
@@ -2362,6 +2460,48 @@ http://hardcoremedia.xyz:80/M68cgtE58a/8138647073/10797
 http://hardcoremedia.xyz:80/UGHTEbs7sH/1941014161/10797
 #EXTINF:0 group-title="QC-Info",CA  LCN (FR)-hardcoremedia.xyz:80@D-230502.done
 http://hardcoremedia.xyz:80/uxY2s46qa/Z7xv5N1bcq/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/4Zhmhe6ZB/cIXRCQoghJ0W/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/65NwwerwD/Hin6GFTsB3/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/66FENAQrXv/8368285577/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aBu9h9Ead/08Aeo238t5/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aprkqiwv/3902321152/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/drkwkytc/4021140177/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/dw534vpWX2/8938917749/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/g2Drmk4TA/JHAYXQemJD/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/G6T2j9q5t/AVLhAzKQDS/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/hj7uRcnFSq/6797106174/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/K9ptsh28t/t96qlK9sC7/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/lmdxhjuv/1370416187/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/moyvppwg/2108189947/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/r6aAX668fH/8361422764/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/snDdw3duY/3917036666/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/wwkvnobk/1252056755/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/xfahqzrc/0809944317/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/Y96EjKAdc/ke0d23u7ZU/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/yZz28uJh23/119jaovfBjET/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/zdbbZ5YK9x/6014092189/10797
+#EXTINF:0 group-title="QC-Info",CA  LCN (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/ZE5BHSu6Jd/1711281974/10797
 #EXTINF:0 group-title="QC-Info",CA LCN (FR) Le Canal Nouvelles HD-185.156.74.135:80@D-230607.done.NC
 http://185.156.74.135:80/boris1234/1234boris/181998.ts
 #EXTINF:0 group-title="QC-Info",CA LCN (FR) Le Canal Nouvelles HD-5.44.253.151:80@D-230607.done.NC
@@ -3654,6 +3794,8 @@ http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94125
 http://monte.mare7.co:8000/live/dXQXjEmsfT/CRHfuJqwzq/154921.ts
 #EXTINF:0 group-title="QC-Other",CA: Frissons TV-srv4.tecnolab.top:8080@D-230603.done
 http://srv4.tecnolab.top:8080/it908/29022020apmz/221483
+#EXTINF:0 group-title="QC-Other",CA: FR Prise 2-sharkytv.com:2082@D-230726.done
+http://sharkytv.com:2082/marwan21/marwan22/213556
 #EXTINF:0 group-title="QC-Other",CA: FR Prise 2-star8iptv.com:2082@D-230721.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213556
 #EXTINF:0 group-title="QC-Other",CA: Fr Rogers TV-7go.xyz:8080@D-230724.done
@@ -3768,6 +3910,8 @@ http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/494
 http://playhispano.org:8080/1128221512/yUFEAr88Lv/253628
 #EXTINF:0 group-title="QC-Other",CA: Prise 2 (FR) HD-a36m.net:8080@D-230712.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72883
+#EXTINF:0 group-title="QC-Other",CA: Prise 2 (FR) HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72883
 #EXTINF:0 group-title="QC-Other",CA: Prise 2 (FR)  SD-appfactory.group:8080@D-230722.done
 http://appfactory.group:8080/FnEZZlRLB9/swWdeNBrbo/6700
 #EXTINF:0 group-title="QC-Other",CA: Rogers TV FR  SD-appfactory.group:8080@D-230722.done
@@ -4092,6 +4236,48 @@ http://hardcoremedia.xyz:80/M68cgtE58a/8138647073/10800
 http://hardcoremedia.xyz:80/UGHTEbs7sH/1941014161/10800
 #EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-hardcoremedia.xyz:80@D-230502.done
 http://hardcoremedia.xyz:80/uxY2s46qa/Z7xv5N1bcq/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/4Zhmhe6ZB/cIXRCQoghJ0W/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/65NwwerwD/Hin6GFTsB3/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/66FENAQrXv/8368285577/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aBu9h9Ead/08Aeo238t5/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aprkqiwv/3902321152/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/drkwkytc/4021140177/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/dw534vpWX2/8938917749/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/g2Drmk4TA/JHAYXQemJD/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/G6T2j9q5t/AVLhAzKQDS/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/hj7uRcnFSq/6797106174/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/K9ptsh28t/t96qlK9sC7/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/lmdxhjuv/1370416187/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/moyvppwg/2108189947/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/r6aAX668fH/8361422764/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/snDdw3duY/3917036666/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/wwkvnobk/1252056755/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/xfahqzrc/0809944317/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/Y96EjKAdc/ke0d23u7ZU/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/yZz28uJh23/119jaovfBjET/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/zdbbZ5YK9x/6014092189/10800
+#EXTINF:0 group-title="QC-Other",CA  PRISE 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/ZE5BHSu6Jd/1711281974/10800
 #EXTINF:0 group-title="QC-Other",CA Prise 2 (FR)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/182049.ts
 #EXTINF:0 group-title="QC-Other",CA  SERIES (FR)-hardcoremedia.xyz:80@D-230502.done
@@ -4184,83 +4370,83 @@ http://185.156.74.135:80/boris1234/1234boris/182223.ts
 http://mains.services/live/wR34qMzGj3/6530858/5e916d68-6198-4a2a-b532-cd9f94492ef2.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : AMI TELE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/5e916d68-6198-4a2a-b532-cd9f94492ef2.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : AMI TELE-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : AMI TELE-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/5e916d68-6198-4a2a-b532-cd9f94492ef2.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : ARTV-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/43c4ed85-7656-4dab-8187-db6012e83317.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : ARTV-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/43c4ed85-7656-4dab-8187-db6012e83317.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : ARTV-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : ARTV-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/43c4ed85-7656-4dab-8187-db6012e83317.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : CANAL D-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/5996302f-9d59-4f2f-97f6-4784654feb1b.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : CANAL D-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : CANAL D-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/5996302f-9d59-4f2f-97f6-4784654feb1b.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : CANAL VIE-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/a8236f86-cd65-4d00-9f8c-c4d37541613e.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : CANAL VIE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/a8236f86-cd65-4d00-9f8c-c4d37541613e.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : CANAL VIE-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : CANAL VIE-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/a8236f86-cd65-4d00-9f8c-c4d37541613e.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : GLOBAL MTL-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/ff269238-14db-41e9-acc1-d8fa04d5b6aa.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : GLOBAL MTL-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : GLOBAL MTL-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/ff269238-14db-41e9-acc1-d8fa04d5b6aa.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : HISTORIA-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/dcab554a-9a23-4802-b516-6e4f6d95b352.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : HISTORIA-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/dcab554a-9a23-4802-b516-6e4f6d95b352.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : HISTORIA-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : HISTORIA-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/dcab554a-9a23-4802-b516-6e4f6d95b352.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : LCN HD-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/5a5b6696-270f-43e2-96a3-67de97cd4b5e.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : LCN HD-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : LCN HD-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/5a5b6696-270f-43e2-96a3-67de97cd4b5e.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : MUSIQUE PLUS-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/ee0c3fb1-e3af-4f6c-a25e-02a30a730a0e.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : MUSIQUE PLUS-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/ee0c3fb1-e3af-4f6c-a25e-02a30a730a0e.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : MUSIQUE PLUS-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : MUSIQUE PLUS-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/ee0c3fb1-e3af-4f6c-a25e-02a30a730a0e.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : TELETOON-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/c44e77a8-329a-4160-ae33-44e77063f64a.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : TELETOON-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/c44e77a8-329a-4160-ae33-44e77063f64a.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : TELETOON-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : TELETOON-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/c44e77a8-329a-4160-ae33-44e77063f64a.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : TV5-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/400eeec3-081d-4ea5-b76e-5041b380de2b.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : TV5-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/400eeec3-081d-4ea5-b76e-5041b380de2b.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : TV5-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : TV5-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/400eeec3-081d-4ea5-b76e-5041b380de2b.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : TVA MTL HD-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/448aa669-c951-4444-b0d8-7d2c9db39efb.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : TVA MTL HD-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : TVA MTL HD-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/448aa669-c951-4444-b0d8-7d2c9db39efb.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : UNIS TV-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/d73addef-f44d-4597-9902-4d62174cb9c4.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : UNIS TV-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/d73addef-f44d-4597-9902-4d62174cb9c4.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : UNIS TV-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : UNIS TV-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/d73addef-f44d-4597-9902-4d62174cb9c4.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : YOOPA-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/62994f61-2514-4e93-878d-94d2d6f445dc.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : YOOPA-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/62994f61-2514-4e93-878d-94d2d6f445dc.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : YOOPA-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : YOOPA-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/62994f61-2514-4e93-878d-94d2d6f445dc.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : ZESTE-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/935ca89f-201b-48fa-ad10-c2f2f99907d0.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : ZESTE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/935ca89f-201b-48fa-ad10-c2f2f99907d0.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : ZESTE-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : ZESTE-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/935ca89f-201b-48fa-ad10-c2f2f99907d0.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : Z TELE-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/925cecc5-64db-4d35-8c17-38e6dc945bff.m3u
 #EXTINF:0 group-title="QC-Other",FRCAN : Z TELE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/925cecc5-64db-4d35-8c17-38e6dc945bff.m3u
-#EXTINF:0 group-title="QC-Other",FRCAN : Z TELE-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Other",FRCAN : Z TELE-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/925cecc5-64db-4d35-8c17-38e6dc945bff.m3u
 #EXTINF:0 group-title="QC-Sport",[CA-FR] TVA SPORTS-hd.turki.stream:8080@D-230703.done
 http://hd.turki.stream:8080/aydnfrck/6CtVgjUCScMA/93172
@@ -5662,6 +5848,12 @@ http://7go.xyz:8080/Catiane76t/7687439/308890
 http://balkanfree.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94172
 #EXTINF:0 group-title="QC-Sport",CA: RDS 2-bestsave.ltd:80@D-230709.done
 http://bestsave.ltd:80/live/5544332211/1122334455/501174.ts
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Brisa01/brisa190/233538
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/233538
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Listandb72736as/Kejenbrb737/233538
 #EXTINF:0 group-title="QC-Sport",CA: RDS 2-golplay.top:8080@D-230725.done
 http://golplay.top:8080/live/211659898957889/4411659898957889/23804.ts
 #EXTINF:0 group-title="QC-Sport",CA: RDS 2-ipro.tv:80@D-230714.done
@@ -5824,7 +6016,7 @@ http://linevip1.top:8080/live/VIP0184168122893600/31681228936/5508.ts
 http://mains.services/live/wR34qMzGj3/6530858/65b625fa-62d3-44a5-9be1-2d895fb96cef.m3u
 #EXTINF:0 group-title="QC-Sport",CA : TSN 1-mains.services@D-230712.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/65b625fa-62d3-44a5-9be1-2d895fb96cef.m3u
-#EXTINF:0 group-title="QC-Sport",CA : TSN 1-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Sport",CA : TSN 1-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/65b625fa-62d3-44a5-9be1-2d895fb96cef.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-myserveriptv.com:2082@D-230705.done
 http://myserveriptv.com:2082/Derkaoui/fDmZMAtQUu/32046
@@ -5886,6 +6078,8 @@ http://sansat.net:25461/02052328252119/02052328252119/94199
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94199
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94199
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1-sharkytv.com:2082@D-230726.done
+http://sharkytv.com:2082/marwan21/marwan22/32046
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-splaytv.io:80@D-230717.done
 http://splaytv.io:80/priscila389201gas/pris689281cila/139721
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-splaytv.io:80@D-230717.done
@@ -5946,6 +6140,8 @@ http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308928
 http://7go.xyz:8080/JulianaToronto/ju34an3836/308928
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1 HD-a36m.net:8080@D-230612.done
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72942
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1 HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72942
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1  HD-appfactory.group:8080@D-230722.done
 http://appfactory.group:8080/FnEZZlRLB9/swWdeNBrbo/6664
 #EXTINF:0 group-title="QC-Sport",CA:TSN 1 HD-fast.bounceme.net:8080@D-230703.done
@@ -6150,7 +6346,7 @@ http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/771
 http://linevip1.top:8080/live/VIP0184168122893600/31681228936/5509.ts
 #EXTINF:0 group-title="QC-Sport",CA : TSN 2-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/f1ceaa07-9046-4314-bd17-736d28e3ef2d.m3u
-#EXTINF:0 group-title="QC-Sport",CA : TSN 2-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Sport",CA : TSN 2-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/f1ceaa07-9046-4314-bd17-736d28e3ef2d.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-myserveriptv.com:2082@D-230705.done
 http://myserveriptv.com:2082/Derkaoui/fDmZMAtQUu/32047
@@ -6214,6 +6410,8 @@ http://sansat.net:25461/02052328252119/02052328252119/94200
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94200
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94200
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2-sharkytv.com:2082@D-230726.done
+http://sharkytv.com:2082/marwan21/marwan22/32047
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-splaytv.io:80@D-230717.done
 http://splaytv.io:80/priscila389201gas/pris689281cila/164919
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-splaytv.io:80@D-230717.done
@@ -6260,6 +6458,8 @@ http://7go.xyz:8080/brunachianelli/bch825536/308929
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72944
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2 HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72944
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2 HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72944
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2  HD-appfactory.group:8080@D-230703.done
 http://appfactory.group:8080/DWE6ci3KTN/CciNyfHTce/6665
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2  HD-appfactory.group:8080@D-230722.done
@@ -6482,7 +6682,7 @@ http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/772
 http://linevip1.top:8080/live/VIP0184168122893600/31681228936/5510.ts
 #EXTINF:0 group-title="QC-Sport",CA : TSN 3-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/ebfd864a-e00e-4c3b-beae-cc1ec3f1d01a.m3u
-#EXTINF:0 group-title="QC-Sport",CA : TSN 3-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Sport",CA : TSN 3-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/ebfd864a-e00e-4c3b-beae-cc1ec3f1d01a.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-myserveriptv.com:2082@D-230705.done
 http://myserveriptv.com:2082/Derkaoui/fDmZMAtQUu/32048
@@ -6544,6 +6744,8 @@ http://sansat.net:25461/02052328252119/02052328252119/94201
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94201
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94201
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3-sharkytv.com:2082@D-230726.done
+http://sharkytv.com:2082/marwan21/marwan22/32048
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-splaytv.io:80@D-230717.done
 http://splaytv.io:80/priscila389201gas/pris689281cila/139698
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-splaytv.io:80@D-230717.done
@@ -6594,6 +6796,8 @@ http://7go.xyz:8080/brunachianelli/bch825536/308930
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72946
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3 HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72946
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3 HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72946
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3  HD-appfactory.group:8080@D-230722.done
 http://appfactory.group:8080/FnEZZlRLB9/swWdeNBrbo/6666
 #EXTINF:0 group-title="QC-Sport",CA:TSN 3 HD-fast.bounceme.net:8080@D-230703.done
@@ -6802,7 +7006,7 @@ http://linevip1.top:8080/live/VIP0184168122893600/31681228936/5511.ts
 http://mains.services/live/wR34qMzGj3/6530858/64074fc6-43e9-4e52-92b9-838b2f21a22c.m3u
 #EXTINF:0 group-title="QC-Sport",CA : TSN 4-mains.services@D-230712.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/64074fc6-43e9-4e52-92b9-838b2f21a22c.m3u
-#EXTINF:0 group-title="QC-Sport",CA : TSN 4-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Sport",CA : TSN 4-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/64074fc6-43e9-4e52-92b9-838b2f21a22c.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23734.ts
@@ -6862,6 +7066,8 @@ http://sansat.net:25461/02052328252119/02052328252119/94202
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94202
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94202
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4-sharkytv.com:2082@D-230726.done
+http://sharkytv.com:2082/marwan21/marwan22/32049
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-splaytv.io:80@D-230717.done
 http://splaytv.io:80/priscila389201gas/pris689281cila/139722
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-splaytv.io:80@D-230717.done
@@ -6934,6 +7140,8 @@ http://66.70.177.156:25461/barjohnsn/1234/209607
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72948
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4 HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72948
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4 HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72948
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4  HD-appfactory.group:8080@D-230722.done
 http://appfactory.group:8080/FnEZZlRLB9/swWdeNBrbo/6667
 #EXTINF:0 group-title="QC-Sport",CA:TSN 4 HD-fast.bounceme.net:8080@D-230703.done
@@ -7156,7 +7364,7 @@ http://linevip1.top:8080/live/VIP0184168122893600/31681228936/5512.ts
 http://mains.services/live/wR34qMzGj3/6530858/255a5c0b-98b8-48d3-96ac-2aa93ee480a5.m3u
 #EXTINF:0 group-title="QC-Sport",CA : TSN 5-mains.services@D-230712.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/255a5c0b-98b8-48d3-96ac-2aa93ee480a5.m3u
-#EXTINF:0 group-title="QC-Sport",CA : TSN 5-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Sport",CA : TSN 5-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/255a5c0b-98b8-48d3-96ac-2aa93ee480a5.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-myserveriptv.com:2082@D-230705.done
 http://myserveriptv.com:2082/Derkaoui/fDmZMAtQUu/32480
@@ -7218,6 +7426,8 @@ http://sansat.net:25461/02052328252119/02052328252119/94203
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94203
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94203
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5-sharkytv.com:2082@D-230726.done
+http://sharkytv.com:2082/marwan21/marwan22/32480
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-splaytv.io:80@D-230717.done
 http://splaytv.io:80/priscila389201gas/pris689281cila/139699
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-splaytv.io:80@D-230717.done
@@ -7266,6 +7476,8 @@ http://7go.xyz:8080/brunachianelli/bch825536/308933
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72950
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5 HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72950
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5 HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72950
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5  HD-appfactory.group:8080@D-230722.done
 http://appfactory.group:8080/FnEZZlRLB9/swWdeNBrbo/6668
 #EXTINF:0 group-title="QC-Sport",CA:TSN 5 HD-fast.bounceme.net:8080@D-230703.done
@@ -7398,6 +7610,8 @@ http://s.showplustv.pro:80/mustafaali909/8744367/64298
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72955
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports (FR) HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72955
+#EXTINF:0 group-title="QC-Sport",CA: TVA Sports (FR) HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72955
 #EXTINF:0 group-title="QC-Sport",CA: TVa Sports-7go.xyz:8080@D-230715.done
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/308939
 #EXTINF:0 group-title="QC-Sport",CA: TVa Sports-7go.xyz:8080@D-230717.done
@@ -7586,6 +7800,8 @@ http://uniontvs.com:8080/essam6230/trabia62300/379048
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72956
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports 2 (FR) HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72956
+#EXTINF:0 group-title="QC-Sport",CA: TVA Sports 2 (FR) HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72956
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS 2-2678ydr.xyz:80@D-230723.done
 http://2678ydr.xyz:80/live/Cagdas39@/16@Agus2022Cgds/229300.ts
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS 2-2678ydr.xyz:80@D-230723.done
@@ -7748,7 +7964,7 @@ http://appfactory.group:8080/FnEZZlRLB9/swWdeNBrbo/6673
 http://ipro.tv:80/nLBh9ijt53PW/IJdcEsuuGk/10727
 #EXTINF:0 group-title="QC-Sport",CA : TVA SPORTS HD-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/fd9575b2-f9b3-4036-a578-f7a2e1e96d97.m3u
-#EXTINF:0 group-title="QC-Sport",CA : TVA SPORTS HD-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Sport",CA : TVA SPORTS HD-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/fd9575b2-f9b3-4036-a578-f7a2e1e96d97.m3u
 #EXTINF:0 group-title="QC-Sport",CA: TVA Sports HD-mrcool.nomorecable.me:8000@D-230706.done
 http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/99200
@@ -7896,6 +8112,48 @@ http://hardcoremedia.xyz:80/iommxpec/4654439933/10801
 http://hardcoremedia.xyz:80/UGHTEbs7sH/1941014161/10801
 #EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-hardcoremedia.xyz:80@D-230502.done
 http://hardcoremedia.xyz:80/uxY2s46qa/Z7xv5N1bcq/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/4Zhmhe6ZB/cIXRCQoghJ0W/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/65NwwerwD/Hin6GFTsB3/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/66FENAQrXv/8368285577/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aBu9h9Ead/08Aeo238t5/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aprkqiwv/3902321152/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/drkwkytc/4021140177/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/dw534vpWX2/8938917749/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/g2Drmk4TA/JHAYXQemJD/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/G6T2j9q5t/AVLhAzKQDS/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/hj7uRcnFSq/6797106174/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/K9ptsh28t/t96qlK9sC7/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/lmdxhjuv/1370416187/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/moyvppwg/2108189947/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/r6aAX668fH/8361422764/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/snDdw3duY/3917036666/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/wwkvnobk/1252056755/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/xfahqzrc/0809944317/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/Y96EjKAdc/ke0d23u7ZU/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/yZz28uJh23/119jaovfBjET/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/zdbbZ5YK9x/6014092189/10801
+#EXTINF:0 group-title="QC-Sport",CA  RDS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/ZE5BHSu6Jd/1711281974/10801
 #EXTINF:0 group-title="QC-Sport",CA RDS (FR)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/182052.ts
 #EXTINF:0 group-title="QC-Sport",CA RDS (HD)-cdn.erost.cc:8080@D-230717.done
@@ -7952,6 +8210,48 @@ http://cdn.erost.us:8080/loginquarto/70283372/72351
 http://apontv.pm:80/live/375617456966824/1593574628/37188.ts
 #EXTINF:0 group-title="QC-Sport",CA  RDS-yahya.top:80@D-230710.done
 http://yahya.top:80/live/13538810817626027/1593574628/37188.ts
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/65NwwerwD/Hin6GFTsB3/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/66FENAQrXv/8368285577/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aBu9h9Ead/08Aeo238t5/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aprkqiwv/3902321152/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/drkwkytc/4021140177/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/dw534vpWX2/8938917749/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/g2Drmk4TA/JHAYXQemJD/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/G6T2j9q5t/AVLhAzKQDS/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/hj7uRcnFSq/6797106174/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/K9ptsh28t/t96qlK9sC7/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/lmdxhjuv/1370416187/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/moyvppwg/2108189947/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/r6aAX668fH/8361422764/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/snDdw3duY/3917036666/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/wwkvnobk/1252056755/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/xfahqzrc/0809944317/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/Y96EjKAdc/ke0d23u7ZU/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/yZz28uJh23/119jaovfBjET/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/zdbbZ5YK9x/6014092189/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/ZE5BHSu6Jd/1711281974/10802
+#EXTINF:0 group-title="QC-Sport",CA  RDS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/4Zhmhe6ZB/cIXRCQoghJ0W/10802
 #EXTINF:0 group-title="QC-Sport",CA RDS 2 (FR)-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/182056.ts
 #EXTINF:0 group-title="QC-Sport",CA  RDS 2-apontv.pm:80@D-230714.done
@@ -8018,6 +8318,8 @@ http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/154815
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72943
 #EXTINF:0 group-title="QC-Sport",CA TSN 1 HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72943
+#EXTINF:0 group-title="QC-Sport",CA TSN 1 HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72943
 #EXTINF:0 group-title="QC-Sport",CA  TSN 1 HD-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/82089
 #EXTINF:0 group-title="QC-Sport",CA  TSN 1 HD-ok4.club:25461@D-230601.done
@@ -8092,6 +8394,8 @@ http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/154816
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72945
 #EXTINF:0 group-title="QC-Sport",CA TSN 2 HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72945
+#EXTINF:0 group-title="QC-Sport",CA TSN 2 HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72945
 #EXTINF:0 group-title="QC-Sport",CA  TSN 2 HD-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/82090
 #EXTINF:0 group-title="QC-Sport",CA  TSN 2 HD-ok4.club:25461@D-230601.done
@@ -8150,6 +8454,8 @@ http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/154817
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72947
 #EXTINF:0 group-title="QC-Sport",CA TSN 3 HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72947
+#EXTINF:0 group-title="QC-Sport",CA TSN 3 HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72947
 #EXTINF:0 group-title="QC-Sport",CA  TSN 3 HD-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/82091
 #EXTINF:0 group-title="QC-Sport",CA TSN 3 HD -nocable.cc:8080@D-230225.done
@@ -8252,6 +8558,8 @@ http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/154818
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72949
 #EXTINF:0 group-title="QC-Sport",CA TSN 4 HD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72949
+#EXTINF:0 group-title="QC-Sport",CA TSN 4 HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72949
 #EXTINF:0 group-title="QC-Sport",CA  TSN 4 HD-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/82092
 #EXTINF:0 group-title="QC-Sport",CA  TSN 4 HD-ok4.club:25461@D-230601.done
@@ -8336,6 +8644,8 @@ http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/154819
 http://a36m.net:8080/258339644853/132832082963f7c30ead7c9/72951
 #EXTINF:0 group-title="QC-Sport",CA TSN 5 HD-a36m.net:8080@D-230712.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/72951
+#EXTINF:0 group-title="QC-Sport",CA TSN 5 HD-a36m.net:8080@D-230726.done
+http://a36m.net:8080/CSNVDSZMOJCIE/1234567/72951
 #EXTINF:0 group-title="QC-Sport",CA  TSN 5 HD-live.iptv.tube:22461@D-230620.done
 http://live.iptv.tube:22461/y6f8v6m4/w4mv2rc9/82093
 #EXTINF:0 group-title="QC-Sport",CA TSN 5 HD -nocable.cc:8080@D-230511.done
@@ -8366,6 +8676,20 @@ http://cdn.erost.us:8080/21980101066/98654156/72487
 http://cdn.erost.us:8080/Khyara./6478634439/72487
 #EXTINF:0 group-title="QC-Sport",CA TSN 5 UHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/loginquarto/70283372/72487
+#EXTINF:0 group-title="QC-Sport",CA  TSN SPORTS 1-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Brisa01/brisa190/227510
+#EXTINF:0 group-title="QC-Sport",CA  TSN SPORTS 1-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/227510
+#EXTINF:0 group-title="QC-Sport",CA  TSN SPORTS 2-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Brisa01/brisa190/227511
+#EXTINF:0 group-title="QC-Sport",CA  TSN SPORTS 3-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Brisa01/brisa190/227512
+#EXTINF:0 group-title="QC-Sport",CA  TSN SPORTS 4-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Brisa01/brisa190/227513
+#EXTINF:0 group-title="QC-Sport",CA  TSN SPORTS 5-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Brisa01/brisa190/227514
+#EXTINF:0 group-title="QC-Sport",CA  TSN SPORTS 5-daleplaypro.com:8080@D-230726.done
+http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/227514
 #EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-hardcoremedia.xyz:80@D-230502.done
 http://hardcoremedia.xyz:80/85AET5acs/ePZmaMj2d/10817
 #EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-hardcoremedia.xyz:80@D-230502.done
@@ -8374,6 +8698,48 @@ http://hardcoremedia.xyz:80/iommxpec/4654439933/10817
 http://hardcoremedia.xyz:80/UGHTEbs7sH/1941014161/10817
 #EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-hardcoremedia.xyz:80@D-230502.done
 http://hardcoremedia.xyz:80/uxY2s46qa/Z7xv5N1bcq/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/4Zhmhe6ZB/cIXRCQoghJ0W/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/65NwwerwD/Hin6GFTsB3/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/66FENAQrXv/8368285577/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aBu9h9Ead/08Aeo238t5/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aprkqiwv/3902321152/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/drkwkytc/4021140177/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/dw534vpWX2/8938917749/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/g2Drmk4TA/JHAYXQemJD/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/G6T2j9q5t/AVLhAzKQDS/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/hj7uRcnFSq/6797106174/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/K9ptsh28t/t96qlK9sC7/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/lmdxhjuv/1370416187/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/moyvppwg/2108189947/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/r6aAX668fH/8361422764/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/snDdw3duY/3917036666/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/wwkvnobk/1252056755/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/xfahqzrc/0809944317/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/Y96EjKAdc/ke0d23u7ZU/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/yZz28uJh23/119jaovfBjET/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/zdbbZ5YK9x/6014092189/10817
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/ZE5BHSu6Jd/1711281974/10817
 #EXTINF:0 group-title="QC-Sport",CA  TVA Sports-23.227.132.58:25461@D-230621.done
 http://23.227.132.58:25461/Barb/barb1957/34395
 #EXTINF:0 group-title="QC-Sport",CA  TVA Sports-23.227.132.58:25461@D-230621.done
@@ -8438,6 +8804,10 @@ http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/141256.ts
 http://tv.pro-ott.com:25443/live/V19qAG8a93fBU/ygcJUsCw4T/141256.ts
 #EXTINF:0 group-title="QC-Sport",CA TVA Sports-tv.pro-ott.com:25443@D-230718.done
 http://tv.pro-ott.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/141256.ts
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports-tv.pro-ott.com:25443@D-230726.done
+http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/141256.ts
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports-tv.pro-ott.com:25443@D-230726.done
+http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/141256.ts
 #EXTINF:0 group-title="QC-Sport",CA TVA Sports-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/LamineNHD/N1234567A7/141256.ts
 #EXTINF:0 group-title="QC-Sport",CA TVA Sports-tv.viptvpro.com:25443@D-230721.done
@@ -8448,6 +8818,8 @@ http://tv.viptvpro.com:25443/live/jjero6457/DIP25IZOQ3/141256.ts
 http://tv.viptvpro.com:25443/live/V59q29W2noX7/Suu2F71Mt3/141256.ts
 #EXTINF:0 group-title="QC-Sport",CA TVA Sports-tv.viptvpro.com:25443@D-230724.done
 http://tv.viptvpro.com:25443/live/samirayyad/AAZZEERRTT/141256.ts
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports-tvpro.vprotv.com:25443@D-230726.done
+http://tvpro.vprotv.com:25443/live/KBFIZRDWA7/QNSYSQTQGK/141256.ts
 #EXTINF:0 group-title="QC-Sport",CA TVA SPORTS-vegasizle.xyz:8080@D-230624.done.NC.dead
 http://vegasizle.xyz:8080/SU4HCLdLA6sps754/zPEAG7RXa8ujIjzQ/533154
 #EXTINF:0 group-title="QC-Sport",CA TVA SPORTS-vegasizle.xyz:8080@D-230703.done.NC.dead
@@ -8472,6 +8844,48 @@ http://hardcoremedia.xyz:80/iommxpec/4654439933/10818
 http://hardcoremedia.xyz:80/UGHTEbs7sH/1941014161/10818
 #EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-hardcoremedia.xyz:80@D-230502.done
 http://hardcoremedia.xyz:80/uxY2s46qa/Z7xv5N1bcq/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/65NwwerwD/Hin6GFTsB3/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/66FENAQrXv/8368285577/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aBu9h9Ead/08Aeo238t5/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/aprkqiwv/3902321152/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/drkwkytc/4021140177/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/dw534vpWX2/8938917749/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/g2Drmk4TA/JHAYXQemJD/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/G6T2j9q5t/AVLhAzKQDS/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/hj7uRcnFSq/6797106174/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/K9ptsh28t/t96qlK9sC7/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/lmdxhjuv/1370416187/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/moyvppwg/2108189947/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/r6aAX668fH/8361422764/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/snDdw3duY/3917036666/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/wwkvnobk/1252056755/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/xfahqzrc/0809944317/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/Y96EjKAdc/ke0d23u7ZU/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/yZz28uJh23/119jaovfBjET/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/zdbbZ5YK9x/6014092189/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/ZE5BHSu6Jd/1711281974/10818
+#EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2 (FR)-moboton.com:80@D-230726.done
+http://moboton.com:80/4Zhmhe6ZB/cIXRCQoghJ0W/10818
 #EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2-apontv.pm:80@D-230709.done
 http://apontv.pm:80/live/231898749678226/1593574628/37197.ts
 #EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2-apontv.pm:80@D-230714.done
@@ -8528,6 +8942,10 @@ http://tv.pro-ott.com:25443/live/V19qAG8a93fBU/ygcJUsCw4T/141257.ts
 http://tv.pro-ott.com:25443/live/GU8G53FH64/XNWL4HP2Y2/141257.ts
 #EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-tv.pro-ott.com:25443@D-230718.done
 http://tv.pro-ott.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/141257.ts
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-tv.pro-ott.com:25443@D-230726.done
+http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/141257.ts
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-tv.pro-ott.com:25443@D-230726.done
+http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/141257.ts
 #EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/LamineNHD/N1234567A7/141257.ts
 #EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-tv.viptvpro.com:25443@D-230721.done
@@ -8538,6 +8956,8 @@ http://tv.viptvpro.com:25443/live/jjero6457/DIP25IZOQ3/141257.ts
 http://tv.viptvpro.com:25443/live/V59q29W2noX7/Suu2F71Mt3/141257.ts
 #EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-tv.viptvpro.com:25443@D-230724.done
 http://tv.viptvpro.com:25443/live/samirayyad/AAZZEERRTT/141257.ts
+#EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-tvpro.vprotv.com:25443@D-230726.done
+http://tvpro.vprotv.com:25443/live/KBFIZRDWA7/QNSYSQTQGK/141257.ts
 #EXTINF:0 group-title="QC-Sport",CA TVA Sports 2-vip.dom1tv.com:25443@D-230723.done
 http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/141257.ts
 #EXTINF:0 group-title="QC-Sport",CA  TVA SPORTS 2-yahya.top:80@D-230710.done
@@ -8630,7 +9050,7 @@ http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/107678
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/66107
 #EXTINF:0 group-title="QC-Sport",FRCAN : RDS-mains.services@D-230712.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/d85f88da-f1ca-417d-a2f3-e099ecf2f5ce.m3u
-#EXTINF:0 group-title="QC-Sport",FRCAN : RDS-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Sport",FRCAN : RDS-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/d85f88da-f1ca-417d-a2f3-e099ecf2f5ce.m3u
 #EXTINF:0 group-title="QC-Sport",SP: CA: TVA Sports 1-tv.titanicos.net:2095@D-230717.done
 http://tv.titanicos.net:2095/Jgonz/Restream/8147.ts
@@ -10054,7 +10474,7 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761389
 http://mains.services/live/wR34qMzGj3/6530858/4aea29e6-822a-4516-9300-ff6f26573005.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 1-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/4aea29e6-822a-4516-9300-ff6f26573005.m3u
-#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 1-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 1-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/4aea29e6-822a-4516-9300-ff6f26573005.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 1-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23789.ts
@@ -10190,7 +10610,7 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761390
 http://mains.services/live/wR34qMzGj3/6530858/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 2-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
-#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 2-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 2-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 2-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23790.ts
@@ -10310,7 +10730,7 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761391
 http://mains.services/live/wR34qMzGj3/6530858/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 3-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
-#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 3-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 3-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 3-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23791.ts
@@ -10430,7 +10850,7 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761392
 http://mains.services/live/wR34qMzGj3/6530858/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 4-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
-#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 4-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 4-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 4-vipgature.top:8080@D-230627.done
 http://vipgature.top:8080/live/VIP0180168537735303/31685377353/5437.ts
@@ -12920,13 +13340,13 @@ http://ae2.aatvbox.club:8880/6ms210011/88738116/28119
 http://ae2.aatvbox.club:8880/AALM4456/1571328912/28119
 #EXTINF:0 group-title="QC-Super Ecran",FR191:A LA CARTE 10-ae2.aatvbox.club:8880@D-230510.done
 http://ae2.aatvbox.club:8880/29us043008/asdf3dw34r/28118
-#EXTINF:0 group-title="QC-Super Ecran",FRCAN : SUPER ECRAN 2-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Super Ecran",FRCAN : SUPER ECRAN 2-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/e74b0c40-ecb1-4a0c-818e-c3e92131bb29.m3u
 #EXTINF:0 group-title="QC-Super Ecran",FRCAN : SUPER ECRAN 3-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/660776a6-fee2-4cf8-9c48-4fd163919a15.m3u
-#EXTINF:0 group-title="QC-Super Ecran",FRCAN : SUPER ECRAN 3-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Super Ecran",FRCAN : SUPER ECRAN 3-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/660776a6-fee2-4cf8-9c48-4fd163919a15.m3u
-#EXTINF:0 group-title="QC-Super Ecran",FRCAN : SUPER ECRAN 4-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Super Ecran",FRCAN : SUPER ECRAN 4-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/a0bab8cb-7190-46e5-aff1-cceea374b934.m3u
 #EXTINF:0 group-title="QC-Super Ecran",G PLUS - A LA CARTE 1-germanydnsx13.com:8080@D-230525.done
 http://germanydnsx13.com:8080/furkan12/12furkan/75719
@@ -13234,7 +13654,7 @@ http://vipgature.top:8080/live/VIP0180168537735303/31685377353/1957.ts
 http://b-top.live:80/play/WhxL0zgjweD4vbwGdbQpcbl0KNYEFeTcG5dO3G947i0/ts
 #EXTINF:0 group-title="QC-Super Ecran",US-720 : LOGO TV-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/9ec4f528-51b5-41bf-9345-0a0a3c0df020.m3u
-#EXTINF:0 group-title="QC-Super Ecran",US-720 : LOGO TV-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Super Ecran",US-720 : LOGO TV-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/9ec4f528-51b5-41bf-9345-0a0a3c0df020.m3u
 #EXTINF:0 group-title="QC-Super Ecran",US-HD: LOGO-alienstreams.fi:7070@D-230416.done
 http://alienstreams.fi:7070/nordiciptvone18328/Magnus957/186668.ts
@@ -13344,7 +13764,7 @@ http://159734.mavitv.eu:80/ces192/BlkounQGj4/102149
 http://mains.services/live/wR34qMzGj3/6530858/b0d4ae03-c536-45b7-8242-5d7f4c2fef84.m3u
 #EXTINF:0 group-title="QC-Super Ecran",US- LOGO TV-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/b0d4ae03-c536-45b7-8242-5d7f4c2fef84.m3u
-#EXTINF:0 group-title="QC-Super Ecran",US- LOGO TV-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="QC-Super Ecran",US- LOGO TV-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/b0d4ae03-c536-45b7-8242-5d7f4c2fef84.m3u
 #EXTINF:0 group-title="QC-Super Ecran",US-LOGO TV-n1.koalatv.xyz:2052@D-230619.done
 http://n1.koalatv.xyz:2052/1/49974484/98531
@@ -13510,7 +13930,7 @@ http://iptvzeus.com:25461/QHEEBTEZU0OZQNJ/UZPGK5RM2XCMTGA/94244
 http://mains.services/live/wR34qMzGj3/6530858/3be0557f-f67b-4ce4-8b05-5142ed952870.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET 360-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/3be0557f-f67b-4ce4-8b05-5142ed952870.m3u
-#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET 360-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET 360-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/3be0557f-f67b-4ce4-8b05-5142ed952870.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23696.ts
@@ -13638,7 +14058,7 @@ http://iptvzeus.com:25461/QHEEBTEZU0OZQNJ/UZPGK5RM2XCMTGA/94245
 http://mains.services/live/wR34qMzGj3/6530858/98f22436-c862-4a90-b3c3-7286bdf1db03.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET EAST-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/98f22436-c862-4a90-b3c3-7286bdf1db03.m3u
-#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET EAST-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET EAST-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/98f22436-c862-4a90-b3c3-7286bdf1db03.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-ottsansat.org:25461@D-230714.done
 http://ottsansat.org:25461/02024748893799/O51VG32STP476FL/94245
@@ -13784,7 +14204,7 @@ http://iptvzeus.com:25461/QHEEBTEZU0OZQNJ/UZPGK5RM2XCMTGA/94246
 http://mains.services/live/wR34qMzGj3/6530858/dc379409-ee90-4382-9d9c-8d60ddd14302.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET ONE-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/dc379409-ee90-4382-9d9c-8d60ddd14302.m3u
-#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET ONE-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET ONE-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/dc379409-ee90-4382-9d9c-8d60ddd14302.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23697.ts
@@ -13912,7 +14332,7 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761490
 http://mains.services/live/wR34qMzGj3/6530858/6bbaa88e-b678-416e-b087-34da238bf88c.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET PACIFIC-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/6bbaa88e-b678-416e-b087-34da238bf88c.m3u
-#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET PACIFIC-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET PACIFIC-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/6bbaa88e-b678-416e-b087-34da238bf88c.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23698.ts
@@ -14104,7 +14524,7 @@ http://iptvzeus.com:25461/QHEEBTEZU0OZQNJ/UZPGK5RM2XCMTGA/94249
 http://mains.services/live/wR34qMzGj3/6530858/3317da2f-9af5-48d1-a082-b088b97a4b0d.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WEST-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/3317da2f-9af5-48d1-a082-b088b97a4b0d.m3u
-#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WEST-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WEST-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/3317da2f-9af5-48d1-a082-b088b97a4b0d.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23693.ts
@@ -14246,7 +14666,7 @@ http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761491
 http://mains.services/live/wR34qMzGj3/6530858/37b41623-b4f0-4d28-b916-8c8ea6316f29.m3u
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WORLD-mains.services@D-230714.done.NC.dead
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/37b41623-b4f0-4d28-b916-8c8ea6316f29.m3u
-#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WORLD-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WORLD-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/37b41623-b4f0-4d28-b916-8c8ea6316f29.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WORLD-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/23699.ts
@@ -14348,7 +14768,7 @@ http://sevi.2022spn.net:8080/Angola/Ang0LA516/8069
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/8070
 #EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WWE-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/07218624-0173-4371-ac2c-afd7b6b1e0b4.m3u
-#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WWE-mains.services@D-230726.NC.done
+#EXTINF:0 group-title="US-SportsNet",CA : SPORTSNET WWE-mains.services@D-230726.done.NC
 http://mains.services/live/Grahxen/3docpGDalU/07218624-0173-4371-ac2c-afd7b6b1e0b4.m3u
 #EXTINF:0 group-title="US-SportsNet",CA: Spt - Sportsnet 360-7go.xyz:8080@D-230724.done
 http://7go.xyz:8080/JulianaToronto/ju34an3836/308907
