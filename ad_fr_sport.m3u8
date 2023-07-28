@@ -1,5 +1,5 @@
-#EXTM3U 7881
-#DATE 2023-07-27 08:56
+#EXTM3U 7954
+#DATE 2023-07-27 19:40
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -2348,6 +2348,8 @@ http://tv.trexiptv.com:80/helene/helene/507386
 http://tvim.live:80/play/4f-c37DwxR1A6ZoN9xt2vrp5mYCwHQmb4iN78oyuTcA/ts
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HD-tvim.live:80@D-230625.done
 http://tvim.live:80/play/wWk2UVLJHsYXoKQ089seCJETNJREZN1Z3w5u9r2kTQ8/ts
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HD-uniontvs.com:8080@D-230727.done
+http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/73937
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HD-watch-now.xyz:8080@D-230623.done
 http://watch-now.xyz:8080/Radikarls/gazzagazza/65960
 #EXTINF:0 group-title="FR-Bein",FR- beIN SPORTS 1 HEVC ™-4k.boxip.org:8080@D-230525.done
@@ -2990,6 +2992,8 @@ http://tvim.live:80/play/wWk2UVLJHsYXoKQ089seCK5QLYxvQyI6ZzZmVgvlBNg/ts
 http://ultrontv.xyz:80/Darko123/Darko78/139768
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HD-uniontvs.com:8080@D-230725.done
 http://uniontvs.com:8080/essam6230/trabia62300/73938
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HD-uniontvs.com:8080@D-230727.done
+http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/73938
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HD-watch-now.xyz:8080@D-230623.done
 http://watch-now.xyz:8080/Radikarls/gazzagazza/65962
 #EXTINF:0 group-title="FR-Bein",FR- beIN Sports 2ⓧ HD-xplatinmedia.com:8080@D-230523.done
@@ -3630,6 +3634,8 @@ http://ultrontv.xyz:80/1Stafford4930/XVjif2AdQk/139769
 http://ultrontv.xyz:80/Lori123/Lori78/139769
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HD-uniontvs.com:8080@D-230725.done
 http://uniontvs.com:8080/essam6230/trabia62300/73939
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HD-uniontvs.com:8080@D-230727.done
+http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/73939
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HD-watch-now.xyz:8080@D-230623.done
 http://watch-now.xyz:8080/Radikarls/gazzagazza/65963
 #EXTINF:0 group-title="FR-Bein",FR-beIN Sports 3ⓧ HD-xplatinmedia.com:8080@D-230709.done
@@ -4448,6 +4454,22 @@ http://pandar.cc:25461/MgNqv7fp/cxxHRJkbXmkthJt/189505
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/143863.ts
 #EXTINF:0 group-title="FR-Canal+",(C+ CAR) - CANAL+ SPORT WEEKEND HD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/143863.ts
+#EXTINF:0 group-title="FR-Canal+",(C+ CAR) - CANAL+ SPORT WEEKEND HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/143863.ts
+#EXTINF:0 group-title="FR-Canal+",(C+ CAR) - CANAL+ SPORT WEEKEND HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/143863.ts
+#EXTINF:0 group-title="FR-Canal+",(C+ CAR) - CANAL+ SPORT WEEKEND HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/143863.ts
+#EXTINF:0 group-title="FR-Canal+",(C+ CAR) - CANAL+ SPORT WEEKEND HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/143863.ts
+#EXTINF:0 group-title="FR-Canal+",(C+ CAR) - CANAL+ SPORT WEEKEND HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/143863.ts
+#EXTINF:0 group-title="FR-Canal+",(C+ CAR) - CANAL+ SPORT WEEKEND HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/143863.ts
+#EXTINF:0 group-title="FR-Canal+",(C+ CAR) - CANAL+ SPORT WEEKEND HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/143863.ts
+#EXTINF:0 group-title="FR-Canal+",(C+ CAR) - CANAL+ SPORT WEEKEND HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/143863.ts
 #EXTINF:0 group-title="FR-Canal+",(C+ CAR) - CANAL+ SPORT WEEKEND HD-tv.viptvpro.com:25443@D-230721.done
 http://tv.viptvpro.com:25443/live/V59q29W2noX7/Suu2F71Mt3/143863.ts
 #EXTINF:0 group-title="FR-Canal+",(C+ CAR) - CANAL+ SPORT WEEKEND HD-tvpro.vprotv.com:25443@D-230726.done
@@ -6562,6 +6584,12 @@ http://portal.magic8kip.tv:80/admin123/admin123/506556
 http://pro.ipcover.tv:8080/USERN81154/PASSW88990/128418
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/990066/2100220077/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/A776381616/A776381616/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/115017.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-sansat.net:25461@D-230714.done.best
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126816
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-sansat.net:25461@D-230722.done.best
@@ -6600,6 +6628,30 @@ http://tv.pro-ott.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/115017.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/115017.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/115017.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.trexiptv.com:80@D-230715.done
 http://tv.trexiptv.com:80/helene/helene/506556
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tv.viptvpro.com:25443@D-230718.done
@@ -6694,6 +6746,12 @@ http://ott1.co:8080/live/p2GRI8QKKz/1Zi8iGfJxP/143772.ts
 http://pro.ipcover.tv:8080/USERN81154/PASSW88990/128417
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/990066/2100220077/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/A776381616/A776381616/125118.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-prott.ottc.pro:80@D-230706.done
 http://prott.ottc.pro:80/BEWJ6MEKHI/IPBACRHMWE/138279
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230604.done
@@ -6722,6 +6780,30 @@ http://tv.pro-ott.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/125118.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/125118.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/125118.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/125118.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/125118.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-tv.viptvpro.com:25443@D-230718.done
@@ -7124,6 +7206,12 @@ http://pfsv.io:80/rodxx@/5765464/130939.ts
 http://pfsv.io:80/valmir6082/60822020/130939.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/990066/2100220077/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/A776381616/A776381616/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/39203.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport-raceipt.ddns.net:8000@D-230706.done
 http://raceipt.ddns.net:8000/daSIMO/04072023A/427875
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-s264.servers.darkside-iptv.co:8080@D-230516.done
@@ -7162,6 +7250,30 @@ http://tv.pro-ott.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/39203.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/39203.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/39203.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/39203.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/39203.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-tv.viptvpro.com:25443@D-230721.done
@@ -7902,6 +8014,12 @@ http://portal.magic8kip.tv:80/admin123/admin123/506557
 http://pro.ipcover.tv:8080/USERN81154/PASSW88990/200
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/990066/2100220077/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/A776381616/A776381616/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/51166.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230611.done.best
 http://sansat.net:25461/x4MPNC2oHMASvRZ/BvKuNVnpgBG7pNk/126814
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230612.done.best
@@ -7972,6 +8090,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/51166.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/51166.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/51166.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/51166.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.trexiptv.com:80@D-230715.done
 http://tv.trexiptv.com:80/helene/helene/506557
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-tv.viptvpro.com:25443@D-230718.done
@@ -8148,6 +8290,10 @@ http://pro.ipcover.tv:8080/USERN81154/PASSW88990/199
 http://pro.xviptv.com:25443/live/990066/2100220077/15191.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/15191.ts
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport HD-protocol.solanaflix.com:8080@D-230724.done
 http://protocol.solanaflix.com:8080/play/3XbIrVfOgsiLmEm5YEx_CUDga0zaarCSbZCAS8hNuHcEtmkip9CqxlFqmab3f8gT
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-prott.ottc.pro:80@D-230706.done
@@ -8204,6 +8350,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/15191.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/15191.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/15191.ts
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/15191.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.trexiptv.com:80@D-230715.done
 http://tv.trexiptv.com:80/helene/helene/507437
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-tv.viptvpro.com:25443@D-230718.done
@@ -8226,6 +8396,8 @@ http://tvpro.vprotv.com:25443/live/V5R0x4GFVezm/FPMcd7ggwH/9326.ts
 http://tvpro.vprotv.com:25443/live/KBFIZRDWA7/QNSYSQTQGK/15191.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-uniontvs.com:8080@D-230725.done
 http://uniontvs.com:8080/essam6230/trabia62300/254372
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-uniontvs.com:8080@D-230727.done
+http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/254372
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-vip.dom1tv.com:25443@D-230723.done
 http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/15191.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-watch-now.xyz:8080@D-230623.done
@@ -8384,10 +8556,26 @@ http://gu.iptivi.net:2086/guzel5943/xytRW2945g/112778
 http://4k.boxip.org:8080/697303143383473/2052727552/55791.ts
 #EXTINF:0 group-title="FR-Canal+",FR-SAT CANAL+ SPORT HEVC-4k.boxip.org:8080@D-230627.done
 http://4k.boxip.org:8080/695553539585239/2076559245/55791.ts
+#EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/111551.ts
 #EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/111551.ts
 #EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/111551.ts
+#EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/111551.ts
+#EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/111551.ts
+#EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/111551.ts
+#EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/111551.ts
+#EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/111551.ts
+#EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/111551.ts
+#EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/111551.ts
 #EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-tv.viptvpro.com:25443@D-230721.done
 http://tv.viptvpro.com:25443/live/Kamel69200/Kamel69200/111551.ts
 #EXTINF:0 group-title="FR-Canal+",FR-SD. CANAL+ SPORT-tv.viptvpro.com:25443@D-230724.done
@@ -8416,10 +8604,38 @@ http://sharingmaster.org:2095/41230405588/34262790038/109680
 http://sharingmaster.org:2095/SP716553776/15552677155/109680
 #EXTINF:0 group-title="FR-Canal+",FR-Sport: Canal+ Sport HD-sharingmaster.org:2095@D-230721.done
 http://sharingmaster.org:2095/space14236/A123456789/109680
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/60727.ts
 #EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/60727.ts
 #EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/60727.ts
+#EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/60727.ts
 #EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/60727.ts
 #EXTINF:0 group-title="FR-Canal+",FR.H265 CANAL+ SPORT-tv.viptvpro.com:25443@D-230718.done
@@ -8440,6 +8656,10 @@ http://x.v-iptv.com:25443/live/V561HdXZFW2R/otS3hqw5a9/60727.ts
 http://pro.xviptv.com:25443/live/990066/2100220077/9326.ts
 #EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/9326.ts
 #EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230709.done
 http://tv.pro-ott.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/15191.ts
 #EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230709.done
@@ -8466,6 +8686,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/9326.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/9326.ts
 #EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/9326.ts
+#EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/9326.ts
 #EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/9326.ts
 #EXTINF:0 group-title="FR-Canal+",FR.RP CANAL+ SPORT HD-tv.viptvpro.com:25443@D-230718.done
@@ -10606,6 +10850,10 @@ http://playhispano.org:8080/userlw/led5120/162823
 http://pro.xviptv.com:25443/live/990066/2100220077/136367.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/136367.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ Foot-santra.test96.xyz:80@D-230621.done
 http://santra.test96.xyz:80/live/xpma037es/3cpxt.qbm/226989.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ Foot-turkiye741nx.xyz:80@D-230619.done
@@ -10648,6 +10896,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/136367.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/136367.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/136367.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/136367.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/136367.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT-tv.viptvpro.com:25443@D-230718.done
@@ -10752,6 +11024,10 @@ http://pro.ipcover.tv:8080/USERN81154/PASSW88990/228479
 http://pro.xviptv.com:25443/live/990066/2100220077/136369.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/136369.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230611.done.best
 http://sansat.net:25461/x4MPNC2oHMASvRZ/BvKuNVnpgBG7pNk/199965
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230612.done.best
@@ -10824,6 +11100,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/136369.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/136369.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/136369.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/136369.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.trexiptv.com:80@D-230715.done
 http://tv.trexiptv.com:80/helene/helene/1002837
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-tv.viptvpro.com:25443@D-230718.done
@@ -11260,6 +11560,10 @@ http://pro.ipcover.tv:8080/USERN81154/PASSW88990/128422
 http://pro.xviptv.com:25443/live/990066/2100220077/108538.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/108538.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA 1 FHD-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/398654.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230611.done.best
@@ -11330,6 +11634,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/108538.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/108538.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/108538.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.trexiptv.com:80@D-230715.done
 http://tv.trexiptv.com:80/helene/helene/506553
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-tv.viptvpro.com:25443@D-230718.done
@@ -11458,6 +11786,10 @@ http://iptv-turkseed.com:8080/Bedri52/tjmGZkWFkh/185110
 http://pro.xviptv.com:25443/live/990066/2100220077/136368.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/136368.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230709.done
 http://tv.pro-ott.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/136368.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230710.done
@@ -11480,6 +11812,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/136368.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/136368.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/136368.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/136368.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/136368.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FOOT HD-tv.viptvpro.com:25443@D-230721.done
@@ -11500,6 +11856,10 @@ http://x.v-iptv.com:25443/live/V561HdXZFW2R/otS3hqw5a9/136368.ts
 http://pro.xviptv.com:25443/live/990066/2100220077/125119.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/125119.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230709.done
 http://tv.pro-ott.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/125119.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230710.done
@@ -11520,6 +11880,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/125119.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/125119.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/125119.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/125119.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/125119.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR.RP CANAL+ FORMULA1 HD-tv.viptvpro.com:25443@D-230721.done
@@ -11782,6 +12166,10 @@ http://pro.ipcover.tv:8080/USERN81154/PASSW88990/389
 http://pro.xviptv.com:25443/live/990066/2100220077/9502.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/9502.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/398612.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230611.done.best
@@ -11854,6 +12242,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/9502.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/9502.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/9502.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/9502.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.trexiptv.com:80@D-230715.done
 http://tv.trexiptv.com:80/helene/helene/506549
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-tv.viptvpro.com:25443@D-230718.done
@@ -11878,6 +12290,8 @@ http://tvpro.vprotv.com:25443/live/V5R0x4GFVezm/FPMcd7ggwH/9502.ts
 http://tvpro.vprotv.com:25443/live/KBFIZRDWA7/QNSYSQTQGK/9502.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-uniontvs.com:8080@D-230725.done
 http://uniontvs.com:8080/essam6230/trabia62300/254291
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-uniontvs.com:8080@D-230727.done
+http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/254291
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-vip.dom1tv.com:25443@D-230723.done
 http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/9502.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-watch-now.xyz:8080@D-230623.done
@@ -12110,6 +12524,8 @@ http://ultrontv.xyz:80/1Stafford4930/XVjif2AdQk/139763
 http://ultrontv.xyz:80/Roy2245/Royalty416/139763
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-uniontvs.com:8080@D-230725.done
 http://uniontvs.com:8080/essam6230/trabia62300/254290
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-uniontvs.com:8080@D-230727.done
+http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/254290
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-watch-now.xyz:8080@D-230623.done
 http://watch-now.xyz:8080/Radikarls/gazzagazza/65938
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 1 HD-zeintv.xyz:8080@D-230718.done
@@ -12328,6 +12744,10 @@ http://pro.ipcover.tv:8080/USERN81154/PASSW88990/393
 http://pro.xviptv.com:25443/live/990066/2100220077/9501.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/9501.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230612.done.best
 http://sansat.net:25461/TbddYkpv/YoFYDDKkPVcEvdh/126920
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230619.done.best
@@ -12398,6 +12818,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/9501.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/9501.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/9501.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/9501.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.trexiptv.com:80@D-230715.done
 http://tv.trexiptv.com:80/helene/helene/506548
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-tv.viptvpro.com:25443@D-230718.done
@@ -12656,6 +13100,8 @@ http://ultrontv.xyz:80/1Stafford4930/XVjif2AdQk/139764
 http://ultrontv.xyz:80/s7eSM2WdKwvZ/5QCLRWzscY8u/139764
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-uniontvs.com:8080@D-230725.done
 http://uniontvs.com:8080/essam6230/trabia62300/254292
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-uniontvs.com:8080@D-230727.done
+http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/254292
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-watch-now.xyz:8080@D-230623.done
 http://watch-now.xyz:8080/Radikarls/gazzagazza/65940
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 2 HD-zeintv.xyz:8080@D-230718.done
@@ -12862,6 +13308,10 @@ http://pro.ipcover.tv:8080/USERN81154/PASSW88990/125175
 http://pro.xviptv.com:25443/live/990066/2100220077/50980.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/50980.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 FHD-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/28920
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-spainline.xyz:8000@D-230620.done
@@ -12906,6 +13356,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/50980.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/50980.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/50980.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/50980.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/50980.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-tv.viptvpro.com:25443@D-230718.done
@@ -12930,6 +13404,8 @@ http://tvpro.vprotv.com:25443/live/V5R0x4GFVezm/FPMcd7ggwH/50980.ts
 http://tvpro.vprotv.com:25443/live/KBFIZRDWA7/QNSYSQTQGK/50980.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-uniontvs.com:8080@D-230725.done
 http://uniontvs.com:8080/essam6230/trabia62300/254294
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-uniontvs.com:8080@D-230727.done
+http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/254294
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-vip.dom1tv.com:25443@D-230723.done
 http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/50980.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD-watch-now.xyz:8080@D-230623.done
@@ -13064,6 +13540,10 @@ http://pro.ipcover.tv:8080/USERN81154/PASSW88990/125174
 http://pro.xviptv.com:25443/live/990066/2100220077/50979.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/50979.ts
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 3 HD-scorpione.net:25461@D-230717.done
 http://scorpione.net:25461/LHOCIEN/MO7AMED2/170428
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 3 HD-scorpione.net:25461@D-230717.done
@@ -13110,6 +13590,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/50979.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/50979.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/50979.ts
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/50979.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/50979.ts
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-tv.viptvpro.com:25443@D-230718.done
@@ -13278,6 +13782,10 @@ http://sharingmaster.org:2095/space14236/A123456789/109702
 http://pro.xviptv.com:25443/live/990066/2100220077/9218.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/9218.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230709.done
 http://tv.pro-ott.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/9218.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230710.done
@@ -13300,6 +13808,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/9218.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/9218.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/9218.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/9218.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/9218.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 1 HD-tv.viptvpro.com:25443@D-230718.done
@@ -13322,6 +13854,10 @@ http://x.v-iptv.com:25443/live/V561HdXZFW2R/otS3hqw5a9/9218.ts
 http://pro.xviptv.com:25443/live/990066/2100220077/9217.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-pro.xviptv.com:25443@D-230723.done
 http://pro.xviptv.com:25443/live/A776381616/A776381616/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/4998548523/7467896546/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-pro.xviptv.com:25443@D-230727.done
+http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/9217.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230709.done
 http://tv.pro-ott.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/9217.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230710.done
@@ -13342,6 +13878,30 @@ http://tv.pro-ott.com:25443/live/Yake8/GSXINIQBGR/9217.ts
 http://tv.pro-ott.com:25443/live/bernalantho/6GA9R4QMH1/9217.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230726.done
 http://tv.pro-ott.com:25443/live/LORENZO1312/KFRG49BCET/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/MOUNTAGA2/BMTPNX4UPR/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Momo008/MU325MCTVY/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V17vzaw8i1FUI/TVNp4eSaM6/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BRUNIPierre/69KY8DN0DG/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/sarltoptrans/QPA4G6KP63/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/serge838/2BRWQYAQSC/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/pierrecenat/QAIYTIC7DT/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5B3t1K2xgRy/WzGeDCNcVZ/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/Maniony21/1234567890/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/BREZOTANOZ/GVAXN9ML6F/9217.ts
+#EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.pro-ott.com:25443@D-230727.done
+http://tv.pro-ott.com:25443/live/V5AIPUYYSmog/Fue8efK57x/9217.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/9217.ts
 #EXTINF:0 group-title="FR-RMC",FR.RP RMC SPORT 2 HD-tv.viptvpro.com:25443@D-230718.done
