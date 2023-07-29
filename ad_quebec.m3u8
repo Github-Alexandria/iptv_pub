@@ -1,5 +1,5 @@
-#EXTM3U 8746
-#DATE 2023-07-28 20:09
+#EXTM3U 8611
+#DATE 2023-07-28 22:04
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230624.done
 http://tv.pro-ott.com:25443/live/V17H95GqAzaWd/FmkKy0Jnbz/116752.ts
 #EXTINF:0 group-title="QC-Fashion",.RS. PINK FASHION-tv.pro-ott.com:25443@D-230627.done
@@ -1368,11 +1368,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94140
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94140
 #EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94140
-#EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94140
-#EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94140
-#EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94140
 #EXTINF:0 group-title="QC-Ici",CA: ICI MONTREAL-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94140
@@ -1558,11 +1558,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94206
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94206
 #EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94206
-#EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94206
-#EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94206
-#EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94206
 #EXTINF:0 group-title="QC-Ici",CA: TVA MONTREAL-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94206
@@ -2338,9 +2338,9 @@ http://76271.atr91.com:80/Red472/cp49jh/58404
 http://hide55ss.online:8080/ibrahimkaplan2/NLXYKN5kA4vN/186725
 #EXTINF:0 group-title="QC-Info",CA: LCN-iptvsantral1.xyz:8080@D-230620.done
 http://iptvsantral1.xyz:8080/mNtRKwSasB/zjtdWcEKxG/186725
-#EXTINF:0 group-title="QC-Info",CA: LCN-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Info",CA: LCN-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94145
-#EXTINF:0 group-title="QC-Info",CA: LCN-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Info",CA: LCN-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94145
 #EXTINF:0 group-title="QC-Info",CA: LCN-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02029487602778/de3986bb25e24a34/94145
@@ -2502,11 +2502,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94389
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94389
 #EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94389
-#EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94389
-#EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94389
-#EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94389
 #EXTINF:0 group-title="QC-Info",CA FR: ICI RDI-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94389
@@ -4208,11 +4208,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94125
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94125
 #EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94125
-#EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94125
-#EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94125
-#EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94125
 #EXTINF:0 group-title="QC-Other",CA: FRISSON-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94125
@@ -4476,11 +4476,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94231
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94231
 #EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94231
-#EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94231
-#EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94231
-#EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94231
 #EXTINF:0 group-title="QC-Other",CA: TELE TOON FRENCH-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94231
@@ -5828,11 +5828,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94340
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94340
 #EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94340
-#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94340
-#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94340
-#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94340
 #EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS 2 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94340
@@ -5894,11 +5894,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94341
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94341
 #EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94341
-#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94341
-#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94341
-#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94341
 #EXTINF:0 group-title="QC-Sport",CA-FR TVA SPORTS HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94341
@@ -6484,11 +6484,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94171
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94171
 #EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94171
-#EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94171
-#EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94171
-#EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94171
 #EXTINF:0 group-title="QC-Sport",CA: RDS-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94171
@@ -6546,9 +6546,9 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94172
 http://sansat.net:25461/02052328252119/02052328252119/94172
 #EXTINF:0 group-title="QC-Sport",CA: RDS 2-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94172
-#EXTINF:0 group-title="QC-Sport",CA: RDS 2-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94172
-#EXTINF:0 group-title="QC-Sport",CA: RDS 2-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: RDS 2-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94172
 #EXTINF:0 group-title="QC-Sport",CA: RDS 2-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02029487602778/de3986bb25e24a34/94172
@@ -6776,11 +6776,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94199
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94199
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94199
-#EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94199
-#EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94199
-#EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94199
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94199
@@ -7142,11 +7142,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94200
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94200
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94200
-#EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94200
-#EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94200
-#EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94200
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94200
@@ -7510,11 +7510,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94201
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94201
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94201
-#EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94201
-#EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94201
-#EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94201
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94201
@@ -7870,11 +7870,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94202
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94202
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94202
-#EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94202
-#EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94202
-#EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94202
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94202
@@ -8270,11 +8270,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94203
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94203
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94203
-#EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94203
-#EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94203
-#EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94203
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94203
@@ -8636,11 +8636,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94207
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94207
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94207
-#EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94207
-#EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94207
-#EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94207
 #EXTINF:0 group-title="QC-Sport",CA: TVA SPORTS-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94207
@@ -11380,9 +11380,9 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61120
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/61120
 #EXTINF:0 group-title="QC-Super Ecran",CA - CRAVE 4  HD-2hubs.ddns.net:25461@D-230723.done
 http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61120
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 1-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 1-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94184
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 1-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 1-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94184
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 1-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02029487602778/de3986bb25e24a34/94184
@@ -11404,11 +11404,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94185
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94185
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94185
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94185
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94185
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94185
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 2-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94185
@@ -11432,11 +11432,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94186
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94186
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94186
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94186
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94186
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94186
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 3-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94186
@@ -11460,11 +11460,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94187
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94187
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94187
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94187
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94187
-#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94187
 #EXTINF:0 group-title="QC-Super Ecran",CA-FR SUPER ECRAN 4-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94187
@@ -12778,11 +12778,11 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/268756
 http://sansat.net:25461/02052328252119/02052328252119/268756
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/268756
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/268756
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/268756
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/268756
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN1E CRAVE 1 TV  HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/268756
@@ -12818,11 +12818,11 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/268757
 http://sansat.net:25461/02052328252119/02052328252119/268757
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/268757
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/268757
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/268757
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/268757
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN2E CRAVE 2 TV  HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/268757
@@ -12858,11 +12858,11 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/268758
 http://sansat.net:25461/02052328252119/02052328252119/268758
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/268758
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/268758
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/268758
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/268758
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN3E CRAVE 3 TV  HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/268758
@@ -12898,11 +12898,11 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/268759
 http://sansat.net:25461/02052328252119/02052328252119/268759
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/268759
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/268759
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/268759
-#EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/268759
 #EXTINF:0 group-title="QC-Super Ecran",CA TMN4E CRAVE 4 TV  HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/268759
@@ -13124,11 +13124,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9181
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/147369
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 01 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/147369
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 01 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 01 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/147369
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 01 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 01 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/147369
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 01 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 01 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/147369
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 01 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/147369
@@ -13146,11 +13146,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9182
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/147368
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 02 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/147368
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 02 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 02 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/147368
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 02 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 02 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/147368
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 02 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 02 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/147368
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 02 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02029487602778/de3986bb25e24a34/147368
@@ -13168,11 +13168,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9183
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/147370
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 03 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/147370
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 03 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 03 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/147370
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 03 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 03 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/147370
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 03 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 03 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/147370
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 03 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/147370
@@ -13188,11 +13188,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9184
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/147371
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 04 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/147371
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 04 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 04 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/147371
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 04 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 04 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/147371
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 04 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 04 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/147371
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 04 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/147371
@@ -13208,11 +13208,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9185
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/147372
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 05 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/147372
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 05 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 05 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/147372
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 05 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 05 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/147372
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 05 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 05 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/147372
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 05 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/147372
@@ -13228,11 +13228,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9186
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/147367
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 06 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/147367
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 06 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 06 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/147367
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 06 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 06 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/147367
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 06 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 06 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/147367
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 06 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/147367
@@ -13250,11 +13250,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9187
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/147366
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 07 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/147366
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 07 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 07 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/147366
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 07 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 07 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/147366
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 07 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 07 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/147366
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 07 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/147366
@@ -13270,11 +13270,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9188
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/147365
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 08 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/147365
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 08 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 08 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/147365
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 08 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 08 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/147365
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 08 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 08 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/147365
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 08 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/147365
@@ -13290,11 +13290,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9189
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/147364
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 09 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/147364
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 09 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 09 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/147364
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 09 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 09 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/147364
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 09 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 09 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/147364
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 09 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/147364
@@ -13442,11 +13442,11 @@ http://ip365.cx:80/8432671147/7922665246/932
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/222448
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 10 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/222448
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 10 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 10 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/222448
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 10 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 10 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/222448
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 10 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 10 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/222448
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 10 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/222448
@@ -13506,11 +13506,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9191
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/222449
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 11 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/222449
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 11 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 11 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/222449
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 11 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 11 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/222449
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 11 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 11 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/222449
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 11 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/222449
@@ -13564,11 +13564,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9192
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/222450
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 12 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/222450
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 12 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 12 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/222450
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 12 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 12 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/222450
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 12 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 12 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/222450
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 12 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/222450
@@ -13618,11 +13618,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9193
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/222451
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 13 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/222451
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 13 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 13 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/222451
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 13 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 13 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/222451
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 13 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 13 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/222451
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 13 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/222451
@@ -13676,11 +13676,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9194
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/222452
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 14 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/222452
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 14 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 14 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/222452
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 14 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 14 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/222452
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 14 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 14 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/222452
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 14 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/222452
@@ -13728,11 +13728,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9195
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/222453
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 15 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/222453
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 15 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 15 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/222453
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 15 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 15 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/222453
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 15 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 15 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/222453
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 15 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/222453
@@ -13778,11 +13778,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/9196
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/222454
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 16 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/222454
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 16 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 16 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/222454
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 16 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 16 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/222454
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 16 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 16 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/222454
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 16 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02029487602778/de3986bb25e24a34/222454
@@ -13818,11 +13818,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/49201
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/222455
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 17 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/222455
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 17 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 17 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/222455
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 17 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 17 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/222455
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 17 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 17 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/222455
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 17 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02029487602778/de3986bb25e24a34/222455
@@ -13864,11 +13864,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/49202
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/222456
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 18 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/222456
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 18 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 18 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/222456
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 18 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 18 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/222456
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 18 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 18 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/222456
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 18 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02029487602778/de3986bb25e24a34/222456
@@ -13906,11 +13906,11 @@ http://xplatinmedia.com:8080/Chun_king2/TdNh7CsL3ik9HOWffjvVut4Ugj1HGz/49203
 http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/222457
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 19 HD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/222457
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 19 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 19 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/222457
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 19 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 19 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/222457
-#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 19 HD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 19 HD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/222457
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 19 HD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/222457
@@ -15250,9 +15250,9 @@ http://ottsansat.org:25461/02023496989165/0EAK7AQ48O39ZC8/126763
 http://pandar.plus:25461/BLmdX9hqfqBn5U8/EbkO2zoYqvwf3sE/126763
 #EXTINF:0 group-title="QC-Super Ecran",FR-ROUGE TV FHD-pandar.plus:25461@D-230728.done
 http://pandar.plus:25461/02027169112506/02027169112506/126763
-#EXTINF:0 group-title="QC-Super Ecran",FR-ROUGE TV FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-ROUGE TV FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126763
-#EXTINF:0 group-title="QC-Super Ecran",FR-ROUGE TV FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="QC-Super Ecran",FR-ROUGE TV FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126763
 #EXTINF:0 group-title="QC-Super Ecran",FR-ROUGE TV FHD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02029487602778/de3986bb25e24a34/126763
@@ -16044,11 +16044,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94244
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94244
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94244
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94244
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94244
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94244
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET 360-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94244
@@ -16198,11 +16198,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94245
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94245
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94245
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94245
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94245
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94245
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET EAST-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94245
@@ -16378,11 +16378,11 @@ http://sansat.net:25461/qalf2022/VZDPGXRXRNDTAEU/94246
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94246
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94246
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94246
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94246
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94246
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET ONE-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94246
@@ -16534,11 +16534,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94248
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94248
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94248
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94248
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94248
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94248
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET PACIFIC-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94248
@@ -16780,11 +16780,11 @@ http://sansat.net:25461/02052328252119/02052328252119/94249
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/94249
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/94249
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/94249
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/94249
-#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/94249
 #EXTINF:0 group-title="US-SportsNet",CA: SPORTSNET WEST-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/94249
