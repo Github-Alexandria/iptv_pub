@@ -1,5 +1,5 @@
-#EXTM3U 8497
-#DATE 2023-07-28 20:12
+#EXTM3U 8462
+#DATE 2023-07-28 22:09
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -6354,6 +6354,8 @@ http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/2502/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-ipr6ghfv.russtv.net@D-230728.done
+http://ipr6ghfv.russtv.net/iptv/U9T36PSXN5R3EC/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-kv3z7bac.russtv.net@D-230712.done
@@ -6424,6 +6426,12 @@ http://tv.satsolution.tvip.xyz:80/WunND7c202/6bEszz145/13149
 http://tv.satsolution.tvip.xyz:80/xKBT09lBV24i7065/0SK2Wy02/13149
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-tv.satsolution.tvip.xyz:80@D-230624.done
 http://tv.satsolution.tvip.xyz:80/yAMisQq920/KqJyQh394/13149
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/2WAMYB26HSVLNN/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-ujpqmexl.ottclub.xyz@D-230715.done
 http://ujpqmexl.ottclub.xyz/iptv/5V7KVAXDCEX8EH/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-vahid.kazaktelekom.com@D-230621.done
@@ -6650,11 +6658,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126830
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126830
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126830
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/126830
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126830
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126830
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE1 HEVC-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/126830
@@ -6906,11 +6914,11 @@ http://pro.xviptv.com:25443/live/2957384/O2HAWMOUTT/115017.ts
 http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126816
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-sansat.net:25461@D-230722.done.best
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126816
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126816
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/126816
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126816
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-tr.redatvgold.com:80@D-230722.done
 http://tr.redatvgold.com:80/munir123/munir123/506556
@@ -7220,11 +7228,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126828
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126828
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126828
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/126828
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126828
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126828
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HEVC-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/126828
@@ -7296,11 +7304,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126840
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126840
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126840
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/126840
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126840
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126840
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE SD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/126840
@@ -8516,11 +8524,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126814
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126814
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126814
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/126814
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126814
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126814
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT FHD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/126814
@@ -9042,11 +9050,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126834
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126834
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126834
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/126834
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126834
-#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126834
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT SD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/126834
@@ -11772,11 +11780,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/199965
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/199965
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/199965
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/199965
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/199965
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/199965
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT FHD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/199965
@@ -11994,11 +12002,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/199964
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/199964
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/199964
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/199964
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/199964
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/199964
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT HEVC-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/199964
@@ -12076,11 +12084,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/199963
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/199963
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/199963
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/199963
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/199963
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/199963
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FOOT SD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/199963
@@ -12386,11 +12394,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126818
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126818
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126818
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/126818
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126818
-#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126818
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/126818
@@ -13034,11 +13042,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126919
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126919
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126919
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/126919
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126919
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126919
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/126919
@@ -13488,11 +13496,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126964
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126964
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126964
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/126964
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126964
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126964
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/126964
@@ -13662,11 +13670,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126920
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126920
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126920
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/126920
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126920
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126920
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 FHD-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/126920
@@ -14156,11 +14164,11 @@ http://sansat.net:25461/iDYFxFIep7AXeDP/VL3ghY13BTxfTzV/126965
 http://sansat.net:25461/02021135826361/KG16QEIONN8HCJQ/126965
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230725.done.best
 http://sansat.net:25461/02027699398016/V0ycUZjdmLccqaa/126965
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02023645198951/J3ZEJ33EBJUEU2P/126965
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02028386273825/02028386273825/126965
-#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230728.best.done
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.net:25461@D-230728.done.best
 http://sansat.net:25461/02000653955948/02000653303226/126965
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02026251855059/02026251855059/126965
@@ -15434,6 +15442,8 @@ http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/2545/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-ipr6ghfv.russtv.net@D-230728.done
+http://ipr6ghfv.russtv.net/iptv/U9T36PSXN5R3EC/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-kv3z7bac.russtv.net@D-230712.done
@@ -15488,6 +15498,12 @@ http://tv.satsolution.tvip.xyz:80/WunND7c202/6bEszz145/13182
 http://tv.satsolution.tvip.xyz:80/xKBT09lBV24i7065/0SK2Wy02/13182
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-tv.satsolution.tvip.xyz:80@D-230624.done
 http://tv.satsolution.tvip.xyz:80/yAMisQq920/KqJyQh394/13182
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/2WAMYB26HSVLNN/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-ujpqmexl.ottclub.xyz@D-230715.done
 http://ujpqmexl.ottclub.xyz/iptv/5V7KVAXDCEX8EH/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-ultratv.one:2095@D-230415.done.NC
@@ -16048,6 +16064,8 @@ http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/2546/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-ipr6ghfv.russtv.net@D-230728.done
+http://ipr6ghfv.russtv.net/iptv/U9T36PSXN5R3EC/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-kv3z7bac.russtv.net@D-230712.done
@@ -16156,6 +16174,12 @@ http://tv.satsolution.tvip.xyz:80/WunND7c202/6bEszz145/2251
 http://tv.satsolution.tvip.xyz:80/xKBT09lBV24i7065/0SK2Wy02/2251
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-tv.satsolution.tvip.xyz:80@D-230624.done
 http://tv.satsolution.tvip.xyz:80/yAMisQq920/KqJyQh394/2251
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/2WAMYB26HSVLNN/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-ujpqmexl.ottclub.xyz@D-230715.done
 http://ujpqmexl.ottclub.xyz/iptv/5V7KVAXDCEX8EH/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-ultratv.one:2095@D-230415.done.NC
@@ -16740,6 +16764,8 @@ http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/2547/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-ioplxs5h.akciatv.ru@D-230602.done
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-ipr6ghfv.russtv.net@D-230728.done
+http://ipr6ghfv.russtv.net/iptv/U9T36PSXN5R3EC/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-je7stli5.tvclub.xyz@D-230712.done
 http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-kv3z7bac.russtv.net@D-230712.done
@@ -16790,6 +16816,12 @@ http://satelliteiptv.xyz:80/cz6xyh8a4l/0pstjsbfni/625233
 http://tv.europe.itv.world:80/gculmfc5hn/b92uh61a8p/625233
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-tv.robotstreaming.itv.world:80@D-230705.done
 http://tv.robotstreaming.itv.world:80/kcbssec56g/jvtccm6a89/625233
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/2WAMYB26HSVLNN/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-typicamn.russtv.net@D-230728.done
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-ujpqmexl.ottclub.xyz@D-230715.done
 http://ujpqmexl.ottclub.xyz/iptv/5V7KVAXDCEX8EH/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-ultratv.one:2095@D-230415.done.NC
