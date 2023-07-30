@@ -1,5 +1,5 @@
-#EXTM3U 7599
-#DATE 2023-07-30 01:20
+#EXTM3U 6771
+#DATE 2023-07-30 10:56
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-pro.xviptv.com:25443@D-230727.done
 http://pro.xviptv.com:25443/live/4998548523/7467896546/116841.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-pro.xviptv.com:25443@D-230727.done
@@ -250,14 +250,28 @@ http://apontv.pm:80/live/231898749678226/1593574628/101418.ts
 http://apontv.pm:80/live/375617456966824/1593574628/101418.ts
 #EXTINF:0 group-title="Now-Klub",4K  NOW SPORTS -yahya.top:80@D-230710.done
 http://yahya.top:80/live/13538810817626027/1593574628/101418.ts
+#EXTINF:0 group-title="Now-Klub",[HK]Now Sports 1-ktpremium.com:443@D-230730.done
+https://ktpremium.com:443/J3292/6275/910953
+#EXTINF:0 group-title="Now-Klub",[HK]Now Sports 2-ktpremium.com:443@D-230730.done
+https://ktpremium.com:443/J3292/6275/910954
+#EXTINF:0 group-title="Now-Klub",[HK]Now Sports 3-ktpremium.com:443@D-230730.done
+https://ktpremium.com:443/J3292/6275/910955
 #EXTINF:0 group-title="Now-Klub",[HK]Now Sports 4-ktpremium.com:443@D-230714.done
 https://ktpremium.com:443/w3149/9372728843/910956
 #EXTINF:0 group-title="Now-Klub",[HK]Now Sports 4-ktpremium.com:443@D-230714.done
 https://ktpremium.com:443/LT919887/8178/910956
+#EXTINF:0 group-title="Now-Klub",[HK]Now Sports 4-ktpremium.com:443@D-230730.done
+https://ktpremium.com:443/J3292/6275/910956
 #EXTINF:0 group-title="Now-Klub",[HK]Now Sports 5-ktpremium.com:443@D-230714.done
 https://ktpremium.com:443/yv1228/122854089/910957
+#EXTINF:0 group-title="Now-Klub",[HK]Now Sports 5-ktpremium.com:443@D-230730.done
+https://ktpremium.com:443/J3292/6275/910957
 #EXTINF:0 group-title="Now-Klub",[HK]Now Sports 6-ktpremium.com:443@D-230714.done
 https://ktpremium.com:443/yv1228/122854089/910958
+#EXTINF:0 group-title="Now-Klub",[HK]Now Sports 6-ktpremium.com:443@D-230730.done
+https://ktpremium.com:443/J3292/6275/910958
+#EXTINF:0 group-title="Now-Klub",[HK]Now Sports 7-ktpremium.com:443@D-230730.done
+https://ktpremium.com:443/J3292/6275/910959
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport-aanax.com:8080@D-230728.done
 http://aanax.com:8080/F19463/120bb65f/146068
 #EXTINF:0 group-title="Now-Klub",Astro SuperSport-kuchini.site:8080@D-230712.done
@@ -1358,6 +1372,16 @@ http://sharingmaster.org:2095/nas58996547er/nas58996547er/114319
 http://sharingmaster.org:2095/41230405588/34262790038/114319
 #EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 1 HD-sharingmaster.org:2095@D-230721.done
 http://sharingmaster.org:2095/SP716553776/15552677155/114319
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 1 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/0504700569/0504700569/114319
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 1 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/536474610/Aa112233/114319
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 1 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/882284/12382773/114319
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 1 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/669250556622/6002865203/114319
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 1 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/space14236/A123456789/114319
 #EXTINF:0 group-title="Now-Klub",Ex-Yu Hr: Sport Klub 2 HD-kingtop10.net:7070@D-230625.done
 http://kingtop10.net:7070/Anasgamout/m5kkbx3l/171196
 #EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 2 HD-sharingmaster.org:2095@D-230721.done
@@ -1374,6 +1398,16 @@ http://sharingmaster.org:2095/nas58996547er/nas58996547er/114320
 http://sharingmaster.org:2095/41230405588/34262790038/114320
 #EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 2 HD-sharingmaster.org:2095@D-230721.done
 http://sharingmaster.org:2095/SP716553776/15552677155/114320
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 2 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/0504700569/0504700569/114320
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 2 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/536474610/Aa112233/114320
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 2 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/882284/12382773/114320
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 2 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/669250556622/6002865203/114320
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 2 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/space14236/A123456789/114320
 #EXTINF:0 group-title="Now-Klub",Ex-Yu Hr: Sport Klub 3 HD-kingtop10.net:7070@D-230625.done
 http://kingtop10.net:7070/Anasgamout/m5kkbx3l/171197
 #EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 3 HD-sharingmaster.org:2095@D-230721.done
@@ -1390,6 +1424,16 @@ http://sharingmaster.org:2095/nas58996547er/nas58996547er/114321
 http://sharingmaster.org:2095/41230405588/34262790038/114321
 #EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 3 HD-sharingmaster.org:2095@D-230721.done
 http://sharingmaster.org:2095/SP716553776/15552677155/114321
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 3 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/0504700569/0504700569/114321
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 3 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/536474610/Aa112233/114321
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 3 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/882284/12382773/114321
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 3 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/669250556622/6002865203/114321
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 3 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/space14236/A123456789/114321
 #EXTINF:0 group-title="Now-Klub",Ex-Yu Hr: Sport Klub 4 HD-kingtop10.net:7070@D-230625.done
 http://kingtop10.net:7070/Anasgamout/m5kkbx3l/171198
 #EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 4 HD-sharingmaster.org:2095@D-230721.done
@@ -1406,6 +1450,16 @@ http://sharingmaster.org:2095/nas58996547er/nas58996547er/114322
 http://sharingmaster.org:2095/41230405588/34262790038/114322
 #EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 4 HD-sharingmaster.org:2095@D-230721.done
 http://sharingmaster.org:2095/SP716553776/15552677155/114322
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 4 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/0504700569/0504700569/114322
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 4 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/536474610/Aa112233/114322
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 4 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/882284/12382773/114322
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 4 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/669250556622/6002865203/114322
+#EXTINF:0 group-title="Now-Klub",Ex-Yu  Hr: Sport Klub 4 HD-sharingmaster.org:2095@D-230730.done
+http://sharingmaster.org:2095/space14236/A123456789/114322
 #EXTINF:0 group-title="Now-Klub",ex-yu Sport Klub 1 FHD-protocol.solanaflix.com:8080@D-230724.done
 http://protocol.solanaflix.com:8080/play/3XbIrVfOgsiLmEm5YEx_CdGbtDteuSHPe_4ipXiwC0_1kkYc9d1dTfK9aAE0nY-a
 #EXTINF:0 group-title="Now-Klub",EX-YU  Sport Klub 1 HR FHD-4k.boxip.org:8080@D-230525.done
