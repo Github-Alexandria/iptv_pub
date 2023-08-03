@@ -1,5 +1,5 @@
-#EXTM3U 8165
-#DATE 2023-07-30 19:03
+#EXTM3U 8447
+#DATE 2023-08-03 00:18
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -132,6 +132,8 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58753
 http://2hubs.ddns.net:25461/Sanders/Sanders/58753
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 1 HD-2hubs.ddns.net:25461@D-230719.done
 http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58753
+#EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 1 HD-2hubs.ddns.net:25461@D-230802.done
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58753
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 1 HD-apontv.pm:80@D-230325.done
 http://apontv.pm:80/live/231898749678226/1593574628/7845.ts
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORT 1 HD-apontv.pm:80@D-230714.done
@@ -324,6 +326,8 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/58754
 http://2hubs.ddns.net:25461/Sanders/Sanders/58754
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 2 HD-2hubs.ddns.net:25461@D-230719.done
 http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58754
+#EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 2 HD-2hubs.ddns.net:25461@D-230802.done
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58754
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 2 HD -apontv.pm:80@D-230305.done
 http://apontv.pm:80/live/623400619588166/1593574628/7846.ts
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 2 HD -apontv.pm:80@D-230325.done
@@ -488,6 +492,8 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58755
 http://2hubs.ddns.net:25461/Sanders/Sanders/58755
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 3 HD-2hubs.ddns.net:25461@D-230719.done
 http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58755
+#EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 3 HD-2hubs.ddns.net:25461@D-230802.done
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58755
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 3 HD-apontv.pm:80@D-230305.done
 http://apontv.pm:80/live/623400619588166/1593574628/7847.ts
 #EXTINF:0 group-title="FR-Bein",FR- BEIN SPORT 3 HD-apontv.pm:80@D-230325.done
@@ -2144,6 +2150,8 @@ http://apontv.pm:80/live/231898749678226/1593574628/35873.ts
 http://apontv.pm:80/live/375617456966824/1593574628/35873.ts
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 [H265]-yahya.top:80@D-230710.done
 http://yahya.top:80/live/13538810817626027/1593574628/35873.ts
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 FHD (H.265)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27681
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 FHD (H.265)-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/28823
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 FHD-176.9.16.190:8080@D-230705.done
@@ -2310,6 +2318,8 @@ http://a.alcapone1.com:8080/Miguel04/Bet4/27683
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27683
 #EXTINF:0 group-title="FR-Bein",FR-Bein Sports 1 HD-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2945
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 HD-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27683
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 HD-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/53527
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 1 HD-cdn.erost.cc:8080@D-230717.done
@@ -2446,6 +2456,10 @@ http://a36m.net:8080/HWKCKTNZ/7654321/78878
 http://a36m.net:8080/MJGIFLIT/1234567/78878
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HEVC-a36m.net:8080@D-230726.done
 http://a36m.net:8080/NFOPVOWO/1234567/78878
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78878
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78878
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HEVC-arrepiado.xyz:8080@D-230409.done
 http://arrepiado.xyz:8080/ASilvestre10/101112/67882
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HEVC-arrepiado.xyz:8080@D-230409.done
@@ -2776,6 +2790,8 @@ http://apontv.pm:80/live/231898749678226/1593574628/35874.ts
 http://apontv.pm:80/live/375617456966824/1593574628/35874.ts
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 [H265]-yahya.top:80@D-230710.done
 http://yahya.top:80/live/13538810817626027/1593574628/35874.ts
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 FHD (H.265)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27685
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 FHD (H.265)-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/28822
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 FHD-176.9.16.190:8080@D-230705.done
@@ -2932,6 +2948,8 @@ http://a.alcapone1.com:8080/Miguel04/Bet4/27687
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27687
 #EXTINF:0 group-title="FR-Bein",FR-Bein Sports 2 HD-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2946
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 HD-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27687
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HD-bestsave.ltd:80@D-230709.done
 http://bestsave.ltd:80/live/5544332211/1122334455/498493.ts
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 2 HD-cdn.erost.cc:8080@D-230717.done
@@ -3060,6 +3078,28 @@ http://a36m.net:8080/HWKCKTNZ/7654321/78879
 http://a36m.net:8080/ROBCIGALQ/1234567/78879
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230728.done
 http://a36m.net:8080/IEILKJGISVXUK/1234567/78879
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78879
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78879
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78879
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78879
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78879
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78879
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78879
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78879
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78879
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78879
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78879
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-arrepiado.xyz:8080@D-230409.done
 http://arrepiado.xyz:8080/ASilvestre10/101112/67886
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HEVC-arrepiado.xyz:8080@D-230409.done
@@ -3420,6 +3460,8 @@ http://apontv.pm:80/live/375617456966824/1593574628/35875.ts
 http://yahya.top:80/live/13538810817626027/1593574628/35875.ts
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 FHD (H.265)-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27689
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 FHD (H.265)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27689
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 FHD (H.265)-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/27689
 #EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 FHD (H.265)-spainline.xyz:8000@D-230620.done
@@ -3562,6 +3604,8 @@ http://a.alcapone1.com:8080/Miguel04/Bet4/27691
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27691
 #EXTINF:0 group-title="FR-Bein",FR-Bein Sports 3 HD-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2947
+#EXTINF:0 group-title="FR-Bein",FR-BeIN Sports 3 HD-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27691
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HD-amonra.xyz:8080@D-230625.done
 http://amonra.xyz:8080/783:memato13223/UnXkSGzqjNC6/26691
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HD-bestsave.ltd:80@D-230709.done
@@ -3682,6 +3726,28 @@ http://4k.boxip.org:8080/695553539585239/2076559245/88095.ts
 http://985038061475312685.ot0711.xyz:80/play/vi1010307/2004025452/312685.ts
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230719.done
 http://a36m.net:8080/AQIBFVTOBERHQ/1234567/78880
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78880
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78880
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78880
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78880
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78880
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78880
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78880
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78880
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78880
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78880
+#EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78880
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-arrepiado.xyz:8080@D-230409.done
 http://arrepiado.xyz:8080/ASilvestre10/101112/67890
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HEVC-arrepiado.xyz:8080@D-230409.done
@@ -4000,6 +4066,12 @@ http://4tv.site:2082/Luciana201/81638161916205519/170356
 http://4tv.site:2082/Luciana201/81638161916205519/170477
 #EXTINF:0 group-title="FR-Bein",FR2: BEIN SPORT 2 FHD-4tv.site:2082@D-230730.done
 http://4tv.site:2082/Luciana201/81638161916205519/170476
+#EXTINF:0 group-title="FR-Bein",FR_BeIN1 SPORT-xtr.ottprotv.com:80@D-230802.done
+http://xtr.ottprotv.com:80/live/X582231298216492/X582231298216492/265.ts
+#EXTINF:0 group-title="FR-Bein",FR_BeIN2 SPORT-xtr.ottprotv.com:80@D-230802.done
+http://xtr.ottprotv.com:80/live/X582231298216492/X582231298216492/266.ts
+#EXTINF:0 group-title="FR-Bein",FR_BeIN3 SPORT-xtr.ottprotv.com:80@D-230802.done
+http://xtr.ottprotv.com:80/live/X582231298216492/X582231298216492/267.ts
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230719.done
 http://a36m.net:8080/AQIBFVTOBERHQ/1234567/78849
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230726.done
@@ -4014,6 +4086,28 @@ http://a36m.net:8080/ROBCIGALQ/1234567/78849
 http://a36m.net:8080/CSNVDSZMOJCIE/1234567/78849
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230728.done
 http://a36m.net:8080/IEILKJGISVXUK/1234567/78849
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78849
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78849
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78849
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78849
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78849
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78849
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78849
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78849
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78849
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78849
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_04-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78849
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_05-a36m.net:8080@D-230726.done
 http://a36m.net:8080/IEILKJGISVXUK/1234567/78848
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_05-a36m.net:8080@D-230726.done
@@ -4044,20 +4138,64 @@ http://a36m.net:8080/ROBCIGALQ/1234567/78848
 http://a36m.net:8080/Rtva6A/Bi9btxuLl4/78848
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_06-a36m.net:8080@D-230726.done
 http://a36m.net:8080/CSNVDSZMOJCIE/1234567/78850
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_06-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78850
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_06-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78850
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_06-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78850
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_06-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78850
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_06-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78850
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_06-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78850
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_06-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78850
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_07-a36m.net:8080@D-230726.done
 http://a36m.net:8080/CSNVDSZMOJCIE/1234567/78845
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_07-a36m.net:8080@D-230726.done
 http://a36m.net:8080/fsbsWq/L4FCczaJDy/78845
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_07-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78845
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230726.done
 http://a36m.net:8080/CSNVDSZMOJCIE/1234567/78846
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230726.done
 http://a36m.net:8080/GEYJOEYP/1234567/78846
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230726.done
 http://a36m.net:8080/ROBCIGALQ/1234567/78846
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78846
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78846
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78846
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78846
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78846
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78846
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78846
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78846
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78846
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78846
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_08-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78846
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_09-a36m.net:8080@D-230726.done
 http://a36m.net:8080/MOOMHNUS/7654321/78847
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_09-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78847
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_09-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78847
 #EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_10-a36m.net:8080@D-230714.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/78851
+#EXTINF:0 group-title="FR-Bein",FR_BEIN_SPORT_MAX_10-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78851
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/GEJHLWPOPO/1234567/78690
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230704.done
@@ -4086,6 +4224,28 @@ http://a36m.net:8080/fsbsWq/L4FCczaJDy/78690
 http://a36m.net:8080/GKYCHDWSKZO/1234567/78690
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230726.done
 http://a36m.net:8080/HWKCKTNZ/7654321/78690
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78690
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78690
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78690
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78690
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78690
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78690
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78690
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78690
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78690
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78690
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78690
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230714.done
 http://a36m.net:8080/964681671836/157045326363af0fcd30def/78829
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230715.done
@@ -4118,6 +4278,28 @@ http://a36m.net:8080/HWKCKTNZ/7654321/78829
 http://a36m.net:8080/IEILKJGISVXUK/1234567/78829
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230726.done
 http://a36m.net:8080/MJGIFLIT/1234567/78829
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78829
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78829
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78829
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78829
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78829
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78829
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78829
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78829
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78829
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78829
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_1_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78829
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/220810483714/1813032860633e06548b34f/78691
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230726.done
@@ -4142,6 +4324,28 @@ http://a36m.net:8080/QQOIPRQNNNPAT/1234567/78691
 http://a36m.net:8080/RCHGNXTC/1234567/78691
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230726.done
 http://a36m.net:8080/Rtva6A/Bi9btxuLl4/78691
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78691
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78691
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78691
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78691
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78691
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78691
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78691
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78691
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78691
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78691
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78691
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230715.done
 http://a36m.net:8080/NMLRRPSIVPGQT/1234567/78830
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230715.done
@@ -4174,6 +4378,28 @@ http://a36m.net:8080/QQOIPRQNNNPAT/1234567/78830
 http://a36m.net:8080/RCHGNXTC/1234567/78830
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230726.done
 http://a36m.net:8080/Rtva6A/Bi9btxuLl4/78830
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78830
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78830
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78830
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78830
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78830
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78830
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78830
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78830
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78830
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78830
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_2_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78830
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230704.done
 http://a36m.net:8080/IRIFCQNWAAG/1234567/78693
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230704.done
@@ -4212,6 +4438,28 @@ http://a36m.net:8080/GKYCHDWSKZO/1234567/78693
 http://a36m.net:8080/HWKCKTNZ/7654321/78693
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230726.done
 http://a36m.net:8080/IEILKJGISVXUK/1234567/78693
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78693
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78693
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78693
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78693
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78693
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78693
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78693
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78693
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78693
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78693
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_FullHD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78693
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230715.done
 http://a36m.net:8080/NMLRRPSIVPGQT/1234567/78831
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230715.done
@@ -4240,6 +4488,28 @@ http://a36m.net:8080/fsbsWq/L4FCczaJDy/78831
 http://a36m.net:8080/GKYCHDWSKZO/1234567/78831
 #EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230726.done
 http://a36m.net:8080/HWKCKTNZ/7654321/78831
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78831
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78831
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78831
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78831
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78831
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78831
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78831
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78831
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78831
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78831
+#EXTINF:0 group-title="FR-Bein",FR_BeIN_SPORTS_3_HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78831
 #EXTINF:0 group-title="FR-Bein",France (HEVC)- - beIN SPORT 1 Full HD-fast.bounceme.net:8080@D-230703.done
 http://fast.bounceme.net:8080/live/nsCDexFcpy/rr7FEd7f9d/3994.ts
 #EXTINF:0 group-title="FR-Bein",France (HEVC)- - beIN SPORT 2 Full HD-fast.bounceme.net:8080@D-230703.done
@@ -6298,6 +6568,26 @@ http://a36m.net:8080/fsbsWq/L4FCczaJDy/78252
 http://a36m.net:8080/GKYCHDWSKZO/1234567/78252
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-a36m.net:8080@D-230726.done
 http://a36m.net:8080/HWKCKTNZ/7654321/78252
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78252
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78252
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78252
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78252
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78252
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78252
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78252
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78252
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78252
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78252
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-airo-server.net:25461@D-230611.done
 http://airo-server.net:25461/19740arc1501/jHfQMDg/59471
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ FORMULE 1 HD-humiptv.live:8080@D-230716.done
@@ -6684,12 +6974,16 @@ http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/115017.ts
 http://vip.one-iptv.com:25443/live/V20nnVkweioNt/D11ViBVKX7/115017.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE FHD-x.v-iptv.com:25443@D-230712.done
 http://x.v-iptv.com:25443/live/V561HdXZFW2R/otS3hqw5a9/115017.ts
+#EXTINF:0 group-title="FR-Canal+",FR-Canal+ Premier League FHD-xtr.ottprotv.com:80@D-230802.done
+http://xtr.ottprotv.com:80/live/X582231298216492/X582231298216492/15879.ts
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Premier League HD (1080P)-a.alcapone1.com:8080@D-230709.done
 http://a.alcapone1.com:8080/Tommy/123456/27677
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Premier League HD (1080P)-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27677
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Premier League HD (1080P)-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/Miguel04/Bet4/27677
+#EXTINF:0 group-title="FR-Canal+",FR-Canal+ Premier League HD (1080P)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27677
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Premier League HD (1080P)-protocol.solanaflix.com:8080@D-230724.done
 http://protocol.solanaflix.com:8080/play/3XbIrVfOgsiLmEm5YEx_CUDga0zaarCSbZCAS8hNuHd9x-AVMg7NjHIZoYuvzxg0
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Premier League HD (1080P)-sevi.2022spn.net:8080@D-230625.done
@@ -6738,6 +7032,28 @@ http://a36m.net:8080/fsbsWq/L4FCczaJDy/78255
 http://a36m.net:8080/GKYCHDWSKZO/1234567/78255
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230726.done
 http://a36m.net:8080/HWKCKTNZ/7654321/78255
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78255
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78255
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78255
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78255
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78255
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78255
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78255
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78255
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78255
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78255
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78255
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-humiptv.live:8080@D-230716.done
 http://humiptv.live:8080/live/NiteSH94/RF551585694/143772.ts
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ PREMIER LEAGUE HD-humiptv.live:8080@D-230730.done
@@ -7054,6 +7370,28 @@ http://a36m.net:8080/GKYCHDWSKZO/1234567/78395
 http://a36m.net:8080/HWKCKTNZ/7654321/78395
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230726.done
 http://a36m.net:8080/IEILKJGISVXUK/1234567/78395
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78395
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78395
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78395
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78395
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78395
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78395
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78395
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78395
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78395
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78395
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78395
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport-aanax.com:8080@D-230728.done
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/143
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ Sport-aanax.com:8080@D-230728.done
@@ -7990,6 +8328,8 @@ http://yahya.top:80/live/13538810817626027/1593574628/52133.ts
 http://club.panelchanel.xyz:8080/live/ercanteken/RpBGd64Zd9NZ/111267.m3u
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport FHD (H.265)-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27726
+#EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport FHD (H.265)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27726
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport FHD (H.265)-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/27726
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport FHD (H.265)-spainline.xyz:8000@D-230620.done
@@ -8286,6 +8626,8 @@ http://x.v-iptv.com:25443/live/V561HdXZFW2R/otS3hqw5a9/51166.ts
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1386884
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport HD (1080P)-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27727
+#EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport HD (1080P)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27727
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport HD (1080P)-protocol.solanaflix.com:8080@D-230724.done
 http://protocol.solanaflix.com:8080/play/3XbIrVfOgsiLmEm5YEx_CUDga0zaarCSbZCAS8hNuHfMeuOIg4TUbKMdnfjB50Nf
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport HD (1080P)-sevi.2022spn.net:8080@D-230625.done
@@ -8344,8 +8686,32 @@ http://a36m.net:8080/GKYCHDWSKZO/1234567/78394
 http://a36m.net:8080/HWKCKTNZ/7654321/78394
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230726.done
 http://a36m.net:8080/IEILKJGISVXUK/1234567/78394
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78394
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78394
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78394
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78394
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78394
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78394
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78394
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78394
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78394
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78394
+#EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78394
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport HD-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2963
+#EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport HD-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27728
 #EXTINF:0 group-title="FR-Canal+",FR-CANAL+ SPORT HD-cdn.rtyh.xyz:80@D-230711.done
 http://cdn.rtyh.xyz:80/30sonia/37982618/235500
 #EXTINF:0 group-title="FR-Canal+",FR-Canal+ Sport HD-clientbox.tv:80@D-230607.done.NC
@@ -9548,6 +9914,8 @@ http://tigerkanaler2.loginto.me:8080/AlIZYCuS/e6teZLxzxtmbXdJzd/361804
 http://a.alcapone1.com:8080/Miguel04/Bet4/27729
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 FHD (H.265)-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27729
+#EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 FHD (H.265)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27729
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 FHD (H.265)-sevi.2022spn.net:8080@D-230626.done
 http://sevi.2022spn.net:8080/AgustinHinojosAlex/pwhSv5eHSjAh/27729
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 FHD (H.265)-spainline.xyz:8000@D-230620.done
@@ -9632,6 +10000,8 @@ http://a.alcapone1.com:8080/Tommy/123456/27730
 http://a.alcapone1.com:8080/Miguel04/Bet4/27730
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD (1080P)-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27730
+#EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD (1080P)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27730
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD (1080P)-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/27730
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD (1080P)-sevi.2022spn.net:8080@D-230626.done
@@ -9676,6 +10046,8 @@ http://abmclass.com:8080/buraktahirogullari/AXG3MvA7dV/71420
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2992
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-airo-server.net:25461@D-230611.done
 http://airo-server.net:25461/19740arc1501/jHfQMDg/655
+#EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27731
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-be.iptivi.net:2086@D-230425.done
 http://be.iptivi.net:2086/beyaz6570/SzSAV8z3DZaS/745
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-boomtivi.xyz:80@D-230705.done
@@ -9844,6 +10216,28 @@ http://watch-now.xyz:8080/Radikarls/gazzagazza/65923
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/66114
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230726.done
 http://a36m.net:8080/fsbsWq/L4FCczaJDy/78882
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78882
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78882
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78882
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78882
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78882
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78882
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78882
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78882
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78882
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78882
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78882
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-arrepiado.xyz:8080@D-230409.done
 http://arrepiado.xyz:8080/ASilvestre10/101112/68136
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HEVC-arrepiado.xyz:8080@D-230409.done
@@ -9940,6 +10334,8 @@ http://tigerkanaler2.loginto.me:8080/EC9KelbUUOQkf/qCZdWRrththPUbKuE/361803
 http://tigerkanaler2.loginto.me:8080/AlIZYCuS/e6teZLxzxtmbXdJzd/361803
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 FHD (H.265)-a.alcapone1.com:8080@D-230709.done
 http://a.alcapone1.com:8080/Tommy/123456/27732
+#EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 FHD (H.265)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27732
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 FHD (H.265)-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/27732
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 FHD (H.265)-sevi.2022spn.net:8080@D-230626.done
@@ -9992,6 +10388,8 @@ http://tr.redatvgold.com:80/munir123/munir123/506560
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9141
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD (1080P)-a.alcapone1.com:8080@D-230709.done
 http://a.alcapone1.com:8080/Tommy/123456/27733
+#EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD (1080P)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27733
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD (1080P)-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/27733
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD (1080P)-sevi.2022spn.net:8080@D-230626.done
@@ -10024,6 +10422,8 @@ http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27734
 http://abmclass.com:8080/buraktahirogullari/AXG3MvA7dV/71421
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2993
+#EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27734
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD-amazingiptv.life:8080@D-230626.done
 http://amazingiptv.life:8080/sez365haret/mvnjBbnUZxJB/293138
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HD-be.iptivi.net:2086@D-230425.done
@@ -10180,6 +10580,10 @@ http://a36m.net:8080/IEILKJGISVXUK/1234567/78883
 http://a36m.net:8080/MJGIFLIT/1234567/78883
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HEVC-a36m.net:8080@D-230726.done
 http://a36m.net:8080/mmiimm/C5oWuAU6Cx/78883
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78883
+#EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78883
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HEVC-arrepiado.xyz:8080@D-230409.done
 http://arrepiado.xyz:8080/ASilvestre10/101112/68140
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 2 HEVC-arrepiado.xyz:8080@D-230409.done
@@ -10244,6 +10648,8 @@ http://germanydnsx15.com:8080/furkan12/12furkan/88262
 http://gu.iptivi.net:2086/guzel5943/xytRW2945g/112808
 #EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-2hubs.ddns.net:25461@D-230622.done
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/58770
+#EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-2hubs.ddns.net:25461@D-230802.done
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58770
 #EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-zeintv.xyz:8080@D-230718.done
 http://zeintv.xyz:8080/moha/2020/229022
 #EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-zeintv.xyz:8080@D-230721.done
@@ -12058,6 +12464,8 @@ http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/108538.ts
 http://vip.one-iptv.com:25443/live/V20nnVkweioNt/D11ViBVKX7/108538.ts
 #EXTINF:0 group-title="FR-F1-Foot",FR-CANAL+ FORMULA1 FHD-x.v-iptv.com:25443@D-230712.done
 http://x.v-iptv.com:25443/live/V561HdXZFW2R/otS3hqw5a9/108538.ts
+#EXTINF:0 group-title="FR-F1-Foot",FR-Canal+ Formula1 HD (1080P)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27679
 #EXTINF:0 group-title="FR-F1-Foot",FR-Canal+ Formula1 HD (1080P)-protocol.solanaflix.com:8080@D-230724.done
 http://protocol.solanaflix.com:8080/play/3XbIrVfOgsiLmEm5YEx_CUDga0zaarCSbZCAS8hNuHcDc5G-eUudxUsVKAvks3W-
 #EXTINF:0 group-title="FR-F1-Foot",FR-Canal+ Formula1 HD (1080P)-sevi.2022spn.net:8080@D-230625.done
@@ -12402,6 +12810,8 @@ http://yorkshiredog.xyz:8080/RamonLara/rmlr33/10982
 http://yorkshiredog.xyz:8080/RamonLara/rmlr33/10907
 #EXTINF:0 group-title="FR-RMC",F- RMC SPORT 3 FHD-yorkshiredog.xyz:8080@D-230730.done
 http://yorkshiredog.xyz:8080/RamonLara/rmlr33/10910
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 4K+-login.lionboxtv.xyz:80@D-230802.done
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/839
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 4K-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/526123
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 4K-m3u.ottc.pro:80@D-230716.done
@@ -12420,6 +12830,8 @@ http://a.alcapone1.com:8080/Tommy/123456/27707
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27707
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 FHD (H.265)-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/Miguel04/Bet4/27707
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 FHD (H.265)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27707
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 FHD (H.265)-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/27707
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 FHD (H.265)-spainline.xyz:8000@D-230620.done
@@ -12676,6 +13088,8 @@ http://a.alcapone1.com:8080/Tommy/123456/27708
 http://a.alcapone1.com:8080/Miguel04/Bet4/27708
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD (1080P)-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27708
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD (1080P)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27708
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD (1080P)-protocol.solanaflix.com:8080@D-230724.done
 http://protocol.solanaflix.com:8080/play/3XbIrVfOgsiLmEm5YEx_CUDga0zaarCSbZCAS8hNuHcm0SdzarKB2HGrODZ-A3VA
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD (1080P)-sevi.2022spn.net:8080@D-230625.done
@@ -12714,6 +13128,8 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58762
 http://2hubs.ddns.net:25461/Sanders/Sanders/58762
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 1 HD-2hubs.ddns.net:25461@D-230719.done
 http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58762
+#EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 1 HD-2hubs.ddns.net:25461@D-230802.done
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58762
 #EXTINF:0 group-title="FR-RMC",FR-Rmc Sport 1 HD-7go.xyz:8080@D-230528.done
 http://7go.xyz:8080/clientevip/20222023@1/306919
 #EXTINF:0 group-title="FR-RMC",FR-Rmc Sport 1 HD-7go.xyz:8080@D-230625.done
@@ -12726,6 +13142,8 @@ http://89.37.116.35:2089/152019162709501/152082384976814/199117
 http://a.alcapone1.com:8080/Tommy/123456/27709
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/3047
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27709
 #EXTINF:0 group-title="FR-RMC",FR- RMC Sport 1 HD-appfactory.group:8080@D-230620.done
 http://appfactory.group:8080/0eGYdb1F0D/QkHQjlH9De/1999
 #EXTINF:0 group-title="FR-RMC",FR- RMC Sport 1 HD-appfactory.group:8080@D-230703.done
@@ -12950,6 +13368,28 @@ http://a36m.net:8080/IEILKJGISVXUK/1234567/78638
 http://a36m.net:8080/MJGIFLIT/1234567/78638
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230726.done
 http://a36m.net:8080/mmiimm/C5oWuAU6Cx/78638
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78638
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78638
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78638
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78638
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78638
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78638
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78638
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78638
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78638
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78638
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78638
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-airo-server.net:25461@D-230611.done
 http://airo-server.net:25461/19740arc1501/jHfQMDg/86785
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HEVC-balkanfree.net:25461@D-230722.done
@@ -13030,6 +13470,8 @@ http://germanydnsx15.com:8080/furkan12/12furkan/88264
 http://62.182.83.91:80/8e:61:c0:a4:80:69/wg6um8XFYA2p/840
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 4K+-l1iptv.xyz:80@D-230726.done
 http://l1iptv.xyz:80/wFaV7H6THh/zFzkZy8cJ8/840
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 4K+-login.lionboxtv.xyz:80@D-230802.done
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/840
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 4K-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/526122
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 4K-m3u.ottc.pro:80@D-230716.done
@@ -13046,6 +13488,8 @@ http://a.alcapone1.com:8080/Tommy/123456/27711
 http://a.alcapone1.com:8080/Miguel04/Bet4/27711
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 FHD (H.265)-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27711
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 FHD (H.265)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27711
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 FHD (H.265)-protocol.solanaflix.com:8080@D-230724.done
 http://protocol.solanaflix.com:8080/play/3XbIrVfOgsiLmEm5YEx_CUDga0zaarCSbZCAS8hNuHdWFHgWW7nUOgP10V__L762
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 FHD (H.265)-sevi.2022spn.net:8080@D-230625.done
@@ -13282,6 +13726,8 @@ http://a.alcapone1.com:8080/Tommy/123456/27712
 http://a.alcapone1.com:8080/Miguel04/Bet4/27712
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD (1080P)-a.alcapone1.com:8080@D-230716.done
 http://a.alcapone1.com:8080/oskar99/K4L6wPLaE3rk/27712
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD (1080P)-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27712
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD (1080P)-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/27712
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD (1080P)-sevi.2022spn.net:8080@D-230626.done
@@ -13316,6 +13762,8 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58763
 http://2hubs.ddns.net:25461/Sanders/Sanders/58763
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 2 HD-2hubs.ddns.net:25461@D-230719.done
 http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58763
+#EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 2 HD-2hubs.ddns.net:25461@D-230802.done
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58763
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 2 HD-375060664772459199.ot0711.xyz:80@D-230723.done
 http://375060664772459199.ot0711.xyz:80/play/Elias/8683723805/459199.ts
 #EXTINF:0 group-title="FR-RMC",FR-Rmc Sport 2 HD-7go.xyz:8080@D-230528.done
@@ -13324,6 +13772,8 @@ http://7go.xyz:8080/clientevip/20222023@1/306899
 http://a.alcapone1.com:8080/Tommy/123456/27713
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/3048
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD-alcapone1.com:8080@D-230802.done
+http://alcapone1.com:8080/Mario/123456/27713
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-amonra.xyz:8080@D-230625.done
 http://amonra.xyz:8080/783:memato13223/UnXkSGzqjNC6/26714
 #EXTINF:0 group-title="FR-RMC",FR- RMC Sport 2 HD-appfactory.group:8080@D-230620.done
@@ -13566,6 +14016,26 @@ http://a36m.net:8080/QQOIPRQNNNPAT/1234567/78639
 http://a36m.net:8080/RCHGNXTC/1234567/78639
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-a36m.net:8080@D-230726.done
 http://a36m.net:8080/ROBCIGALQ/1234567/78639
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78639
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/926261847/eMnwxf3CHO/78639
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78639
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78639
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78639
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78639
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78639
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78639
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78639
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78639
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-airo-server.net:25461@D-230611.done
 http://airo-server.net:25461/19740arc1501/jHfQMDg/86786
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HEVC-balkanfree.net:25461@D-230722.done
@@ -13674,6 +14144,8 @@ http://germanydnsx15.com:8080/furkan12/12furkan/88266
 http://62.182.83.91:80/3s8V4jk68e/kdUjcpNgtc/841
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 4K+-l1iptv.xyz:80@D-230726.done
 http://l1iptv.xyz:80/wFaV7H6THh/zFzkZy8cJ8/841
+#EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 4K+-login.lionboxtv.xyz:80@D-230802.done
+http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/841
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 3 FHD (H.265)-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/28787
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 FHD+-obsfullhd.tv:25461@D-230709.done
@@ -13870,6 +14342,8 @@ http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58764
 http://2hubs.ddns.net:25461/Sanders/Sanders/58764
 #EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 3 HD-2hubs.ddns.net:25461@D-230719.done
 http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58764
+#EXTINF:0 group-title="FR-RMC",FR- RMC SPORT 3 HD-2hubs.ddns.net:25461@D-230802.done
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58764
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/3049
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-amonra.xyz:8080@D-230625.done
@@ -14064,6 +14538,26 @@ http://a36m.net:8080/MOOMHNUS/7654321/78640
 http://a36m.net:8080/NFOPVOWO/1234567/78640
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HEVC-a36m.net:8080@D-230726.done
 http://a36m.net:8080/QQOIPRQNNNPAT/1234567/78640
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/9284737/7b9Lg2x1mT/78640
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/IEBGHVOPUNESB/1234567/78640
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/A07601/112233/78640
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/ZMCMFZRO/1234567/78640
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/abogh23/Aa111147000/78640
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/164297133998/615126724633790668b726/78640
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/596702405033/1837701996644b3d299a5c7/78640
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/DAHZHOJFRVO/1234567/78640
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/THXGAJXU/1234567/78640
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HEVC-a36m.net:8080@D-230802.done
+http://a36m.net:8080/240224915551/202927326463fa8b72e815c/78640
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 UHD-germanydnsx14.com:8080@D-230619.done
 http://germanydnsx14.com:8080/dvtsntrk/Dvtsntrk8654/88268
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 UHD-germanydnsx15.com:8080@D-230716.done
